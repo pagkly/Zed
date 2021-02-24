@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "3597e68d40f832fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6c9cbd98875cec5",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled 1.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0399dc5cc2e0b14a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1e9e40d589f8e22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eb3a1d2e36703d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "79d8d997a94f877d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Latex",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e196c3fb582ac026",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "28b9b9aca1e8522b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ecd8d016f9b0ee6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8e58635948ed090",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d10dd224f7eee54b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0985eed90f570e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f86235045c26b48a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "💲Investopedia/Alpha.md",
+    "🤖CS229/Model Rep/alpha.md",
+    "MAE101.md",
+    "alpha.md",
+    "Untitled 3.md",
+    "Untitled 4.md",
+    "💲Investopedia/Beta.md"
+  ]
+}
