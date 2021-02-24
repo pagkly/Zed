@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b6c9cbd98875cec5",
+        "id": "f2174421d2aa4344",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "💲Investopedia/Standard Deviation.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Latex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "💲Investopedia/Standard Deviation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -111,27 +111,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "💲Investopedia/Standard Deviation.md"
               }
+            }
+          },
+          {
+            "id": "e9f63eac1096b5f5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Untitled.md",
-    "Untitled 2.md",
+    "💲Investopedia/Standard Deviation.md",
+    "💲Investopedia/Capital asset Pricing Model.md",
+    "💲Investopedia/Systematic Risk.md",
     "💲Investopedia/Alpha.md",
-    "🤖CS229/Model Rep/alpha.md",
-    "MAE101.md",
-    "alpha.md",
-    "Untitled 3.md",
-    "Untitled 4.md",
-    "💲Investopedia/Beta.md"
+    "💲Investopedia/Beta.md",
+    "inherent.md",
+    "💲Investopedia/Lists.md",
+    "💲Investopedia/Formula/All Formulas Table.md",
+    "💲Investopedia/Formula/All Formulas FC.md",
+    "💲Investopedia/Meaning/Standard Deviation.md"
   ]
 }
