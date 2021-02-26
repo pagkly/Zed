@@ -1,0 +1,91 @@
+.journey-search-form select {
+    width: 100%;
+    height: 50px !important;
+    font-size: 24px;
+    padding: 5px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
+.journey-input-text, .journey-input-button {
+    width: 100%;
+    height: 50px !important;
+    font-size: 24px;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.journey-input-text-start {
+    background-color: darkgreen;
+    border: 3px solid forestgreen;
+}
+
+.journey-input-text-end {
+    background-color: darkgreen;
+    border: 3px solid forestgreen;
+}
+
+.journey-input-button {
+    background-color: black;
+    color: white;
+}
+
+.journey-result-list .journey-result-list-item-note,
+.journey-result-list .journey-result-list-item-start,
+.journey-result-list .journey-result-list-item-end,
+.journey-result-list .journey-result-list-item-tag {
+    font-size: 24px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #555;
+    border: 5px solid #777;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.journey-result-list .journey-result-list-item-start {
+    background-color: darkgreen;
+    border: 3px solid forestgreen;
+}
+
+.journey-result-list .journey-result-list-item-end {
+    background-color: darkgreen;
+    border: 3px solid forestgreen;
+}
+
+.journey-result-list .journey-result-list-item-tag {
+    background-color: darkblue;
+    border: 3px solid royalblue;
+}
+
+.journey-result-list-high-contrast .journey-result-list-item-note,
+.journey-result-list-high-contrast .journey-result-list-item-start,
+.journey-result-list-high-contrast .journey-result-list-item-end,
+.journey-result-list-high-contrast .journey-result-list-item-tag {
+    font-size: 24px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #000;
+    color: white;
+    border: 5px solid #333;
+    border-radius: 10px 10px 10px 10px;
+}
+
+
+.journey-result-list-reset-link {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.discovery-settings {
+    font-size: 9px;
+    text-align: center;
+}
+
+.journey-search-lucky {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.moc-max-links-counter {
+    text-align: right;
+}

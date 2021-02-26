@@ -1,0 +1,1 @@
+The term **floating** point is derived from the fact that there is no fixed number of digits before and after the decimal point; that is, the decimal point can **float**. There are also representations in which the number of digits before and after the decimal point is set, **called** fixed-pointrepresentations.
