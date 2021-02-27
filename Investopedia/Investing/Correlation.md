@@ -32,7 +32,12 @@ However, [put option](https://www.investopedia.com/terms/p/putoption.asp) prices
 
 ## The Formula for Correlation Is
 
-r\=∑(X−X‾)(Y−Y‾)∑(X−X‾)2(Y−Y‾)2where:r\=the correlation coefficientX‾\=the average of observations of variable XY‾\=the average of observations of variable Y\\begin{aligned} &r = \\frac{\\sum (X - \\overline{X})(Y - \\overline{Y})}{\\sqrt{\\sum (X - \\overline{X})^2} \\sqrt{(Y - \\overline{Y})^2}} \\\\ &\\textbf{where:}\\\\ &r = \\text{the Correlation Coefficient}\\\\ &\\overline{X} = \\text{the average of observations of variable }X\\\\ &\\overline{Y} = \\text{the average of observations of variable }Y\\\\ \\end{aligned}
+r\=∑(X−X‾)(Y−Y‾)∑(X−X‾)2(Y−Y‾)2where:r\=the correlation coefficientX‾\=the average of observations of variable XY‾\=the average of observations of variable Y
+$$
+\begin{aligned} &r = 
+\frac{\sum (X - \overline{X})(Y - \overline{Y})}{\sqrt{\sum (X - \overline{X})^2} \sqrt{(Y - \overline{Y})^2}} 
+\\ &\\textbf{where:}\\ &r = \text{the Correlation Coefficient}\\ &\overline{X} = \text{the average of observations of variable }X\\ &\overline{Y} = \text{the average of observations of variable }Y\\ \end{aligned}
+$$
 
 Correlation does not imply causation!
 
