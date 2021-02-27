@@ -5,7 +5,7 @@
 #### This is showing the Unifying Phase of MOCs
 *Unify & Merge with the whole; Enjoy, Use, Navigate, Reference* - Enjoy the spatial constellation you created. 
 
-It's most likely meaningful to you. Use it for different purposes: for final products (content creation), as a reference point in the future, as a navigational hub, or for the inherent joy the ideas provide.
+It's most likely meaningful to you. Use it for different purposes: for final products (content creation), as a reference point in the future, as a navigational hub, or for the [[inherent]] joy the ideas provide.
 
 As you finish work on an area of interest, the MOC remains as a renewable summation of thought for the future you. An MOC is your easy access point back into the topic—whether that's tomorrow or in ten years. 
 

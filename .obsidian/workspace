@@ -82,7 +82,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -128,19 +128,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
     "Dict/inherent.md",
+    "Investopedia/Investing/Systematic Risk.md",
+    "Templates/LYT Kit/The 3 Phases of MOCs.md",
+    "Untitled 4.md",
+    "13 Vitamins Essential for the Optimized Brain – Nootropics Expert.md",
     "Investopedia/Accounting/Equity.md",
     "Templates/LYT Kit/Habits MOC.md",
-    "Untitled 4.md",
     "README.md",
     "Untitled.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Untitled 3.md",
-    "Prog/How it works - Learn.md"
+    "Untitled 1.md"
   ]
 }

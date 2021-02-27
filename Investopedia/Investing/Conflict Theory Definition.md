@@ -75,7 +75,7 @@ Conflict theorists point to the [financial crisis](https://www.investopedia.com/
 
 Sears and Cairns note that large [banks](https://www.investopedia.com/terms/b/bank.asp) and big businesses subsequently received bailout funds from the same governments that claimed to have insufficient funds for large-scale social programs such as universal health care.4 This dichotomy supports a fundamental assumption of conflict theory, which is that mainstream political institutions and cultural practices favor dominant groups and individuals.
 
-This example illustrates that conflict can be inherent in all types of relationships, including those that don't appear on the surface to be antagonistic. It also shows that even a straightforward scenario can lead to multiple layers of conflict.
+This example illustrates that conflict can be [[inherent]] in all types of relationships, including those that don't appear on the surface to be antagonistic. It also shows that even a straightforward scenario can lead to multiple layers of conflict.
 
 ## Frequently Asked Questions
 

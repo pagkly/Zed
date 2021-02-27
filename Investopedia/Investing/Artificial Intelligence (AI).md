@@ -31,7 +31,7 @@ When most people hear the term artificial intelligence, the first thing they usu
 
 Artificial intelligence is based on the principle that human intelligence can be defined in a way that a machine can easily [mimic it and execute tasks](https://www.investopedia.com/terms/k/knowledge-engineering.asp), from the most simple to those that are even more complex. The goals of artificial intelligence include learning, reasoning, and perception.
 
-As technology advances, previous benchmarks that defined artificial intelligence become outdated. For example, machines that calculate basic functions or recognize text through optical character recognition are no longer considered to embody artificial intelligence, since this function is now taken for granted as an inherent computer function.
+As technology advances, previous benchmarks that defined artificial intelligence become outdated. For example, machines that calculate basic functions or recognize text through optical character recognition are no longer considered to embody artificial intelligence, since this function is now taken for granted as an [[inherent]] computer function.
 
 AI is continuously evolving to benefit many different industries. Machines are wired using a cross-disciplinary approach based on mathematics, computer science, linguistics, psychology, and more.
 
