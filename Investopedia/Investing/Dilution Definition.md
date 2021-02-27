@@ -40,7 +40,7 @@ Suppose a company has issued 100 shares to 100 individual shareholders. Each [sh
 
 ## Real-World Example of Dilution
 
-Often times a public company disseminates its intention to issue new shares, thereby diluting its current pool of equity long before it actually does. This allows investors, both new and old, to plan accordingly. For example, MGT Capital filed a proxy statement on July 8, 2016, that outlined a stock option plan for the newly appointed CEO, John McAfee. Additionally, the statement disseminated the structure of recent company acquisitions, purchased with a combination of cash and stock.
+Often times a public company disseminates its intention to issue new shares, thereby diluting its current pool of equity long before it actually does. This allows investors, both new and old, to plan accordingly. For example, MGT Capital filed a proxy statement on July 8, 2016, that outlined a stock option plan for the newly appointed [[CEO]], John McAfee. Additionally, the statement disseminated the structure of recent company acquisitions, purchased with a combination of cash and stock.
 
 Both the executive stock option plan as well as the acquisitions are expected to dilute the current pool of outstanding shares. Further, the proxy statement had a proposal for the issuance of newly authorized shares, which suggests the company expects more dilution in the near-term.
 

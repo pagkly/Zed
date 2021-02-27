@@ -9,18 +9,18 @@ Marshall Hargrave
 # Berkshire Hathaway Definition
 
 > ## Excerpt
-> Berkshire Hathaway is a holding company for a multitude of businesses, run by chairman and CEO Warren Buffett.
+> Berkshire Hathaway is a holding company for a multitude of businesses, run by chairman and [[CEO]] Warren Buffett.
 
 ---
 ## What Is Berkshire Hathaway?
 
-Berkshire Hathaway is a holding company for a multitude of businesses, including GEICO and Fruit of the Loom. It's run by chairman and CEO [Warren Buffett](https://www.investopedia.com/terms/t/the_greatest_generation.asp). Berkshire Hathaway is headquartered in Omaha, Neb., and was originally a company comprised of a group of textile milling plants.
+Berkshire Hathaway is a holding company for a multitude of businesses, including GEICO and Fruit of the Loom. It's run by chairman and [[CEO]] [Warren Buffett](https://www.investopedia.com/terms/t/the_greatest_generation.asp). Berkshire Hathaway is headquartered in Omaha, Neb., and was originally a company comprised of a group of textile milling plants.
 
 ### Key Takeaways
 
 -   Berkshire Hathaway is a massive holding company, still run by famed investor Warren Buffett.
 -   It owns a variety of well-known private businesses, such as GEICO, and also has minority interests in public companies, such as Apple.
--   Berkshire CEO Warren Buffett, at 90 years old, has yet to name a successor, as of September 2020. 
+-   Berkshire [[CEO]] Warren Buffett, at 90 years old, has yet to name a successor, as of September 2020. 
 
 #### How Warren Buffett Made Berkshire A Winner
 
@@ -46,4 +46,4 @@ From 1965 to 2019, the annual performance of Berkshire Hathaway’s stock was mo
 
 Succession has always been a hot topic for Berkshire, with the big question being: Can Buffett’s replacement continue the streak of market out-performance? The question becomes even more pressing when considering that Buffett turned 90 years old in August of 2020.
 
-In 2010, [Buffett announced](https://www.investmentnews.com/buffett-says-berkshires-well-equipped-for-succession-31747) that he would be succeeded at Berkshire Hathaway by a team—comprised of one CEO and two to four investment managers. In 2011, it was announced that hedge fund managers [Todd Combs and Ted Weschler](https://www.forbes.com/sites/steveschaefer/2011/09/12/berkshire-expands-its-ranks-buffett-brings-in-another-co-successor/#5aefbfb8d809) would be two of those managers. Buffett has yet to name his CEO replacement. Still, Buffett does appear to be grooming the company for success after his departure. [In 2018](https://www.cnbc.com/2018/01/10/berkshire-hathaways-warren-buffett-appoints-greg-abel-and-ajit-jain-as-vice-chairmen.html), the company put Ajit Jain in charge of all of the insurance operations and made Greg Abel the manager of all other operations.
+In 2010, [Buffett announced](https://www.investmentnews.com/buffett-says-berkshires-well-equipped-for-succession-31747) that he would be succeeded at Berkshire Hathaway by a team—comprised of one [[CEO]] and two to four investment managers. In 2011, it was announced that hedge fund managers [Todd Combs and Ted Weschler](https://www.forbes.com/sites/steveschaefer/2011/09/12/berkshire-expands-its-ranks-buffett-brings-in-another-co-successor/#5aefbfb8d809) would be two of those managers. Buffett has yet to name his [[CEO]] replacement. Still, Buffett does appear to be grooming the company for success after his departure. [In 2018](https://www.cnbc.com/2018/01/10/berkshire-hathaways-warren-buffett-appoints-greg-abel-and-ajit-jain-as-vice-chairmen.html), the company put Ajit Jain in charge of all of the insurance operations and made Greg Abel the manager of all other operations.
