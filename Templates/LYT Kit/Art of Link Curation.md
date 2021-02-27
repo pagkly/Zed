@@ -10,7 +10,7 @@ You need to at least *consider* how you might direct, guide, and engage your rea
 But the over-linking problems don't just affect the reader, it affects you, the builder. How? Link Dilution.
 
 ### Link Dilution 
-"Link Dilution" is what happens when we over-link things... It's great at first, because we get all giddy look at the backlinks (and the graph). 
+"Link [[Dilution]]" is what happens when we over-link things... It's great at first, because we get all giddy look at the backlinks (and the graph). 
 
 But folks over-linking (often in Roam because of the shape of the tool but it can happen anywhere) are in for a very rude awakening if they continue over-link everything all the time. Why? Because over time, the backlinks will overpopulate like weeds, covering up the more valuable connections by their sheer numbers. 
 

@@ -6,7 +6,7 @@ author: By
 Akhilesh Ganti
 ---
 
-# Dilution Definition
+# Dilution
 
 > ## Excerpt
 > Dilution occurs when a company issues new stock which results in a decrease of an existing stockholder's ownership percentage of that company.

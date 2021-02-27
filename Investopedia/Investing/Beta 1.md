@@ -18,7 +18,7 @@ Beta is a measure of the volatility_—_or [systematic risk](https://www.investo
 
 ### Key Takeaways
 
--   Beta, primarily used in the capital asset pricing model (CAPM), is a measure of the volatility–or systematic risk–of a security or portfolio compared to the market as a whole.
+-   Beta, primarily used in the [[Capital Asset Pricing Model (CAPM)]], is a measure of the volatility–or systematic risk–of a security or portfolio compared to the market as a whole.
 -   Beta data about an individual stock can only provide an investor with an approximation of how much risk the stock will add to a (presumably) diversified portfolio.
 -   For beta to be meaningful, the stock should be related to the benchmark that is used in the calculation.
 
