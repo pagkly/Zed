@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia/Accounting/Asset.md",
+            "file": "Investopedia/Investing/A Brief History of Income Inequality in the United States.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia/Accounting/Asset.md",
+                "file": "Investopedia/Investing/A Brief History of Income Inequality in the United States.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia/Accounting/Asset.md"
+                "file": "Investopedia/Investing/A Brief History of Income Inequality in the United States.md"
               }
             }
           },
@@ -123,23 +123,22 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia/Investing/A Brief History of Income Inequality in the United States.md",
+    "Investopedia/Investing/2020 Election Jobs, Trade, and the Economy Explained.md",
+    "Investopedia/Accounting/Current and Noncurrent Assets Knowing the Difference.md",
     "Investopedia/Accounting/Asset.md",
     "Investopedia/Accounting/Accounting Equation.md",
     "Investopedia/Accounting/Liability.md",
     "Investopedia/Accounting/Understanding Revenue.md",
-    "Investopedia/Investing/A Brief History of Income Inequality in the United States.md",
-    "Investopedia/Investing/2020 Election Jobs, Trade, and the Economy Explained.md",
     "Investopedia/Investing/Accounting Rate of Return (ARR) Definition.md",
     "Investopedia/Investing/Balance Sheet.md",
-    "Inbox/Economist.md",
-    "Inbox/FMI Exam 2021  April Virtual Exam Sitting - Confirmation.md"
+    "Inbox/Economist.md"
   ]
 }
