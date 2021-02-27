@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia/Investing/Command Economy Definition.md",
-            "mode": "source"
+            "file": "Prog/How it works - Learn.md",
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia/Investing/Command Economy Definition.md",
+                "file": "Prog/How it works - Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia/Investing/Command Economy Definition.md"
+                "file": "Prog/How it works - Learn.md"
               }
             }
           },
@@ -130,6 +130,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Prog/How it works - Learn.md",
+    "Investopedia/Investing/Comparative Advantage.md",
     "Investopedia/Investing/Command Economy Definition.md",
     "Untitled.md",
     "Investopedia/Investing/Standard Deviation.md",
@@ -137,8 +139,6 @@
     "Investopedia/Investing/Price Elasticity of Demand.md",
     "Investopedia/Investing/Systematic Risk.md",
     "Investopedia/Investing/Alpha.md",
-    "Investopedia/Investing/Capital Asset Pricing Model (CAPM).md",
-    "Investopedia/Investing/How Investors can Perform Due Diligence on a Company.md",
-    "Investopedia/Investing/Dilution Definition.md"
+    "Investopedia/Investing/Capital Asset Pricing Model (CAPM).md"
   ]
 }
