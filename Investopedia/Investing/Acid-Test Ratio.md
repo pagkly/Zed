@@ -14,7 +14,7 @@ Adam Hayes
 ---
 ## What Is the Acid-Test Ratio?
 
-The acid-test ratio uses a firm's [[Balance Sheet]] data as an indicator of whether it has sufficient short-term assets to cover its short-term liabilities. This metric is more useful in certain situations than the current ratio, also known as the [working capital ratio](https://www.investopedia.com/terms/w/workingcapital.asp), since it ignores assets such as inventory, which may be difficult to quickly liquidate.
+The acid-test ratio uses a firm's [[Balance Sheet]] data as an indicator of whether it has sufficient short-term assets to cover its short-term liabilities. This metric is more useful in certain situations than the [[Current Ratio]], also known as the [working capital ratio](https://www.investopedia.com/terms/w/workingcapital.asp), since it ignores assets such as inventory, which may be difficult to quickly liquidate.
 
 The acid-test ratio is also commonly known as the [quick ratio](https://www.investopedia.com/terms/q/quickratio.asp).
 
@@ -40,7 +40,7 @@ The ratio's denominator should include all current liabilities, which are debts 
 
 ## What Does the Acid-Test Ratio Tell You?
 
-Companies with an acid-test ratio of less than 1 do not have enough [liquid assets](https://www.investopedia.com/terms/l/liquidasset.asp) to pay their current liabilities and should be treated with caution. If the acid-test ratio is much lower than the current ratio, it means that a company's current assets are highly dependent on inventory.
+Companies with an acid-test ratio of less than 1 do not have enough [liquid assets](https://www.investopedia.com/terms/l/liquidasset.asp) to pay their current liabilities and should be treated with caution. If the acid-test ratio is much lower than the [[Current Ratio]], it means that a company's current assets are highly dependent on inventory.
 
 This is not a bad sign in all cases, however, as some business models are inherently dependent on inventory. Retail stores, for example, may have very low acid-test ratios without necessarily being in danger.
 
