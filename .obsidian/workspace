@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Investopedia/Investing/Correlation.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -81,7 +81,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -131,14 +131,14 @@
   },
   "lastOpenFiles": [
     "Investopedia/Investing/Correlation.md",
+    "Investopedia/Investing/Correlation Coefficient Definition.md",
+    "Investopedia/Investing/Creative Destruction Definition.md",
+    "Investopedia/Investing/Credit Default Swap (CDS) Definition.md",
     "Investopedia/Investing/Blockchain Explained.md",
     "Investopedia/Investing/Bitcoin Mining Definition.md",
     "Investopedia/Investing/Bill of Lading.md",
     "Investopedia/Investing/Beta 1.md",
     "Investopedia/Investing/Beta.md",
-    "Investopedia/Investing/Assets Under Management (AUM).md",
-    "Investopedia/Investing/Asset Turnover Ratio.md",
-    "Investopedia/Investing/Capital Expenditures (CapEx) What You Need to Know.md",
-    "Investopedia/Investing/Balance Sheet.md"
+    "Investopedia/Investing/Assets Under Management (AUM).md"
   ]
 }
