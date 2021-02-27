@@ -1,3 +1,12 @@
+```
+<script>
+var someVariable="someValue";
+document.title = someVariable;
+</script>
+```
+<% String registration="10-120"; %>
+<input type="text" name="registrationUpdate" value="<%=registration%>" maxlength="50" />
+
 word=inherent
 <div class="iframe-container"> 
 <!--iframe link is the link to the jsfiddle--> 
