@@ -80,7 +80,7 @@ Possible light rain and humid throughout the day. </br>
 	
 ---
 
-<button class="previous" style="text-decoration: none;"><span>[[July 28, 2020| Previous]] </span></button><button class="next"><span style="text-decoration: none;">[[July 30th, 2020| Next]]</span></button>
+<button class="previous" style="text-decoration: none;"><span>[[20210226| Previous]] </span></button><button class="next"><span style="text-decoration: none;">[[20210228| Next]]</span></button>
 
 ---
 ## Morning
