@@ -6,26 +6,14 @@
       {
         "id": "2dd695dc1efb7249",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "13 Vitamins Essential for the Optimized Brain – Nootropics Expert.md",
             "mode": "preview"
           }
-        },
-        "group": "9f03184016046355"
-      },
-      {
-        "id": "89bbfbf9f804a6ba",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "13 Vitamins Essential for the Optimized Brain – Nootropics Expert.md"
-          }
-        },
-        "group": "9f03184016046355"
+        }
       }
     ],
     "direction": "vertical"
