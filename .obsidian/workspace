@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2dd695dc1efb7249",
+        "id": "446cf5c3ddb47499",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "DailyNotes.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -132,13 +132,13 @@
   },
   "lastOpenFiles": [
     "DailyNotes.md",
+    "13 Vitamins Essential for the Optimized Brain – Nootropics Expert.md",
     "July 30th, 2020.md",
     "20210228.md",
     "Untitled 1.md",
     "Templates/GTranslate.md",
     "Templates/Untitled.md",
     "Dict/inherent.md",
-    "13 Vitamins Essential for the Optimized Brain – Nootropics Expert.md",
     "README.md",
     "Untitled.md"
   ]
