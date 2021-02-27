@@ -51,15 +51,12 @@ To calculate the Pearson product-moment correlation, one must first determine th
 
 $$
 \begin{aligned} 
-&\text{Beta coefficient}(\beta) = \frac{\text{Covariance}(R_e, R_m)}{\text{Variance}(R_m)} \\ 
-&\textbf{where:}\\ &R_e=\text{the return on an individual stock}\\ &R_m=\text{the return on the overall market}\\ &\text{Covariance}=\text{how changes in a stock's returns are} \\ &\text{related to changes in the market's returns}\\ &\text{Variance}=\text{how far the market's data points spread} \\ &\text{out from their average value}
- \\ 
- \end{aligned}
-$$
-
-$$
-\begin{aligned} 
-&\rho\_{xy} = \frac { \text{Cov} ( x, y ) }{ \sigma\_x \sigma\_y } \\ &\textbf{where:} \\ &\rho\_{xy} = \text{Pearson product-moment correlation coefficient} \\ &\text{Cov} ( x, y ) = \text{covariance of variables } x \text{ and } y \\ &\sigma\_x = \text{standard deviation of } x \\ &\sigma\_y = \text{standard deviation of } y \\ 
+&\rho\_{xy} = \frac { \text{Cov} ( x, y ) }{ \sigma\_x \sigma\_y } \\ 
+&\textbf{where:} \\ 
+&\rho\_{xy} = \text{Pearson product-moment correlation coefficient} \\ 
+&\text{Cov} ( x, y ) = \text{covariance of variables } x \text{ and } y \\ 
+&\sigma\_x = \text{standard deviation of } x \\ 
+&\sigma\_y = \text{standard deviation of } y \\ 
 \end{aligned}
 $$
 
