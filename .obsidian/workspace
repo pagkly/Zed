@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Untitled 4.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -127,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "Untitled 4.md",
