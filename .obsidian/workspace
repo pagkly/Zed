@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Templates/GTranslate.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -131,6 +131,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Templates/GTranslate.md",
     "Templates/Untitled.md",
     "Dict/inherent.md",
     "13 Vitamins Essential for the Optimized Brain – Nootropics Expert.md",
@@ -139,7 +140,6 @@
     "Untitled.md",
     "Untitled 2.md",
     "Untitled 3.md",
-    "Untitled 4.md",
-    "Investopedia/Investing/Systematic Risk.md"
+    "Untitled 4.md"
   ]
 }

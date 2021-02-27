@@ -1,16 +1,47 @@
-<html>
-  <body>
-    <a id="dynamicLink" href=""><img id="dynamicImg" src="" /> </a>
-  </body>
-  <script>
-    var link = document.getElementById('dynamicLink'); 
-    link.href = "http://www.url.com"
-    var img = document.getElementById('dynamicImg'); 
-    img.src = "http://www.url.com/img.png"
-  </script>
-</html>
-<script>
-	
+.one {
+  color: white;
+  background-color: brown;
+  margin: 10px;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+}
+
+.two {
+  color: white;
+  background-color: black;
+  margin: 10px;
+  width: 150px;
+  height: 70px;
+  display: inline-block;
+}
+.three {
+  color: white;
+  background-color: brown;
+  margin: 10px;
+  width: 75px;
+}
+.four {
+  color: white;
+  background-color: brown;
+  margin: 10px;
+  width: 100px;
+}
+
+.five {
+  background-color: brown;
+}
+
+```
+<div>
+  <div class="one">1:</div>
+  <div class="two">2: Text <span class="five">5 - more text</span></div>
+  <input class="three">
+  <textarea class="four">4: Lorem Ipsum</textarea>
+</div>
+``
+
+<script>	
 var someVariable="someValue";
 document.title = someVariable;
 </script>
