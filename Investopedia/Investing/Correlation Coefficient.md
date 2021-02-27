@@ -14,7 +14,7 @@ Jason Fernando
 ---
 ## What Is the [[Correlation]] Coefficient?
 
-The [[Correlation]] coefficient is a statistical measure of the strength of the relationship between the relative movements of two variables. The values range between -1.0 and 1.0. A calculated number greater than 1.0 or less than -1.0 means that there was an error in the [[Correlation]] measurement. A [[Correlation]] of -1.0 shows a perfect [negative [[Correlation]]](https://www.investopedia.com/terms/n/negative-[[[[[[[[[[[[[[Correlation]]]]]]]]]]]]]].asp), while a correlation of 1.0 shows a perfect [positive correlation](https://www.investopedia.com/terms/p/positive-correlation.asp). A correlation of 0.0 shows no linear relationship between the movement of the two variables.
+The [[Correlation]] coefficient is a statistical measure of the strength of the relationship between the relative movements of two variables. The values range between -1.0 and 1.0. A calculated number greater than 1.0 or less than -1.0 means that there was an error in the [[Correlation]] measurement. A [[Correlation]] of -1.0 shows a perfect [negative [[Correlation]]], while a correlation of 1.0 shows a perfect [positive correlation]. A correlation of 0.0 shows no linear relationship between the movement of the two variables.
 
 Correlation statistics can be used in finance and investing. For example, a correlation coefficient could be calculated to determine the level of correlation between the price of crude oil and the stock price of an oil-producing company, such as Exxon Mobil Corporation. Since oil companies earn greater profits as oil prices rise, the correlation between the two variables is highly positive.
 
@@ -47,7 +47,9 @@ Correlation statistics also allows investors to determine when the correlation b
 
 To calculate the Pearson product-moment correlation, one must first determine the covariance of the two variables in question. Next, one must calculate each variable's standard deviation. The correlation coefficient is determined by dividing the covariance by the product of the two variables' standard deviations.
 
-ρxy\=Cov(x,y)σxσywhere:ρxy\=Pearson product-moment correlation coefficientCov(x,y)\=covariance of variables x and yσx\=standard deviation of xσy\=standard deviation of y\\begin{aligned} &\\rho\_{xy} = \\frac { \\text{Cov} ( x, y ) }{ \\sigma\_x \\sigma\_y } \\\\ &\\textbf{where:} \\\\ &\\rho\_{xy} = \\text{Pearson product-moment correlation coefficient} \\\\ &\\text{Cov} ( x, y ) = \\text{covariance of variables } x \\text{ and } y \\\\ &\\sigma\_x = \\text{standard deviation of } x \\\\ &\\sigma\_y = \\text{standard deviation of } y \\\\ \\end{aligned}
+ρxy\=Cov(x,y)σxσywhere:ρxy\=Pearson product-moment correlation coefficientCov(x,y)\=covariance of variables x and yσx\=standard deviation of xσy\=standard deviation of y
+
+\\begin{aligned} &\\rho\_{xy} = \\frac { \\text{Cov} ( x, y ) }{ \\sigma\_x \\sigma\_y } \\\\ &\\textbf{where:} \\\\ &\\rho\_{xy} = \\text{Pearson product-moment correlation coefficient} \\\\ &\\text{Cov} ( x, y ) = \\text{covariance of variables } x \\text{ and } y \\\\ &\\sigma\_x = \\text{standard deviation of } x \\\\ &\\sigma\_y = \\text{standard deviation of } y \\\\ \\end{aligned}
 
 Standard deviation is a measure of the [dispersion](https://www.investopedia.com/terms/d/dispersion.asp) of data from its average. Covariance is a measure of how two variables change together, but its magnitude is unbounded, so it is difficult to interpret. By dividing covariance by the product of the two standard deviations, one can calculate the normalized version of the statistic. This is the correlation coefficient.
 
