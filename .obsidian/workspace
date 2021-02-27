@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 3.md",
+            "file": "Untitled 4.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "Untitled 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 3.md"
+                "file": "Untitled 4.md"
               }
             }
           },
@@ -130,15 +130,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
+    "Untitled 4.md",
     "README.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Untitled 3.md",
     "Prog/How it works - Learn.md",
     "Investopedia/Investing/Comparative Advantage.md",
     "Investopedia/Investing/Command Economy Definition.md",
-    "Investopedia/Investing/Standard Deviation.md",
-    "Investopedia/Investing/Principles-Based Accounting vs. Rules-Based Accounting.md"
+    "Investopedia/Investing/Standard Deviation.md"
   ]
 }
