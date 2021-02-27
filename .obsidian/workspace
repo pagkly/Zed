@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DailyNotes.md",
+            "file": "Dict/inherent.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes.md",
+                "file": "Dict/inherent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes.md"
+                "file": "Dict/inherent.md"
               }
             }
           },
@@ -131,15 +131,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Dict/inherent.md",
+    "Dict/underlies.md",
+    "Untitled 2.md",
+    "Untitled.md",
     "DailyNotes.md",
     "13 Vitamins Essential for the Optimized Brain – Nootropics Expert.md",
     "July 30th, 2020.md",
     "20210228.md",
     "Untitled 1.md",
-    "Templates/GTranslate.md",
-    "Templates/Untitled.md",
-    "Dict/inherent.md",
-    "README.md",
-    "Untitled.md"
+    "Templates/GTranslate.md"
   ]
 }
