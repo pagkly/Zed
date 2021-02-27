@@ -1,11 +1,21 @@
-```
+<html>
+  <body>
+    <a id="dynamicLink" href=""><img id="dynamicImg" src="" /> </a>
+  </body>
+  <script>
+    var link = document.getElementById('dynamicLink'); 
+    link.href = "http://www.url.com"
+    var img = document.getElementById('dynamicImg'); 
+    img.src = "http://www.url.com/img.png"
+  </script>
+</html>
 <script>
+	
 var someVariable="someValue";
 document.title = someVariable;
 </script>
-```
 <% String registration="10-120"; %>
-<input type="text" name="registrationUpdate" value="<%=registration%>" maxlength="50" />
+<input type="text" name="registrationUpdate" value="<%=someVariable%>" maxlength="50" />
 
 word=inherent
 <div class="iframe-container"> 
