@@ -32,14 +32,12 @@
   background-color: brown;
 }
 
-```
 <div>
   <div class="one">1:</div>
   <div class="two">2: Text <span class="five">5 - more text</span></div>
   <input class="three">
   <textarea class="four">4: Lorem Ipsum</textarea>
 </div>
-``
 
 <script>	
 var someVariable="someValue";
