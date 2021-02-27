@@ -6,51 +6,14 @@
       {
         "id": "2dd695dc1efb7249",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dict/inherent.md",
+            "file": "Templates/GTranslate.md",
             "mode": "source"
           }
-        },
-        "group": "822db94a62a15d57"
-      },
-      {
-        "id": "4584fa32d87fe13a",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Dict/inherent.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
-        },
-        "group": "822db94a62a15d57"
+        }
       }
     ],
     "direction": "vertical"
@@ -114,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dict/inherent.md",
+                "file": "Templates/GTranslate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dict/inherent.md"
+                "file": "Templates/GTranslate.md"
               }
             }
           },
@@ -168,6 +131,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Templates/Untitled.md",
     "Dict/inherent.md",
     "13 Vitamins Essential for the Optimized Brain – Nootropics Expert.md",
     "README.md",
@@ -176,7 +140,6 @@
     "Untitled 2.md",
     "Untitled 3.md",
     "Untitled 4.md",
-    "Investopedia/Investing/Systematic Risk.md",
-    "Templates/LYT Kit/The 3 Phases of MOCs.md"
+    "Investopedia/Investing/Systematic Risk.md"
   ]
 }
