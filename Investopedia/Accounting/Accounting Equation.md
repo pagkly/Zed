@@ -6,7 +6,7 @@ author: By
 Jason Fernando
 ---
 
-# Accounting Equation Definition
+# [[Accounting Equation]] Definition
 
 > ## Excerpt
 > The accounting equation shows that all of a company's total assets equals the sum of the company's liabilities and shareholders' equity.
@@ -36,7 +36,7 @@ The accounting equation helps to assess whether the business transactions carrie
 
 ### Assets
 
-Assets include [cash and cash equivalents](https://www.investopedia.com/terms/c/cashandcashequivalents.asp) or liquid assets, which may include Treasury bills and certificates of deposit. [Accounts receivables](https://www.investopedia.com/terms/a/accountsreceivable.asp) are the amount of money owed to the company by its customers for the sale of its product and service. Inventory is also considered an asset.
+Assets include [cash and cash equivalents](https://www.investopedia.com/terms/c/cashandcashequivalents.asp) or liquid assets, which may include Treasury bills and certificates of deposit. [Accounts receivables](https://www.investopedia.com/terms/a/accountsreceivable.asp) are the amount of money owed to the company by its customers for the sale of its product and service. Inventory is also considered an [[Asset]].
 
 ### Liabilities
 
@@ -75,11 +75,11 @@ Essentially, the representation equates all uses of capital (assets) to all sour
 
 For a company keeping accurate accounts, every single business transaction will be represented in at least two of its accounts. For instance, if a business takes a loan from a financial entity like a bank, the borrowed money will raise the company's assets and the loan liability will also rise by an equivalent amount.
 
-If a business buys [raw material](https://www.investopedia.com/terms/r/rawmaterials.asp) by paying cash, it will lead to an increase in the [inventory](https://www.investopedia.com/terms/i/inventory.asp) (asset) while reducing cash capital (another asset). Because there are two or more accounts affected by every transaction carried out by a company, the accounting system is referred to as double-entry accounting.
+If a business buys [raw material](https://www.investopedia.com/terms/r/rawmaterials.asp) by paying cash, it will lead to an increase in the [inventory](https://www.investopedia.com/terms/i/inventory.asp) ([[Asset]]) while reducing cash capital (another [[Asset]]). Because there are two or more accounts affected by every transaction carried out by a company, the accounting system is referred to as double-entry accounting.
 
 The double-entry practice ensures that the accounting equation always remains balanced, meaning that the left side value of the equation will always match with the right side value. In other words, the total amount of all assets will always equal the sum of liabilities and shareholders' equity.
 
-The global adherence to the double-entry accounting system makes the account keeping and tallying processes much easier, standardized, and fool-proof to a good extent. The accounting equation ensures that all entries in the books and records are vetted, and a verifiable relationship exists between each liability (or expense) and its corresponding source; or between each item of income (or asset) and its source.
+The global adherence to the double-entry accounting system makes the account keeping and tallying processes much easier, standardized, and fool-proof to a good extent. The accounting equation ensures that all entries in the books and records are vetted, and a verifiable relationship exists between each liability (or expense) and its corresponding source; or between each item of income (or [[Asset]]) and its source.
 
 ## Limits of the Accounting Equation
 

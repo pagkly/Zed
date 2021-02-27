@@ -14,7 +14,7 @@ Chris B. Murphy
 ---
 ## What Is Accounting Rate of Return (ARR)?
 
-Accounting rate of return (ARR) is a formula that reflects the percentage rate of return expected on an investment, or [asset](https://www.investopedia.com/terms/a/asset.asp), compared to the initial investment's cost. The ARR formula divides an asset's average [revenue](https://www.investopedia.com/terms/r/revenue.asp) by the company's initial investment to derive the ratio or return that one may expect over the lifetime of the asset, or related project. ARR does not consider the [time value of money](https://www.investopedia.com/terms/t/timevalueofmoney.asp) or cash flows, which can be an integral part of maintaining a business.
+Accounting rate of return (ARR) is a formula that reflects the percentage rate of return expected on an investment, or [[[Asset]]](https://www.investopedia.com/terms/a/[[[[[[Asset]]]]]].asp), compared to the initial investment's cost. The ARR formula divides an asset's average [revenue](https://www.investopedia.com/terms/r/revenue.asp) by the company's initial investment to derive the ratio or return that one may expect over the lifetime of the asset, or related project. ARR does not consider the [time value of money](https://www.investopedia.com/terms/t/timevalueofmoney.asp) or cash flows, which can be an integral part of maintaining a business.
 
 ## The Formula for ARR
 

@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📩 Inbox/Card Security Code (CSC).md",
-            "mode": "source"
+            "file": "Investopedia/Accounting/Asset.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "youtube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327
+    "width": 200
   },
   "right": {
     "id": "28b9b9aca1e8522b",
@@ -77,11 +77,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📩 Inbox/Card Security Code (CSC).md",
+                "file": "Investopedia/Accounting/Asset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📩 Inbox/Card Security Code (CSC).md"
+                "file": "Investopedia/Accounting/Asset.md"
               }
             }
           },
@@ -123,23 +123,23 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "📩 Inbox/Card Security Code (CSC).md",
-    "Untitled 2.md",
-    "📩 Inbox/FMI Exam 2021  April Virtual Exam Sitting - Registration Information.md",
-    "Investopedia/Investing/A Bill of Lading Can Protect Against Asset Theft.md",
-    "Investopedia/Investing/Beta 1.md",
-    "Investopedia/Investing/Beta.md",
-    "Investopedia/Investing/Business Cycle.md",
-    "Investopedia/Investing/Business Ethics Fair Business Policies Within Controversial Subjects.md",
-    "Investopedia/Investing/Business-to-Consumer What You Need to Know.md",
-    "Investopedia/Investing/Capital asset Pricing Model.md"
+    "Investopedia/Accounting/Asset.md",
+    "Investopedia/Accounting/Accounting Equation.md",
+    "Investopedia/Accounting/Liability.md",
+    "Investopedia/Accounting/Understanding Revenue.md",
+    "Investopedia/Investing/A Brief History of Income Inequality in the United States.md",
+    "Investopedia/Investing/2020 Election Jobs, Trade, and the Economy Explained.md",
+    "Investopedia/Investing/Accounting Rate of Return (ARR) Definition.md",
+    "Investopedia/Investing/Balance Sheet.md",
+    "Inbox/Economist.md",
+    "Inbox/FMI Exam 2021  April Virtual Exam Sitting - Confirmation.md"
   ]
 }

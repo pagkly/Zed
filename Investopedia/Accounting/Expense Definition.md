@@ -6,7 +6,7 @@ author: By
 Daniel Liberto
 ---
 
-# Expense Definition
+# [[Expense Definition]]
 
 > ## Excerpt
 > An expense is the cost of operations that a company incurs to generate revenue.
@@ -16,7 +16,7 @@ Daniel Liberto
 
 An expense is the cost of operations that a company incurs to generate revenue. As the popular saying goes, “it costs money to make money.”
 
-Common expenses include payments to suppliers, employee wages, factory leases, and equipment [depreciation](https://www.investopedia.com/terms/d/depreciation.asp). Businesses are allowed to write off tax-deductible expenses on their income tax returns to lower their [taxable income](https://www.investopedia.com/terms/t/taxableincome.asp) and thus their tax liability. However, the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) ([IRS](https://www.investopedia.com/terms/i/irs.asp)) has strict rules on which expenses business are allowed to claim as a deduction.
+Common expenses include payments to suppliers, employee wages, factory leases, and equipment [depreciation](https://www.investopedia.com/terms/d/depreciation.asp). Businesses are allowed to write off tax-deductible expenses on their income tax returns to lower their [taxable income](https://www.investopedia.com/terms/t/taxableincome.asp) and thus their tax [[Liability|liability]]. However, the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) ([IRS](https://www.investopedia.com/terms/i/irs.asp)) has strict rules on which expenses business are allowed to claim as a deduction.
 
 ### Key Takeaways
 
@@ -55,9 +55,9 @@ There are two main categories of business expenses in accounting: 
 
 [Capital expenditures](https://www.investopedia.com/terms/c/capitalexpenditure.asp), commonly known as CapEx, are funds used by a company to acquire, upgrade, and maintain physical assets such as property, buildings, an industrial plant, technology, or equipment.
 
-The IRS treats [capital expenses differently](https://www.investopedia.com/ask/answers/042415/what-difference-between-operating-expense-and-capital-expense.asp) than most other business expenses. While most costs of doing business can be expensed or written off against business income the year they are incurred, capital expenses must be [capitalized](https://www.investopedia.com/terms/c/capitalization.asp) or written off slowly over time.
+The IRS treats [capital expenses differently](https://www.investopedia.com/ask/answers/042415/what-difference-between-operating-expense-and-capital-expense.asp) than most other business expenses. While most costs of doing business can be expensed or written off against business income the year they are incurred, capital expenses must be [capitalized](https://www.investopedia.com/terms/c/capitalization.asp) or written off slowly over [[time]].
 
-The IRS has a schedule that dictates the portion of a capital asset a business may write off each year until the entire expense is claimed. The number of years over which a business writes off a capital expense varies based on the type of asset.
+The IRS has a schedule that dictates the portion of a capital [[Asset|asset]] a business may write off each year until the entire expense is claimed. The number of years over which a business writes off a capital expense varies based on the type of asset.
 
 ### Not All Expenses Can Be Deducted
 

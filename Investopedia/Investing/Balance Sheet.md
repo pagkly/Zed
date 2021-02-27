@@ -29,7 +29,7 @@ The balance sheet is used alongside other important [financial statements](https
 
 ## Formula Used for a Balance Sheet
 
-The balance sheet adheres to the following accounting equation, where assets on one side, and liabilities plus shareholders' equity on the other, balance out:
+The balance sheet adheres to the following [[Accounting Equation]], where assets on one side, and liabilities plus shareholders' equity on the other, balance out:
 
 Assets\=Liabilities+Shareholders’ Equity\\text{Assets} = \\text{Liabilities} + \\text{Shareholders' Equity}
 

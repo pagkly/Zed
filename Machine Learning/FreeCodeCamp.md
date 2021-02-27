@@ -17,7 +17,7 @@ cssclass:
 ---
 
 <center>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/zOjov-2OZ0E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/zOjov-2OZ0E?start=5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 ---
@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=zOjov-2OZ0E
 
 
 ⭐️ Course Contents ⭐️ 
-⌨️ ([00:05](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=5s)​) Introduction 
+⌨️ ([00:05](https://www.youtube.com/watch?v=zOjov-2OZ0E&start=5)​) Introduction 
 ⌨️ ([01:37](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=97s)​) What is Programming? 
 ⌨️ ([06:19](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=379s)​) How do we write Code?
 ⌨️ ([11:44](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=704s)​) How do we get Information from Computers? 
