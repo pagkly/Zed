@@ -1,3 +1,10 @@
+<div class="iframe-container"> 
+<!--iframe link is the link to the jsfiddle--> 
+<iframe src="https://jsfiddle.net/8z9s1t6x/2/">
+</iframe> 
+</div> 
+<style> .iframe-container { text-align:center; width:100%; } </style>
+
 <iframe src="https://www.google.com/search?q=inherent&rlz=1C1GCEA_enAU929AU929&oq=inherent&aqs=chrome..69i57j46i433j0i433l2j46i131i433j0i433j46j69i65.1311j1j1&sourceid=chrome&ie=UTF-8" width="1200" height="1200">  
 </iframe>
 
