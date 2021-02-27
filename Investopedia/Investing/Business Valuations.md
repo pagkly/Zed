@@ -54,7 +54,7 @@ The [DCF method](https://www.investopedia.com/terms/d/dcf.asp) of business valua
 
 ### 5\. Book Value
 
-This is the value of shareholders’ equity of a business as shown on the balance sheet statement. The [book value](https://www.investopedia.com/terms/b/bookvalue.asp) is derived by subtracting the total liabilities of a company from its total assets.
+This is the value of shareholders’ equity of a business as shown on the [[Balance Sheet]] statement. The [book value](https://www.investopedia.com/terms/b/bookvalue.asp) is derived by subtracting the total liabilities of a company from its total assets.
 
 ### 6\. Liquidation Value
 

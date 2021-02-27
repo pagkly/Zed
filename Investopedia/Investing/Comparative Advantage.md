@@ -23,7 +23,7 @@ The law of comparative advantage is popularly attributed to English political ec
 -   Comparative advantage is an economy's ability to produce a particular good or service at a lower opportunity cost than its trading partners.
 -   The theory of comparative advantage introduces opportunity cost as a factor for analysis in choosing between different options for production.
 -   Comparative advantage suggests that countries will engage in trade with one another, exporting the goods that they have a relative advantage in.
--   Absolute advantage refers to the uncontested superiority of a country to produce a particular good better.
+-   [[Absolute Advantage]] refers to the uncontested superiority of a country to produce a particular good better.
 
 ## Understanding Comparative Advantage
 
@@ -49,13 +49,13 @@ Hypothetically, say that [Michael Jordan](https://www.investopedia.com/rich-and-
 
 In this example, Joe has a comparative advantage, even though Michael Jordan could paint the house faster and better. The best trade would be for Michael Jordan to film a television commercial and pay Joe to paint his house. So long as Michael Jordan makes the expected $50,000 and Joe earns more than $100, the trade is a winner. Owing to their diversity of skills, Michael Jordan and Joe would likely find this to be the best arrangement for their mutual benefit.
 
-## Comparative Advantage vs. Absolute Advantage
+## Comparative Advantage vs. [[Absolute Advantage]]
 
-Comparative advantage is contrasted with [absolute advantage](https://www.investopedia.com/terms/a/absoluteadvantage.asp). Absolute advantage refers to the ability to produce more or better goods and services than somebody else. Comparative advantage refers to the ability to produce goods and services at a lower opportunity cost, not necessarily at a greater volume or quality.
+Comparative advantage is contrasted with [[[Absolute Advantage]]](https://www.investopedia.com/terms/a/absoluteadvantage.asp). [[Absolute Advantage]] refers to the ability to produce more or better goods and services than somebody else. Comparative advantage refers to the ability to produce goods and services at a lower opportunity cost, not necessarily at a greater volume or quality.
 
-Comparative advantage is a key insight that trade will still occur even if one country has an absolute advantage in all products.
+Comparative advantage is a key insight that trade will still occur even if one country has an [[Absolute Advantage]] in all products.
 
-To see the difference, consider an attorney and their secretary. The attorney is better at producing legal services than the secretary and is also a faster typist and organizer. In this case, the attorney has an absolute advantage in both the production of legal services and secretarial work.
+To see the difference, consider an attorney and their secretary. The attorney is better at producing legal services than the secretary and is also a faster typist and organizer. In this case, the attorney has an [[Absolute Advantage]] in both the production of legal services and secretarial work.
 
 Nevertheless, they benefit from trade thanks to their comparative advantages and disadvantages. Suppose the attorney produces $175 per hour in legal services and $25 per hour in secretarial duties. The secretary can produce $0 in legal services and $20 in secretarial duties in an hour. Here, the role of opportunity cost is crucial.
 

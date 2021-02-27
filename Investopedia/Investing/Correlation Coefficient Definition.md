@@ -6,15 +6,15 @@ author: By
 Jason Fernando
 ---
 
-# Correlation Coefficient Definition
+# [[Correlation]] Coefficient Definition
 
 > ## Excerpt
-> The correlation coefficient is a statistical measure that calculates the strength of the relationship between the relative movements of two variables.
+> The [[Correlation]] coefficient is a statistical measure that calculates the strength of the relationship between the relative movements of two variables.
 
 ---
-## What Is the Correlation Coefficient?
+## What Is the [[Correlation]] Coefficient?
 
-The correlation coefficient is a statistical measure of the strength of the relationship between the relative movements of two variables. The values range between -1.0 and 1.0. A calculated number greater than 1.0 or less than -1.0 means that there was an error in the correlation measurement. A correlation of -1.0 shows a perfect [negative correlation](https://www.investopedia.com/terms/n/negative-correlation.asp), while a correlation of 1.0 shows a perfect [positive correlation](https://www.investopedia.com/terms/p/positive-correlation.asp). A correlation of 0.0 shows no linear relationship between the movement of the two variables.
+The [[Correlation]] coefficient is a statistical measure of the strength of the relationship between the relative movements of two variables. The values range between -1.0 and 1.0. A calculated number greater than 1.0 or less than -1.0 means that there was an error in the [[Correlation]] measurement. A [[Correlation]] of -1.0 shows a perfect [negative [[Correlation]]](https://www.investopedia.com/terms/n/negative-[[[[[[[[[[[[[[Correlation]]]]]]]]]]]]]].asp), while a correlation of 1.0 shows a perfect [positive correlation](https://www.investopedia.com/terms/p/positive-correlation.asp). A correlation of 0.0 shows no linear relationship between the movement of the two variables.
 
 Correlation statistics can be used in finance and investing. For example, a correlation coefficient could be calculated to determine the level of correlation between the price of crude oil and the stock price of an oil-producing company, such as Exxon Mobil Corporation. Since oil companies earn greater profits as oil prices rise, the correlation between the two variables is highly positive.
 

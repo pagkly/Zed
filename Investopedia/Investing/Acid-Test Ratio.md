@@ -14,7 +14,7 @@ Adam Hayes
 ---
 ## What Is the Acid-Test Ratio?
 
-The acid-test ratio uses a firm's balance sheet data as an indicator of whether it has sufficient short-term assets to cover its short-term liabilities. This metric is more useful in certain situations than the current ratio, also known as the [working capital ratio](https://www.investopedia.com/terms/w/workingcapital.asp), since it ignores assets such as inventory, which may be difficult to quickly liquidate.
+The acid-test ratio uses a firm's [[Balance Sheet]] data as an indicator of whether it has sufficient short-term assets to cover its short-term liabilities. This metric is more useful in certain situations than the current ratio, also known as the [working capital ratio](https://www.investopedia.com/terms/w/workingcapital.asp), since it ignores assets such as inventory, which may be difficult to quickly liquidate.
 
 The acid-test ratio is also commonly known as the [quick ratio](https://www.investopedia.com/terms/q/quickratio.asp).
 
@@ -34,7 +34,7 @@ The numerator of the acid-test ratio can be defined in various ways, but the mai
 
 Accounts receivable are generally included, but this is not appropriate for every industry. In the construction industry, for example, accounts receivable may take much more time to recover than is standard practice in other industries, so including it could make a firm's financial position seem much more secure than it is in reality.
 
-Another way to calculate the numerator is to take all current assets and subtract illiquid assets. Most importantly, inventory should be subtracted, keeping in mind that this will negatively skew the picture for retail businesses because of the amount of inventory they carry. Other elements that appear as assets on a balance sheet should be subtracted if they cannot be used to cover liabilities in the short term, such as advances to suppliers, [prepayments](https://www.investopedia.com/terms/p/prepaidexpense.asp), and deferred tax assets.
+Another way to calculate the numerator is to take all current assets and subtract illiquid assets. Most importantly, inventory should be subtracted, keeping in mind that this will negatively skew the picture for retail businesses because of the amount of inventory they carry. Other elements that appear as assets on a [[Balance Sheet]] should be subtracted if they cannot be used to cover liabilities in the short term, such as advances to suppliers, [prepayments](https://www.investopedia.com/terms/p/prepaidexpense.asp), and deferred tax assets.
 
 The ratio's denominator should include all current liabilities, which are debts and obligations that are due within one year. It is important to note that time is not factored into the acid-test ratio. If a company's accounts payable are nearly due but its receivables won't come in for months, that company could be on much shakier ground than its ratio would indicate. The opposite can also be true.
 
@@ -52,9 +52,9 @@ Some tech companies generate massive cash flows and accordingly have acid-test r
 
 ## An Example of How to Use the Acid-Test Ratio
 
-A company's acid-test ratio can be calculated using its balance sheet. Below is an abbreviated version of Apple Inc.'s balance sheet as of Sept. 28, 2019, showing the components of the company's current assets and current liabilities (all figures in millions of dollars):
+A company's acid-test ratio can be calculated using its [[Balance Sheet]]. Below is an abbreviated version of Apple Inc.'s [[Balance Sheet]] as of Sept. 28, 2019, showing the components of the company's current assets and current liabilities (all figures in millions of dollars):
 
-Apple, Inc. Balance Sheet as of Sept. 28, 2019
+Apple, Inc. [[Balance Sheet]] as of Sept. 28, 2019
 
      Cash and cash equivalents
 

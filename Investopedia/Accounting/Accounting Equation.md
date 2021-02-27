@@ -14,9 +14,9 @@ Jason Fernando
 ---
 ## What Is the Accounting Equation?
 
-The accounting equation is considered to be the foundation of the [double-entry](https://www.investopedia.com/terms/d/double-entry.asp) accounting system. On a company's balance sheet, it shows that a company's total assets are equal to the sum of the company's [liabilities](https://www.investopedia.com/terms/l/liability.asp) and shareholders' equity.
+The accounting equation is considered to be the foundation of the [double-entry](https://www.investopedia.com/terms/d/double-entry.asp) accounting system. On a company's [[Balance Sheet]], it shows that a company's total assets are equal to the sum of the company's [liabilities](https://www.investopedia.com/terms/l/liability.asp) and shareholders' equity.
 
-Based on this double-entry system, the accounting equation ensures that the balance sheet remains “balanced,” and each entry made on the debit side should have a corresponding entry (or coverage) on the credit side.
+Based on this double-entry system, the accounting equation ensures that the [[Balance Sheet]] remains “balanced,” and each entry made on the debit side should have a corresponding entry (or coverage) on the credit side.
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ Based on this double-entry system, the accounting equation ensures that the bala
 
 ## Understanding the Accounting Equation
 
-The financial position of any business, large or small, is assessed based on two key components of the [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp): assets and liabilities. Owners’ equity, or [shareholders' equity](https://www.investopedia.com/terms/s/shareholdersequity.asp), is the third section of the balance sheet. The accounting equation is a representation of how these three important components are associated with each other. The accounting equation is also called the basic accounting equation or the balance sheet equation.
+The financial position of any business, large or small, is assessed based on two key components of the [[[Balance Sheet]]](https://www.investopedia.com/terms/b/balancesheet.asp): assets and liabilities. Owners’ equity, or [shareholders' equity](https://www.investopedia.com/terms/s/shareholdersequity.asp), is the third section of the [[Balance Sheet]]. The accounting equation is a representation of how these three important components are associated with each other. The accounting equation is also called the basic accounting equation or the [[Balance Sheet]] equation.
 
 While assets represent the valuable resources controlled by the company, the liabilities represent its obligations. Both liabilities and shareholders' equity represent how the assets of a company are [financed](https://www.investopedia.com/terms/f/financing.asp). If it's financed through [debt](https://www.investopedia.com/terms/d/debtfinancing.asp), it'll show as a liability, and if it's financed through issuing [equity](https://www.investopedia.com/terms/e/equityfinancing.asp) shares to investors, it'll show in shareholders' equity.
 
-The accounting equation helps to assess whether the business transactions carried out by the company are being accurately reflected in its books and accounts. Below are examples of items listed on the balance sheet:
+The accounting equation helps to assess whether the business transactions carried out by the company are being accurately reflected in its books and accounts. Below are examples of items listed on the [[Balance Sheet]]:
 
 ### Assets
 
@@ -52,14 +52,14 @@ Assets include [cash and cash equivalents](https://www.investopedia.com/terms/c/
 
 Assets\=(Liabilities+Owner’s Equity)\\text{Assets}=(\\text{Liabilities}+\\text{Owner's Equity})
 
-The balance sheet holds the basis of the accounting equation:
+The [[Balance Sheet]] holds the basis of the accounting equation:
 
-1.  Locate the company's total assets on the balance sheet for the period.
-2.  Total all liabilities, which should be a separate listing on the balance sheet.
+1.  Locate the company's total assets on the [[Balance Sheet]] for the period.
+2.  Total all liabilities, which should be a separate listing on the [[Balance Sheet]].
 3.  Locate total shareholder's equity and add the number to total liabilities.
 4.  Total assets will equal the sum of liabilities and total equity.
 
-As an example, let's say for the [fiscal year](https://www.investopedia.com/terms/f/fiscalyear.asp), leading retailer XYZ Corporation reported the following on its balance sheet:
+As an example, let's say for the [fiscal year](https://www.investopedia.com/terms/f/fiscalyear.asp), leading retailer XYZ Corporation reported the following on its [[Balance Sheet]]:
 
 -   Total assets: $170 billion
 -   Total liabilities: $120 billion
@@ -69,7 +69,7 @@ If we calculate the right-hand side of the accounting equation (equity + liabili
 
 ## The Double-Entry System
 
-The accounting equation forms the foundation of double-entry accounting and is a concise representation of a concept that expands into the complex, [expanded](https://www.investopedia.com/terms/e/expanded-accounting-equation.asp), and multi-item display of a balance sheet. The balance sheet is based on the double-entry accounting system where the total assets of a company are equal to the total liabilities and shareholder equity.
+The accounting equation forms the foundation of double-entry accounting and is a concise representation of a concept that expands into the complex, [expanded](https://www.investopedia.com/terms/e/expanded-accounting-equation.asp), and multi-item display of a [[Balance Sheet]]. The [[Balance Sheet]] is based on the double-entry accounting system where the total assets of a company are equal to the total liabilities and shareholder equity.
 
 Essentially, the representation equates all uses of capital (assets) to all sources of capital, where debt capital leads to liabilities and equity capital leads to shareholders' equity.
 
@@ -83,11 +83,11 @@ The global adherence to the double-entry accounting system makes the account kee
 
 ## Limits of the Accounting Equation
 
-Although the balance sheet always balances out, the accounting equation doesn't provide investors information as to how well a company is performing. Instead, investors must interpret the numbers and decide for themselves whether the company has too many or too few liabilities, not enough assets, or perhaps too many assets, or is financing the company properly to ensure long term growth.
+Although the [[Balance Sheet]] always balances out, the accounting equation doesn't provide investors information as to how well a company is performing. Instead, investors must interpret the numbers and decide for themselves whether the company has too many or too few liabilities, not enough assets, or perhaps too many assets, or is financing the company properly to ensure long term growth.
 
 ## Real World Example
 
-Below is a portion of Exxon Mobil Corporation's ([XOM](https://www.investopedia.com/markets/quote?tvwidgetsymbol=xom)) balance sheet in millions as of Dec. 31, 2019:
+Below is a portion of Exxon Mobil Corporation's ([XOM](https://www.investopedia.com/markets/quote?tvwidgetsymbol=xom)) [[Balance Sheet]] in millions as of Dec. 31, 2019:
 
 -   Total assets were $362,597
 -   Total liabilities were $163,659
@@ -107,8 +107,8 @@ The accounting equation is the proposition that a company’s assets must be equ
 
 ### Why is the accounting equation important?
 
-The accounting equation is important because it captures the relationship between the three components of a balance sheet: assets, liabilities, and equity. All else being equal, a company’s equity will increase when its assets increase, and vice-versa. Likewise, adding liabilities will decrease equity, whereas reducing liabilities—such as by paying off debt—will increase equity. These basic concepts are captured by the accounting equation and are essential to modern accounting methods.
+The accounting equation is important because it captures the relationship between the three components of a [[Balance Sheet]]: assets, liabilities, and equity. All else being equal, a company’s equity will increase when its assets increase, and vice-versa. Likewise, adding liabilities will decrease equity, whereas reducing liabilities—such as by paying off debt—will increase equity. These basic concepts are captured by the accounting equation and are essential to modern accounting methods.
 
 ### What is an example of the accounting equation?
 
-To illustrate, suppose we have a company with $1 million in assets and $500,000 in liabilities. According to the accounting equation, Assets = Liabilities + Equity. By plugging in these figures, we can quickly discern that the company’s Equity would be $500,000. These values would appear on the company’s balance sheet, and could be used by investors, analysts, or company managers to assess the quality of the business and forecast its future prospects.
+To illustrate, suppose we have a company with $1 million in assets and $500,000 in liabilities. According to the accounting equation, Assets = Liabilities + Equity. By plugging in these figures, we can quickly discern that the company’s Equity would be $500,000. These values would appear on the company’s [[Balance Sheet]], and could be used by investors, analysts, or company managers to assess the quality of the business and forecast its future prospects.

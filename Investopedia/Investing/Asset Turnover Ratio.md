@@ -33,7 +33,7 @@ Asset Turnover\=Total SalesBeginning Assets + Ending Assets2where:Total Sal
 
 The asset turnover ratio uses the value of a company's assets in the denominator of the formula. To determine the value of a company's assets, the average value of the assets for the year needs to first be calculated.
 
-1.  Locate the value of the company's assets on the balance sheet as of the start of the year.
+1.  Locate the value of the company's assets on the [[Balance Sheet]] as of the start of the year.
 2.  Locate the ending balance or value of the company's assets at the end of the year.
 3.  Add the beginning asset value to the ending value and divide the sum by two, which will provide an average value of the assets for the year.
 4.  Locate total sales—it could be listed as revenue—on the income statement.
@@ -67,7 +67,7 @@ Sometimes, investors and analysts are more interested in measuring how quickly a
 
 ## The Difference Between Asset Turnover and Fixed Asset Turnover
 
-While the asset turnover ratio considers average _total_ assets in the denominator, the fixed asset turnover ratio looks at only fixed assets. The fixed asset turnover ratio (FAT) is, in general, used by analysts to measure operating performance. This efficiency ratio compares net sales (income statement) to fixed assets (balance sheet) and measures a company's ability to generate net sales from its fixed-asset investments, namely [property, plant, and equipment (PP&E)](https://www.investopedia.com/terms/p/ppe.asp). The fixed asset balance is used net of accumulated depreciation. [Depreciation](https://www.investopedia.com/terms/d/depreciation.asp) is the allocation of the cost of a fixed asset, which is spread out—or expensed—each year throughout the asset's useful life. Typically, a higher fixed asset turnover ratio indicates that a company has more effectively utilized its investment in fixed assets to generate revenue.
+While the asset turnover ratio considers average _total_ assets in the denominator, the fixed asset turnover ratio looks at only fixed assets. The fixed asset turnover ratio (FAT) is, in general, used by analysts to measure operating performance. This efficiency ratio compares net sales (income statement) to fixed assets ([[Balance Sheet]]) and measures a company's ability to generate net sales from its fixed-asset investments, namely [property, plant, and equipment (PP&E)](https://www.investopedia.com/terms/p/ppe.asp). The fixed asset balance is used net of accumulated depreciation. [Depreciation](https://www.investopedia.com/terms/d/depreciation.asp) is the allocation of the cost of a fixed asset, which is spread out—or expensed—each year throughout the asset's useful life. Typically, a higher fixed asset turnover ratio indicates that a company has more effectively utilized its investment in fixed assets to generate revenue.
 
 ## Limitations of Using the Asset Turnover Ratio
 
