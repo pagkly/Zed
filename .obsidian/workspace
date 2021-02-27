@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia/Accounting/Equity.md",
+            "file": "Dict/inherent.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia/Accounting/Equity.md",
+                "file": "Dict/inherent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia/Accounting/Equity.md"
+                "file": "Dict/inherent.md"
               }
             }
           },
@@ -132,8 +132,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Investopedia/Accounting/Equity.md",
     "Dict/inherent.md",
+    "Investopedia/Accounting/Equity.md",
     "Templates/LYT Kit/Habits MOC.md",
     "Untitled 4.md",
     "README.md",
