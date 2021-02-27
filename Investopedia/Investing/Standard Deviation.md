@@ -30,7 +30,7 @@ xi\=Value of the ith point in the data 
 setx‾\=The mean value of the data 
 setn\=The number of data points in the data set
 $$
-\begin{aligned} &\text{[[Standard Deviation]]} = \sqrt{ \frac{\sum_{i=1}^{n}\left(x_i - \overline{x}\right)^2} {n-1} }\\ &\textbf{where:}\\ &x_i = \text{Value of the } i^{th} \text{ point in the data set}\\ &\overline{x}= \text{The mean value of the data set}\\ &n = \text{The number of data points in the data set} \end{aligned}
+\begin{aligned} &\text{Standard Deviation} = \sqrt{ \frac{\sum_{i=1}^{n}\left(x_i - \overline{x}\right)^2} {n-1} }\\ &\textbf{where:}\\ &x_i = \text{Value of the } i^{th} \text{ point in the data set}\\ &\overline{x}= \text{The mean value of the data set}\\ &n = \text{The number of data points in the data set} \end{aligned}
 $$
 
 $$
