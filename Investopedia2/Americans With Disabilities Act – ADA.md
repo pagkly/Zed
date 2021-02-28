@@ -3,8 +3,7 @@ alias: [Americans With Disabilities Act – ADA Definition]
 created: 2021-02-28T16:45:03 (UTC +11:00)
 tags: [Americans With Disabilities Act – ADA Definition, Americans With Disabilities Act – ADA]
 source: https://www.investopedia.com/terms/a/americans-with-disabilities-act-ada.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Americans With Disabilities Act – ADA Definition
