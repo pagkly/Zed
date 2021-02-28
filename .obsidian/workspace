@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia/Investing/ERP.md",
-            "mode": "source"
+            "file": "Investopedia/Investing/ERM.md",
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia/Investing/ERP.md",
+                "file": "Investopedia/Investing/ERM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia/Investing/ERP.md"
+                "file": "Investopedia/Investing/ERM.md"
               }
             }
           },
@@ -138,6 +138,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia/Investing/ERM.md",
+    "Investopedia/Investing/EROI.md",
     "Investopedia/Investing/ERP.md",
     "Investopedia/Investing/Exploring How an Economy Works and the Various Types of Economies.md",
     "Investopedia/Investing/Good Customer Service Matters.md",
@@ -145,8 +147,6 @@
     "Investopedia/Investing/Quarterly Earnings Report.md",
     "Investopedia/Investing/Standard Deviation.md",
     "Investopedia/Investing/Systematic Risk.md",
-    "Investopedia/Investing/CPI .md",
-    "Investopedia/Investing/COGS.md",
-    "Investopedia/Investing/Collateral.md"
+    "Investopedia/Investing/CPI .md"
   ]
 }

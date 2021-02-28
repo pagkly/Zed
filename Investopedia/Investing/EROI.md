@@ -1,9 +1,9 @@
 ---
+alias: [Energy Return on Investment, EROI]
 created: 2021-02-28T12:07:22 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/e/energy-return-on-investment.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Energy Return on Investment (EROI)
