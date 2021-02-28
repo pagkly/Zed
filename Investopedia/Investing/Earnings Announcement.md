@@ -30,7 +30,7 @@ Analyst estimates can be notoriously off-the-mark and can rapidly adjust up or d
 
 ### Earnings Announcements and Analyst Estimates
 
-For analysts valuing a firm's future [earnings per share](https://www.investopedia.com/terms/e/eps.asp) (EPS), estimates are arguably the most important input. Analysts use forecasting models, management guidance, and other fundamental information on a company to derive an EPS estimate. For example, they might use a [discounted cash flows model](https://www.investopedia.com/terms/d/dcf.asp) or DCF.
+For analysts valuing a firm's future [earnings per share](https://www.investopedia.com/terms/e/eps.asp) ([[EPS]]), estimates are arguably the most important input. Analysts use forecasting models, management guidance, and other fundamental information on a company to derive an [[EPS]] estimate. For example, they might use a [discounted cash flows model](https://www.investopedia.com/terms/d/dcf.asp) or DCF.
 
 DCF analyses use future [free cash flow](https://www.investopedia.com/terms/f/freecashflow.asp) projections and discount them. This is done using a required annual rate to arrive at [present value](https://www.investopedia.com/terms/p/presentvalue.asp) estimates, which, in turn, is used to evaluate the potential for investment. If the value arrived at through DCF analysis is higher than the current cost of the investment, the opportunity could be a good one.
 

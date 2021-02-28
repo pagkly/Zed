@@ -34,7 +34,7 @@ There are two broad categories of deferred compensation: qualified and non-quali
 
 ## Qualified Deferred Compensation Plans
 
-Qualified deferred compensation plans are pension plans governed by the [Employee Retirement Income Security Act (ERISA)](https://www.investopedia.com/terms/e/erisa.asp), including 401(k) plans, 403(b) plans, and 457 plans. A company that has such a plan in place must offer it to all employees, though not to independent contractors. Qualifying deferred compensation is set off for the sole benefit of its recipients, meaning that [creditors](https://www.investopedia.com/terms/c/creditor.asp) cannot access the funds if the company fails to pay its debts. Contributions to these plans are capped by law.
+Qualified deferred compensation plans are pension plans governed by the [Employee Retirement Income Security Act ([[ERISA]])](https://www.investopedia.com/terms/e/erisa.asp), including 401(k) plans, 403(b) plans, and 457 plans. A company that has such a plan in place must offer it to all employees, though not to independent contractors. Qualifying deferred compensation is set off for the sole benefit of its recipients, meaning that [creditors](https://www.investopedia.com/terms/c/creditor.asp) cannot access the funds if the company fails to pay its debts. Contributions to these plans are capped by law.
 
 ## Non-Qualifying Deferred Compensation Plans
 

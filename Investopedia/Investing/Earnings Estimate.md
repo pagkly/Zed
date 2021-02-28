@@ -16,7 +16,7 @@ An earnings estimate is an analyst's estimate for a company's future quarterly o
 
 ## Breaking Down Earnings Estimate
 
-Analysts use forecasting models, management guidance, and fundamental information on the company to derive an EPS estimate. Market participants rely heavily on earnings estimates to gauge a company's performance.
+Analysts use forecasting models, management guidance, and fundamental information on the company to derive an [[EPS]] estimate. Market participants rely heavily on earnings estimates to gauge a company's performance.
 
 Analysts' earnings estimates are often aggregated to create [consensus estimates](https://www.investopedia.com/terms/c/consensusestimate.asp). These are used as a benchmark against which the company's performance is evaluated. [Earnings surprises](https://www.investopedia.com/terms/e/earningssurprise.asp) occur when a company misses the consensus estimate either by earning more than expected or less. 
 

@@ -147,7 +147,7 @@ As scores of employees discovered in the aftermath of the 1990s dot-com bust whe
 
 ### Concentration Risk
 
-You can assemble a diversified options portfolio using listed options but with ESOs, you have concentration risk, since all your options have the same underlying stock. In addition to your ESOs, if you also have a significant amount of company stock in your employee stock ownership plan (ESOP), you may unwittingly have too much exposure to your company, a concentration risk that has been highlighted by FINRA.3
+You can assemble a diversified options portfolio using listed options but with ESOs, you have concentration risk, since all your options have the same underlying stock. In addition to your ESOs, if you also have a significant amount of company stock in your employee stock ownership plan ([[ESOP]]), you may unwittingly have too much exposure to your company, a concentration risk that has been highlighted by FINRA.3
 
 ## Valuation and Pricing Issues
 

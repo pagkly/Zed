@@ -26,7 +26,7 @@ The Economic Recovery Tax Act of 1981 (ERTA) was the largest tax cut in U.S. his
 
 ERTA was also known as the Kemp-Roth tax cut after its Republican sponsors, Representative Jack Kemp of New York and Senator William V. Roth of Delaware. The biggest tax cuts were for wealthy Americans, with the top rate cut from 70% to 50% over three years. The bottom bracket was cut from 14% to 11%.
 
-Besides tax cuts and accelerated [depreciation](https://www.investopedia.com/terms/d/depreciation.asp) deductions, other features of the legislation included easier rules for establishing employee stock ownership plans (ESOP); expanded eligibility for [Individual Retirement Accounts](https://www.investopedia.com/terms/i/ira.asp) (IRAs); a reduction in the capital-gains tax from 28% to 20%; and a higher estate-tax exemption. The indexing of tax brackets was a key provision given the era’s double-digit annual inflation, which was pushing even lower- and middle-class families into higher brackets.
+Besides tax cuts and accelerated [depreciation](https://www.investopedia.com/terms/d/depreciation.asp) deductions, other features of the legislation included easier rules for establishing employee stock ownership plans ([[ESOP]]); expanded eligibility for [Individual Retirement Accounts](https://www.investopedia.com/terms/i/ira.asp) (IRAs); a reduction in the capital-gains tax from 28% to 20%; and a higher estate-tax exemption. The indexing of tax brackets was a key provision given the era’s double-digit annual inflation, which was pushing even lower- and middle-class families into higher brackets.
 
 ## ERTA Inspired By Supply-Side Economics
 
