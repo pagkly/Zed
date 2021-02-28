@@ -70,4 +70,4 @@ There are two ways to exit a trade: by taking a loss or by making a gain. Trade
 
 Stop-losses, or stops, are orders placed with a broker to sell equities automatically at a certain point or price. When this point is reached, the stop-loss will immediately be converted into a [market order](https://www.investopedia.com/terms/m/marketorder.asp) to sell. These can help minimize losses if the market moves quickly against an investor.
 
-Take-profit orders are similar to stop-losses in that they are converted into market orders to sell when the limit point is reached to the upside. Take-profit points adhere to the same rules as stop-loss points in terms of execution on the NYSE, Nasdaq, and AMEX exchanges.
+Take-profit orders are similar to stop-losses in that they are converted into market orders to sell when the limit point is reached to the upside. Take-profit points adhere to the same rules as stop-loss points in terms of execution on the NYSE, Nasdaq, and [[American Stock Exchange (AMEX)|AMEX]] exchanges.

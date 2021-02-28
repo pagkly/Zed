@@ -16,7 +16,7 @@ author: James Chen
 American Stock Exchange (AMEX)
 ## What Is the American Stock Exchange (AMEX)?
 
-The American Stock Exchange (AMEX) was once the third-largest [[stock exchange](https://www.investopedia.com/articles/basics/04/092404.asp) in the United States, as measured by trading volume. The exchange, at its height, handled about 10% of all securities traded in the U.S.
+The American Stock Exchange (AMEX) was once the third-largest [stock exchange](https://www.investopedia.com/articles/basics/04/092404.asp) in the United States, as measured by trading volume. The exchange, at its height, handled about 10% of all securities traded in the U.S.
 
 Today, the AMEX is known as the NYSE American. In 2008, NYSE [Euronext](https://www.investopedia.com/terms/e/euronext.asp) acquired the AMEX. In the subsequent years, it also became known as NYSE Amex Equities and NYSE MKT.1
 
