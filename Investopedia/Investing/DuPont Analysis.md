@@ -16,7 +16,7 @@ How to Use the DuPont Analysis to Assess a Company's ROE
 
 The DuPont analysis (also known as the [DuPont identity](https://www.investopedia.com/terms/d/dupontidentity.asp) or DuPont model) is a framework for analyzing fundamental performance popularized by the DuPont Corporation. DuPont analysis is [a useful technique](https://www.investopedia.com/articles/fundamental-analysis/08/dupont-analysis.asp) used to decompose the different drivers of [return on equity (ROE)](https://www.investopedia.com/terms/r/returnonequity.asp). The decomposition of ROE allows [investors](https://www.investopedia.com/terms/i/investor.asp) to focus on the key metrics of financial performance individually to identify strengths and weaknesses.
 
-There are three major financial metrics that drive return on equity (ROE): [operating efficiency](https://www.investopedia.com/terms/o/operationalefficiency.asp), asset use efficiency and financial leverage. Operating efficiency is represented by [net profit margin](https://www.investopedia.com/terms/n/net_margin.asp) or net income divided by total sales or revenue. Asset use efficiency is measured by the [asset turnover ratio](https://www.investopedia.com/terms/a/assetturnover.asp). [Leverage](https://www.investopedia.com/terms/l/leverage.asp) is measured by the equity multiplier, which is equal to average assets divided by average equity.
+There are three major financial metrics that drive return on equity (ROE): [operating efficiency](https://www.investopedia.com/terms/o/operationalefficiency.asp), asset use efficiency and financial leverage. Operating efficiency is represented by [net profit margin](https://www.investopedia.com/terms/n/net_margin.asp) or net income divided by total sales or revenue. Asset use efficiency is measured by the [[[Asset Turnover Ratio]]](https://www.investopedia.com/terms/a/assetturnover.asp). [Leverage](https://www.investopedia.com/terms/l/leverage.asp) is measured by the equity multiplier, which is equal to average assets divided by average equity.
 
 ### Key Takeaways
 
@@ -48,13 +48,13 @@ Profit Margin\=Net IncomeRevenue\=$0.15$1.00\=15%\\begin{aligned} &\\text{Prof
 
 The profit margin can be improved if costs for the owner were reduced or if prices were raised, which can have a large impact on ROE. This is one of the reasons that a company's stock will experience high levels of [volatility](https://www.investopedia.com/terms/v/volatility.asp) when management makes a change to its [guidance](https://www.investopedia.com/terms/g/guidance.asp) for future margins, costs, and prices.
 
-### Asset Turnover Ratio
+### [[Asset Turnover Ratio]]
 
-The asset turnover ratio measures how efficiently a company uses its [assets](https://www.investopedia.com/terms/a/asset.asp) to generate revenue. Imagine a company had $100 of assets, and it made $1,000 of total revenue last year. The assets generated 10 times their value in total revenue, which is the same as the asset turnover ratio and can be calculated as follows:
+The [[Asset Turnover Ratio]] measures how efficiently a company uses its [assets](https://www.investopedia.com/terms/a/asset.asp) to generate revenue. Imagine a company had $100 of assets, and it made $1,000 of total revenue last year. The assets generated 10 times their value in total revenue, which is the same as the [[Asset Turnover Ratio]] and can be calculated as follows:
 
 Asset Turnover Ratio\=RevenueAverage Assets\=$1,000$100\=10\\begin{aligned} &\\text{Asset Turnover Ratio} = \\frac{ \\text{Revenue} }{ \\text{Average Assets} } = \\frac{ \\$1,000 }{ \\$100 } = 10 \\\\ \\end{aligned}
 
-A normal asset turnover ratio will vary from one industry group to another. For example, a discount retailer or grocery store will generate a lot of revenue from its assets with a small margin, which will make the asset turnover ratio very large. On the other hand, a utility company owns very expensive [fixed assets](https://www.investopedia.com/terms/f/fixedasset.asp) relative to its revenue, which will result in an asset turnover ratio that is much lower than that of a retail firm.
+A normal asset turnover ratio will vary from one industry group to another. For example, a discount retailer or grocery store will generate a lot of revenue from its assets with a small margin, which will make the asset turnover ratio very large. On the other hand, a utility company owns very expensive [fixed assets](https://www.investopedia.com/terms/f/fixedasset.asp) relative to its revenue, which will result in an [[Asset Turnover Ratio]] that is much lower than that of a retail firm.
 
 The ratio can be helpful when comparing two companies that are very similar. Because average assets include components like [inventory](https://www.investopedia.com/terms/i/inventory.asp), changes in this ratio can signal that sales are slowing down or speeding up earlier than it would show up in other financial measures. If a company's asset turnover rises, its ROE will improve.
 

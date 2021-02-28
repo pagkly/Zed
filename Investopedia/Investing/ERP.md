@@ -36,7 +36,7 @@ GARP announced in 2020 that 2021 will be the last year the ERP exam will be offe
 
 The study program to become an Energy Risk Professional (ERP) covers physical energy markets, financial trading instruments, valuation and structuring of energy transactions, [risk management](https://www.investopedia.com/terms/r/riskmanagement.asp) in financial trading, financial disclosure, [accounting](https://www.investopedia.com/terms/a/accounting.asp), and [compliance](https://www.investopedia.com/terms/c/compliancedepartment.asp).
 
-Individuals with the Energy Risk Professional (ERP) designation may work for banks, academic institutions, consulting firms, [asset management firms](https://www.investopedia.com/terms/a/asset_management_company.asp), and a wide variety of other organizations concerned with energy risk.
+Individuals with the Energy Risk Professional (ERP) designation may work for banks, academic institutions, consulting firms, [[[Asset Management]] firms](https://www.investopedia.com/terms/a/asset_management_company.asp), and a wide variety of other organizations concerned with energy risk.
 
 The designation equates to a specific degree level. For example, the ERP designation is equivalent to an American master's degree, the Regulated Qualifications Framework Level 7 in the United Kingdom, the Ontario Qualifications Framework Level 12 in Canada, and the Hong Kong Qualifications Framework Level 6 in Hong Kong. Degree equivalents also apply in the European Union, Singapore, Australia, India, the United Arab Emirates, and South Africa.2
 
