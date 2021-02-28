@@ -9,12 +9,12 @@ James Chen
 # Electronic Data Gathering, Analysis and Retrieval (EDGAR)
 
 > ## Excerpt
-> EDGAR is the electronic filing system created by the Securities and Exchange Commission for corporate filings.
+> EDGAR is the [[E-File|electronic filing]] system created by the Securities and Exchange Commission for corporate filings.
 
 ---
 ## What Is Electronic Data Gathering, Analysis and Retrieval?
 
-EDGAR — Electronic Data Gathering, Analysis and Retrieval — is the [electronic filing](https://www.investopedia.com/terms/e/efile.asp) system created by the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) to increase the efficiency and accessibility of corporate filings. The system is used by all publicly traded companies when submitting required documents to the SEC. Corporate documents are time-sensitive, and the creation of EDGAR has greatly decreased the time it takes for corporate documents to become publicly available.
+EDGAR — Electronic Data Gathering, Analysis and Retrieval — is the [[[E-File|electronic filing]]](https://www.investopedia.com/terms/e/efile.asp) system created by the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) to increase the efficiency and accessibility of corporate filings. The system is used by all publicly traded companies when submitting required documents to the SEC. Corporate documents are time-sensitive, and the creation of EDGAR has greatly decreased the time it takes for corporate documents to become publicly available.
 
 ## Understanding Electronic Data Gathering, Analysis and Retrieval
 

@@ -1,9 +1,8 @@
 ---
 created: 2021-02-28T11:55:16 (UTC +11:00)
-tags: []
+tags: [E-Mini]
 source: https://www.investopedia.com/terms/e/emini.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # E-Mini Definition
