@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Dict/inherent 1.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dict/inherent 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dict/inherent 1.md"
+              }
             }
           },
           {
@@ -134,15 +140,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Day Planners/20210302.md",
-    "Templates/Temporal/Daily.md",
-    "2021-{{02-28}}.md",
-    "Templates/♻️ Flows.md",
-    "Templates/DailyNotes.md",
-    "Templates/Comment.md",
-    "Templates/GTranslate.md",
-    "Templates/Draw.md",
-    "Templates/Lorem.md",
-    "Templates/Meta.md"
+    "Dict/inherent 1.md",
+    "Dict/inherent.md",
+    "Dict/underlies.md",
+    "Day Planners/Day Planner-20210227.md",
+    "Day Planners/Day Planner-20210228.md",
+    "Day Planners/Lincoln20210302.md",
+    "Day Planners/20210424.md",
+    "Templates/Formatting/ytif youtube iframe.md",
+    "Templates/Formatting/tif twitter iframe.md",
+    "Templates/Formatting/underline.md"
   ]
 }
