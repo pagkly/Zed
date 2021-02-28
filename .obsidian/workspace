@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia2/What Is Blockchain-as-a-Service (BaaS).md",
+            "file": "Investopedia2/Beneficiary.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inherent",
+                "query": "blockchain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia2/What Is Blockchain-as-a-Service (BaaS).md",
+                "file": "Investopedia2/Beneficiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia2/What Is Blockchain-as-a-Service (BaaS).md"
+                "file": "Investopedia2/Beneficiary.md"
               }
             }
           },
@@ -138,15 +138,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Investopedia2/What Is Blockchain-as-a-Service (BaaS).md",
-    "Investopedia2/What Is Both-To-Blame Collision Clause.md",
-    "Investopedia2/What Is Brand Recognition.md",
-    "Investopedia2/What Is the American Dream.md",
-    "Investopedia2/What the Annual Percentage Rate (APR) Tells You.md",
-    "Investopedia2/What You Should Know About Assurance.md",
-    "Investopedia2/Why Assets Under Management – AUM Matters.md",
-    "Investopedia2/Why Affiliated Companies Matter.md",
-    "Investopedia2/Who Uses an Air Waybill (AWB) and Why.md",
-    "Investopedia2/What's an Ad Valorem Tax.md"
+    "Investopedia2/Beneficiary.md",
+    "Investopedia/Investing/Blockchain Explained.md",
+    "Investopedia2/ASIC Bitcoin Miner Definition.md",
+    "Investopedia/ASIC Bitcoin Miner Definition.md",
+    "Investopedia2/Autoregressive Integrated Moving Average (ARIMA).md",
+    "Investopedia2/Understanding Brand Management.md",
+    "Investopedia2/What is an Adjusting Journal Entry.md",
+    "Investopedia2/What Is an Automatic Premium Loan.md",
+    "Investopedia2/What Is Basis Risk.md",
+    "Investopedia2/What Is Both-To-Blame Collision Clause.md"
   ]
 }
