@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Investopedia/Investing/How a Balanced Scorecard Is Used.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Investopedia/Investing/How a Balanced Scorecard Is Used.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Investopedia/Investing/How a Balanced Scorecard Is Used.md"
               }
             }
           },
@@ -127,19 +127,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia/Investing/How a Balanced Scorecard Is Used.md",
+    "Investopedia/Investing/How to Understand Days Payable Outstanding.md",
+    "Investopedia/Investing/Principles-Based Accounting vs. Rules-Based Accounting.md",
+    "Investopedia/Investing/The Three-Tiered Framework of Eclectic Paradigms.md",
+    "Investopedia/Investing/Effective Duration.md",
+    "Investopedia/Investing/How Investors can Perform Due Diligence on a Company.md",
+    "Investopedia/Investing/Good Customer Service Matters.md",
     "Untitled.md",
     "Dict/Untitled.md",
-    "Dict/inherent.md",
-    "Dict/underlies.md",
-    "Untitled 2.md",
-    "DailyNotes.md",
-    "13 Vitamins Essential for the Optimized Brain – Nootropics Expert.md",
-    "July 30th, 2020.md",
-    "20210228.md",
-    "Untitled 1.md"
+    "Dict/inherent.md"
   ]
 }
