@@ -18,7 +18,7 @@ Jason Fernando
 
 In addition, shareholder [[Equity|equity]] can represent the [[Book|book]] value of a company. Equity can sometimes be offered as [payment-in-kind](https://www.investopedia.com/terms/p/paymentinkind.asp). It also represents the pro-rata ownership of a company's shares.
 
- [[Equity]] can be found on a company's [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) and is one of the most common pieces of data employed by analysts to assess the financial health of a company.
+ [[Equity]] can be found on a company's [[[Balance Sheet]]](https://www.investopedia.com/terms/b/balancesheet.asp) and is one of the most common pieces of data employed by analysts to assess the financial health of a company.
 
 ### Key Takeaways
 

@@ -1,7 +1,7 @@
 ---
 alias: [Capital Expenditure, CapEx]
 created: 2021-02-25T22:30:26 (UTC +11:00)
-tags: []
+tags: [Capital Expenditure, CapEx]
 source: https://www.investopedia.com/terms/c/capitalexpenditure.asp
 author: By
 Jason Fernando

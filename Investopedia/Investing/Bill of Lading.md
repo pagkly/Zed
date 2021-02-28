@@ -2,8 +2,7 @@
 created: 2021-02-25T21:17:49 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/b/billoflading.asp
-author: By
-Evan Tarver
+author: Evan Tarver
 ---
 
 # Bill of Lading Definition

@@ -232,7 +232,7 @@ Although blockchain can save users money on transaction fees, the technology is 
 
 Despite the costs of mining bitcoin, users continue to drive up their electricity bills in order to validate transactions on the blockchain. That’s because when miners add a block to the bitcoin blockchain, they are rewarded with enough bitcoin to make their time and energy worthwhile. When it comes to blockchains that do not use cryptocurrency, however, miners will need to be paid or otherwise incentivized to validate transactions.
 
-Some solutions to these issues are beginning to arise. For example, bitcoin mining farms have been set up to use solar power, excess natural gas from fracking sites, or power from wind farms.
+Some solutions to these issues are beginning to arise. For example, [[Bitcoin Mining ]]farms have been set up to use solar power, excess natural gas from fracking sites, or power from wind farms.
 
 ### Speed Inefficiency
 

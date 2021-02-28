@@ -15,7 +15,7 @@
 
 ## Long List of Munger's Models
 1. **Accounting**
-2. Balance Sheet
+2. [[Balance Sheet]]
 3. Cash Flow Statement
 4. Depreciation
 5. Double-Entry

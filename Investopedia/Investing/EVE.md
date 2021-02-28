@@ -16,7 +16,7 @@ Adam Hayes
 
 The [[Economic Value]] of equity (EVE) is a cash flow calculation that takes the present value of all asset cash flows and subtracts the present value of all liability cash flows. Unlike earnings at risk and value at risk ([VAR](https://www.investopedia.com/terms/v/var.asp)), a bank uses the [[Economic Value]] of equity to manage its assets and liabilities. This is a long-term economic measure used to assess the degree of [interest rate risk](https://www.investopedia.com/terms/i/interestraterisk.asp) exposure—as opposed to net-interest income (NII), which reflects short-term interest rate risk.
 
-The simplest definition of EVE is the [net present value](https://www.investopedia.com/terms/n/npv.asp) (NPV) of a bank's balance sheet's cash flows. This calculation is used for [asset-liability management](https://www.investopedia.com/terms/a/asset-liabilitymanagement.asp) to measure changes in the [[Economic Value]] of the bank.
+The simplest definition of EVE is the [net present value](https://www.investopedia.com/terms/n/npv.asp) (NPV) of a bank's [[Balance Sheet]]'s cash flows. This calculation is used for [asset-liability management](https://www.investopedia.com/terms/a/asset-liabilitymanagement.asp) to measure changes in the [[Economic Value]] of the bank.
 
 EVE risk is defined as a bank's value sensitivity to changes in market rates.
 

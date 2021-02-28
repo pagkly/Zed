@@ -1,9 +1,9 @@
 ---
+alias: [Bank Identification Number, BIN]
 created: 2021-02-25T21:18:42 (UTC +11:00)
-tags: []
+tags: [Bank Identification Number, BIN]
 source: https://www.investopedia.com/terms/b/bank-identification-number.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Bank Identification Number (BIN) Definition

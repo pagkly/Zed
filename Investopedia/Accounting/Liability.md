@@ -14,7 +14,7 @@ Adam Hayes
 ---
 ## What Is a [[Liability]]?
 
-A [[Liability|liability]] is something a person or company owes, usually a sum of money. Liabilities are settled over [[time]] through the transfer of economic benefits including money, goods, or services. Recorded on the [right side](https://www.investopedia.com/terms/d/debit.asp) of the [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp), liabilities include loans, [accounts payable](https://www.investopedia.com/terms/a/accountspayable.asp), mortgages, deferred revenues, bonds, warranties, and accrued expenses.
+A [[Liability|liability]] is something a person or company owes, usually a sum of money. Liabilities are settled over [[time]] through the transfer of economic benefits including money, goods, or services. Recorded on the [right side](https://www.investopedia.com/terms/d/debit.asp) of the [[[Balance Sheet]]](https://www.investopedia.com/terms/b/balancesheet.asp), liabilities include loans, [accounts payable](https://www.investopedia.com/terms/a/accountspayable.asp), mortgages, deferred revenues, bonds, warranties, and accrued expenses.
 
 In general, a [[Liability|liability]] is an obligation between one party and another not yet completed or paid for. In the world of [[Accounting|accounting]], a financial [[Liability|liability]] is also an obligation but is more defined by previous business transactions, events, sales, exchange of assets or services, or anything that would provide economic benefit at a later [[Date|date]]. Liabilities are usually considered short term (expected to be concluded in 12 months or less) or long term (12 months or greater).
 
@@ -68,7 +68,7 @@ Image by Sabrina Jiang © Investopedia 2020
 
 ## Current Liabilities
 
-Using the AT&T (NYSE:[T](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=t)) [[Balance Sheet|balance sheet]] as of Dec. 31, 2012, current/short-term liabilities are segregated from long-term/non-current liabilities on the balance sheet. AT&T clearly defines its bank debt maturing in less than one year. For a company this size, this is often used as operating capital for day-to-day operations rather than funding larger items, which would be better suited using long-term debt.
+Using the AT&T (NYSE:[T](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=t)) [[Balance Sheet|balance sheet]] as of Dec. 31, 2012, current/short-term liabilities are segregated from long-term/non-current liabilities on the [[Balance Sheet]]. AT&T clearly defines its bank debt maturing in less than one year. For a company this size, this is often used as operating capital for day-to-day operations rather than funding larger items, which would be better suited using long-term debt.
 
 Like most assets, liabilities are carried at cost, not market value, and under [GAAP](https://www.investopedia.com/terms/g/gaap.asp) rules can be listed in order of preference as long as they are categorized. The AT&T example has a relatively high debt level under current liabilities. With smaller companies, other line items like accounts payable (AP) and various future liabilities like [payroll](https://www.investopedia.com/terms/p/payroll.asp), taxes, and ongoing expenses for an active company carry a higher proportion.
 

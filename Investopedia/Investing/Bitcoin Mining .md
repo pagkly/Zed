@@ -2,8 +2,7 @@
 created: 2021-02-25T21:17:52 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/b/bitcoin-mining.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Bitcoin Mining Definition

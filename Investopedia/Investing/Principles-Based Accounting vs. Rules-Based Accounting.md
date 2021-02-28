@@ -44,7 +44,7 @@ There are 10 principles of the rules-based GAAP accounting system:
 9.  Full disclosure in all financial reporting
 10.  Good faith and honesty in all transactions3
 
-The GAAP method is used when a company releases its financial statements to the public. It covers a number of things such as [revenue recognition](https://www.investopedia.com/terms/r/revenuerecognition.asp), balance sheet classification, and how outstanding shares are measured.4
+The GAAP method is used when a company releases its financial statements to the public. It covers a number of things such as [revenue recognition](https://www.investopedia.com/terms/r/revenuerecognition.asp), [[Balance Sheet]] classification, and how outstanding shares are measured.4
 
 Companies and [accountants](https://www.investopedia.com/terms/a/accountant.asp) that do not follow GAAP standards could be brought to court if their judgments and reporting of the financial statements were incorrect.
 
@@ -54,7 +54,7 @@ The fundamental advantage of principles-based accounting is that its broad guide
 
 On the other hand, when there are strict rules that need to be followed, like those in the U.S. GAAP system, the possibility of lawsuits is diminished. Having a set of rules can increase accuracy and reduce the ambiguity that can trigger aggressive reporting decisions by management.
 
-Compliance to GAAP helps to ensure transparency in the financial reporting process by standardizing the various methods, terminology, definitions, and financial ratios. For example, GAAP allows investors to compare the financial statements of two companies by having standardized reporting methods. Companies must formulate their [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp), [income statement](https://www.investopedia.com/terms/i/incomestatement.asp), and [cash flow statement](https://www.investopedia.com/investing/what-is-a-cash-flow-statement/) in the same manner, so that they can be more easily evaluated.
+Compliance to GAAP helps to ensure transparency in the financial reporting process by standardizing the various methods, terminology, definitions, and financial ratios. For example, GAAP allows investors to compare the financial statements of two companies by having standardized reporting methods. Companies must formulate their [[[Balance Sheet]]](https://www.investopedia.com/terms/b/balancesheet.asp), [income statement](https://www.investopedia.com/terms/i/incomestatement.asp), and [cash flow statement](https://www.investopedia.com/investing/what-is-a-cash-flow-statement/) in the same manner, so that they can be more easily evaluated.
 
 If companies were able to report their financial numbers in any manner they chose, investors would be open to risk. Without a rules-based accounting system, companies could report only the numbers that made them appear financially successful while avoiding reporting any negative news or losses.
 
