@@ -52,7 +52,7 @@ EV/EBITDA is useful in a number of situations:
 
 -   The ratio may be more useful than the P/E ratio when comparing firms with different [degrees of financial leverage](https://www.investopedia.com/terms/d/dfl.asp) (DFL).
 -   EBITDA is useful for valuing capital-intensive businesses with high levels of depreciation and amortization.
--   EBITDA is usually positive even when earnings per share (EPS) is not.
+-   EBITDA is usually positive even when earnings per share ([[EPS]]) is not.
 
 EV/EBITDA also has a number of drawbacks, however:
 
@@ -65,7 +65,7 @@ Generally, the lower the EV/sales multiple, the more attractive or undervalued t
 
 ## P/E Ratio vs. EV
 
-The [price-to-earnings ratio](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E ratio) is the ratio for valuing a company that measures its current share price relative to its per-share earnings ([EPS](https://www.investopedia.com/terms/e/eps.asp)). The price-to-earnings ratio is also sometimes known as the price multiple or the earnings multiple. The P/E ratio doesn't consider the amount of debt that a company has on its balance sheet.
+The [price-to-earnings ratio](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E ratio) is the ratio for valuing a company that measures its current share price relative to its per-share earnings ([[[EPS]]](https://www.investopedia.com/terms/e/eps.asp)). The price-to-earnings ratio is also sometimes known as the price multiple or the earnings multiple. The P/E ratio doesn't consider the amount of debt that a company has on its balance sheet.
 
 However, EV includes debt when valuing a company and is often used in tandem with the P/E ratio to achieve a comprehensive valuation.
 

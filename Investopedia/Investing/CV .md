@@ -42,7 +42,7 @@ Please note that if the expected return in the denominator of the coefficient of
 
 ### Coefficient of Variation in Excel
 
-The coefficient of variation formula can be performed in Excel by first using the standard deviation function for a data set. Next, calculate the mean using the Excel function provided. Since the coefficient of variation is the standard deviation divided by the mean, divide the cell containing the standard deviation by the cell containing the mean.
+The coefficient of variation formula can be performed in Excel by first using the [[Standard Deviation]] function for a data set. Next, calculate the mean using the Excel function provided. Since the coefficient of variation is the [[Standard Deviation]] divided by the mean, divide the cell containing the [[Standard Deviation]] by the cell containing the mean.
 
 #### Coefficient Of Variation (CV)
 
@@ -52,8 +52,8 @@ For example, consider a risk-averse investor who wishes to invest in an [exchang
 
 For illustrative purposes, the following 15-year historical information is used for the investor's decision:
 
--   If the SPDR S&P 500 ETF has an average annual return of 5.47% and a standard deviation of 14.68%, the SPDR S&P 500 ETF's coefficient of variation is 2.68.
--   If the Invesco QQQ ETF has an average annual return of 6.88% and a standard deviation of 21.31%, the QQQ's coefficient of variation is 3.10.
--   If the iShares Russell 2000 ETF has an average annual return of 7.16% and a standard deviation of 19.46%, the IWM's coefficient of variation is 2.72.
+-   If the SPDR S&P 500 ETF has an average annual return of 5.47% and a [[Standard Deviation]] of 14.68%, the SPDR S&P 500 ETF's coefficient of variation is 2.68.
+-   If the Invesco QQQ ETF has an average annual return of 6.88% and a [[Standard Deviation]] of 21.31%, the QQQ's coefficient of variation is 3.10.
+-   If the iShares Russell 2000 ETF has an average annual return of 7.16% and a [[Standard Deviation]] of 19.46%, the IWM's coefficient of variation is 2.72.
 
 Based on the approximate figures, the investor could invest in either the SPDR S&P 500 ETF or the iShares Russell 2000 ETF, since the risk/reward ratios are approximately the same and indicate a better risk-return trade-off than the Invesco QQQ ETF.

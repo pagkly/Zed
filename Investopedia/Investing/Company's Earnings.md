@@ -47,7 +47,7 @@ All three figures provide varying degrees of measuring profitability.
 
 ### Earnings per Share
 
-Earnings per share ([EPS](https://www.investopedia.com/terms/e/eps.asp)) is a commonly cited ratio used to show the company's profitability on a per-share basis. It is calculated by dividing the company's total earnings by the number of shares outstanding.
+Earnings per share ([[[EPS]]](https://www.investopedia.com/terms/e/eps.asp)) is a commonly cited ratio used to show the company's profitability on a per-share basis. It is calculated by dividing the company's total earnings by the number of shares outstanding.
 
 ### Price-to-Earnings
 
