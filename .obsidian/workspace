@@ -4,48 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3579901811c7b7bb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Day Planners/20210302.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "205ef00fcd70bc55",
+        "id": "580476e8dfe2c832",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Day Planners/20210302.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "8e5b32a298e1c064",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Templates/Temporal/Daily.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "c41aeee8fbb38eb2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Templates/Temporal/Daily.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -110,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/20210302.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,9 +106,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Day Planners/20210302.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,18 +130,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "Day Planners/20210302.md",
-    "Day Planners/20210303.md",
-    "Day Planners/20210323.md",
-    "Day Planners/20210424.md",
-    "Day Planners/Day Planner-20210227.md",
-    "Day Planners/Lincoln20210302.md",
-    "Day Planners/Day Planner-20210228.md",
+    "Templates/Temporal/Daily.md",
     "2021-{{02-28}}.md",
-    "Day Planners/Temporal/Daily.md",
-    "Day Planners/Temporal/weekly.md"
+    "Templates/♻️ Flows.md",
+    "Templates/DailyNotes.md",
+    "Templates/Comment.md",
+    "Templates/GTranslate.md",
+    "Templates/Draw.md",
+    "Templates/Lorem.md",
+    "Templates/Meta.md"
   ]
 }
