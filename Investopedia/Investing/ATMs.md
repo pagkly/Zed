@@ -76,7 +76,7 @@ So, If you're one of those people who draws weekly spending money from an ATM, u
 
 In many cases, banks and credit unions own ATMs. However, individuals and businesses may also buy or lease ATMs on their own or through an ATM franchise. When individuals or small businesses, such as restaurants or gas stations own ATMs, the profit model is based on charging fees to the machine's users.
 
-Banks also own ATMs with this intent. They use the convenience of an ATM to attract clients. ATMs also take some of the customer service burdens from bank tellers, saving banks money in payroll costs.
+Banks also own ATMs with this intent. They use the convenience of an ATM to attract clients. ATMs also take some of the [[Customer Service|customer service]] burdens from bank tellers, saving banks money in payroll costs.
 
 ### Using ATMs Abroad
 

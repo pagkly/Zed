@@ -1,9 +1,9 @@
 ---
+ts: [Balanced Scorecard]
 created: 2021-02-25T21:18:36 (UTC +11:00)
-tags: []
+tags: [Balanced Scorecard]
 source: https://www.investopedia.com/terms/b/balancedscorecard.asp
-author: By
-Evan Tarver
+author: Evan Tarver
 ---
 
 # Balanced Scorecard Definition

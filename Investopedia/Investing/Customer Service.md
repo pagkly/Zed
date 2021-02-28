@@ -1,11 +1,11 @@
 ---
+alias: [Customer Service]
 created: 2021-02-25T22:33:10 (UTC +11:00)
-tags: []
+tags: [Customer Service]
 source: https://www.investopedia.com/terms/c/customer-service.asp
-author: By
-Mitchell Grant
+author: Mitchell Grant
 ---
-
+Good Customer Service Matters
 # Customer Service Definition
 
 > ## Excerpt

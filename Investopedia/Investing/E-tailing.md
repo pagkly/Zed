@@ -61,7 +61,7 @@ Consumer shopping behavior can be tracked to determine spending habits, page vie
 
 There are disadvantages to running an e-tailing operation. Creating and maintaining an e-tailing website, while less expensive than a traditional retail location, can be expensive. Infrastructure costs can be substantial if warehouses and distribution centers need to be built to store and ship the products. Also, adequate resources are necessary to handle online returns and customer disputes.
 
-Also, e-tailing does not provide the emotional shopping experience that physical stores can offer. Emotional shopping often results in consumer spending. E-tailing does not give the consumer experience shopping—where consumers hold, smell, feel, or try on products—before purchasing them. Personalized customer service can also be an advantage to brick-and-mortar stores, which can include personal shopping services.
+Also, e-tailing does not provide the emotional shopping experience that physical stores can offer. Emotional shopping often results in consumer spending. E-tailing does not give the consumer experience shopping—where consumers hold, smell, feel, or try on products—before purchasing them. Personalized [[Customer Service|customer service]] can also be an advantage to brick-and-mortar stores, which can include personal shopping services.
 
 ## Real World Examples
 

@@ -1,11 +1,11 @@
 ---
+alias: [Economy]
 created: 2021-02-28T11:55:18 (UTC +11:00)
-tags: []
+tags: [Economy]
 source: https://www.investopedia.com/terms/e/economy.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
-
+Exploring How an Economy Works and the Various Types of Economies
 # Economy Definition
 
 > ## Excerpt

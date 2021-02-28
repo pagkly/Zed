@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia/Investing/EVE.md",
+            "file": "Investopedia/Investing/How a Balanced Scorecard Is Used.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia/Investing/EVE.md",
+                "file": "Investopedia/Investing/How a Balanced Scorecard Is Used.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia/Investing/EVE.md"
+                "file": "Investopedia/Investing/How a Balanced Scorecard Is Used.md"
               }
             }
           },
@@ -138,15 +138,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia/Investing/How a Balanced Scorecard Is Used.md",
+    "Investopedia/Investing/Good Customer Service Matters.md",
+    "Investopedia/Investing/Exploring How an Economy Works and the Various Types of Economies.md",
     "Investopedia/Investing/EVE.md",
     "Investopedia/Investing/EVA.md",
     "Investopedia/Investing/ESPP.md",
     "Investopedia/Investing/EROI.md",
     "Investopedia/Investing/ERM.md",
     "Investopedia/Investing/ERISA.md",
-    "Investopedia/Investing/EPS.md",
-    "Investopedia/Investing/EOR .md",
-    "Investopedia/Investing/Endorsement.md",
-    "Investopedia/Investing/End-to-End.md"
+    "Investopedia/Investing/EPS.md"
   ]
 }

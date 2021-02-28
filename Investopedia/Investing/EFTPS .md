@@ -30,7 +30,7 @@ Individuals or businesses wishing to submit tax payments to the [Internal Revenu
 
 The IRS recommends using the EFTPS to make [estimated tax](https://www.investopedia.com/terms/e/estimated-tax.asp) payments.2 Taxpayers may schedule advance payments, which can be modified later if unexpected changes occur.3 Such changes can include a shortage of funds in the funding account.
 
-Using an electronic password, taxpayers may access their personal and business tax records and accounts. If EFTPS is not working correctly or is unavailable for any reason, taxpayers still must make timely payments in person or through the mail. As of Jan. 2020, taxpayers may access the EFTPS voice response system at 1-800-555-3453, speak to a customer service agent at 1-800-555-4477, or log on to EFTPS.gov.4 5
+Using an electronic password, taxpayers may access their personal and business tax records and accounts. If EFTPS is not working correctly or is unavailable for any reason, taxpayers still must make timely payments in person or through the mail. As of Jan. 2020, taxpayers may access the EFTPS voice response system at 1-800-555-3453, speak to a [[Customer Service|customer service]] agent at 1-800-555-4477, or log on to EFTPS.gov.4 5
 
 ## EFTPS Security and Privacy
 
