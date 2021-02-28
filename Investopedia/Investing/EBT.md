@@ -14,12 +14,12 @@ Julia Kagan
 ---
 ## What is Earnings Before Tax (EBT)
 
-Earnings before tax (EBT) measures a company's financial performance. It is a calculation of a firm's earnings before taxes are taken out. The calculation is revenue minus expenses, excluding taxes. EBT is a line item on a company's income statement. It shows a company's earnings with the [cost of goods sold](https://www.investopedia.com/terms/c/cogs.asp) (COGS), interest, [depreciation](https://www.investopedia.com/terms/d/depreciation.asp), [general and administrative expenses](https://www.investopedia.com/terms/g/general-and-administrative-expenses.asp), and other operating expenses deducted from gross sales.
+Earnings before tax (EBT) measures a company's financial performance. It is a calculation of a firm's earnings before taxes are taken out. The calculation is revenue minus expenses, excluding taxes. EBT is a line item on a company's income statement. It shows a company's earnings with the [[[Cost of Goods Sold]]](https://www.investopedia.com/terms/c/cogs.asp) (COGS), interest, [depreciation](https://www.investopedia.com/terms/d/depreciation.asp), [general and administrative expenses](https://www.investopedia.com/terms/g/general-and-administrative-expenses.asp), and other operating expenses deducted from gross sales.
 
 ### Key Takeaways:
 
 -   Earnings before tax (EBT) is a calculation of a firm's earnings before taxes are considered.
--   EBT is a line item on a company's income statement showing a company's earnings with the cost of goods sold and other operating expenses deducted from gross sales.
+-   EBT is a line item on a company's income statement showing a company's earnings with the [[Cost of Goods Sold]] and other operating expenses deducted from gross sales.
 -   EBT is an important figure because it removes the effects of taxes when comparing businesses and can reflect a firm's performance when compared with industry peers.
 
 ## Understanding Earnings Before Tax (EBT)

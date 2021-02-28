@@ -26,12 +26,12 @@ Earnings before interest and taxes (EBIT) is an indicator of a company's profita
 
 ## Formula and Calculation for EBIT
 
-EBIT \= Revenue − COGS − Operating ExpensesOrEBIT \= Net Income + Interest + Taxeswhere:COGS \= Cost of goods sold\\begin{aligned} &\\text{EBIT}\\ =\\ \\text{Revenue}\\ -\\ \\text{COGS}\\ -\\ \\text{Operating Expenses}\\\\ &\\text{Or}\\\\ &\\text{EBIT}\\ =\\ \\text{Net Income}\\ +\\ \\text{Interest}\\ +\\ \\text{Taxes}\\\\ &\\textbf{where:}\\\\ &\\text{COGS}\\ =\\ \\text{Cost of goods sold} \\end{aligned}
+EBIT \= Revenue − [[Cost of Goods Sold (COGS)]] − Operating ExpensesOrEBIT \= Net Income + Interest + Taxeswhere:COGS \= Cost of goods sold\\begin{aligned} &\\text{EBIT}\\ =\\ \\text{Revenue}\\ -\\ \\text{COGS}\\ -\\ \\text{Operating Expenses}\\\\ &\\text{Or}\\\\ &\\text{EBIT}\\ =\\ \\text{Net Income}\\ +\\ \\text{Interest}\\ +\\ \\text{Taxes}\\\\ &\\textbf{where:}\\\\ &\\text{COGS}\\ =\\ \\text{Cost of goods sold} \\end{aligned}
 
 The EBIT calculation takes a company's cost of manufacturing including [raw materials](https://www.investopedia.com/terms/r/rawmaterials.asp) and total [operating expenses](https://www.investopedia.com/terms/o/operating_expense.asp), which include employee wages. These items and then subtracted from revenue. The steps are outlined below:
 
 1.  Take the value for revenue or sales from the top of the income statement.
-2.  Subtract the [cost of goods sold](https://www.investopedia.com/terms/c/cogs.asp) from revenue or sales, which gives you [gross profit](https://www.investopedia.com/terms/g/grossprofit.asp).
+2.  Subtract the [[[Cost of Goods Sold]]](https://www.investopedia.com/terms/c/cogs.asp) from revenue or sales, which gives you [gross profit](https://www.investopedia.com/terms/g/grossprofit.asp).
 3.  Subtract the [operating expenses](https://www.investopedia.com/terms/o/operating_expense.asp) from the gross profit figure to achieve EBIT.
 
 ## Understanding Earnings Before Interest and Taxes (EBIT)
@@ -68,7 +68,7 @@ EBIT: $5,000,000or ($10,000,000 − $3,000,000 − $2,000,000)\\begin{aligned} \
 
 ### EBIT Applications
 
-There are different ways to calculate EBIT, which is not a GAAP metric, and not usually included in financial statements.1 Always begin with total revenue or total sales and subtract [operating expenses](https://www.investopedia.com/terms/o/operating_expense.asp), including the cost of goods sold. You may take out one-time or extraordinary items, such as the revenue from the sale of an asset or the cost of a lawsuit, as these do not relate to the business' core operations.
+There are different ways to calculate EBIT, which is not a GAAP metric, and not usually included in financial statements.1 Always begin with total revenue or total sales and subtract [operating expenses](https://www.investopedia.com/terms/o/operating_expense.asp), including the [[Cost of Goods Sold (COGS)]]. You may take out one-time or extraordinary items, such as the revenue from the sale of an asset or the cost of a lawsuit, as these do not relate to the business' core operations.
 
 Also, if a company has [non-operating income](https://www.investopedia.com/terms/n/non-operating-income.asp), such as income from investments, this may be (but does not have to be) included. In this case, EBIT is distinct from operating income, which, as the name implies, does not include non-operating income.
 
@@ -150,7 +150,7 @@ Net earnings attributable to Procter & Gamble
 
 10,508
 
-To calculate EBIT, we subtract the cost of goods sold and the SG&A expense from the net sales. However, P&G had other types of income that can be included in the EBIT calculation. P&G had non-operating income and interest income, and in this case, we calculate EBIT as follows:
+To calculate EBIT, we subtract the [[Cost of Goods Sold (COGS)]] and the SG&A expense from the net sales. However, P&G had other types of income that can be included in the EBIT calculation. P&G had non-operating income and interest income, and in this case, we calculate EBIT as follows:
 
 EBIT \= NS − COGS − SG&A + NOI + IIEBIT \= $65,299 − $32,909 − $18,949 + $325+ $182 \= $13,948where:NS \= Net salesSG&A \= Selling, general, and administrative expensesNOI \= Non-operating incomeII \= Interest income\\begin{aligned} &\\text{EBIT}\\ =\\ \\text{NS}\\ -\\ \\text{COGS}\\ -\\ \\text{SG\\&A}\\ +\\ \\text{NOI}\\ +\\ \\text{II}\\\\ &\\begin{aligned} \\text{EBIT}\\ &=\\ \\$65,299\\ -\\ \\$32,909\\ -\\ \\$18,949\\ +\\ \\$325\\\\ &\\quad+\\ \\$182\\ =\\ \\$13,948 \\end{aligned}\\\\ &\\textbf{where:}\\\\ &\\text{NS}\\ =\\ \\text{Net sales}\\\\ &\\text{SG\\&A}\\ =\\ \\text{Selling, general, and administrative expenses}\\\\ &\\text{NOI}\\ =\\ \\text{Non-operating income}\\\\ &\\text{II}\\ =\\ \\text{Interest income} \\end{aligned}
 
@@ -160,4 +160,4 @@ Similarly, we can make an argument for excluding interest income and other non-
 
 Another way to calculate P&G's fiscal 2015 EBIT is to work from the bottom up, beginning with net earnings. We ignore [non-controlling interests](https://www.investopedia.com/terms/n/noncontrolling_interest.asp), as we are only concerned with the company's operations and subtract net earnings from [discontinued operations](https://www.investopedia.com/terms/d/discontinued-operations.asp) for the same reason. We then add income taxes and interest expense back in to obtain the same EBIT we did via the top-down method:
 
-EBIT \= NE − NEDO + IT + IETherefore, EBIT \= $10,604 − $577 + $3,342+ $579 \= $13,948where:NE \= Net earningsNEDO \= Net earnings from discontinued operationsIT \= Income taxesIE \= Interest expense\\begin{aligned} &\\text{EBIT}\\ =\\ \\text{NE}\\ -\\ \\text{NEDO}\\ +\\ \\text{IT}\\ +\\ \\text{IE}\\\\ &\\begin{aligned} \\text{Therefore, EBIT}\\ &=\\ \\$10,604\\ -\\ \\$577\\ +\\ \\$3,342\\\\ &\\quad +\\ \\$579\\ =\\ \\$13,948\\end{aligned}\\\\ &\\textbf{where:}\\\\ &\\text{NE}\\ =\\ \\text{Net earnings}\\\\ &\\text{NEDO}\\ =\\ \\text{Net earnings from discontinued operations}\\\\ &\\text{IT}\\ =\\ \\text{Income taxes}\\\\ &\\text{IE}\\ =\\ \\text{Interest expense} \\end{aligned}
+EBIT \= NE − NEDO + IT + IETherefore, EBIT \= $10,604 − $577 + $3,342+ $579 \= $13,948where:NE \= Net earningsNEDO \= Net earnings from discontinued operationsIT \= Income taxesIE \= Interest expense\\begin{aligned} &\\text{EBIT}\\ =\\ \\text{NE}\\ -\\ \\text{NEDO}\\ +\\ \\text{IT}\\ +\\ \\text{IE}\\\\ &\\begin{aligned} \\text{Therefore, EBIT}\\ &=\\ \\$10,604\\ -\\ \\$577\\ +\\ \\$3,342\\\\ &\\quad +\\ \\$579\\ =\\ \\$13,948\\end{aligned}\\\\ &\\textbf{where:}\\\\ &\\text{NE}\\ =\\ \\text{Net earnings}\\\\ &\\text{NEDO}\\ =\\ \\text{Net earnings from discontinued operations}\\\\ &\\text{IT}\\ =\\ \\text{Income taxes}\\\\ &\\text{IE}\\ =\\ \\text{Interest exp
