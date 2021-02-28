@@ -102,6 +102,6 @@ $105,718
 
 To obtain the company's liquid current assets, add cash and cash equivalents, short-term marketable securities, accounts receivable and vendor non-trade receivables. Then divide current liquid current assets by total current liabilities to calculate the acid-test ratio. The calculation would look like the following:
 
-> Apple's ATR = ($48,844 + 51,713 + 22,926 + 22,878) / ($105,718) = 1.38
+> Apple's [[ATR]] = ($48,844 + 51,713 + 22,926 + 22,878) / ($105,718) = 1.38
 
 Not everyone calculates this ratio the same. There is no single, hard-and-fast method for [determining a company's acid-test ratio](https://www.investopedia.com/ask/answers/011315/how-do-i-calculate-acid-test-ratio-balance-sheet.asp), but it is important to understand how data providers arrive at their conclusions.

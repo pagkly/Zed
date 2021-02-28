@@ -38,7 +38,7 @@ DSCR\=Net Operating IncomeTotal Debt Servicewhere:Net Operating Income\=Re
 
 Some calculations include [non-operating income](https://www.investopedia.com/terms/n/non-operating-income.asp) in [[EBIT]]. As a lender or investor comparing different companies' credit-worthiness —or a manager comparing different years or quarters—it is important to apply consistent criteria when calculating DSCR. As a borrower, it is important to realize that lenders may calculate DSCR in slightly different ways.
 
-Total debt service refers to current debt obligations, meaning any interest, principal, sinking fund and [lease](https://www.investopedia.com/terms/l/lease.asp) payments that are due in the coming year. On a [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp), this will include short-term debt and the [current portion of long-term debt](https://www.investopedia.com/terms/c/currentportionlongtermdebt.asp).
+Total debt service refers to current debt obligations, meaning any interest, principal, sinking fund and [lease](https://www.investopedia.com/terms/l/lease.asp) payments that are due in the coming year. On a [[[Balance Sheet]]](https://www.investopedia.com/terms/b/balancesheet.asp), this will include short-term debt and the [current portion of long-term debt](https://www.investopedia.com/terms/c/currentportionlongtermdebt.asp).
 
 Income taxes complicate DSCR calculations because [interest payments](https://www.investopedia.com/terms/i/interestexpense.asp) are tax deductible, while [principal](https://www.investopedia.com/terms/p/principal.asp) repayments are not. A more accurate way to calculate total debt service is, therefore, to compute the following:
 

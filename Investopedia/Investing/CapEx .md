@@ -25,19 +25,19 @@ CapEx\=ΔPP&E+Current Depreciationwhere:CapEx\=Capital expendituresΔPP&E\=Cha
 
 ### Key Takeaways
 
--   Capital expenditure (CapEx) is a payment for goods or services recorded—or capitalized—on the balance sheet instead of expensed on the income statement.
+-   Capital expenditure (CapEx) is a payment for goods or services recorded—or capitalized—on the [[Balance Sheet]] instead of expensed on the income statement.
 -   CapEx spending is important for companies to maintain existing property and equipment, and invest in new technology and other assets for growth.
 -   If an item has a useful life of less than one year, it must be expensed on the income statement rather than capitalized (i.e., cannot be considered CapEx).
 
 ## What CapEx Can Tell You
 
-CapEx can tell you how much a company is investing in existing and new [fixed assets](https://www.investopedia.com/terms/f/fixedasset.asp) to maintain or grow the business. Put differently, CapEx is any type of expense that a company capitalizes, or shows on its balance sheet as an investment, rather than on its income statement as an expenditure. Capitalizing an asset requires the company to spread the cost of the expenditure over the [useful life](https://www.investopedia.com/terms/u/usefullife.asp) of the asset.
+CapEx can tell you how much a company is investing in existing and new [fixed assets](https://www.investopedia.com/terms/f/fixedasset.asp) to maintain or grow the business. Put differently, CapEx is any type of expense that a company capitalizes, or shows on its [[Balance Sheet]] as an investment, rather than on its income statement as an expenditure. Capitalizing an asset requires the company to spread the cost of the expenditure over the [useful life](https://www.investopedia.com/terms/u/usefullife.asp) of the asset.
 
 The amount of capital expenditures a company is likely to have is dependent on the industry. Some of the most capital-intensive industries have the highest levels of capital expenditures including oil exploration and production, telecommunication, manufacturing, and utility industries.
 
 CapEx can be found in the cash flow from investing activities in a company's [cash flow statement](https://www.investopedia.com/investing/what-is-a-cash-flow-statement/). Different companies highlight CapEx in a number of ways, and an analyst or investor may see it listed as capital spending, purchases of [property, plant, and equipment](https://www.investopedia.com/terms/p/ppe.asp) (PP&E), or [[Acquisition]] expense.
 
-You can also calculate capital expenditures by using data from a company's income statement and balance sheet. On the income statement, find the amount of [depreciation expense](https://www.investopedia.com/terms/d/depreciation.asp) recorded for the current period. On the balance sheet, locate the current period's property, plant, and equipment (PP&E) line-item balance.
+You can also calculate capital expenditures by using data from a company's income statement and [[Balance Sheet]]. On the income statement, find the amount of [depreciation expense](https://www.investopedia.com/terms/d/depreciation.asp) recorded for the current period. On the [[Balance Sheet]], locate the current period's property, plant, and equipment (PP&E) line-item balance.
 
 Locate the company's prior-period PP&E balance, and take the difference between the two to find the change in the company's PP&E balance. Add the change in PP&E to the current-period depreciation expense to arrive at the company's current-period CapEx spending.
 

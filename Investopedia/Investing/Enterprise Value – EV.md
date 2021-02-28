@@ -9,17 +9,17 @@ Jason Fernando
 # Enterprise Value – EV Definition
 
 > ## Excerpt
-> Enterprise value (EV) is a measure of a company's total value, often used as a comprehensive alternative to equity market capitalization. EV includes in its calculation the market capitalization of a company but also short-term and long-term debt as well as any cash on the company's balance sheet.
+> Enterprise value (EV) is a measure of a company's total value, often used as a comprehensive alternative to equity market capitalization. EV includes in its calculation the market capitalization of a company but also short-term and long-term debt as well as any cash on the company's [[Balance Sheet]].
 
 ---
 ## What Is Enterprise Value – EV?
 
-Enterprise value (EV) is a measure of a company's total value, often used as a more comprehensive alternative to [equity market capitalization](https://www.investopedia.com/terms/e/emc.asp). EV includes in its calculation the market capitalization of a company but also short-term and long-term debt as well as any cash on the company's balance sheet. Enterprise value is a popular metric used to value a company for a potential takeover.
+Enterprise value (EV) is a measure of a company's total value, often used as a more comprehensive alternative to [equity market capitalization](https://www.investopedia.com/terms/e/emc.asp). EV includes in its calculation the market capitalization of a company but also short-term and long-term debt as well as any cash on the company's [[Balance Sheet]]. Enterprise value is a popular metric used to value a company for a potential takeover.
 
 ### Key Takeaways
 
 -   Enterprise value (EV) is a measure of a company's total value, often used as a more comprehensive alternative to equity market capitalization.
--   Enterprise value includes in its calculation the market capitalization of a company but also short-term and long-term debt as well as any cash on the company's balance sheet.
+-   Enterprise value includes in its calculation the market capitalization of a company but also short-term and long-term debt as well as any cash on the company's [[Balance Sheet]].
 -   Enterprise value is used as the basis for many financial ratios that measure the performance of a company.
 
 #### Introduction To Enterprise Value
@@ -28,7 +28,7 @@ Enterprise value (EV) is a measure of a company's total value, often used as a m
 
 EV\=MC+Total Debt−Cwhere:MC\=Market capitalization; equal to the current stockprice multiplied by the number of outstanding stock sharesTotal debt\=Equal to the sum of short\-term andlong\-term debtC\=Cash and cash equivalents; the liquid assets ofa company, but may not include marketable securities\\begin{aligned} &EV=MC+Total~Debt-C\\\\ &\\textbf{where:}\\\\ &MC=\\text{\\small Market capitalization; equal to the current stock}\\\\ &\\text{\\small price multiplied by the number of outstanding stock shares}\\\\ &Total~debt =\\text{\\small Equal to the sum of short-term and}\\\\ &\\text{\\small long-term debt}\\\\ &C=\\text{\\small Cash and cash equivalents; the liquid assets of}\\\\ &\\text{\\small a company, but may not include marketable securities}\\\\ \\end{aligned}
 
-To calculate the market capitalization if not readily available you would multiply the number of outstanding shares by the current stock price. Next, total all debt on the company's balance sheet including both short-term and long-term debt. Finally, add the market capitalization to the total debt and subtract any cash and cash equivalents from the result.
+To calculate the market capitalization if not readily available you would multiply the number of outstanding shares by the current stock price. Next, total all debt on the company's [[Balance Sheet]] including both short-term and long-term debt. Finally, add the market capitalization to the total debt and subtract any cash and cash equivalents from the result.
 
 ## What Does Enterprise Value Tell You?
 
@@ -65,7 +65,7 @@ Generally, the lower the EV/sales multiple, the more attractive or undervalued t
 
 ## P/E Ratio vs. EV
 
-The [price-to-earnings ratio](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E ratio) is the ratio for valuing a company that measures its current share price relative to its per-share earnings ([[[EPS]]](https://www.investopedia.com/terms/e/eps.asp)). The price-to-earnings ratio is also sometimes known as the price multiple or the earnings multiple. The P/E ratio doesn't consider the amount of debt that a company has on its balance sheet.
+The [price-to-earnings ratio](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E ratio) is the ratio for valuing a company that measures its current share price relative to its per-share earnings ([[[EPS]]](https://www.investopedia.com/terms/e/eps.asp)). The price-to-earnings ratio is also sometimes known as the price multiple or the earnings multiple. The P/E ratio doesn't consider the amount of debt that a company has on its [[Balance Sheet]].
 
 However, EV includes debt when valuing a company and is often used in tandem with the P/E ratio to achieve a comprehensive valuation.
 

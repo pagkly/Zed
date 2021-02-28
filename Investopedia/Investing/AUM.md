@@ -1,9 +1,9 @@
 ---
+alias: [Assets Under Management, AUM]
 created: 2021-02-25T20:42:40 (UTC +11:00)
-tags: []
+tags: [Assets Under Management, AUM]
 source: https://www.investopedia.com/terms/a/aum.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Assets Under Management – AUM Definition

@@ -35,7 +35,7 @@ Inventory that is sold appears in the [income statement](https://www.investopedi
 
 COGS only applies to those costs directly related to producing goods intended for sale.
 
-The balance sheet has an account called the current assets account. Under this account is an item called inventory. The balance sheet only captures a company’s financial health at the end of an accounting period. This means that the inventory value recorded under current assets is the ending inventory. Since the beginning inventory is the inventory that a company has in stock at the beginning of its accounting period, it means that the beginning inventory is also the company’s ending inventory at the end of the previous accounting period.
+The [[Balance Sheet]] has an account called the current assets account. Under this account is an item called inventory. The [[Balance Sheet]] only captures a company’s financial health at the end of an accounting period. This means that the inventory value recorded under current assets is the ending inventory. Since the beginning inventory is the inventory that a company has in stock at the beginning of its accounting period, it means that the beginning inventory is also the company’s ending inventory at the end of the previous accounting period.
 
 ## What Does the COGS Tell You?
 
@@ -106,7 +106,7 @@ Investors looking through a company’s financial statements can spot unscrupulo
 
 ## Example of How to Use COGS
 
-As a historical example, let's calculate the cost of goods sold for J.C. Penney (NYSE: JCP) for [fiscal year](https://www.investopedia.com/terms/f/fiscalyear.asp) (FY) ended 2016. The first step is to find the beginning and ending inventory on the company's balance sheet:
+As a historical example, let's calculate the cost of goods sold for J.C. Penney (NYSE: JCP) for [fiscal year](https://www.investopedia.com/terms/f/fiscalyear.asp) (FY) ended 2016. The first step is to find the beginning and ending inventory on the company's [[Balance Sheet]]:
 
 -   _Beginning inventory:_ Inventory recorded on the fiscal year ended 2015 = $2.72 billion
 -   _Ending inventory:_ Inventory recorded on the fiscal year ended 2016 = $2.85 billion

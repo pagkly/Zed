@@ -12,13 +12,13 @@ Steven Nickolas
 > Current assets are assets that are convertible to cash in less than a year; noncurrent assets are long-term assets. Here, we cover both.
 
 ---
-In financial [[Accounting|accounting]], assets are the resources that a company requires in order to run and grow its business. Assets are divided into two categories: current and noncurrent assets, which appear on a company's [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) and combine to form a company's total assets.
+In financial [[Accounting|accounting]], assets are the resources that a company requires in order to run and grow its business. Assets are divided into two categories: current and noncurrent assets, which appear on a company's [[[Balance Sheet]]](https://www.investopedia.com/terms/b/balancesheet.asp) and combine to form a company's total assets.
 
-## Current and Noncurrent Assets as Balance Sheet Items
+## Current and Noncurrent Assets as [[Balance Sheet]] Items
 
-The portion of ExxonMobil's balance sheet pictured below displays where you may find current and noncurrent assets.[[1]]
+The portion of ExxonMobil's [[Balance Sheet]] pictured below displays where you may find current and noncurrent assets.[[1]]
 
--   **Current assets** generally sit at the top of the balance sheet. Here, they are highlighted in green, and include receivables due to Exxon, along with [cash and cash equivalents](https://www.investopedia.com/terms/c/cashandcashequivalents.asp), [accounts receivable](https://www.investopedia.com/terms/a/accountsreceivable.asp), and inventories.
+-   **Current assets** generally sit at the top of the [[Balance Sheet]]. Here, they are highlighted in green, and include receivables due to Exxon, along with [cash and cash equivalents](https://www.investopedia.com/terms/c/cashandcashequivalents.asp), [accounts receivable](https://www.investopedia.com/terms/a/accountsreceivable.asp), and inventories.
 -   **Noncurrent assets** are listed below current assets. These are highlighted in blue, and represent Exxon's long-term investments like oil rigs and production facilities that come under [property, plant, and equipment (PP&E)](https://www.investopedia.com/terms/p/ppe.asp).
 -   The combined **total assets** are highlighted in yellow.
 
@@ -30,7 +30,7 @@ You may think of current assets as _short-term assets_, which are necessary for 
 
 ## Current Assets: Short-Term
 
-[Current assets](https://www.investopedia.com/terms/c/currentassets.asp) are considered short-term assets because they generally are convertible to cash within a firm's fiscal year, and are the resources that a company needs to run its day-to-day operations and pay its current expenses. Current assets are generally reported on the balance sheet at their current or [market price](https://www.investopedia.com/terms/m/market-price.asp).
+[Current assets](https://www.investopedia.com/terms/c/currentassets.asp) are considered short-term assets because they generally are convertible to cash within a firm's fiscal year, and are the resources that a company needs to run its day-to-day operations and pay its current expenses. Current assets are generally reported on the [[Balance Sheet]] at their current or [market price](https://www.investopedia.com/terms/m/market-price.asp).
 
 Current assets may include items such as:
 
@@ -48,7 +48,7 @@ Another important current [[Asset|asset]] for any business is inventories. It is
 
 [Noncurrent assets](https://www.investopedia.com/terms/n/noncurrent-assets.asp) are a company’s [long-term investments](https://www.investopedia.com/terms/l/longterminvestments.asp) that have a useful life of more than one year. Noncurrent assets cannot be converted to cash easily. They are required for the long-term needs of a business and include things like land and heavy equipment.
 
-Noncurrent assets are reported on the balance sheet at the price a company paid for them, which is adjusted for [depreciation and amortization](https://www.investopedia.com/ask/answers/06/amortizationvsdepreciation.asp) and is subject to being re-evaluated whenever the market price decreases compared to the [book price](https://www.investopedia.com/terms/b/bookvalue.asp).
+Noncurrent assets are reported on the [[Balance Sheet]] at the price a company paid for them, which is adjusted for [depreciation and amortization](https://www.investopedia.com/ask/answers/06/amortizationvsdepreciation.asp) and is subject to being re-evaluated whenever the market price decreases compared to the [book price](https://www.investopedia.com/terms/b/bookvalue.asp).
 
 Noncurrent assets may include items such as:
 
@@ -61,7 +61,7 @@ Noncurrent assets may be subdivided into tangible and intangible assets—such a
 
 [Fixed assets](https://www.investopedia.com/terms/f/fixedasset.asp) include property, plant, and equipment because they are tangible, meaning that they are physical in nature; we may touch them. A company cannot liquidate its PP&E easily. For example, an auto manufacturer's production facility would be labeled a noncurrent [[Asset|asset]].
 
-[Intangible assets](https://www.investopedia.com/terms/i/intangibleasset.asp) are nonphysical assets, such as patents and copyrights. They are considered as noncurrent assets because they provide value to a company but cannot be readily converted to cash within a year. Long-term investments, such as bonds and notes, are also considered noncurrent assets because a company usually holds these assets on its balance sheet for more than a year.
+[Intangible assets](https://www.investopedia.com/terms/i/intangibleasset.asp) are nonphysical assets, such as patents and copyrights. They are considered as noncurrent assets because they provide value to a company but cannot be readily converted to cash within a year. Long-term investments, such as bonds and notes, are also considered noncurrent assets because a company usually holds these assets on its [[Balance Sheet]] for more than a year.
 
 ## How Current and Noncurrent Assets Differ: A Quick Look
 

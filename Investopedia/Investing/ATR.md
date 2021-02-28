@@ -1,9 +1,9 @@
 ---
+alias: [Average True Range, ATR]
 created: 2021-02-25T21:07:05 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/a/atr.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Average True Range (ATR) Definition

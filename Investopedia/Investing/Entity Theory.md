@@ -24,7 +24,7 @@ Despite some criticisms, due in large part to the lack of realism of the relatio
 
 In terms of ownership versus control, limited liability for owners in certain businesses is essential for commerce. To maintain a system that separates owners from company liability, the entity theory establishes a baseline that makes it possible to separate the business finances from that of the owners. The separation of personal and professional [business activities](https://www.investopedia.com/terms/b/business-activities.asp) is a consistent and significant aspect of commerce around the world. Entity theory is integral to all aspects of commerce.
 
-Entity theory is a fundamental aspect of modern accounting. It's based on the simple balance sheet [accounting equation](https://www.investopedia.com/terms/a/accounting-equation.asp):
+Entity theory is a fundamental aspect of modern accounting. It's based on the simple [[Balance Sheet]] [accounting equation](https://www.investopedia.com/terms/a/accounting-equation.asp):
 
 Assets\=Liabilities+Stockholders’ Equitywhere:Liabilities\=All current and long-termdebts and obligationsStockholders’ Equity\=Assets available toshareholders after all liabilities\\begin{aligned} &\\text{Assets} = \\text{Liabilities} + \\text{Stockholders' Equity}\\\\ &\\textbf{where:}\\\\ &\\text{Liabilities} = \\text{All current and long-term} \\\\ &\\text{debts and obligations}\\\\ &\\text{Stockholders' Equity} = \\text{Assets available to} \\\\ &\\text{shareholders after all liabilities}\\\\ \\end{aligned}
 

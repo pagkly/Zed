@@ -31,7 +31,7 @@ The earnings per share value is calculated as the net income (also known as prof
 
 Earnings per Share\=Net Income − Preferred DividendsEnd-of-Period Common Shares Outstanding\\text{Earnings per Share}=\\frac{\\text{Net Income }-\\text{ Preferred Dividends}}{\\text{End-of-Period Common Shares Outstanding}}
 
-To calculate a company's EPS, the balance sheet and income statement are used to find the period-end number of common shares, dividends paid on preferred stock (if any), and the net income or earnings. It is more accurate to use a weighted average number of common shares over the reporting term because the number of shares can change over time.
+To calculate a company's EPS, the [[Balance Sheet]] and income statement are used to find the period-end number of common shares, dividends paid on preferred stock (if any), and the net income or earnings. It is more accurate to use a weighted average number of common shares over the reporting term because the number of shares can change over time.
 
 Any stock dividends or splits that occur must be reflected in the calculation of the weighted average number of [shares outstanding](https://www.investopedia.com/terms/o/outstandingshares.asp). Some data sources simplify the calculation by using the number of shares outstanding at the end of a period.
 

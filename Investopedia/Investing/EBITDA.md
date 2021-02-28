@@ -24,7 +24,7 @@ The earnings, tax, and interest figures are found on the income statement, while
 
 ## EBITDA Formula and Calculation
 
-[EBITDA is calculated in a straightforward manner](https://www.investopedia.com/ask/answers/031815/what-formula-calculating-ebitda.asp), with information that is easily found on a company's income statement and balance sheet.
+[EBITDA is calculated in a straightforward manner](https://www.investopedia.com/ask/answers/031815/what-formula-calculating-ebitda.asp), with information that is easily found on a company's income statement and [[Balance Sheet]].
 
 EBITDA\=Net Income+Interest+Taxes+D+Awhere:D\=DepreciationA\=Amortization\\begin{aligned} &\\textit{EBITDA} = \\text{Net Income} + \\text{Interest} + \\text{Taxes} + \\text{D} + \\text{A} \\\\ &\\textbf{where:} \\\\ &\\text{D} = \\text{Depreciation} \\\\ &\\text{A} = \\text{Amortization} \\\\ \\end{aligned}
 
@@ -187,7 +187,7 @@ In this example, both companies have the same net income largely because Company
 
 ### How do you calculate EBITDA?
 
-You can calculate EBITDA using the information from a company's income statement, cash flow statement, and balance sheet. The formula is as follows:
+You can calculate EBITDA using the information from a company's income statement, cash flow statement, and [[Balance Sheet]]. The formula is as follows:
 
 EBITDA = Net Income + Interest + Taxes + Depreciation + Amortization
 

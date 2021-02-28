@@ -60,7 +60,7 @@ The ratio can be helpful when comparing two companies that are very similar. Bec
 
 ### Financial Leverage
 
-Financial leverage, or the equity multiplier, is an indirect analysis of a company's use of debt to finance its assets. Assume a company has $1,000 of assets and $250 of owner's equity. The [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) equation will tell you that the company also has $750 in debt (assets - liabilities = equity). If the company borrows more to purchase assets, the ratio will continue to rise. The accounts used to calculate financial leverage are both on the balance sheet, so analysts will divide average assets by average equity rather than the balance at the end of the period, as follows:
+Financial leverage, or the equity multiplier, is an indirect analysis of a company's use of debt to finance its assets. Assume a company has $1,000 of assets and $250 of owner's equity. The [[[Balance Sheet]]](https://www.investopedia.com/terms/b/balancesheet.asp) equation will tell you that the company also has $750 in debt (assets - liabilities = equity). If the company borrows more to purchase assets, the ratio will continue to rise. The accounts used to calculate financial leverage are both on the [[Balance Sheet]], so analysts will divide average assets by average equity rather than the balance at the end of the period, as follows:
 
 Financial Leverage\=Average AssetsAverage Equity\=$1,000$250\=4\\begin{aligned} &\\text{Financial Leverage} = \\frac{ \\text{Average Assets} }{ \\text{Average Equity} } = \\frac{ \\$1,000 }{ \\$250 } = 4 \\\\ \\end{aligned}
 

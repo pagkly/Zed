@@ -14,7 +14,7 @@ Jason Fernando
 ---
 ## What Is the Current Ratio?
 
-The current ratio is a [liquidity ratio](https://www.investopedia.com/terms/l/liquidityratios.asp) that measures a company's ability to pay short-term obligations or those due within one year. It tells investors and analysts how a company can maximize the current assets on its balance sheet to satisfy its current debt and other payables.
+The current ratio is a [liquidity ratio](https://www.investopedia.com/terms/l/liquidityratios.asp) that measures a company's ability to pay short-term obligations or those due within one year. It tells investors and analysts how a company can maximize the current assets on its [[Balance Sheet]] to satisfy its current debt and other payables.
 
 A current ratio that is in line with the industry average or slightly higher is generally considered acceptable. A current ratio that is lower than the industry average may indicate a higher risk of distress or default. Similarly, if a company has a very high current ratio compared to their peer group, it indicates that management may not be using their assets efficiently.
 
@@ -29,7 +29,7 @@ The current ratio is called “current” because, unlike some other liquidity r
 
 ## Formula and Calculation for Current Ratio
 
-To calculate the ratio, analysts compare a company's current assets to its current liabilities. Current assets listed on a company's [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) include cash, [accounts receivable](https://www.investopedia.com/terms/a/accountsreceivable.asp), [inventory](https://www.investopedia.com/terms/i/inventory.asp), and [other current assets](https://www.investopedia.com/terms/o/othercurrentassets.asp) (OCA) that are expected to be liquidated or turned into cash in less than one year. Current liabilities include [accounts payable](https://www.investopedia.com/terms/a/accountspayable.asp), wages, taxes payable, [short-term debts](https://www.investopedia.com/terms/s/shorttermdebt.asp), and the current portion of long-term debt.
+To calculate the ratio, analysts compare a company's current assets to its current liabilities. Current assets listed on a company's [[[Balance Sheet]]](https://www.investopedia.com/terms/b/balancesheet.asp) include cash, [accounts receivable](https://www.investopedia.com/terms/a/accountsreceivable.asp), [inventory](https://www.investopedia.com/terms/i/inventory.asp), and [other current assets](https://www.investopedia.com/terms/o/othercurrentassets.asp) (OCA) that are expected to be liquidated or turned into cash in less than one year. Current liabilities include [accounts payable](https://www.investopedia.com/terms/a/accountspayable.asp), wages, taxes payable, [short-term debts](https://www.investopedia.com/terms/s/shorttermdebt.asp), and the current portion of long-term debt.
 
 Current Ratio\=Current assetsCurrent liabilities\\begin{aligned} &\\text{Current Ratio}=\\frac{\\text{Current assets}}{ \\text{Current liabilities}} \\end{aligned}
 
@@ -43,7 +43,7 @@ A current ratio of less than one may seem alarming, although different situation
 
 Calculating the current ratio at just one point in time could indicate the company can’t cover all its [current debts](https://www.investopedia.com/ask/answers/030915/what-are-some-examples-current-liabilities.asp), but it doesn’t mean it won’t be able to once the payments are received.
 
-Additionally, some companies, especially larger retailers such as Walmart, have been able to negotiate much longer-than-average payment terms with their suppliers. If a retailer doesn't offer credit to its customers, this can show on its balance sheet as a high payables balance relative to its receivables balance. Large retailers can also minimize their inventory volume through an efficient supply chain, which makes their current assets shrink against current liabilities, resulting in a lower current ratio. Walmart's current ratio in Jan. 2019 was 0.80.1
+Additionally, some companies, especially larger retailers such as Walmart, have been able to negotiate much longer-than-average payment terms with their suppliers. If a retailer doesn't offer credit to its customers, this can show on its [[Balance Sheet]] as a high payables balance relative to its receivables balance. Large retailers can also minimize their inventory volume through an efficient supply chain, which makes their current assets shrink against current liabilities, resulting in a lower current ratio. Walmart's current ratio in Jan. 2019 was 0.80.1
 
 The current ratio can be a useful measure of a company’s short-term solvency when it is placed in the context of what has been historically normal for the company and its peer group. It also offers more insight when calculated repeatedly over several periods.
 
@@ -91,7 +91,7 @@ Another drawback of using current ratios, briefly mentioned above, involves its 
 
 Image by Sabrina Jiang © Investopedia 2020
 
-In this example, Company A has much more inventory than Company B, which will be harder to turn into cash in the short-term. Perhaps this inventory is overstocked or unwanted, which may eventually reduce its value on the balance sheet. Company B has more cash, which is the most liquid asset, and more accounts receivable which could be collected more quickly than inventory can be liquidated. Although the total value of current assets matches, Company B is in a more liquid, solvent position.
+In this example, Company A has much more inventory than Company B, which will be harder to turn into cash in the short-term. Perhaps this inventory is overstocked or unwanted, which may eventually reduce its value on the [[Balance Sheet]]. Company B has more cash, which is the most liquid asset, and more accounts receivable which could be collected more quickly than inventory can be liquidated. Although the total value of current assets matches, Company B is in a more liquid, solvent position.
 
 The current liabilities of Company A and Company B are also very different. Company A has more accounts payable while Company B has a greater amount of short-term notes payable. This would be worth more investigation because it is likely that the accounts payable will have to be paid before the entire balance of the notes payable account. However, Company B does have fewer wages payable, which is the liability most likely to be paid in the short term.
 
