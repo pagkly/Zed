@@ -1,10 +1,9 @@
 ---
-alias: [Absolute Advantage Definition]
+alias: [Absolute Advantage]
 created: 2021-02-28T15:48:11 (UTC +11:00)
 tags: [Absolute Advantage Definition]
 source: https://www.investopedia.com/terms/a/absoluteadvantage.asp
-author: By
-Investopedia Staff
+author: Investopedia Staff
 ---
 
 # Absolute Advantage Definition
