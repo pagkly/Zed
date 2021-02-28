@@ -16,7 +16,7 @@ What are factors suppressing C.I.?
 How to make durable?
 
 ### CI in Automobiles
-- Artificial intelligence in Automobiles.
+- [[AI|Artificial intelligence]] in Automobiles.
 	- The powering of cars...gas
 	- Open-source design of cars
 - Autonomous cars... [[What would it take to get to self-driving cars to collectively communicate]] 

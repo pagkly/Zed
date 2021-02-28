@@ -1,9 +1,9 @@
 ---
+alias: [Analysis of Variance (ANOVA)]
 created: 2021-02-25T20:48:32 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/a/anova.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Analysis of Variance (ANOVA) Definition

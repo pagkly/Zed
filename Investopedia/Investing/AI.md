@@ -1,9 +1,9 @@
 ---
+alias: [Artificial Intelligence, AI]
 created: 2021-02-25T20:50:15 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp
-author: By
-Jake Frankenfield
+author: Jake Frankenfield
 ---
 
 # Artificial Intelligence (AI) Definition

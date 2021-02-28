@@ -44,7 +44,7 @@ Madoff had a chip on his shoulder and felt constantly reminded that he was not p
 
 ### Recognition
 
-Success finally came when he and his brother Peter began to build electronic trading capabilities—"artificial intelligence" in Madoff's words—that attracted massive order flow and boosted the business by providing insights into market activity. "I had all these major banks coming down, entertaining me," Madoff told Fishman. "It was a head trip."
+Success finally came when he and his brother Peter began to build electronic trading capabilities—"[[AI|artificial intelligence]]" in Madoff's words—that attracted massive order flow and boosted the business by providing insights into market activity. "I had all these major banks coming down, entertaining me," Madoff told Fishman. "It was a head trip."
 
 He and four other Wall Street mainstays processed half of the [New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp)'s order flow—controversially, he paid for much of it—and by the late 1980s, Madoff was making in the vicinity of $100 million a year. He would become chairman of the Nasdaq in 1990, and also served in 1991 and 1993.
 

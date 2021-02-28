@@ -2,8 +2,7 @@
 created: 2021-02-25T20:50:55 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/a/adverseselection.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Adverse Selection Definition
