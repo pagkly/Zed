@@ -1,8 +1,9 @@
 ---
+alias: [Electronic Filing, E-File]
 created: 2021-02-28T12:07:22 (UTC +11:00)
-tags: []
+tags: [Electronic Filing, E-File]
 source: https://www.investopedia.com/terms/e/efile.asp
-author: By Staff Author
+author: Staff Author
 ---
 
 # Electronic Filing (E-File) Definition

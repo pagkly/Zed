@@ -1,6 +1,7 @@
 ---
+alias: [DuPont Analysis]
 created: 2021-02-25T22:36:16 (UTC +11:00)
-tags: []
+tags: [DuPont Analysis, ROE, Return on Equity]
 source: https://www.investopedia.com/terms/d/dupontanalysis.asp
 author: Marshall Hargrave
 ---
