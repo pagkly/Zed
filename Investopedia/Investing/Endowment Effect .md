@@ -1,24 +1,25 @@
 ---
+alias: [Endowment Effect]
 created: 2021-02-28T12:07:22 (UTC +11:00)
-tags: [Endowment Effect]
+tags: [Endowment Effect, Endowment]
 source: https://www.investopedia.com/terms/e/endowment-effect.asp
 author: Akhilesh Ganti
 ---
 
-# [[Endowment]] Effect Definition
+# [[Investopedia/Investing/Endowment]] Effect Definition
 
 > ## Excerpt
-> The [[Endowment]] effect refers to an emotional bias that causes individuals to value an owned object higher, often irrationally, than its market value.
+> The [[Investopedia/Investing/Endowment]] effect refers to an emotional bias that causes individuals to value an owned object higher, often irrationally, than its market value.
 
 ---
-## What Is the [[Endowment]] Effect?
+## What Is the [[Investopedia/Investing/Endowment]] Effect?
 
-The [[Endowment]] effect refers to an [emotional bias](https://www.investopedia.com/articles/investing/051613/behavioral-bias-cognitive-vs-emotional-bias-investing.asp) that causes individuals to value an owned object higher, often irrationally, than its [market value](https://www.investopedia.com/terms/m/marketvalue.asp).
+The [[Investopedia/Investing/Endowment]] effect refers to an [emotional bias](https://www.investopedia.com/articles/investing/051613/behavioral-bias-cognitive-vs-emotional-bias-investing.asp) that causes individuals to value an owned object higher, often irrationally, than its [market value](https://www.investopedia.com/terms/m/marketvalue.asp).
 
 ### Key Takeaways
 
--   The [[Endowment]] effect describes a circumstance in which an individual places a higher value on an object that they already own than the value they would place on that same object if they did not own it.
--   [[Endowment]] effect can be clearly seen with items that have an emotional or symbolic significance to the individual.
+-   The [[Investopedia/Investing/Endowment]] effect describes a circumstance in which an individual places a higher value on an object that they already own than the value they would place on that same object if they did not own it.
+-   [[Investopedia/Investing/Endowment]] effect can be clearly seen with items that have an emotional or symbolic significance to the individual.
 -   Research has identified "ownership" and "loss aversion" as the two main psychological reasons causing the endowment effect.
 
 ## Understanding the Endowment Effect
