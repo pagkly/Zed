@@ -1,24 +1,24 @@
 ---
+alias: [Economic Value Added, EVA]
 created: 2021-02-28T11:55:17 (UTC +11:00)
 tags: [Economic Value Added, EVA]
 source: https://www.investopedia.com/terms/e/eva.asp
-author: By
-James Chen
+author: James Chen
 ---
 
-# [[Economic Value]] Added (EVA) Definition
+# Economic Value Added (EVA) Definition
 
 > ## Excerpt
-> [[Economic Value]] added (EVA) is a financial metric based on residual wealth, calculated by deducting a firm's cost of capital from operating profit.
+> Economic Value added (EVA) is a financial metric based on residual wealth, calculated by deducting a firm's cost of capital from operating profit.
 
 ---
-## What Is [[Economic Value]] Added (EVA)?
+## What Is Economic Value Added (EVA)?
 
 [[Economic Value]] added (EVA) is a measure of a company's [financial performance](https://www.investopedia.com/terms/f/financialperformance.asp) based on the residual wealth calculated by deducting its cost of capital from its operating profit, adjusted for taxes on a cash basis. EVA can also be referred to as [economic profit](https://www.investopedia.com/terms/e/economicprofit.asp), as it attempts to capture the true economic profit of a company. This measure was devised by management consulting firm Stern Value Management, originally incorporated as Stern Stewart & Co.1
 
 ### Key Takeaways
 
--   [[Economic Value]] added (EVA), also known as economic profit, aims to calculate the true economic profit of a company.
+-   Economic Value added (EVA), also known as economic profit, aims to calculate the true economic profit of a company.
 -   EVA is used to measure the value a company generates from funds invested in it.
 -   However, EVA relies heavily on invested capital and is best used for asset-rich companies, where companies with intangible assets, such as technology businesses, may not be good candidates.
 

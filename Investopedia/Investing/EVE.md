@@ -1,18 +1,19 @@
 ---
+alias: [Economic Value of Equity, EVE]
 created: 2021-02-28T11:55:17 (UTC +11:00)
-tags: []
+tags: [Economic Value of Equity, EVE]
 source: https://www.investopedia.com/terms/e/economicvalueofequity.asp
 author: By
 Adam Hayes
 ---
 
-# [[Economic Value]] of Equity (EVE)
+# Economic Value of Equity (EVE)
 
 > ## Excerpt
 > The [[Economic Value]] of equity is a cash flow calculation conducted by a bank for its asset/liability management purposes.
 
 ---
-## What Is the [[Economic Value]] of Equity (EVE)?
+## What Is the Economic Value of Equity (EVE)?
 
 The [[Economic Value]] of equity (EVE) is a cash flow calculation that takes the present value of all asset cash flows and subtracts the present value of all liability cash flows. Unlike earnings at risk and value at risk ([VAR](https://www.investopedia.com/terms/v/var.asp)), a bank uses the [[Economic Value]] of equity to manage its assets and liabilities. This is a long-term economic measure used to assess the degree of [interest rate risk](https://www.investopedia.com/terms/i/interestraterisk.asp) exposure—as opposed to net-interest income (NII), which reflects short-term interest rate risk.
 
