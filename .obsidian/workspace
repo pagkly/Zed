@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Lincoln20210302.md",
-            "mode": "preview"
+            "file": "Day Planners/20210303.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Lincoln20210302.md",
+                "file": "Day Planners/20210303.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Lincoln20210302.md"
+                "file": "Day Planners/20210303.md"
               }
             }
           },
@@ -132,22 +132,22 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "lastOpenFiles": [
-    "Day Planners/Lincoln20210302.md",
-    "Day Planners/Day Planner-20210228.md",
     "Day Planners/20210303.md",
     "Day Planners/20210302.md",
+    "Day Planners/20210323.md",
+    "Day Planners/20210424.md",
+    "Day Planners/Lincoln20210302.md",
+    "Day Planners/Day Planner-20210228.md",
     "Day Planners/Day Planner-20210227.md",
     "Day Planners/02-Mar-2021.md",
     "Day Planners/2021-03-02.md",
-    "Untitled 1.md",
-    "2021-03-02.md",
-    "02-Mar-2021.md"
+    "Untitled 1.md"
   ]
 }
