@@ -14,19 +14,19 @@ Troy Segal
 ---
 ## What Is Delivered Duty Unpaid (DDU)?
 
-Delivered Duty Unpaid (DDU) is an old international trade term indicating that the seller is responsible for the safe delivery of goods to a named destination, paying all transportation expenses and assuming all risks during transport. Once the goods arrive at the agreed-upon location, the buyer becomes responsible for paying import duties, as well as further transport costs. However, [Delivered Duty Paid](https://www.investopedia.com/terms/d/delivery-duty-paid.asp) (DDP) indicates that the seller must cover duties, import clearance, and any taxes.
+Delivered Duty Unpaid (DDU) is an old international trade term indicating that the seller is responsible for the safe delivery of goods to a named destination, paying all transportation expenses and assuming all risks during transport. Once the goods arrive at the agreed-upon location, the buyer becomes responsible for paying import duties, as well as further transport costs. However, [Delivered Duty Paid](https://www.investopedia.com/terms/d/delivery-duty-paid.asp) ([[DDP]]) indicates that the seller must cover duties, import clearance, and any taxes.
 
 ### Key Takeaways
 
 -   Delivered Duty Unpaid (DDU) is an international trade term meaning the seller is responsible for ensuring goods arrive safely to a destination; the buyer is responsible for import duties.
--   By contrast, Delivered Duty Paid (DDP) indicates that the seller must cover duties, import clearance, and any taxes.
--   DDU is still commonly used in transportation contracts, even though the International Chamber of Commerce has officially replaced it with the term Delivered-at-Place (DAP).
+-   By contrast, Delivered Duty Paid ([[DDP]]) indicates that the seller must cover duties, import clearance, and any taxes.
+-   DDU is still commonly used in transportation contracts, even though the International Chamber of Commerce has officially replaced it with the term Delivered-at-Place ([[DAP]]).
 
 #### Delivery Duty Unpaid (DDU)
 
 ## Understanding Delivered Duty Unpaid (DDU)
 
-Delivered Duty Unpaid (DDU) was actually not included in the most recent (2010) edition of the International Chamber of Commerce's [Incoterms](https://www.investopedia.com/terms/i/incoterms.asp); the current official term that best describes the function of DDU is [Delivered-at-Place](https://www.investopedia.com/terms/d/delivered-place-dap.asp) (DAP). However, DDU is still commonly used in international trade parlance. On paper, the term is followed by the location of delivery; for example, "DDU: Port of Los Angeles." 
+Delivered Duty Unpaid (DDU) was actually not included in the most recent (2010) edition of the International Chamber of Commerce's [Incoterms](https://www.investopedia.com/terms/i/incoterms.asp); the current official term that best describes the function of DDU is [Delivered-at-Place](https://www.investopedia.com/terms/d/delivered-place-dap.asp) ([[DAP]]). However, DDU is still commonly used in international trade parlance. On paper, the term is followed by the location of delivery; for example, "DDU: Port of Los Angeles." 
 
 With DDU, the seller assumes all risks until the goods are delivered to the specified location; then the risks are assumed by the buyer.
 

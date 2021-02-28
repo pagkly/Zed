@@ -86,7 +86,7 @@ The dividend yield is a financial ratio that tells you the percentage of a compa
 
 ### Is a high dividend yield good?
 
-Yield-oriented investors will generally look for companies that offer high dividend yields, but it is important to dig deeper in order to understand the circumstances leading to the high yield. One approach taken by investors is to focus on companies that have a long track-record of maintaining or raising their dividends, while also verifying that those companies have the underlying financial strength to continue paying dividends well into the future. To do so, investors can refer to other metrics such as the [current ratio](https://www.investopedia.com/terms/c/currentratio.asp) and the [dividend payout ratio](https://www.investopedia.com/terms/d/dividendpayoutratio.asp).
+Yield-oriented investors will generally look for companies that offer high dividend yields, but it is important to dig deeper in order to understand the circumstances leading to the high yield. One approach taken by investors is to focus on companies that have a long track-record of maintaining or raising their dividends, while also verifying that those companies have the underlying financial strength to continue paying dividends well into the future. To do so, investors can refer to other metrics such as the [[[Current Ratio]]](https://www.investopedia.com/terms/c/currentratio.asp) and the [dividend payout ratio](https://www.investopedia.com/terms/d/dividendpayoutratio.asp).
 
 ### Why is dividend yield important?
 

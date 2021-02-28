@@ -30,7 +30,7 @@ Delivered-at-place simply means that the seller takes on all the risks and costs
 
 A delivered-at-place agreement is applicable for any form, or combination of forms, of transportation and usually lists the point at which the buyer takes on financial responsibilities—for example, “Delivered-at-place, Port of Oakland.”
 
-When it was introduced in 2010, DAP replaced the term [Delivery Duty Unpaid (DDU)](https://www.investopedia.com/terms/d/delivereddutyunpaid.asp) and, while DDU may still be used colloquially, DAP is now the official term used in international trade.1
+When it was introduced in 2010, DAP replaced the term [Delivery Duty Unpaid ([[DDU]])](https://www.investopedia.com/terms/d/delivereddutyunpaid.asp) and, while [[DDU]] may still be used colloquially, DAP is now the official term used in international trade.1
 
 The opposite of Delivered-at-place (DAP) is [Delivered Duty Paid](https://www.investopedia.com/terms/d/delivery-duty-paid.asp), which indicates that the seller must cover duties, import clearance, and any taxes.
 

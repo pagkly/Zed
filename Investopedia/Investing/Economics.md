@@ -78,7 +78,7 @@ The [Bureau of Labor Statistics (BLS)](https://www.investopedia.com/terms/b/bls.
 
 ### Consumer Price Index (CPI)
 
-The [Consumer Price Index (CPI)](https://www.investopedia.com/terms/c/consumerpriceindex.asp), also issued by the BLS, measures the level of retail price changes (the costs that consumers pay) and is the benchmark for measuring [inflation](https://www.investopedia.com/terms/i/inflation.asp). Using a [basket](https://www.investopedia.com/terms/b/basket_of_goods.asp) that is representative of the goods and services in the economy, the CPI compares the price changes month after month and year after year.7 This report is one of the more important economic indicators available, and its release can increase volatility in equity, fixed income, and forex markets. Greater-than-expected price increases are considered a sign of inflation, which will likely cause the underlying currency to depreciate.
+The [Consumer Price Index (CPI)](https://www.investopedia.com/terms/c/consumerpriceindex.asp), also issued by the BLS, measures the level of retail price changes (the costs that consumers pay) and is the benchmark for measuring [inflation](https://www.investopedia.com/terms/i/inflation.asp). Using a [basket](https://www.investopedia.com/terms/b/basket_of_goods.asp) that is representative of the goods and services in the economy, the [[CPI ]]compares the price changes month after month and year after year.7 This report is one of the more important economic indicators available, and its release can increase volatility in equity, fixed income, and forex markets. Greater-than-expected price increases are considered a sign of inflation, which will likely cause the underlying currency to depreciate.
 
 ## Types of Economic Systems
 

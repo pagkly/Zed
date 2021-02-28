@@ -192,7 +192,7 @@ The U.K. unemployment rate hit a 44-year low at 3.9% in the three months to Jan.
 
 In 2018, the pound managed to claw back the losses it suffered after the Brexit vote but reacted negatively as the likelihood of a no-deal Brexit increased. The currency could rally if a "soft Brexit" deal is passed or Brexit is delayed.
 
-While the fall in the value of the pound has helped exporters, the higher price of imports passed onto consumers and has had a significant impact on the annual inflation rate. CPI inflation hit 3.1% in the 12 months leading up to Nov. 2017, a near six-year high that well exceeded the Bank of England's 2% target. Inflation eventually began to fall in 2018 with the decline in oil and gas prices and was at 1.8% in Jan. 2019.42 43
+While the fall in the value of the pound has helped exporters, the higher price of imports passed onto consumers and has had a significant impact on the annual inflation rate. [[CPI ]]inflation hit 3.1% in the 12 months leading up to Nov. 2017, a near six-year high that well exceeded the Bank of England's 2% target. Inflation eventually began to fall in 2018 with the decline in oil and gas prices and was at 1.8% in Jan. 2019.42 43
 
 44
 
