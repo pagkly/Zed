@@ -1,9 +1,9 @@
 ---
+alias: [EAFE, EAFE Index]
 created: 2021-02-28T11:55:17 (UTC +11:00)
-tags: []
+tags: [EAFE Index]
 source: https://www.investopedia.com/terms/e/eafe_index.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # EAFE Index

@@ -1,9 +1,8 @@
 ---
 created: 2021-02-28T12:07:22 (UTC +11:00)
-tags: []
+tags: [Employment Insurance, EI]
 source: https://www.investopedia.com/terms/e/employment-insurance.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Employment Insurance (EI)

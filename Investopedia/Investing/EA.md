@@ -1,9 +1,9 @@
 ---
+alias: [Enrolled Agent, EA]
 created: 2021-02-28T12:07:22 (UTC +11:00)
-tags: []
+tags: [Enrolled Agent, EA]
 source: https://www.investopedia.com/terms/e/enrolled_agent.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Enrolled Agent (EA) Definition
