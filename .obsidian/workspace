@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-{{02-28}}.md",
+            "file": "Day Planners/20210302.md",
             "mode": "source"
           }
         }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-{{02-28}}.md",
+                "file": "Day Planners/20210302.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-{{02-28}}.md"
+                "file": "Day Planners/20210302.md"
               }
             }
           },
@@ -172,15 +172,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "2021-{{02-28}}.md",
     "Day Planners/20210302.md",
+    "Day Planners/20210303.md",
+    "Day Planners/20210323.md",
+    "Day Planners/20210424.md",
+    "Day Planners/Day Planner-20210227.md",
+    "Day Planners/Lincoln20210302.md",
+    "Day Planners/Day Planner-20210228.md",
+    "2021-{{02-28}}.md",
     "Day Planners/Temporal/Daily.md",
-    "Day Planners/Temporal/weekly.md",
-    "Day Planners/Temporal/Today.md",
-    "Day Planners/Temporal/time.md",
-    "Day Planners/Temporal/Now.md",
-    "Day Planners/Temporal/Date.md",
-    "Templates/Temporal/Today.md",
-    "Templates/Temporal/time.md"
+    "Day Planners/Temporal/weekly.md"
   ]
 }
