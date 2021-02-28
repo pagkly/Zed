@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia/Investing/Energy Risk Professional (ERP).md",
+            "file": "Investopedia/Investing/ERP.md",
             "mode": "preview"
           }
         }
@@ -77,12 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia/Investing/Energy Risk Professional (ERP).md",
+                "file": "Investopedia/Investing/ERP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia/Investing/Energy Risk Professional (ERP).md"
+                "file": "Investopedia/Investing/ERP.md"
               }
             }
           },
