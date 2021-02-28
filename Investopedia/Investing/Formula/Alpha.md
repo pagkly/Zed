@@ -23,7 +23,7 @@ Alpha is used in finance as a measure of [performance](https://www.investopedia
 -   Alpha refers to excess returns earned on an investment above the benchmark return.
 -   Active portfolio managers seek to generate alpha in diversified portfolios, with diversification intended to eliminate unsystematic risk.
 -   Because alpha represents the performance of a portfolio relative to a benchmark, it is often considered to represent the value that a portfolio manager adds to or subtracts from a fund's return.
--   Jensen’s alpha takes into consideration the capital asset pricing model (CAPM) and includes a risk-adjusted component in its calculation. 
+-   Jensen’s alpha takes into consideration the capital asset pricing model ([[CAPM]]) and includes a risk-adjusted component in its calculation. 
 
 ## Understanding Alpha
 
@@ -43,7 +43,7 @@ The [Efficient Market Hypothesis](https://www.investopedia.com/terms/e/efficient
 
 Alpha is commonly used to rank active mutual funds as well as all other types of investments. It is often represented as a single number (like +3.0 or -5.0), and this typically refers to a percentage measuring how the portfolio or fund performed compared to the referenced benchmark index (i.e., 3% better or 5% worse).
 
-Deeper analysis of alpha may also include "[Jensen’s alpha](https://www.investopedia.com/terms/j/jensensmeasure.asp)." Jensen’s alpha takes into consideration the capital asset pricing model ([CAPM](https://www.investopedia.com/terms/c/capm.asp)) market theory and includes a risk-adjusted component in its calculation. Beta (or the beta coefficient) is used in the CAPM, which calculates the expected return of an asset based on its own particular beta and the expected market returns. [Alpha and beta](https://www.investopedia.com/articles/07/alphabeta.asp) are used together by investment managers to calculate, compare, and analyze returns.
+Deeper analysis of alpha may also include "[Jensen’s alpha](https://www.investopedia.com/terms/j/jensensmeasure.asp)." Jensen’s alpha takes into consideration the capital asset pricing model ([[[CAPM]]](https://www.investopedia.com/terms/c/capm.asp)) market theory and includes a risk-adjusted component in its calculation. Beta (or the beta coefficient) is used in the [[CAPM]], which calculates the expected return of an asset based on its own particular beta and the expected market returns. [Alpha and beta](https://www.investopedia.com/articles/07/alphabeta.asp) are used together by investment managers to calculate, compare, and analyze returns.
 
 The entire investing universe offers a broad range of securities, investment products, and advisory options for investors to consider. Different market cycles also have an influence on the alpha of investments across different asset classes. This is why risk-return metrics are important to consider in conjunction with alpha.
 
@@ -68,11 +68,11 @@ The above example illustrates the success of two fund managers in generating alp
 While [alpha has been called the “holy grail” of investing](http://www.goodreads.com/book/show/10652792-the-quest-for-alpha), and as such, receives a lot of attention from investors and advisors alike, there are a couple of important considerations that one should take into account when using alpha.
 
 1.  A basic calculation of alpha subtracts the total return of an investment from a comparable benchmark in its asset category. This alpha calculation is primarily only used against a comparable asset category benchmark, as noted in the examples above. Therefore, it does not measure the outperformance of an equity ETF versus a fixed income benchmark. This alpha is also best used when comparing the performance of similar asset investments. Thus, the alpha of the equity ETF, DGRW, is not relatively comparable to the alpha of the fixed income ETF, ICVT.
-2.  Some references to alpha may refer to a more advanced technique. Jensen’s alpha takes into consideration CAPM theory and risk-adjusted measures by utilizing the [risk-free rate](https://www.investopedia.com/terms/r/risk-freerate.asp) and beta.
+2.  Some references to alpha may refer to a more advanced technique. Jensen’s alpha takes into consideration [[CAPM]] theory and risk-adjusted measures by utilizing the [risk-free rate](https://www.investopedia.com/terms/r/risk-freerate.asp) and beta.
 
 When using a generated alpha calculation it is important to understand the calculations involved. Alpha can be calculated using various different index benchmarks within an asset class. In some cases, there might not be a suitable pre-existing index, in which case advisors may use [algorithms](https://www.investopedia.com/terms/a/algorithm.asp) and other models to simulate an index for comparative alpha calculation purposes.
 
-Alpha can also refer to the abnormal rate of return on a [security](https://www.investopedia.com/terms/s/security.asp) or portfolio in excess of what would be predicted by an [equilibrium](https://www.investopedia.com/terms/e/equilibrium.asp) model like CAPM. In this instance, a CAPM model might aim to estimate returns for investors at various points along an [efficient frontier](https://www.investopedia.com/terms/e/efficientfrontier.asp). The CAPM analysis might estimate that a portfolio should earn 10% based on the portfolio’s risk profile. If the portfolio actually earns 15%, the portfolio's alpha would be 5.0, or +5% over what was predicted in the CAPM model.
+Alpha can also refer to the abnormal rate of return on a [security](https://www.investopedia.com/terms/s/security.asp) or portfolio in excess of what would be predicted by an [equilibrium](https://www.investopedia.com/terms/e/equilibrium.asp) model like [[CAPM]]. In this instance, a [[CAPM]] model might aim to estimate returns for investors at various points along an [efficient frontier](https://www.investopedia.com/terms/e/efficientfrontier.asp). The [[CAPM]] analysis might estimate that a portfolio should earn 10% based on the portfolio’s risk profile. If the portfolio actually earns 15%, the portfolio's alpha would be 5.0, or +5% over what was predicted in the [[CAPM]] model.
 
 
 # ==A==lpha

@@ -14,7 +14,7 @@ Will Kenton
 ---
 ## What Is Beta?
 
-Beta is a measure of the volatility_—_or [[[Systematic Risk]]](https://www.investopedia.com/terms/s/systematicrisk.asp)_—_of a security or portfolio compared to the market as a whole. Beta is used in the [capital asset pricing model](https://www.investopedia.com/terms/c/capm.asp) (CAPM), which describes the relationship between [[Systematic Risk]] and expected return for assets (usually stocks). CAPM is widely used as a method for pricing risky securities and for generating estimates of the expected returns of assets, considering both the risk of those assets and the cost of capital.
+Beta is a measure of the volatility_—_or [[[Systematic Risk]]](https://www.investopedia.com/terms/s/systematicrisk.asp)_—_of a security or portfolio compared to the market as a whole. Beta is used in the [capital asset pricing model](https://www.investopedia.com/terms/c/capm.asp) ([[CAPM]]), which describes the relationship between [[Systematic Risk]] and expected return for assets (usually stocks). [[CAPM]] is widely used as a method for pricing risky securities and for generating estimates of the expected returns of assets, considering both the risk of those assets and the cost of capital.
 
 ### Key Takeaways
 
@@ -72,6 +72,6 @@ Similarly, a high beta stock that is volatile in a mostly upward direction will 
 
 ## Disadvantages of Beta
 
-While beta can offer some useful information when evaluating a stock, it does have some limitations. Beta is useful in determining a security's short-term risk, and for analyzing volatility to arrive at equity costs when using the CAPM. However, since beta is calculated using historical data points, it becomes less meaningful for investors looking to predict a stock's future movements.
+While beta can offer some useful information when evaluating a stock, it does have some limitations. Beta is useful in determining a security's short-term risk, and for analyzing volatility to arrive at equity costs when using the [[CAPM]]. However, since beta is calculated using historical data points, it becomes less meaningful for investors looking to predict a stock's future movements.
 
 Beta is also less useful for long-term investments since a stock's volatility can change significantly from year to year, depending upon the company's growth stage and other factors.
