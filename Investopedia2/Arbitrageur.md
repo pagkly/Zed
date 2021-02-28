@@ -1,5 +1,5 @@
 ---
-alias: [Arbitrageur Definition]
+alias: [Arbitrageur]
 created: 2021-02-28T16:45:06 (UTC +11:00)
 tags: [Arbitrageur Definition, Arbitrageur]
 source: https://www.investopedia.com/terms/a/arbitrageur.asp

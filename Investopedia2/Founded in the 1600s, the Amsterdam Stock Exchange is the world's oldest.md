@@ -1,5 +1,5 @@
 ---
-alias: [Amsterdam Stock Exchange (AEX) .AS definition]
+alias: [Amsterdam Stock Exchange (AEX) .AS]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Amsterdam Stock Exchange (AEX) .AS definition, Founded in the 1600s, the Amsterdam Stock Exchange is the world's oldest]
 source: https://www.investopedia.com/terms/a/aex.asp

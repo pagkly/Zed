@@ -1,5 +1,5 @@
 ---
-alias: [Asymmetric Information Definition]
+alias: [Asymmetric Information]
 created: 2021-02-28T17:42:16 (UTC +11:00)
 tags: [Asymmetric Information Definition, Asymmetric Information]
 source: https://www.investopedia.com/terms/a/asymmetricinformation.asp

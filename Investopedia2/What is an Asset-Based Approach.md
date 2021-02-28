@@ -1,5 +1,5 @@
 ---
-alias: [Asset-Based Approach Definition]
+alias: [Asset-Based Approach]
 created: 2021-02-28T17:42:12 (UTC +11:00)
 tags: [Asset-Based Approach Definition, What is an Asset-Based Approach?]
 source: https://www.investopedia.com/terms/a/asset-based-approach.asp

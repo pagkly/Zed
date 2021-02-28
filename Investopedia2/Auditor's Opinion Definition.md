@@ -1,5 +1,5 @@
 ---
-alias: [Auditor's Opinion Definition]
+alias: [Auditor's Opinion]
 created: 2021-02-28T17:42:08 (UTC +11:00)
 tags: [Auditor's Opinion Definition, Auditor's Opinion Definition]
 source: https://www.investopedia.com/terms/a/auditors-opinion.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Anchoring Definition]
+alias: [Anchoring]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Anchoring Definition, Anchoring Definition]
 source: https://www.investopedia.com/terms/a/anchoring.asp

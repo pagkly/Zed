@@ -1,5 +1,5 @@
 ---
-alias: [Audit Risk Definition]
+alias: [Audit Risk]
 created: 2021-02-28T17:42:20 (UTC +11:00)
 tags: [Audit Risk Definition, Audit Risk]
 source: https://www.investopedia.com/terms/a/audit-risk.asp

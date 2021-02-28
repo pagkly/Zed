@@ -1,5 +1,5 @@
 ---
-alias: [Asset Management Definition]
+alias: [Asset Management]
 created: 2021-02-28T17:42:15 (UTC +11:00)
 tags: [Asset Management Definition, Asset Management Definition]
 source: https://www.investopedia.com/terms/a/assetmanagement.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Alternative Investment Definition]
+alias: [Alternative Investment]
 created: 2021-02-28T20:46:41 (UTC +11:00)
 tags: [Alternative Investment Definition, Alternative Investment Definition]
 source: https://www.investopedia.com/terms/a/alternative_investment.asp

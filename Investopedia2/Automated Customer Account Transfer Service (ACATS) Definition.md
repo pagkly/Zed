@@ -1,5 +1,5 @@
 ---
-alias: [Automated Customer Account Transfer Service (ACATS) Definition]
+alias: [Automated Customer Account Transfer Service (ACATS)]
 created: 2021-02-28T17:42:20 (UTC +11:00)
 tags: [Automated Customer Account Transfer Service (ACATS) Definition, Automated Customer Account Transfer Service (ACATS) Definition]
 source: https://www.investopedia.com/terms/a/acat.asp

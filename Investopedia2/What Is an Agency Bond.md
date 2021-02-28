@@ -1,5 +1,5 @@
 ---
-alias: [Agency Bond Definition]
+alias: [Agency Bond]
 created: 2021-02-28T20:46:35 (UTC +11:00)
 tags: [Agency Bond Definition, What Is an Agency Bond?]
 source: https://www.investopedia.com/terms/a/agencybonds.asp

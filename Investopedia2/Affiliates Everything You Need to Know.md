@@ -1,5 +1,5 @@
 ---
-alias: [Affiliate Definition]
+alias: [Affiliate]
 created: 2021-02-28T20:46:32 (UTC +11:00)
 tags: [Affiliate Definition, Affiliates: Everything You Need to Know]
 source: https://www.investopedia.com/terms/a/affiliate.asp

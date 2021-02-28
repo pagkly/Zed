@@ -1,5 +1,5 @@
 ---
-alias: [Arc Elasticity Definition]
+alias: [Arc Elasticity]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Arc Elasticity Definition, Understanding Arc Elasticity]
 source: https://www.investopedia.com/terms/a/arc-elasticity.asp

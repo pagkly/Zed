@@ -1,5 +1,5 @@
 ---
-alias: [Autonomous Expenditure Definition]
+alias: [Autonomous Expenditure]
 created: 2021-02-28T17:42:10 (UTC +11:00)
 tags: [Autonomous Expenditure Definition, Autonomous Expenditure Definition]
 source: https://www.investopedia.com/terms/a/autonomousexpenditure.asp

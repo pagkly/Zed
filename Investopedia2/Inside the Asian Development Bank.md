@@ -1,5 +1,5 @@
 ---
-alias: [Asian Development Bank Definition]
+alias: [Asian Development Bank]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Asian Development Bank Definition, Inside the Asian Development Bank]
 source: https://www.investopedia.com/terms/a/asian-development-bank.asp

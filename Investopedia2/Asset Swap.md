@@ -1,5 +1,5 @@
 ---
-alias: [Asset Swap Definition]
+alias: [Asset Swap]
 created: 2021-02-28T17:42:07 (UTC +11:00)
 tags: [Asset Swap Definition, Asset Swap]
 source: https://www.investopedia.com/terms/a/assetswap.asp

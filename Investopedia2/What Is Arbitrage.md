@@ -1,5 +1,5 @@
 ---
-alias: [Arbitrage Definition]
+alias: [Arbitrage]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Arbitrage Definition, What Is Arbitrage?]
 source: https://www.investopedia.com/terms/a/arbitrage.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Additional Paid-In Capital Definition]
+alias: [Additional Paid-In Capital]
 created: 2021-02-28T20:46:33 (UTC +11:00)
 tags: [Additional Paid-In Capital Definition, Paid-In Capital: What You Need to Know]
 source: https://www.investopedia.com/terms/a/additionalpaidincapital.asp

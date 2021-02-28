@@ -1,5 +1,5 @@
 ---
-alias: [Amended Return Definition]
+alias: [Amended Return]
 created: 2021-02-28T20:46:41 (UTC +11:00)
 tags: [Amended Return Definition, Amended Return]
 source: https://www.investopedia.com/terms/a/amendedreturn.asp

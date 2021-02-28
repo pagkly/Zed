@@ -1,5 +1,5 @@
 ---
-alias: [Appropriation Definition]
+alias: [Appropriation]
 created: 2021-02-28T16:45:03 (UTC +11:00)
 tags: [Appropriation Definition, How a Cash Flow Statement Shows a Company's Appropriation of Cash]
 source: https://www.investopedia.com/terms/a/appropriation.asp

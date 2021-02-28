@@ -1,5 +1,5 @@
 ---
-alias: [At Par Definition]
+alias: [At Par]
 created: 2021-02-28T17:42:17 (UTC +11:00)
 tags: [At Par Definition, What Does At Par Mean?]
 source: https://www.investopedia.com/terms/a/at-par.asp

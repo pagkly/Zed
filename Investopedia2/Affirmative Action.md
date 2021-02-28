@@ -1,5 +1,5 @@
 ---
-alias: [Affirmative Action Definition]
+alias: [Affirmative Action]
 created: 2021-02-28T20:46:36 (UTC +11:00)
 tags: [Affirmative Action Definition, Affirmative Action]
 source: https://www.investopedia.com/terms/a/affirmative-action.asp

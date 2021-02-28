@@ -1,5 +1,5 @@
 ---
-alias: [Asset/Liability Management Definition]
+alias: [Asset/Liability Management]
 created: 2021-02-28T17:42:15 (UTC +11:00)
 tags: [Asset/Liability Management Definition, How Asset/Liability Management Helps Companies Meet Their Obligations]
 source: https://www.investopedia.com/terms/a/asset-liabilitymanagement.asp

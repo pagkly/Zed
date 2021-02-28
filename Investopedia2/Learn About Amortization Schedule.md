@@ -1,5 +1,5 @@
 ---
-alias: [Amortization Schedule Definition]
+alias: [Amortization Schedule]
 created: 2021-02-28T16:45:09 (UTC +11:00)
 tags: [Amortization Schedule Definition, Learn About Amortization Schedule]
 source: https://www.investopedia.com/terms/a/amortization_schedule.asp

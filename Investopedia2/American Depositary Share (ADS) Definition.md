@@ -1,5 +1,5 @@
 ---
-alias: [American Depositary Share (ADS) Definition]
+alias: [American Depositary Share (ADS)]
 created: 2021-02-28T20:46:31 (UTC +11:00)
 tags: [American Depositary Share (ADS) Definition, American Depositary Share (ADS) Definition]
 source: https://www.investopedia.com/terms/a/ads.asp

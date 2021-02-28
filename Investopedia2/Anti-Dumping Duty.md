@@ -1,5 +1,5 @@
 ---
-alias: [Anti-Dumping Duty Definition]
+alias: [Anti-Dumping Duty]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Anti-Dumping Duty Definition, Anti-Dumping Duty]
 source: https://www.investopedia.com/terms/a/anti-dumping-duty.asp

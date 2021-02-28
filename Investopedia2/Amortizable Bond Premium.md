@@ -1,5 +1,5 @@
 ---
-alias: [Amortizable Bond Premium Definition]
+alias: [Amortizable Bond Premium]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Amortizable Bond Premium Definition, Amortizable Bond Premium]
 source: https://www.investopedia.com/terms/a/amortizable-bond-premium.asp

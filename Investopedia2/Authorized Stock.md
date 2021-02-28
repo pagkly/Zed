@@ -1,5 +1,5 @@
 ---
-alias: [Authorized Stock Definition]
+alias: [Authorized Stock]
 created: 2021-02-28T17:42:18 (UTC +11:00)
 tags: [Authorized Stock Definition, Authorized Stock]
 source: https://www.investopedia.com/terms/a/authorizedstock.asp

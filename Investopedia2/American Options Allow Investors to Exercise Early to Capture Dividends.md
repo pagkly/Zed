@@ -1,5 +1,5 @@
 ---
-alias: [American Option Definition]
+alias: [American Option]
 created: 2021-02-28T20:46:33 (UTC +11:00)
 tags: [American Option Definition, American Options Allow Investors to Exercise Early to Capture Dividends]
 source: https://www.investopedia.com/terms/a/americanoption.asp

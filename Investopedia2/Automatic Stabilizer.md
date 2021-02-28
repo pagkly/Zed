@@ -1,5 +1,5 @@
 ---
-alias: [Automatic Stabilizer Definition]
+alias: [Automatic Stabilizer]
 created: 2021-02-28T17:42:23 (UTC +11:00)
 tags: [Automatic Stabilizer Definition, Automatic Stabilizer]
 source: https://www.investopedia.com/terms/a/automaticstabilizer.asp

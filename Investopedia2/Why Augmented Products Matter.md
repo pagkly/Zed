@@ -1,5 +1,5 @@
 ---
-alias: [Augmented Product Definition]
+alias: [Augmented Product]
 created: 2021-02-28T17:42:12 (UTC +11:00)
 tags: [Augmented Product Definition, Why Augmented Products Matter]
 source: https://www.investopedia.com/terms/a/augmented-product.asp

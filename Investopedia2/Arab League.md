@@ -1,5 +1,5 @@
 ---
-alias: [Arab League Definition]
+alias: [Arab League]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Arab League Definition, Arab League]
 source: https://www.investopedia.com/terms/a/arab-league.asp

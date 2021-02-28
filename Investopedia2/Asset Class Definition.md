@@ -1,5 +1,5 @@
 ---
-alias: [Asset Class Definition]
+alias: [Asset Class]
 created: 2021-02-28T17:42:08 (UTC +11:00)
 tags: [Asset Class Definition, Asset Class Definition]
 source: https://www.investopedia.com/terms/a/assetclasses.asp

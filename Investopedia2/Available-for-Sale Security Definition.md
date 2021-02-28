@@ -1,5 +1,5 @@
 ---
-alias: [Available-for-Sale Security Definition]
+alias: [Available-for-Sale Security]
 created: 2021-02-28T17:42:07 (UTC +11:00)
 tags: [Available-for-Sale Security Definition, Available-for-Sale Security Definition]
 source: https://www.investopedia.com/terms/a/available-for-sale-security.asp

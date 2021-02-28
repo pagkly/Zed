@@ -1,5 +1,5 @@
 ---
-alias: [Aggregation Definition]
+alias: [Aggregation]
 created: 2021-02-28T20:46:35 (UTC +11:00)
 tags: [Aggregation Definition, Aggregation]
 source: https://www.investopedia.com/terms/a/aggregation.asp

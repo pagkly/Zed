@@ -1,5 +1,5 @@
 ---
-alias: [Asset-Based Lending Definition]
+alias: [Asset-Based Lending]
 created: 2021-02-28T17:42:13 (UTC +11:00)
 tags: [Asset-Based Lending Definition, The Inner Workings of Asset-Based Lending]
 source: https://www.investopedia.com/terms/a/assetbasedlending.asp

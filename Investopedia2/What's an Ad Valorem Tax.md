@@ -1,5 +1,5 @@
 ---
-alias: [Ad Valorem Tax Definition]
+alias: [Ad Valorem Tax]
 created: 2021-02-28T20:46:32 (UTC +11:00)
 tags: [Ad Valorem Tax Definition, What's an Ad Valorem Tax?]
 source: https://www.investopedia.com/terms/a/advaloremtax.asp

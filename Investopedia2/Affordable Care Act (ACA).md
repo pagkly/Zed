@@ -1,5 +1,5 @@
 ---
-alias: [Affordable Care Act (ACA) Definition]
+alias: [Affordable Care Act (ACA)]
 created: 2021-02-28T20:46:31 (UTC +11:00)
 tags: [Affordable Care Act (ACA) Definition, Affordable Care Act (ACA)]
 source: https://www.investopedia.com/terms/a/affordable-care-act.asp

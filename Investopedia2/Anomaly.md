@@ -1,5 +1,5 @@
 ---
-alias: [Anomaly Definition]
+alias: [Anomaly]
 created: 2021-02-28T16:45:03 (UTC +11:00)
 tags: [Anomaly Definition, Anomaly]
 source: https://www.investopedia.com/terms/a/anomaly.asp

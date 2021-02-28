@@ -1,5 +1,5 @@
 ---
-alias: [Average Cost Method Definition]
+alias: [Average Cost Method]
 created: 2021-02-28T17:42:20 (UTC +11:00)
 tags: [Average Cost Method Definition, Average Cost Method Definition]
 source: https://www.investopedia.com/terms/a/averagecostmethod.asp

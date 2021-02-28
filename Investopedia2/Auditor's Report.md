@@ -1,5 +1,5 @@
 ---
-alias: [Auditor's Report Definition]
+alias: [Auditor's Report]
 created: 2021-02-28T17:42:07 (UTC +11:00)
 tags: [Auditor's Report Definition, Auditor's Report]
 source: https://www.investopedia.com/terms/a/auditorsreport.asp

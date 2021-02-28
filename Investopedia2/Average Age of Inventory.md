@@ -1,5 +1,5 @@
 ---
-alias: [Average Age of Inventory Definition]
+alias: [Average Age of Inventory]
 created: 2021-02-28T17:42:23 (UTC +11:00)
 tags: [Average Age of Inventory Definition, Average Age of Inventory]
 source: https://www.investopedia.com/terms/a/average-age-of-inventory.asp

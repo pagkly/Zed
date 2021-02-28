@@ -1,5 +1,5 @@
 ---
-alias: [Agent Definition]
+alias: [Agent]
 created: 2021-02-28T20:46:37 (UTC +11:00)
 tags: [Agent Definition, What You Should Know About Agents]
 source: https://www.investopedia.com/terms/a/agent.asp

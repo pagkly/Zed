@@ -1,5 +1,5 @@
 ---
-alias: [Affiliated Companies Definition]
+alias: [Affiliated Companies]
 created: 2021-02-28T20:46:31 (UTC +11:00)
 tags: [Affiliated Companies Definition, Why Affiliated Companies Matter]
 source: https://www.investopedia.com/terms/a/affiliatedcompanies.asp

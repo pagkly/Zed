@@ -1,5 +1,5 @@
 ---
-alias: [Automatic Bill Payment Definition]
+alias: [Automatic Bill Payment]
 created: 2021-02-28T17:42:17 (UTC +11:00)
 tags: [Automatic Bill Payment Definition, Automatic Bill Payment]
 source: https://www.investopedia.com/terms/a/automatic-bill-payment.asp

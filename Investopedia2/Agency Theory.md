@@ -1,5 +1,5 @@
 ---
-alias: [Agency Theory Definition]
+alias: [Agency Theory]
 created: 2021-02-28T20:46:34 (UTC +11:00)
 tags: [Agency Theory Definition, Agency Theory]
 source: https://www.investopedia.com/terms/a/agencytheory.asp

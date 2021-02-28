@@ -1,5 +1,5 @@
 ---
-alias: [After-Hours Trading Definition]
+alias: [After-Hours Trading]
 created: 2021-02-28T20:46:34 (UTC +11:00)
 tags: [After-Hours Trading Definition, After-Hours Trading]
 source: https://www.investopedia.com/terms/a/afterhourstrading.asp

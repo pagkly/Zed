@@ -1,5 +1,5 @@
 ---
-alias: [Amalgamation Definition]
+alias: [Amalgamation]
 created: 2021-02-28T20:46:45 (UTC +11:00)
 tags: [Amalgamation Definition, Amalgamation: The Ins and Outs]
 source: https://www.investopedia.com/terms/a/amalgamation.asp

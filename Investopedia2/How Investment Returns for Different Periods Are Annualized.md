@@ -1,5 +1,5 @@
 ---
-alias: [Annualize Definition]
+alias: [Annualize]
 created: 2021-02-28T16:45:06 (UTC +11:00)
 tags: [Annualize Definition, How Investment Returns for Different Periods Are Annualized]
 source: https://www.investopedia.com/terms/a/annualize.asp

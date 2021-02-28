@@ -1,5 +1,5 @@
 ---
-alias: [Article 50 Definition]
+alias: [Article 50]
 created: 2021-02-28T16:45:06 (UTC +11:00)
 tags: [Article 50 Definition, Understanding Article 50]
 source: https://www.investopedia.com/terms/a/article-50.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Amortized Bond Definition]
+alias: [Amortized Bond]
 created: 2021-02-28T16:45:05 (UTC +11:00)
 tags: [Amortized Bond Definition, Amortized Bond]
 source: https://www.investopedia.com/terms/a/amortized-bond.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Asset Definition]
+alias: [Asset]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Asset Definition, What You Need to Know About Assets]
 source: https://www.investopedia.com/terms/a/asset.asp

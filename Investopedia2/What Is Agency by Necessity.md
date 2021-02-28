@@ -1,5 +1,5 @@
 ---
-alias: [Agency by Necessity Definition]
+alias: [Agency by Necessity]
 created: 2021-02-28T20:46:35 (UTC +11:00)
 tags: [Agency by Necessity Definition, What Is Agency by Necessity?]
 source: https://www.investopedia.com/terms/a/agency-by-necessity.asp

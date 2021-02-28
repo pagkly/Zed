@@ -1,5 +1,5 @@
 ---
-alias: [Arithmetic Mean Definition]
+alias: [Arithmetic Mean]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Arithmetic Mean Definition, Arithmetic Mean Definition]
 source: https://www.investopedia.com/terms/a/arithmeticmean.asp

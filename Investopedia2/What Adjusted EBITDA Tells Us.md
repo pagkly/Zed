@@ -1,5 +1,5 @@
 ---
-alias: [Adjusted EBITDA Definition]
+alias: [Adjusted EBITDA]
 created: 2021-02-28T20:46:31 (UTC +11:00)
 tags: [Adjusted EBITDA Definition, What Adjusted EBITDA Tells Us]
 source: https://www.investopedia.com/terms/a/adjusted-ebitda.asp

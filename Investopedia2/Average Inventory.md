@@ -1,5 +1,5 @@
 ---
-alias: [Average Inventory Definition]
+alias: [Average Inventory]
 created: 2021-02-28T17:42:23 (UTC +11:00)
 tags: [Average Inventory Definition, Average Inventory]
 source: https://www.investopedia.com/terms/a/average-inventory.asp

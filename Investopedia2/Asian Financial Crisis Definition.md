@@ -1,5 +1,5 @@
 ---
-alias: [Asian Financial Crisis Definition]
+alias: [Asian Financial Crisis]
 created: 2021-02-28T16:45:06 (UTC +11:00)
 tags: [Asian Financial Crisis Definition, Asian Financial Crisis Definition]
 source: https://www.investopedia.com/terms/a/asian-financial-crisis.asp

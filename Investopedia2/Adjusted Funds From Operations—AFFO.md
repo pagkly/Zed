@@ -1,5 +1,5 @@
 ---
-alias: [Adjusted Funds From Operations—AFFO Definition]
+alias: [Adjusted Funds From Operations—AFFO]
 created: 2021-02-28T20:46:33 (UTC +11:00)
 tags: [Adjusted Funds From Operations—AFFO Definition, Adjusted Funds From Operations—AFFO]
 source: https://www.investopedia.com/terms/a/affo.asp

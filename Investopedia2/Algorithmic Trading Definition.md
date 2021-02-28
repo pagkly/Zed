@@ -1,5 +1,5 @@
 ---
-alias: [Algorithmic Trading Definition]
+alias: [Algorithmic Trading]
 created: 2021-02-28T20:46:40 (UTC +11:00)
 tags: [Algorithmic Trading Definition, Algorithmic Trading Definition]
 source: https://www.investopedia.com/terms/a/algorithmictrading.asp

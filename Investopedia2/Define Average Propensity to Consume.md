@@ -1,5 +1,5 @@
 ---
-alias: [Average Propensity to Consume Definition]
+alias: [Average Propensity to Consume]
 created: 2021-02-28T17:42:17 (UTC +11:00)
 tags: [Average Propensity to Consume Definition, Define Average Propensity to Consume]
 source: https://www.investopedia.com/terms/a/average-propensity-to-consume.asp

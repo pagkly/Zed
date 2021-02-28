@@ -1,5 +1,5 @@
 ---
-alias: [Annualized Income Installment Method Definition]
+alias: [Annualized Income Installment Method]
 created: 2021-02-28T16:45:05 (UTC +11:00)
 tags: [Annualized Income Installment Method Definition, Annualized Income Installment Method]
 source: https://www.investopedia.com/terms/a/annualized-incomeinstallment-method.asp

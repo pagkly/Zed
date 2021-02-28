@@ -1,5 +1,5 @@
 ---
-alias: [Adjusted Closing Price Definition]
+alias: [Adjusted Closing Price]
 created: 2021-02-28T20:46:34 (UTC +11:00)
 tags: [Adjusted Closing Price Definition, Adjusted Closing Price Definition]
 source: https://www.investopedia.com/terms/a/adjusted_closing_price.asp

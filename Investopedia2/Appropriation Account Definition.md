@@ -1,5 +1,5 @@
 ---
-alias: [Appropriation Account Definition]
+alias: [Appropriation Account]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Appropriation Account Definition, Appropriation Account Definition]
 source: https://www.investopedia.com/terms/a/appropriation-account.asp

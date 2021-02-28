@@ -1,5 +1,5 @@
 ---
-alias: [Average Return Definition]
+alias: [Average Return]
 created: 2021-02-28T17:42:18 (UTC +11:00)
 tags: [Average Return Definition, Average Return Definition]
 source: https://www.investopedia.com/terms/a/averagereturn.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Additional Child Tax Credit Definition]
+alias: [Additional Child Tax Credit]
 created: 2021-02-28T20:46:32 (UTC +11:00)
 tags: [Additional Child Tax Credit Definition, Learn about the Additional Child Tax Credit]
 source: https://www.investopedia.com/terms/a/additional-child-tax-credit.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Actuarial Life Table Definition]
+alias: [Actuarial Life Table]
 created: 2021-02-28T20:46:31 (UTC +11:00)
 tags: [Actuarial Life Table Definition, Actuarial Life Table]
 source: https://www.investopedia.com/terms/a/actuarial-life-table.asp

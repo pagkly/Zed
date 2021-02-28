@@ -1,5 +1,5 @@
 ---
-alias: [Average Cost Basis Method Definition]
+alias: [Average Cost Basis Method]
 created: 2021-02-28T17:42:18 (UTC +11:00)
 tags: [Average Cost Basis Method Definition, Average Cost Basis Method]
 source: https://www.investopedia.com/terms/a/averagecostbasismethod.asp

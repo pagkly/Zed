@@ -1,5 +1,5 @@
 ---
-alias: [Add-On Interest Definition]
+alias: [Add-On Interest]
 created: 2021-02-28T20:46:32 (UTC +11:00)
 tags: [Add-On Interest Definition, Understanding Add-On Interest]
 source: https://www.investopedia.com/terms/a/add-on_interest.asp

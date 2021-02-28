@@ -1,5 +1,5 @@
 ---
-alias: [Allowance for Doubtful Accounts Definition]
+alias: [Allowance for Doubtful Accounts]
 created: 2021-02-28T20:46:36 (UTC +11:00)
 tags: [Allowance for Doubtful Accounts Definition, Allowance for Doubtful Accounts Definition]
 source: https://www.investopedia.com/terms/a/allowancefordoubtfulaccounts.asp

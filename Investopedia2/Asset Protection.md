@@ -1,5 +1,5 @@
 ---
-alias: [Asset Protection Definition]
+alias: [Asset Protection]
 created: 2021-02-28T17:42:08 (UTC +11:00)
 tags: [Asset Protection Definition, Asset Protection]
 source: https://www.investopedia.com/terms/a/asset-protection.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Audit Definition]
+alias: [Audit]
 created: 2021-02-28T17:42:17 (UTC +11:00)
 tags: [Audit Definition, What is an Audit?]
 source: https://www.investopedia.com/terms/a/audit.asp

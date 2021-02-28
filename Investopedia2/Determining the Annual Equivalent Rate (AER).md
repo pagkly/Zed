@@ -1,5 +1,5 @@
 ---
-alias: [Annual Equivalent Rate (AER) Definition]
+alias: [Annual Equivalent Rate (AER)]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Annual Equivalent Rate (AER) Definition, Determining the Annual Equivalent Rate (AER)]
 source: https://www.investopedia.com/terms/a/aer.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Allotment Definition]
+alias: [Allotment]
 created: 2021-02-28T20:46:39 (UTC +11:00)
 tags: [Allotment Definition, Allotment]
 source: https://www.investopedia.com/terms/a/allotment.asp

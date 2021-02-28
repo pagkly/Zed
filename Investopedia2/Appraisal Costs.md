@@ -1,5 +1,5 @@
 ---
-alias: [Appraisal Costs Definition]
+alias: [Appraisal Costs]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Appraisal Costs Definition, Appraisal Costs]
 source: https://www.investopedia.com/terms/a/appraisal-costs.asp

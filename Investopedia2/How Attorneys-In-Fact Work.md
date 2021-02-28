@@ -1,5 +1,5 @@
 ---
-alias: [Attorney-In-Fact Definition]
+alias: [Attorney-In-Fact]
 created: 2021-02-28T17:42:22 (UTC +11:00)
 tags: [Attorney-In-Fact Definition, How Attorneys-In-Fact Work]
 source: https://www.investopedia.com/terms/a/attorneyinfact.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Administrative Expenses Definition]
+alias: [Administrative Expenses]
 created: 2021-02-28T20:46:33 (UTC +11:00)
 tags: [Administrative Expenses Definition, Administrative Expenses Definition]
 source: https://www.investopedia.com/terms/a/administrative-expenses.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Assignment Definition]
+alias: [Assignment]
 created: 2021-02-28T17:42:07 (UTC +11:00)
 tags: [Assignment Definition, Assignment Definition]
 source: https://www.investopedia.com/terms/a/assignment.asp

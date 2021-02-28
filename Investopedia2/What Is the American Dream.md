@@ -1,5 +1,5 @@
 ---
-alias: [American Dream Definition]
+alias: [American Dream]
 created: 2021-02-28T20:46:40 (UTC +11:00)
 tags: [American Dream Definition, What Is the American Dream?]
 source: https://www.investopedia.com/terms/a/american-dream.asp

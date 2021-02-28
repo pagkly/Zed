@@ -1,5 +1,5 @@
 ---
-alias: [Assessed Value Definition]
+alias: [Assessed Value]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Assessed Value Definition, Learn What Assessed Value Means]
 source: https://www.investopedia.com/terms/a/assessedvalue.asp

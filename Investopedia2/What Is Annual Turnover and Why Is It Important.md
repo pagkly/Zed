@@ -1,5 +1,5 @@
 ---
-alias: [Annual Turnover Definition]
+alias: [Annual Turnover]
 created: 2021-02-28T16:45:03 (UTC +11:00)
 tags: [Annual Turnover Definition, What Is Annual Turnover and Why Is It Important?]
 source: https://www.investopedia.com/terms/a/annual-turnover.asp

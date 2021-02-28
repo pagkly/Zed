@@ -1,5 +1,5 @@
 ---
-alias: [Agency Problem Definition]
+alias: [Agency Problem]
 created: 2021-02-28T20:46:36 (UTC +11:00)
 tags: [Agency Problem Definition, Agency Problem Definition]
 source: https://www.investopedia.com/terms/a/agencyproblem.asp

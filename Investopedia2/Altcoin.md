@@ -1,5 +1,5 @@
 ---
-alias: [Altcoin Definition]
+alias: [Altcoin]
 created: 2021-02-28T20:46:36 (UTC +11:00)
 tags: [Altcoin Definition, Altcoin]
 source: https://www.investopedia.com/terms/a/altcoin.asp

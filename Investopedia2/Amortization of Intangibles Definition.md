@@ -1,5 +1,5 @@
 ---
-alias: [Amortization of Intangibles Definition]
+alias: [Amortization of Intangibles]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Amortization of Intangibles Definition, Amortization of Intangibles Definition]
 source: https://www.investopedia.com/terms/a/amortization-of-intangibles.asp

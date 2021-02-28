@@ -1,5 +1,5 @@
 ---
-alias: [Adverse Possession Definition]
+alias: [Adverse Possession]
 created: 2021-02-28T20:46:34 (UTC +11:00)
 tags: [Adverse Possession Definition, What Is Adverse Possession?]
 source: https://www.investopedia.com/terms/a/adverse-possession.asp

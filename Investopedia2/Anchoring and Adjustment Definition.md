@@ -1,5 +1,5 @@
 ---
-alias: [Anchoring and Adjustment Definition]
+alias: [Anchoring and Adjustment]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Anchoring and Adjustment Definition, Anchoring and Adjustment Definition]
 source: https://www.investopedia.com/terms/a/anchoring-and-adjustment.asp

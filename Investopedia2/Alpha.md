@@ -1,5 +1,5 @@
 ---
-alias: [Alpha Definition]
+alias: [Alpha]
 created: 2021-02-28T20:46:42 (UTC +11:00)
 tags: [Alpha Definition, Alpha]
 source: https://www.investopedia.com/terms/a/alpha.asp

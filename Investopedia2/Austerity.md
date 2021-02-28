@@ -1,5 +1,5 @@
 ---
-alias: [Austerity Definition]
+alias: [Austerity]
 created: 2021-02-28T17:42:23 (UTC +11:00)
 tags: [Austerity Definition, Austerity]
 source: https://www.investopedia.com/terms/a/austerity.asp

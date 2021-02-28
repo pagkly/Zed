@@ -1,5 +1,5 @@
 ---
-alias: [Ascending Channel Definition]
+alias: [Ascending Channel]
 created: 2021-02-28T16:45:06 (UTC +11:00)
 tags: [Ascending Channel Definition, Ascending Channel Definition]
 source: https://www.investopedia.com/terms/a/ascendingchannel.asp

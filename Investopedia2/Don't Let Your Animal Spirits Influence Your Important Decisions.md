@@ -1,5 +1,5 @@
 ---
-alias: [Animal Spirits Definition]
+alias: [Animal Spirits]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Animal Spirits Definition, Don't Let Your Animal Spirits Influence Your Important Decisions]
 source: https://www.investopedia.com/terms/a/animal-spirits.asp
