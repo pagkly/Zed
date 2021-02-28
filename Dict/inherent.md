@@ -1,3 +1,6 @@
+---
+alias: [inherent, yang melekat]
+---
 
 <div class="iframe-container"> 
 <!--iframe link is the link to the jsfiddle--> 

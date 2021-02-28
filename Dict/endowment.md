@@ -1,5 +1,5 @@
 ---
-alias: [endowment]
+alias: [endowment, sumbangan]
 ---
 
 <div class="iframe-container"> 
