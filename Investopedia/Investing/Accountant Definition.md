@@ -1,0 +1,35 @@
+## What Is an Accountant?
+
+The term accountant refers to a professional who performs accounting functions such as [account analysis](https://www.investopedia.com/terms/a/account-analysis.asp), [auditing,](https://www.investopedia.com/articles/professionals/120415/career-advice-accounting-vs-auditing.asp) or [financial statement analysis](https://www.investopedia.com/articles/professionals/120415/career-advice-accounting-vs-auditing.asp). Accountants work with accounting firms or internal account departments with large companies. They may also set up their own, individual practices. After meeting state-specific educational and testing requirements, these professionals are certified by national professional associations.
+
+### Key Takeaways
+
+-   An accountant is a professional who performs accounting functions such as account analysis, auditing, or financial statement analysis.
+-   Accountants can find employment with an accounting firm or a large company with an internal accounting department, or they can set up an individual practice. 
+-   Many accountants choose to become Certified Public Accountants because the CPA designation is considered the gold standard in the accounting profession.
+
+## Understanding Accountants
+
+Accountants are financial professionals who take charge of a series of [accounts](https://www.investopedia.com/terms/a/account.asp)—either private or public. These accounts may be owned by either a [corporation](https://www.investopedia.com/terms/c/corporation.asp) or individuals. As such, they may find work with corporations of different sizes—small to large—governments, different organizations like [non-profits](https://www.investopedia.com/terms/n/non-profitorganization.asp), or they may set up their own private practice and work with individuals who enlist their services.
+
+They perform multiple accounting duties which vary based on where they work. Accountants perform account analysis, review [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp), documents, and other reports to ensure they are accurate, conduct routine and annual [audits](https://www.investopedia.com/terms/a/audit.asp), review financial operations, prepare [tax returns](https://www.investopedia.com/terms/t/taxreturn.asp), advise on areas that require more efficiencies and cost-savings, and provide [risk analysis](https://www.investopedia.com/terms/r/risk-analysis.asp) and forecasting.
+
+An accountant's duties often depend on the type of educational background and designation they receive. Most professionals in the field possess bachelor's degrees and—if employed by a corporation—may require certification to move up within the firm. Certification requirements vary, with some roles requiring additional educational requirements above the bachelor's degree and successful completion of rigorous examinations. Accountants can have more than one designation. But the most common accounting designations are the [Certified Internal Auditor](https://www.investopedia.com/terms/c/certified-internal-auditor.asp) (CIA), [Certified Management Accountant](https://www.investopedia.com/terms/c/cma.asp) (CMA), and [Certified Public Accountant](https://www.investopedia.com/terms/c/cpa.asp) (CPA). A Certified Internal Auditor doesn't need to receive any license in order to practice, and neither do Certified Management Accountants.  
+
+Although your accountant may have more than one designation, the most common are Certified Internal Auditor, Certified Management Accountant, and Certified Public Accountant.
+
+Many accountants choose to become CPAs because the designation is considered the gold standard in the accounting profession. In the United States, certification requirements for accountants can vary from state to state. But there is one requirement that is uniform in every state—the passing of the Uniform Certified Public Accountant Examination. This is an exam that is written and graded by the [American Institute of Certified Public Accountants](https://www.investopedia.com/terms/a/american-institute-of-certified-public-accountants.asp) (AICPA).
+
+## Special Considerations
+
+Accountants must [abide by the ethical standards](https://www.investopedia.com/terms/a/accountant-responsibility.asp) and guiding principles of the region where they practice, such as the [International Financial Reporting Standards](https://www.investopedia.com/terms/i/ifrs.asp) (IFRS) or [Generally Accepted Accounting Principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP). The IFRS is a set of rules issued by the International Accounting Standards Board (IASB). These rules promote consistency and transparency in financial statements. GAAP, on the other hand, is a set of standards that accountants must adhere to when they complete financial statements for any [publicly-traded companies](https://www.investopedia.com/terms/p/publiccompany.asp).
+
+Certified public accounts are legally and ethically responsible to be honest, trustworthy, and to avoid negligence in their duties. CPAs have real influence over their clients, which means their judgment and work can affect not just an individual but an entire [company](https://www.investopedia.com/terms/c/company.asp)—including its employees, its board, and its investors. Accountants may be held liable for paying uninsured losses to creditors and investors in the case of a misstatement, negligence, or fraud.
+
+Accountants can be held liable under two different types of law—[common law](https://www.investopedia.com/terms/c/common-law.asp) and statutory law. Common law liability includes negligence, fraud, and [breach of contract](https://www.investopedia.com/terms/b/breach-of-contract.asp), while statutory law includes any state or federal securities laws. 
+
+## History of Accountants
+
+The first professional association for accountants, the American Association of Public Accountants, was formed in 1887, and CPAs were first licensed in 1896. Accounting grew as an important profession during the [industrial revolution](https://www.investopedia.com/terms/i/industrial-revolution.asp). This was largely due to the fact that businesses grew in complexity and the shareholders and bondholders, who were not necessarily a part of the company but were monetarily invested, wanted to know more about the financial well-being of the companies they were invested in. 
+
+After the [Great Depression](https://www.investopedia.com/terms/g/great_depression.asp) and the formation of the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC), all publicly traded companies were required to issue reports written by accredited accountants. This change increased the need for corporate accountants even further. Today, accountants remain a ubiquitous and crucial part of any business.
