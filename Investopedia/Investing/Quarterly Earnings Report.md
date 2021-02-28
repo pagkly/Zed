@@ -1,9 +1,9 @@
 ---
+alias: [Quarterly Earnings Report]
 created: 2021-02-28T11:55:17 (UTC +11:00)
-tags: []
+tags: [Quarterly Earnings Report]
 source: https://www.investopedia.com/terms/e/earningsreport.asp
-author: By
-Alicia Tuovila
+author: Alicia Tuovila
 ---
 
 # Quarterly Earnings Report Definition

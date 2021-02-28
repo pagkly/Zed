@@ -1,9 +1,9 @@
 ---
+alias: [Principles-Based Accounting, Rules-Based Accounting]
 created: 2021-02-25T20:48:22 (UTC +11:00)
-tags: []
+tags: [Principles-Based Accounting, Rules-Based Accounting]
 source: https://www.investopedia.com/ask/answers/06/rulesandpriciplesbasedaccounting.asp
-author: By
-Barclay Palmer
+author: Barclay Palmer
 ---
 
 # Principles-Based Accounting vs. Rules-Based Accounting

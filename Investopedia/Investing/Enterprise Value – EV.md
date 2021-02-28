@@ -1,9 +1,9 @@
 ---
+alias: [Enterprise Value, EV]
 created: 2021-02-28T12:07:22 (UTC +11:00)
-tags: []
+tags: [Enterprise Value, EV]
 source: https://www.investopedia.com/terms/e/enterprisevalue.asp
-author: By
-Jason Fernando
+author: Jason Fernando
 ---
 
 # Enterprise Value – EV Definition
