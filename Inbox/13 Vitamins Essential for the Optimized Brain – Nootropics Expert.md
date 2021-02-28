@@ -393,7 +393,7 @@ Recent research shows that _all four fat-soluble Vitamins A, D, E and K work syn
 
 Most multivitamins contain vitamin and mineral dosages based on the government published _‘Recommended Daily Allowance_’ (**_RDA_**).
 
-In the USA, the most recent RDA recommendations were published in 1968. But there is an inherent weakness in the RDA. Because it’s like the ‘authorities’ attempting to create a shirt that would fit 95 out of 100 people.
+In the USA, the most recent RDA recommendations were published in 1968. But there is an [[inherent]] weakness in the RDA. Because it’s like the ‘authorities’ attempting to create a shirt that would fit 95 out of 100 people.
 
 And consider this …
 

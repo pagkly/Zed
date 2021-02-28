@@ -40,7 +40,7 @@ The monetarist school of economic thought ties the economic cycle to the credit 
 
 Businesses and investors also need to manage their strategy over economic cycles, not so much to control them but to survive them and perhaps profit from them.
 
-The [Keynesian](https://www.investopedia.com/terms/k/keynesianeconomics.asp) approach argues that changes in aggregate demand, spurred by inherent instability and volatility in investment demand, is responsible for generating cycles. When, for whatever reason, business sentiment turns gloomy and investment slows, a self-fulfilling loop of economic malaise can result.
+The [Keynesian](https://www.investopedia.com/terms/k/keynesianeconomics.asp) approach argues that changes in aggregate demand, spurred by [[inherent]] instability and volatility in investment demand, is responsible for generating cycles. When, for whatever reason, business sentiment turns gloomy and investment slows, a self-fulfilling loop of economic malaise can result.
 
 Less spending means less demand, which induces businesses to lay off workers and cut back even further. Unemployed workers mean less consumer spending and the whole economy sours, with no clear solution other than government intervention and economic stimulus, according to the Keynesians.
 

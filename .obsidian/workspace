@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "580476e8dfe2c832",
+        "id": "0bd02ab396c18374",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dict/underlie.md",
-            "mode": "source"
+            "file": "Investopedia/Investing/Energy Risk Professional (ERP).md",
+            "mode": "preview"
           }
         }
       }
@@ -77,11 +77,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dict/underlie.md",
+                "file": "Investopedia/Investing/Energy Risk Professional (ERP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dict/underlie.md"
+                "file": "Investopedia/Investing/Energy Risk Professional (ERP).md"
               }
             }
           },
@@ -131,24 +131,22 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "Dict/underlie.md",
-    "Dict/inherent 1.md",
+    "Investopedia/Investing/Energy Risk Professional (ERP).md",
     "Dict/inherent.md",
+    "Dict/underlie.md",
     "Dict/underlies.md",
+    "Templates/Formatting/LaTeX/baqua.md",
+    "Dict/inherent 1.md",
     "Day Planners/Day Planner-20210227.md",
     "Day Planners/Day Planner-20210228.md",
     "Day Planners/Lincoln20210302.md",
-    "Day Planners/20210424.md",
-    "Templates/Formatting/ytif youtube iframe.md",
-    "Templates/Formatting/tif twitter iframe.md"
+    "Day Planners/20210424.md"
   ]
 }

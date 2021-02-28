@@ -22,7 +22,7 @@ Critically, an emerging market economy is transitioning from a low income, less 
 
 -   An emerging market economy is an economy that is in the process of becoming a developed economy.
 -   Emerging market economies typically feature a unified currency, stock market, and backing system, and are in the process of industrializing.
--   Emerging market economies can offer greater returns to investors due to rapid growth, but also offer greater exposure to some inherent risks due to their status.
+-   Emerging market economies can offer greater returns to investors due to rapid growth, but also offer greater exposure to some [[inherent]] risks due to their status.
 
 ## Understanding Emerging Market Economy
 
