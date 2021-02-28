@@ -38,7 +38,7 @@ If there is too much competition or supply, companies may look to acquisitions t
 
 Sometimes it can be more cost-efficient for a company to purchase another company that already has implemented a new technology successfully than to spend the time and money to develop the new technology itself.
 
-Officers of companies have a fiduciary duty to perform thorough due diligence of target companies before making any acquisition.
+Officers of companies have a fiduciary duty to perform thorough [[How Investors can Perform Due Diligence on a Company|due diligence]] of target companies before making any acquisition.
 
 ## Acquisition, Takeover, or Merger?
 
@@ -65,7 +65,7 @@ Before making an acquisition, it is imperative for a company to evaluate whether
 -   **Is the price right?** The metrics investors use to value an acquisition candidate vary by industry. When acquisitions fail, it's often because the asking price for the target company exceeds these metrics.
 -   **Examine the debt load**. A target company with an unusually high level of liabilities should be viewed as a warning of potential problems ahead.
 -   **Undue litigation**. Although lawsuits are common in business, a good acquisition candidate is not dealing with a level of litigation that exceeds what is reasonable and normal for its size and industry.
--   **Scrutinize the financials.** A good acquisition target will have clear, well-organized financial statements, which allows the acquirer to exercise due diligence smoothly. Complete and transparent financials also help to prevent unwanted surprises after the acquisition is complete.
+-   **Scrutinize the financials.** A good acquisition target will have clear, well-organized financial statements, which allows the acquirer to exercise [[How Investors can Perform Due Diligence on a Company|due diligence]] smoothly. Complete and transparent financials also help to prevent unwanted surprises after the acquisition is complete.
 
 ## The 1990s Acquisitions Frenzy
 

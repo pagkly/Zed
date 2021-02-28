@@ -1,9 +1,9 @@
 ---
+alias: [Due Diligence]
 created: 2021-02-25T22:36:09 (UTC +11:00)
-tags: []
+tags: [Due Diligence]
 source: https://www.investopedia.com/terms/d/duediligence.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Due Diligence Definition

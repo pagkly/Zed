@@ -37,7 +37,7 @@ The Enron bankruptcy, at $63 billion in assets, was the largest on record at the
 
 Initially, much of the finger pointing was directed at the SEC, which the U.S. Senate found complicit for its systemic and catastrophic failure of oversight. The Senate's investigation determined that had the SEC reviewed any of Enron’s post-1997 annual reports, it would have seen the red flags and possibly prevented the enormous losses suffered by employees and investors.
 
-The credit rating agencies were found to be equally complicit in their failure to conduct proper due diligence before issuing an investment-grade rating on Enron’s bonds just before its bankruptcy filing. Meanwhile, the investment banks—through manipulation or outright deception—had helped Enron receive positive reports from stock analysts, which promoted its shares and brought billions of dollars of investment into the company. It was a quid pro quo in which Enron paid the investment banks millions of dollars for their services in return for their backing.
+The credit rating agencies were found to be equally complicit in their failure to conduct proper [[How Investors can Perform Due Diligence on a Company|due diligence]] before issuing an investment-grade rating on Enron’s bonds just before its bankruptcy filing. Meanwhile, the investment banks—through manipulation or outright deception—had helped Enron receive positive reports from stock analysts, which promoted its shares and brought billions of dollars of investment into the company. It was a quid pro quo in which Enron paid the investment banks millions of dollars for their services in return for their backing.
 
 ## The Legacy of Enron
 

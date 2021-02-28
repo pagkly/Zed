@@ -1,9 +1,9 @@
 ---
+alias: [Enterprise Value-to-Sales, EV/Sales]
 created: 2021-02-28T12:07:21 (UTC +11:00)
-tags: []
+tags: [Enterprise Value-to-Sales, EV/Sales]
 source: https://www.investopedia.com/terms/e/enterprisevaluesales.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Enterprise Value-to-Sales – EV/Sales

@@ -59,7 +59,7 @@ EV/EBITDA also has a number of drawbacks, however:
 -   If [working capital](https://www.investopedia.com/terms/w/workingcapital.asp) is growing, EBITDA will overstate cash flows from operations (CFO or OCF). Further, this measure ignores how different revenue recognition policies can affect a company's OCF.
 -   Because free cash flow to the firm captures the number of [capital expenditures](https://www.investopedia.com/terms/c/capitalexpenditure.asp) (CapEx), it is more strongly linked with valuation theory than EBITDA. EBITDA will be a generally adequate measure if capital expenses equal depreciation expenses.
 
-Another commonly used multiple for determining the relative value of firms is the enterprise value to sales ratio or [EV/sales](https://www.investopedia.com/terms/e/enterprisevaluesales.asp). EV/sales is regarded as a more accurate measure than the price/sales ratio since it takes into account the value and amount of debt a company must repay at some point.
+Another commonly used multiple for determining the relative value of firms is the enterprise value to sales ratio or [EV/sales](https://www.investopedia.com/terms/e/enterprisevaluesales.asp). [[How to Use the Enterprise Value-to-Sales Multiple|EV/sales]] is regarded as a more accurate measure than the price/sales ratio since it takes into account the value and amount of debt a company must repay at some point.
 
 Generally, the lower the EV/sales multiple, the more attractive or undervalued the company is believed to be valued. The EV/sales ratio can actually be negative at times when the cash held by a company is more than the market capitalization and debt value, implying that the company can essentially be by itself with its own cash.
 

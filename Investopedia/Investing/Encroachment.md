@@ -40,7 +40,7 @@ Structural encroachment occurs when a property owner builds or extends a structu
 
 Since a property survey outlines the physical layouts of a property including the measurement of metes and bounds, wrong information contained in the survey may lead to a physical intrusion on a neighbor’s land. Unintentional encroachment problems are sometimes resolved with a simple conversation between both parties. However, if the disagreement on whether someone’s property right was violated persists, the issue may be taken to court for a resolution.
 
-While encroachment may occur without the knowledge of the violator, property owners should carry out [due diligence](https://www.investopedia.com/terms/d/duediligence.asp) before erecting any structures that may fall close to the boundary that separates their property from another. Property owners wishing to make changes near their property lines may want to talk to their neighbors or have a land survey done to make sure the work falls within their own property boundaries.
+While encroachment may occur without the knowledge of the violator, property owners should carry out [[[How Investors can Perform Due Diligence on a Company|due diligence]]](https://www.investopedia.com/terms/d/duediligence.asp) before erecting any structures that may fall close to the boundary that separates their property from another. Property owners wishing to make changes near their property lines may want to talk to their neighbors or have a land survey done to make sure the work falls within their own property boundaries.
 
 ## Encroachment vs. Easement
 

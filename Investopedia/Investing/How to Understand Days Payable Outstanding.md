@@ -1,9 +1,9 @@
 ---
+alias: [Days Payable Outstanding, DPO]
 created: 2021-02-25T22:33:17 (UTC +11:00)
-tags: []
+tags: [Days Payable Outstanding, DPO]
 source: https://www.investopedia.com/terms/d/dpo.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Days Payable Outstanding – DPO Definition
