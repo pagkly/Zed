@@ -1,9 +1,9 @@
 ---
+alias: [Efficient Market Hypothesis, EMH]
 created: 2021-02-28T12:07:20 (UTC +11:00)
-tags: []
+tags: [Efficient Market Hypothesis, EMH]
 source: https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp
-author: By
-Lucas Downey
+author: Lucas Downey
 ---
 
 # Efficient Market Hypothesis (EMH) Definition

@@ -127,7 +127,7 @@ If you are saving for retirement, you may have the option of contributing a set 
 
 ## Building a Budget
 
-In general, traditional budgeting starts with tracking expenses, eliminating debt, and once the budget is balanced, building an emergency fund. But to speed up the process, you could start by building a partial emergency fund. This emergency fund acts as a buffer as the rest of the budget is put in place and should replace the use of credit cards for emergency situations.
+In general, traditional budgeting starts with tracking expenses, eliminating debt, and once the budget is balanced, building an [[Emergency Fund]]. But to speed up the process, you could start by building a partial [[Emergency Fund]]. This [[Emergency Fund]] acts as a buffer as the rest of the budget is put in place and should replace the use of credit cards for emergency situations.
 
 The key is to build the fund at regular intervals, consistently devoting a certain percentage of each paycheck toward it, and if possible, putting in whatever you can spare on top. This will get you to think about your spending, too.
 
@@ -135,7 +135,7 @@ The key is to build the fund at regular intervals, consistently devoting a certa
 
 You should only use the emergency money for true emergencies: like when you drive to work but your muffler stays at home, your water heater dies, or a leak springs in your roof.
 
-You would save money if you used your emergency fund to eliminate [credit card debt](https://www.investopedia.com/terms/c/credit-card-debt.asp), but the purpose of the fund is to prevent you from having to use your credit card for paying for unexpected expenses. With a proper emergency fund, you will not need your credit card to keep you afloat when something goes wrong.
+You would save money if you used your [[Emergency Fund]] to eliminate [credit card debt](https://www.investopedia.com/terms/c/credit-card-debt.asp), but the purpose of the fund is to prevent you from having to use your credit card for paying for unexpected expenses. With a proper [[Emergency Fund]], you will not need your credit card to keep you afloat when something goes wrong.
 
 ## Downsize and Substitute
 
@@ -147,7 +147,7 @@ Although eliminating expenses entirely is the fastest way to a solid budget, sub
 
 ## Find New Sources of Income
 
-Why isn't this the first step? If you simply increase your income without a budget to handle the extra cash properly, the gains tend to slip through the cracks and vanish. Once you have your budget in place and have more money coming in than going out (along with the buffer of an emergency fund), you can start investing to create more income.
+Why isn't this the first step? If you simply increase your income without a budget to handle the extra cash properly, the gains tend to slip through the cracks and vanish. Once you have your budget in place and have more money coming in than going out (along with the buffer of an [[Emergency Fund]]), you can start investing to create more income.
 
 It is better to have no debt before you begin investing. If you are young, however, the rewards of investing in [higher-risk, high-return](https://www.investopedia.com/terms/m/mutualfund.asp) vehicles like stocks can outweigh most low-interest debt over time.
 

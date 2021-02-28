@@ -1,9 +1,9 @@
 ---
+alias: [Emergency Banking Act of 1933]
 created: 2021-02-28T12:07:21 (UTC +11:00)
-tags: []
+tags: [Emergency Banking Act of 1933]
 source: https://www.investopedia.com/terms/e/emergencybankingact.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Emergency Banking Act of 1933 Definition

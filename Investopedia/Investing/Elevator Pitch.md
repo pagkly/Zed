@@ -2,8 +2,7 @@
 created: 2021-02-28T12:07:22 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/e/elevatorpitch.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Elevator Pitch
