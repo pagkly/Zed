@@ -49,7 +49,7 @@ Basic services that are protected under the EFTA include:1
 -   **Pay-by-Phone**: You may authorize your financial institution to make payments or transfer funds via telephone. Banks are required to confirm your identity by asking account-specific questions.
 -   **Internet**: You can access your accounts via financial institutions’ online portals to monitor activity, check balances, transfer funds, and pay bills.
 -   **Debit Card**: [Debit cards](https://www.investopedia.com/terms/d/debitcard.asp) issued by financial institutions let consumers make purchases online or at a retail store or business.
--   **Electronic Check Conversion**: This feature enables a business to convert a paper check into an electronic payment by scanning the check and capturing the bank name, address, account number, and routing number. After the paper check is scanned into an electronic payment, it becomes null and void.
+-   **[[Electronic Checks|Electronic Check]] Conversion**: This feature enables a business to convert a paper check into an electronic payment by scanning the check and capturing the bank name, address, account number, and routing number. After the paper check is scanned into an electronic payment, it becomes null and void.
 
 You have the right to stop pre-authorized transfers at any time, regardless of any opposing contract terms.
 

@@ -1,5 +1,5 @@
 ---
-alias: 
+alias: [Elasticity]
 created: 2021-02-28T12:07:21 (UTC +11:00)
 tags: [Elasticity]
 source: https://www.investopedia.com/terms/e/elastic.asp

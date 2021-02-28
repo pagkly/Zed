@@ -1,9 +1,9 @@
 ---
+alias: [Electronic Check]
 created: 2021-02-28T12:07:22 (UTC +11:00)
-tags: []
+tags: [Electronic Check]
 source: https://www.investopedia.com/terms/e/electroniccheck.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Electronic Check Definition

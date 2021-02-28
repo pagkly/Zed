@@ -1,9 +1,9 @@
 ---
+alias: [Elective-Deferral Contribution]
 created: 2021-02-28T12:07:22 (UTC +11:00)
-tags: []
+tags: [Elective-Deferral Contribution]
 source: https://www.investopedia.com/terms/e/electivedeferralcontribution.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Elective-Deferral Contribution Definition
