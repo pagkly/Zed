@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia/Investing/CV .md",
-            "mode": "source"
+            "file": "Investopedia/Investing/COGS.md",
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia/Investing/CV .md",
+                "file": "Investopedia/Investing/COGS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia/Investing/CV .md"
+                "file": "Investopedia/Investing/COGS.md"
               }
             }
           },
@@ -138,6 +138,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia/Investing/COGS.md",
+    "Investopedia/Investing/Collateral.md",
     "Investopedia/Investing/CV .md",
     "Investopedia/Investing/Current Ratio.md",
     "Investopedia/Investing/CPI .md",
@@ -145,8 +147,6 @@
     "Investopedia/Investing/Conflict Theory .md",
     "Investopedia/Investing/Compound Interest.md",
     "Investopedia/Investing/Compound Annual Growth Rate (CAGR).md",
-    "Investopedia/Investing/Comparative Advantage.md",
-    "Investopedia/Investing/Compound Annual Growth Rate.md",
-    "Investopedia/Investing/CAPM.md"
+    "Investopedia/Investing/Comparative Advantage.md"
   ]
 }

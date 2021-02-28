@@ -3,8 +3,7 @@ alias: [Cost of Goods Sold, COGS]
 created: 2021-02-25T22:32:38 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/c/cogs.asp
-author: By
-Jason Fernando
+author: Jason Fernando
 ---
 
 # Cost of Goods Sold – COGS Definition

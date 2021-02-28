@@ -58,7 +58,7 @@ DPO value also forms an integral part of the formula used for calculating the [c
 
 As a historical example, the leading retail corporation Walmart ([WMT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wmt)) had accounts payable worth $46.09 billion and [[COGS]] worth $373.4 billion for the fiscal year 2018.1 These figures are available in the annual [financial statement](https://www.investopedia.com/terms/f/financial-statements.asp) and [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) of the company. Taking the number of days as 365 for annual calculation, the DPO for Walmart comes to \[ 46.09 / (373.4/365) \] = 45.05 days.
 
-Similar calculations for technology leader Microsoft ([MSFT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=msft)) which had $8.62 billion as AP and $38.4 billion as COGS leads to DPO value of 80.73 days.2
+Similar calculations for technology leader Microsoft ([MSFT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=msft)) which had $8.62 billion as AP and $38.4 billion as [[COGS]] leads to DPO value of 80.73 days.2
 
 It indicates that during the fiscal year ending 2018, Walmart paid its invoices in around 45 days after receiving the bills, while Microsoft took around 80 days, on an average, to pay its bills.
 
