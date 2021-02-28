@@ -1,7 +1,7 @@
 ---
 alias: [Enhanced Oil Recovery, EOR]
 created: 2021-02-28T12:07:22 (UTC +11:00)
-tags: []
+tags: [Enhanced Oil Recovery, EOR]
 source: https://www.investopedia.com/terms/e/enhanced-oil-recovery.asp
 author: Jason Fernando
 ---

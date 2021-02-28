@@ -1,9 +1,9 @@
 ---
+alias: [End-to-End]
 created: 2021-02-28T12:07:21 (UTC +11:00)
-tags: []
+tags: [End-to-End]
 source: https://www.investopedia.com/terms/e/end-to-end.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # End-to-End Definition
