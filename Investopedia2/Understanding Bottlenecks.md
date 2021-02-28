@@ -3,7 +3,7 @@ alias: [Bottleneck]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bottleneck Definition, Understanding Bottlenecks]
 source: https://www.investopedia.com/terms/b/bottleneck.asp
-author: ByAdam Barone
+author: Adam Barone
 ---
 
 # Bottleneck Definition

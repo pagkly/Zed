@@ -3,7 +3,7 @@ alias: [Barrel of Oil Equivalent (BOE))]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Barrel of Oil Equivalent (BOE)) Definition, Barrel of Oil Equivalent (BOE)]
 source: https://www.investopedia.com/terms/b/barrelofoilequivalent.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Barrel of Oil Equivalent (BOE)) Definition

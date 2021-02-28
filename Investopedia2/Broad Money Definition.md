@@ -3,7 +3,7 @@ alias: [Broad Money]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Broad Money Definition, Broad Money Definition]
 source: https://www.investopedia.com/terms/b/broad-money.asp
-author: ByDaniel Liberto
+author: Daniel Liberto
 ---
 
 # Broad Money Definition

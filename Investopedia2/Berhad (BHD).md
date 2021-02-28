@@ -3,7 +3,7 @@ alias: [BHD (Berhad)]
 created: 2021-02-28T21:37:43 (UTC +11:00)
 tags: [BHD (Berhad) Definition, Berhad (BHD)]
 source: https://www.investopedia.com/terms/b/bhd-berhad.asp
-author: ByCaroline Banton
+author: Caroline Banton
 ---
 
 # BHD (Berhad) Definition

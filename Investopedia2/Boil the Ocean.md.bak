@@ -1,10 +1,9 @@
 ---
-alias: [Boil the Ocean Definition]
+alias: [Boil the Ocean]
 created: 2021-02-28T22:07:34 (UTC +11:00)
 tags: [Boil the Ocean Definition, Boil the Ocean]
 source: https://www.investopedia.com/terms/b/boil-the-ocean.asp
-author: By
-Christina Majaski
+author: ByChristina Majaski
 ---
 
 # Boil the Ocean Definition

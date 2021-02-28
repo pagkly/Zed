@@ -3,7 +3,7 @@ alias: [Brexit]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Brexit Definition, Brexit]
 source: https://www.investopedia.com/terms/b/brexit.asp
-author: ByWill Kenton
+author: Will Kenton
 ---
 
 # Brexit Definition

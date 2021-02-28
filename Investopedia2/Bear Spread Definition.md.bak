@@ -1,10 +1,9 @@
 ---
-alias: [Bear Spread Definition]
+alias: [Bear Spread]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Bear Spread Definition, Bear Spread Definition]
 source: https://www.investopedia.com/terms/b/bearspread.asp
-author: By
-Akhilesh Ganti
+author: ByAkhilesh Ganti
 ---
 
 # Bear Spread Definition

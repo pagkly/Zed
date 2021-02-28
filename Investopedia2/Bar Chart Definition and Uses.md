@@ -3,7 +3,7 @@ alias: [Bar Chart Definition and Uses]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Bar Chart Definition and Uses, Bar Chart Definition and Uses]
 source: https://www.investopedia.com/terms/b/barchart.asp
-author: ByCory Mitchell
+author: Cory Mitchell
 ---
 
 # Bar Chart Definition and Uses

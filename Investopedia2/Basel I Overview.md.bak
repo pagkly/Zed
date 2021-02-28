@@ -1,10 +1,9 @@
 ---
-alias: [Basel I Definition]
+alias: [Basel I]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Basel I Definition, Basel I Overview]
 source: https://www.investopedia.com/terms/b/basel_i.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Basel I Definition

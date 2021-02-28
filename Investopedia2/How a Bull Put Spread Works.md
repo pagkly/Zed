@@ -3,7 +3,7 @@ alias: [Bull Put Spread]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Bull Put Spread Definition, How a Bull Put Spread Works]
 source: https://www.investopedia.com/terms/b/bullputspread.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Bull Put Spread Definition

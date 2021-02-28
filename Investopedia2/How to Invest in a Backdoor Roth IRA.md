@@ -3,7 +3,7 @@ alias: [Backdoor Roth IRA]
 created: 2021-02-28T21:18:51 (UTC +11:00)
 tags: [Backdoor Roth IRA Definition, How to Invest in a Backdoor Roth IRA]
 source: https://www.investopedia.com/terms/b/backdoor-roth-ira.asp
-author: ByElizabeth MacBride
+author: Elizabeth MacBride
 ---
 
 # Backdoor Roth IRA Definition

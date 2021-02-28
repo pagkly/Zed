@@ -1,10 +1,9 @@
 ---
-alias: [Broker-Dealer Definition]
+alias: [Broker-Dealer]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Broker-Dealer Definition, Broker-Dealer Definition]
 source: https://www.investopedia.com/terms/b/broker-dealer.asp
-author: By
-Adam Hayes
+author: ByAdam Hayes
 ---
 
 # Broker-Dealer Definition

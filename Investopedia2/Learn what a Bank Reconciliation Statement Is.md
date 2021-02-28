@@ -3,7 +3,7 @@ alias: [Bank Reconciliation Statement]
 created: 2021-02-28T21:21:23 (UTC +11:00)
 tags: [Bank Reconciliation Statement Definition, Learn what a Bank Reconciliation Statement Is]
 source: https://www.investopedia.com/terms/b/bankreconciliation.asp
-author: ByJulia Kagan
+author: Julia Kagan
 ---
 
 # Bank Reconciliation Statement Definition

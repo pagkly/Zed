@@ -1,10 +1,9 @@
 ---
-alias: [Brand Definition]
+alias: [Brand]
 created: 2021-02-28T22:07:33 (UTC +11:00)
 tags: [Brand Definition, Brand]
 source: https://www.investopedia.com/terms/b/brand.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Brand Definition

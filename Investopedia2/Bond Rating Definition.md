@@ -3,7 +3,7 @@ alias: [Bond Rating]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bond Rating Definition, Bond Rating Definition]
 source: https://www.investopedia.com/terms/b/bondrating.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Bond Rating Definition

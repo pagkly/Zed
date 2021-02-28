@@ -3,7 +3,7 @@ alias: [Arm's Length Transaction]
 created: 2021-02-28T16:45:03 (UTC +11:00)
 tags: [Arm's Length Transaction Definition, What Does an Arm's Length Sale Mean?]
 source: https://www.investopedia.com/terms/a/armslength.asp
-author: By Olivia LaBarre
+author:  Olivia LaBarre
 ---
 
 # Arm's Length Transaction Definition

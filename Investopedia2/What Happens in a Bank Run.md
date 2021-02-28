@@ -3,7 +3,7 @@ alias: [Bank Run]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Bank Run Definition, What Happens in a Bank Run]
 source: https://www.investopedia.com/terms/b/bankrun.asp
-author: ByWill Kenton
+author: Will Kenton
 ---
 
 # Bank Run Definition

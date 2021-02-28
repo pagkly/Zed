@@ -3,7 +3,7 @@ alias: [Brick-and-Mortar]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Brick-and-Mortar Definition, How Brick-and-Mortar Stores Are Performing and Adapting]
 source: https://www.investopedia.com/terms/b/brickandmortar.asp
-author: ByChris B. Murphy
+author: Chris B. Murphy
 ---
 
 # Brick-and-Mortar Definition

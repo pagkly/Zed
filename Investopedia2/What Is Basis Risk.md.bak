@@ -3,8 +3,7 @@ alias: [Basis Risk]
 created: 2021-02-28T21:37:43 (UTC +11:00)
 tags: [Basis Risk, What Is Basis Risk?]
 source: https://www.investopedia.com/terms/b/basisrisk.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Basis Risk

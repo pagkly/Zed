@@ -1,10 +1,9 @@
 ---
-alias: [Branch Accounting Definition]
+alias: [Branch Accounting]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Branch Accounting Definition, How Branch Accounting Works]
 source: https://www.investopedia.com/terms/b/branch-accounting.asp
-author: By
-Troy Segal
+author: ByTroy Segal
 ---
 
 # Branch Accounting Definition

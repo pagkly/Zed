@@ -1,10 +1,9 @@
 ---
-alias: [Business Process Outsourcing (BPO) Definition]
+alias: [Business Process Outsourcing (BPO)]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Business Process Outsourcing (BPO) Definition, What You Should Know About Business Process Outsourcing]
 source: https://www.investopedia.com/terms/b/business-process-outsourcing.asp
-author: By
-Andrew Bloomenthal
+author: ByAndrew Bloomenthal
 ---
 
 # Business Process Outsourcing (BPO) Definition

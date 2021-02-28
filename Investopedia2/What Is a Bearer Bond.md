@@ -3,7 +3,7 @@ alias: [Bearer Bond]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Bearer Bond Definition, What Is a Bearer Bond?]
 source: https://www.investopedia.com/terms/b/bearer_bond.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Bearer Bond Definition

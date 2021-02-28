@@ -3,7 +3,7 @@ alias: [Bureaucracy]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Bureaucracy Definition, Learn About the Complex Nature of a Bureaucracy]
 source: https://www.investopedia.com/terms/b/bureaucracy.asp
-author: ByCaroline Banton
+author: Caroline Banton
 ---
 
 # Bureaucracy Definition

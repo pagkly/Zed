@@ -3,7 +3,7 @@ alias: [Base Year]
 created: 2021-02-28T21:21:27 (UTC +11:00)
 tags: [Base Year, Base Year]
 source: https://www.investopedia.com/terms/b/base-year.asp
-author: ByWill Kenton
+author: Will Kenton
 ---
 
 # Base Year

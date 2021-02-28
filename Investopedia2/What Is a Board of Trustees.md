@@ -3,7 +3,7 @@ alias: [What Is a Board of Trustees?]
 created: 2021-02-28T22:07:33 (UTC +11:00)
 tags: [What Is a Board of Trustees?, What Is a Board of Trustees?]
 source: https://www.investopedia.com/terms/b/boardoftrustees.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # What Is a Board of Trustees?

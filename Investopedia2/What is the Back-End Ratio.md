@@ -3,7 +3,7 @@ alias: [Back-End Ratio]
 created: 2021-02-28T21:18:49 (UTC +11:00)
 tags: [Back-End Ratio Definition, What is the Back-End Ratio?]
 source: https://www.investopedia.com/terms/b/back-endratio.asp
-author: ByWill Kenton
+author: Will Kenton
 ---
 
 # Back-End Ratio Definition

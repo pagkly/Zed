@@ -1,10 +1,9 @@
 ---
-alias: [BP Oil Spill Definition]
+alias: [BP Oil Spill]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [BP Oil Spill Definition, BP Oil Spill]
 source: https://www.investopedia.com/terms/b/bp-oil-spill.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # BP Oil Spill Definition

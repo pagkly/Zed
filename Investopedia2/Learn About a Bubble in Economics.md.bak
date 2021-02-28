@@ -1,10 +1,9 @@
 ---
-alias: [Bubble Definition]
+alias: [Bubble]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Bubble Definition, Learn About a Bubble in Economics]
 source: https://www.investopedia.com/terms/b/bubble.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Bubble Definition

@@ -1,10 +1,9 @@
 ---
-alias: [Backwardation Definition]
+alias: [Backwardation]
 created: 2021-02-28T21:18:49 (UTC +11:00)
 tags: [Backwardation Definition, How Backwardation Works]
 source: https://www.investopedia.com/terms/b/backwardation.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Backwardation Definition

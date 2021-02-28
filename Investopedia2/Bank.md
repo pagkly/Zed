@@ -3,7 +3,7 @@ alias: [Bank]
 created: 2021-02-28T21:18:49 (UTC +11:00)
 tags: [Bank Definition, Bank]
 source: https://www.investopedia.com/terms/b/bank.asp
-author: ByAdam Barone
+author: Adam Barone
 ---
 
 # Bank Definition

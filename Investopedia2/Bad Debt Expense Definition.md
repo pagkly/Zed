@@ -3,7 +3,7 @@ alias: [Bad Debt Expense]
 created: 2021-02-28T21:18:51 (UTC +11:00)
 tags: [Bad Debt Expense Definition, Bad Debt Expense Definition]
 source: https://www.investopedia.com/terms/b/bad-debt-expense.asp
-author: ByAlicia Tuovila
+author: Alicia Tuovila
 ---
 
 # Bad Debt Expense Definition

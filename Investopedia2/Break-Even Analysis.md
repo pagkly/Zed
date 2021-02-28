@@ -3,7 +3,7 @@ alias: [Break-Even Analysis]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Break-Even Analysis Definition, Break-Even Analysis]
 source: https://www.investopedia.com/terms/b/breakevenanalysis.asp
-author: ByAdam Hayes
+author: Adam Hayes
 ---
 
 # Break-Even Analysis Definition

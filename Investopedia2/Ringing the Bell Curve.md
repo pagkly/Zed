@@ -3,7 +3,7 @@ alias: [Bell Curve]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Bell Curve Definition, Ringing the Bell Curve]
 source: https://www.investopedia.com/terms/b/bell-curve.asp
-author: ByAndrew Bloomenthal
+author: Andrew Bloomenthal
 ---
 
 # Bell Curve Definition

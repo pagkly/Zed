@@ -3,7 +3,7 @@ alias: [Business Continuity Planning (BCP)]
 created: 2021-02-28T22:03:24 (UTC +11:00)
 tags: [Business Continuity Planning (BCP) Definition, What You Should Know About Business Continuity Planning (BCP)]
 source: https://www.investopedia.com/terms/b/business-continuity-planning.asp
-author: ByWill Kenton
+author: Will Kenton
 ---
 
 # Business Continuity Planning (BCP) Definition

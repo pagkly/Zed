@@ -3,8 +3,7 @@ alias: [Benjamin Graham]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Benjamin Graham, Benjamin Graham]
 source: https://www.investopedia.com/terms/b/bengraham.asp
-author: By
-Julia Kagan
+author: ByJulia Kagan
 ---
 
 # Benjamin Graham

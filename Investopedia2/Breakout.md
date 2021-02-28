@@ -3,7 +3,7 @@ alias: [Breakout Definition and Example]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Breakout Definition and Example, Breakout]
 source: https://www.investopedia.com/terms/b/breakout.asp
-author: ByCory Mitchell
+author: Cory Mitchell
 ---
 
 # Breakout Definition and Example

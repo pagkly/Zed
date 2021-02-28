@@ -3,7 +3,7 @@ alias: [Bank Rating]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Bank Rating Definition, Bank Rating]
 source: https://www.investopedia.com/terms/b/bank-rating.asp
-author: ByJulia Kagan
+author: Julia Kagan
 ---
 
 # Bank Rating Definition

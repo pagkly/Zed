@@ -1,10 +1,9 @@
 ---
-alias: [BCG Growth-Share Matrix Definition]
+alias: [BCG Growth-Share Matrix]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [BCG Growth-Share Matrix Definition, Reading the BCG Growth-Share Matrix]
 source: https://www.investopedia.com/terms/b/bcg.asp
-author: By
-Adam Hayes
+author: ByAdam Hayes
 ---
 
 # BCG Growth-Share Matrix Definition

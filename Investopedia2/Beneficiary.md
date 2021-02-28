@@ -3,7 +3,7 @@ alias: [Beneficiary]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Beneficiary Definition, Beneficiary]
 source: https://www.investopedia.com/terms/b/beneficiary.asp
-author: ByJulia Kagan
+author: Julia Kagan
 ---
 
 # Beneficiary Definition

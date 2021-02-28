@@ -1,10 +1,9 @@
 ---
-alias: [Boundary Conditions Definition]
+alias: [Boundary Conditions]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Boundary Conditions Definition, Boundary Conditions]
 source: https://www.investopedia.com/terms/b/boundary-conditions.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Boundary Conditions Definition

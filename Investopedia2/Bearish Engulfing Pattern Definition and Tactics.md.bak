@@ -3,8 +3,7 @@ alias: [Bearish Engulfing Pattern Definition and Tactics]
 created: 2021-02-28T21:37:43 (UTC +11:00)
 tags: [Bearish Engulfing Pattern Definition and Tactics, Bearish Engulfing Pattern Definition and Tactics]
 source: https://www.investopedia.com/terms/b/bearishengulfingp.asp
-author: By
-Cory Mitchell
+author: ByCory Mitchell
 ---
 
 # Bearish Engulfing Pattern Definition and Tactics

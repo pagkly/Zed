@@ -1,10 +1,9 @@
 ---
-alias: [Banner Advertising Definition]
+alias: [Banner Advertising]
 created: 2021-02-28T21:21:24 (UTC +11:00)
 tags: [Banner Advertising Definition, The Ins and Outs of Banner Advertising]
 source: https://www.investopedia.com/terms/b/banneradvertising.asp
-author: By
-Adam Hayes
+author: ByAdam Hayes
 ---
 
 # Banner Advertising Definition

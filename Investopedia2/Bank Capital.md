@@ -3,7 +3,7 @@ alias: [Bank Capital]
 created: 2021-02-28T21:21:23 (UTC +11:00)
 tags: [Bank Capital Definition, Bank Capital]
 source: https://www.investopedia.com/terms/b/bank-capital.asp
-author: ByAdam Hayes
+author: Adam Hayes
 ---
 
 # Bank Capital Definition

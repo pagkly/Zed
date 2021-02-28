@@ -1,10 +1,9 @@
 ---
-alias: [Blotter Definition]
+alias: [Blotter]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Blotter Definition, Blotter Definition]
 source: https://www.investopedia.com/terms/b/blotter.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Blotter Definition

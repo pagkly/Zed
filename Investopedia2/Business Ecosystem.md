@@ -3,7 +3,7 @@ alias: [Business Ecosystem]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Business Ecosystem Definition, Business Ecosystem]
 source: https://www.investopedia.com/terms/b/business-ecosystem.asp
-author: ByAdam Hayes
+author: Adam Hayes
 ---
 
 # Business Ecosystem Definition

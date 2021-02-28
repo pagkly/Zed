@@ -3,7 +3,7 @@ alias: [Bear Trap]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Bear Trap Definition, Bear Trap Definition]
 source: https://www.investopedia.com/terms/b/beartrap.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Bear Trap Definition

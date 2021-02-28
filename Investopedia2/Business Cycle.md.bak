@@ -1,10 +1,9 @@
 ---
-alias: [Business Cycle Definition]
+alias: [Business Cycle]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Business Cycle Definition, Business Cycle]
 source: https://www.investopedia.com/terms/b/businesscycle.asp
 author: By
-
 Lakshman Achuthan
 ---
 

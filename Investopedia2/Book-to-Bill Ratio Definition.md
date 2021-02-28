@@ -3,7 +3,7 @@ alias: [Book-to-Bill Ratio]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Book-to-Bill Ratio Definition, Book-to-Bill Ratio Definition]
 source: https://www.investopedia.com/terms/b/booktobill.asp
-author: ByAdam Hayes
+author: Adam Hayes
 ---
 
 # Book-to-Bill Ratio Definition

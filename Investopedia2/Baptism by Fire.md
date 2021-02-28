@@ -3,7 +3,7 @@ alias: [Baptism by Fire]
 created: 2021-02-28T21:21:24 (UTC +11:00)
 tags: [Baptism by Fire Definition, Baptism by Fire]
 source: https://www.investopedia.com/terms/b/baptism-by-fire.asp
-author: ByWill Kenton
+author: Will Kenton
 ---
 
 # Baptism by Fire Definition

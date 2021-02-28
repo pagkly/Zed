@@ -1,10 +1,9 @@
 ---
-alias: [Bond Definition]
+alias: [Bond]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bond Definition, Bond]
 source: https://www.investopedia.com/terms/b/bond.asp
-author: By
-Jason Fernando
+author: ByJason Fernando
 ---
 
 # Bond Definition

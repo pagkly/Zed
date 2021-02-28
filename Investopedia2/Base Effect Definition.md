@@ -3,7 +3,7 @@ alias: [Base Effect]
 created: 2021-02-28T21:21:27 (UTC +11:00)
 tags: [Base Effect Definition, Base Effect Definition]
 source: https://www.investopedia.com/terms/b/base-effect.asp
-author: ByWill Kenton
+author: Will Kenton
 ---
 
 # Base Effect Definition

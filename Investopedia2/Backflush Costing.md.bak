@@ -1,10 +1,9 @@
 ---
-alias: [Backflush Costing Definition]
+alias: [Backflush Costing]
 created: 2021-02-28T21:18:49 (UTC +11:00)
 tags: [Backflush Costing Definition, Backflush Costing]
 source: https://www.investopedia.com/terms/b/backflush-costing.asp
-author: By
-Daniel Liberto
+author: ByDaniel Liberto
 ---
 
 # Backflush Costing Definition

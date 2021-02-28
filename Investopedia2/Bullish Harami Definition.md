@@ -3,7 +3,7 @@ alias: [Bullish Harami]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Bullish Harami Definition, Bullish Harami Definition]
 source: https://www.investopedia.com/terms/b/bullishharami.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Bullish Harami Definition

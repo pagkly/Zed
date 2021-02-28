@@ -3,7 +3,7 @@ alias: [BAT Stocks]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [BAT Stocks, BAT Stocks]
 source: https://www.investopedia.com/terms/b/bat-stocks.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # BAT Stocks

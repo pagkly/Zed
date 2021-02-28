@@ -3,7 +3,7 @@ alias: [Book Value Per Share (BVPS)]
 created: 2021-02-28T22:07:34 (UTC +11:00)
 tags: [Book Value Per Share (BVPS) Definition, Book Value Per Share (BVPS) Definition]
 source: https://www.investopedia.com/terms/b/bvps.asp
-author: ByAdam Hayes
+author: Adam Hayes
 ---
 
 # Book Value Per Share (BVPS) Definition

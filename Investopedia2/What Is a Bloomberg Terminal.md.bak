@@ -1,10 +1,9 @@
 ---
-alias: [Bloomberg Terminal Definition]
+alias: [Bloomberg Terminal]
 created: 2021-02-28T22:07:34 (UTC +11:00)
 tags: [Bloomberg Terminal Definition, What Is a Bloomberg Terminal?]
 source: https://www.investopedia.com/terms/b/bloomberg_terminal.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Bloomberg Terminal Definition

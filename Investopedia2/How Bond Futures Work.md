@@ -3,7 +3,7 @@ alias: [Bond Futures]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bond Futures Definition, How Bond Futures Work]
 source: https://www.investopedia.com/terms/b/bondfutures.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Bond Futures Definition

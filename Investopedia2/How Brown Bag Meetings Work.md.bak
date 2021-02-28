@@ -1,10 +1,9 @@
 ---
-alias: [Brown Bag Meeting Definition]
+alias: [Brown Bag Meeting]
 created: 2021-02-28T22:03:24 (UTC +11:00)
 tags: [Brown Bag Meeting Definition, How Brown Bag Meetings Work]
 source: https://www.investopedia.com/terms/b/brown-bag-meeting.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Brown Bag Meeting Definition

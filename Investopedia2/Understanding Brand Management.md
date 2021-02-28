@@ -3,7 +3,7 @@ alias: [Brand Management]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Brand Management Definition, Understanding Brand Management]
 source: https://www.investopedia.com/terms/b/brand-management.asp
-author: ByMitchell Grant
+author: Mitchell Grant
 ---
 
 # Brand Management Definition

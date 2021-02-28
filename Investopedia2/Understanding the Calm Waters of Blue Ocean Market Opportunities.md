@@ -3,7 +3,7 @@ alias: [Blue Ocean]
 created: 2021-02-28T22:07:34 (UTC +11:00)
 tags: [Blue Ocean Definition, Understanding the Calm Waters of Blue Ocean Market Opportunities]
 source: https://www.investopedia.com/terms/b/blue_ocean.asp
-author: ByJulie Young
+author: Julie Young
 ---
 
 # Blue Ocean Definition

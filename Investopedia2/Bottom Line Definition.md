@@ -3,7 +3,7 @@ alias: [Bottom Line]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bottom Line Definition, Bottom Line Definition]
 source: https://www.investopedia.com/terms/b/bottomline.asp
-author: ByAlicia Tuovila
+author: Alicia Tuovila
 ---
 
 # Bottom Line Definition

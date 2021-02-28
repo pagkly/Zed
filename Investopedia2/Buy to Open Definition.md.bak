@@ -1,10 +1,9 @@
 ---
-alias: [Buy to Open Definition]
+alias: [Buy to Open]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Buy to Open Definition, Buy to Open Definition]
 source: https://www.investopedia.com/terms/b/buytoopen.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Buy to Open Definition

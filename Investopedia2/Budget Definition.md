@@ -3,7 +3,7 @@ alias: [Budget]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Budget Definition, Budget Definition]
 source: https://www.investopedia.com/terms/b/budget.asp
-author: ByAkhilesh Ganti
+author: Akhilesh Ganti
 ---
 
 # Budget Definition

@@ -3,7 +3,7 @@ alias: [Bear Market]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Bear Market Definition, Bear Market Definition]
 source: https://www.investopedia.com/terms/b/bearmarket.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Bear Market Definition

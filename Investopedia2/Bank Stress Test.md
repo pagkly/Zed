@@ -3,7 +3,7 @@ alias: [Bank Stress Test]
 created: 2021-02-28T21:21:23 (UTC +11:00)
 tags: [Bank Stress Test Definition, Bank Stress Test]
 source: https://www.investopedia.com/terms/b/bank-stress-test.asp
-author: ByTroy Segal
+author: Troy Segal
 ---
 
 # Bank Stress Test Definition

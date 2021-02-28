@@ -1,10 +1,9 @@
 ---
-alias: [Bullet Repayment Definition]
+alias: [Bullet Repayment]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Bullet Repayment Definition, Bullet Repayments: Repaying the Entire Remaining Principal Balance]
 source: https://www.investopedia.com/terms/b/bulletrepayment.asp
-author: By
-Carol M. Kopp
+author: ByCarol M. Kopp
 ---
 
 # Bullet Repayment Definition

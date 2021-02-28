@@ -3,7 +3,7 @@ alias: [Brownfield Investment]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Brownfield Investment Definition, Brownfield Investment]
 source: https://www.investopedia.com/terms/b/brownfield.asp
-author: ByAdam hayes
+author: Adam hayes
 ---
 
 # Brownfield Investment Definition

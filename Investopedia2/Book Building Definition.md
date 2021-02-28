@@ -3,7 +3,7 @@ alias: [Book Building]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Book Building Definition, Book Building Definition]
 source: https://www.investopedia.com/terms/b/bookbuilding.asp
-author: ByAkhilesh Ganti
+author: Akhilesh Ganti
 ---
 
 # Book Building Definition

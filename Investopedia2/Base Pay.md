@@ -3,7 +3,7 @@ alias: [Base Pay]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Base Pay Definition, Base Pay]
 source: https://www.investopedia.com/terms/b/base-pay.asp
-author: ByJulia Kagan
+author: Julia Kagan
 ---
 
 # Base Pay Definition

@@ -1,10 +1,9 @@
 ---
-alias: [Business Expenses Definition]
+alias: [Business Expenses]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Business Expenses Definition, Business Expenses]
 source: https://www.investopedia.com/terms/b/businessexpenses.asp
-author: By
-Julia Kagan
+author: ByJulia Kagan
 ---
 
 # Business Expenses Definition

@@ -1,10 +1,9 @@
 ---
-alias: [Basis Definition]
+alias: [Basis]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Basis Definition, Basis Definition]
 source: https://www.investopedia.com/terms/b/basis.asp
-author: By
-Julia Kagan
+author: ByJulia Kagan
 ---
 
 # Basis Definition

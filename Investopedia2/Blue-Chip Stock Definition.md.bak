@@ -1,10 +1,9 @@
 ---
-alias: [Blue-Chip Stock Definition]
+alias: [Blue-Chip Stock]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Blue-Chip Stock Definition, Blue-Chip Stock Definition]
 source: https://www.investopedia.com/terms/b/bluechipstock.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Blue-Chip Stock Definition

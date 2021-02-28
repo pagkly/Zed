@@ -3,7 +3,7 @@ alias: [Business Development Company (BDC)]
 created: 2021-02-28T22:03:24 (UTC +11:00)
 tags: [Business Development Company (BDC), Business Development Company (BDC)]
 source: https://www.investopedia.com/terms/b/bdc.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Business Development Company (BDC)

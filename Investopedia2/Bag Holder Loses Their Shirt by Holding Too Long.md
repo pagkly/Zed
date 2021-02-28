@@ -3,7 +3,7 @@ alias: [Bag Holder]
 created: 2021-02-28T21:18:51 (UTC +11:00)
 tags: [Bag Holder Definition, Bag Holder Loses Their Shirt by Holding Too Long]
 source: https://www.investopedia.com/terms/b/bag-holder.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Bag Holder Definition

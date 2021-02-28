@@ -3,7 +3,7 @@ alias: [Brand Equity]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Brand Equity Definition, What You Need to Know About Brand Equity]
 source: https://www.investopedia.com/terms/b/brandequity.asp
-author: ByAdam Hayes
+author: Adam Hayes
 ---
 
 # Brand Equity Definition

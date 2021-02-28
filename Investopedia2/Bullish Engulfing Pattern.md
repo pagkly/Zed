@@ -3,7 +3,7 @@ alias: [Bullish Engulfing Pattern]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Bullish Engulfing Pattern Definition, Bullish Engulfing Pattern]
 source: https://www.investopedia.com/terms/b/bullishengulfingpattern.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Bullish Engulfing Pattern Definition

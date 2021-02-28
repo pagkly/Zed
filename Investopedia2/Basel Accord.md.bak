@@ -1,10 +1,9 @@
 ---
-alias: [Basel Accord Definition]
+alias: [Basel Accord]
 created: 2021-02-28T21:21:23 (UTC +11:00)
 tags: [Basel Accord Definition, Basel Accord]
 source: https://www.investopedia.com/terms/b/basel_accord.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Basel Accord Definition

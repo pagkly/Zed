@@ -3,8 +3,7 @@ alias: [Bridge Loan]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Bridge Loan, What Is a Bridge Loan?]
 source: https://www.investopedia.com/terms/b/bridgeloan.asp
-author: By
-Julia Kagan
+author: ByJulia Kagan
 ---
 
 # Bridge Loan

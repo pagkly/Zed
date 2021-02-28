@@ -3,7 +3,7 @@ alias: [Adjustable Life Insurance]
 created: 2021-02-28T20:46:34 (UTC +11:00)
 tags: [Adjustable Life Insurance Definition, Adjustable Life Insurance]
 source: https://www.investopedia.com/terms/a/adjustable-life-insurance.asp
-author: By Staff Author
+author:  Staff Author
 ---
 
 # Adjustable Life Insurance Definition

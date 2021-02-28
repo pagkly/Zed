@@ -3,7 +3,7 @@ alias: [Below-the-Line Advertising]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Below-the-Line Advertising Definition, How Below-the-Line Advertising Works]
 source: https://www.investopedia.com/terms/b/below-the-line-advertising.asp
-author: ByAndrew Bloomenthal
+author: Andrew Bloomenthal
 ---
 
 # Below-the-Line Advertising Definition

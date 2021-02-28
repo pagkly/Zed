@@ -1,10 +1,9 @@
 ---
-alias: [Buy The Dips Definition]
+alias: [Buy The Dips]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Buy The Dips Definition, Buy The Dips Definition and Examples]
 source: https://www.investopedia.com/terms/b/buy-the-dips.asp
-author: By
-Cory Mitchell
+author: ByCory Mitchell
 ---
 
 # Buy The Dips Definition

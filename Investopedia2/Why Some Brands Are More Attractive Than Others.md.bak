@@ -1,10 +1,9 @@
 ---
-alias: [Brand Personality Definition]
+alias: [Brand Personality]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Brand Personality Definition, Why Some Brands Are More Attractive Than Others]
 source: https://www.investopedia.com/terms/b/brand-personality.asp
-author: By
-Evan Tarver
+author: ByEvan Tarver
 ---
 
 # Brand Personality Definition

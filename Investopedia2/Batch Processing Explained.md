@@ -3,7 +3,7 @@ alias: [Batch Processing]
 created: 2021-02-28T21:37:43 (UTC +11:00)
 tags: [Batch Processing Definition, Batch Processing Explained]
 source: https://www.investopedia.com/terms/b/batch-processing.asp
-author: ByAdam Barone
+author: Adam Barone
 ---
 
 # Batch Processing Definition

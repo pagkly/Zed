@@ -3,8 +3,7 @@ alias: [Barrels Of Oil Equivalent Per Day (BOE/D)]
 created: 2021-02-28T21:21:23 (UTC +11:00)
 tags: [Barrels Of Oil Equivalent Per Day (BOE/D), Barrels Of Oil Equivalent Per Day (BOE/D)]
 source: https://www.investopedia.com/terms/b/boed.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Barrels Of Oil Equivalent Per Day (BOE/D)

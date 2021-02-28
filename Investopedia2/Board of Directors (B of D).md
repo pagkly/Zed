@@ -3,7 +3,7 @@ alias: [Board of Directors (B of D)]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Board of Directors (B of D), Board of Directors (B of D)]
 source: https://www.investopedia.com/terms/b/boardofdirectors.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Board of Directors (B of D)

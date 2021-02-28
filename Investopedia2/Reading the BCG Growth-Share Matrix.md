@@ -3,7 +3,7 @@ alias: [BCG Growth-Share Matrix]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [BCG Growth-Share Matrix Definition, Reading the BCG Growth-Share Matrix]
 source: https://www.investopedia.com/terms/b/bcg.asp
-author: ByAdam Hayes
+author: Adam Hayes
 ---
 
 # BCG Growth-Share Matrix Definition

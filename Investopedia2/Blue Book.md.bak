@@ -1,10 +1,9 @@
 ---
-alias: [Blue Book Definition]
+alias: [Blue Book]
 created: 2021-02-28T22:07:33 (UTC +11:00)
 tags: [Blue Book Definition, Blue Book]
 source: https://www.investopedia.com/terms/b/bluebook.asp
-author: By
-Julia Kagan
+author: ByJulia Kagan
 ---
 
 # Blue Book Definition

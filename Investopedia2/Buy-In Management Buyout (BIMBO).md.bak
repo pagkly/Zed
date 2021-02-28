@@ -1,10 +1,9 @@
 ---
-alias: [Buy-In Management Buyout (BIMBO) Definition]
+alias: [Buy-In Management Buyout (BIMBO)]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Buy-In Management Buyout (BIMBO) Definition, Buy-In Management Buyout (BIMBO)]
 source: https://www.investopedia.com/terms/b/buyinmanagementbuyout.asp
-author: By
-Adam Hayes
+author: ByAdam Hayes
 ---
 
 # Buy-In Management Buyout (BIMBO) Definition

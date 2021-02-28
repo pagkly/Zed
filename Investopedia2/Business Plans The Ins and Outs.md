@@ -3,7 +3,7 @@ alias: [Business Plan]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Business Plan Definition, Business Plans: The Ins and Outs]
 source: https://www.investopedia.com/terms/b/business-plan.asp
-author: ByAdam Hayes
+author: Adam Hayes
 ---
 
 # Business Plan Definition

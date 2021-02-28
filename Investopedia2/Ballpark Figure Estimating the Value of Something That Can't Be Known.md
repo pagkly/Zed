@@ -3,7 +3,7 @@ alias: [Ballpark Figure]
 created: 2021-02-28T21:18:50 (UTC +11:00)
 tags: [Ballpark Figure Definition, Ballpark Figure: Estimating the Value of Something That Can't Be Known]
 source: https://www.investopedia.com/terms/b/ballpark-figure.asp
-author: ByAlexandra Twin
+author: Alexandra Twin
 ---
 
 # Ballpark Figure Definition

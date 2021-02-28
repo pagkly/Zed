@@ -3,7 +3,7 @@ alias: [Book Runner]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Book Runner Definition, How Book Runners Work]
 source: https://www.investopedia.com/terms/b/bookrunner.asp
-author: ByJulia Kagan
+author: Julia Kagan
 ---
 
 # Book Runner Definition

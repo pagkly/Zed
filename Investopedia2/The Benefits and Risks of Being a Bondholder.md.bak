@@ -1,10 +1,9 @@
 ---
-alias: [Bondholder Definition]
+alias: [Bondholder]
 created: 2021-02-28T22:07:34 (UTC +11:00)
 tags: [Bondholder Definition, The Benefits and Risks of Being a Bondholder]
 source: https://www.investopedia.com/terms/b/bondholder.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Bondholder Definition

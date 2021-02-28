@@ -3,7 +3,7 @@ alias: [Bond Covenant]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bond Covenant Definition, Bond Covenant]
 source: https://www.investopedia.com/terms/b/bond-covenant.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Bond Covenant Definition

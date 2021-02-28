@@ -3,7 +3,7 @@ alias: [Bail-In]
 created: 2021-02-28T21:18:51 (UTC +11:00)
 tags: [Bail-In Definition, Bail-Ins During Financial Crisis Helps Financial Institutions]
 source: https://www.investopedia.com/terms/b/bailin.asp
-author: ByJulie Young
+author: Julie Young
 ---
 
 # Bail-In Definition

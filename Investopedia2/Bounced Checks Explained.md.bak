@@ -1,10 +1,9 @@
 ---
-alias: [Bounced Check Definition]
+alias: [Bounced Check]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bounced Check Definition, Bounced Checks Explained]
 source: https://www.investopedia.com/terms/b/bouncedcheck.asp
-author: By
-Julia Kagan
+author: ByJulia Kagan
 ---
 
 # Bounced Check Definition

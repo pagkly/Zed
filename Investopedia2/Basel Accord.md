@@ -3,7 +3,7 @@ alias: [Basel Accord]
 created: 2021-02-28T21:21:23 (UTC +11:00)
 tags: [Basel Accord Definition, Basel Accord]
 source: https://www.investopedia.com/terms/b/basel_accord.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Basel Accord Definition

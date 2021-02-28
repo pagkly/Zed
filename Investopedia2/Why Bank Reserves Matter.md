@@ -3,7 +3,7 @@ alias: [Bank Reserves]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Bank Reserves Definition, Why Bank Reserves Matter]
 source: https://www.investopedia.com/terms/b/bank-reserve.asp
-author: ByAdam Barone
+author: Adam Barone
 ---
 
 # Bank Reserves Definition

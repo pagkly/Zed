@@ -3,7 +3,7 @@ alias: [Basket of Goods]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Basket of Goods Definition, The Meaning of the Economic Term Basket of Goods]
 source: https://www.investopedia.com/terms/b/basket_of_goods.asp
-author: ByCaroline Banton
+author: Caroline Banton
 ---
 
 # Basket of Goods Definition

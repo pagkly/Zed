@@ -3,7 +3,7 @@ alias: [Balanced Scorecard]
 created: 2021-02-28T21:18:50 (UTC +11:00)
 tags: [Balanced Scorecard Definition, How a Balanced Scorecard Is Used]
 source: https://www.investopedia.com/terms/b/balancedscorecard.asp
-author: ByEvan Tarver
+author: Evan Tarver
 ---
 
 # Balanced Scorecard Definition

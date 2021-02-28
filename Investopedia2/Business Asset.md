@@ -3,7 +3,7 @@ alias: [Business Asset]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Business Asset Definition, Business Asset]
 source: https://www.investopedia.com/terms/b/business-asset.asp
-author: ByDaniel Liberto
+author: Daniel Liberto
 ---
 
 # Business Asset Definition

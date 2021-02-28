@@ -3,7 +3,7 @@ alias: [The Bait and Switch]
 created: 2021-02-28T21:18:50 (UTC +11:00)
 tags: [The Bait and Switch Definition, Bait and Switch Sales Tactic]
 source: https://www.investopedia.com/terms/b/bait-switch.asp
-author: ByAdam Hayes
+author: Adam Hayes
 ---
 
 # The Bait and Switch Definition

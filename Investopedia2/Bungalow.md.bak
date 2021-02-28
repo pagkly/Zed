@@ -1,10 +1,9 @@
 ---
-alias: [Bungalow Definition]
+alias: [Bungalow]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Bungalow Definition, Bungalow]
 source: https://www.investopedia.com/terms/b/bungalow.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Bungalow Definition

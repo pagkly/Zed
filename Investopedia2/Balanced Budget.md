@@ -3,7 +3,7 @@ alias: [Balanced Budget]
 created: 2021-02-28T21:18:49 (UTC +11:00)
 tags: [Balanced Budget Definition, Balanced Budget]
 source: https://www.investopedia.com/terms/b/balanced-budget.asp
-author: ByJulia Kagan
+author: Julia Kagan
 ---
 
 # Balanced Budget Definition

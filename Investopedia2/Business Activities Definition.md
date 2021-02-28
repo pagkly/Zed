@@ -3,7 +3,7 @@ alias: [Business Activities]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Business Activities Definition, Business Activities Definition]
 source: https://www.investopedia.com/terms/b/business-activities.asp
-author: ByAlicia Tuovila
+author: Alicia Tuovila
 ---
 
 # Business Activities Definition

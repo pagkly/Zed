@@ -1,10 +1,9 @@
 ---
-alias: [Board of Governors Definition]
+alias: [Board of Governors]
 created: 2021-02-28T22:07:34 (UTC +11:00)
 tags: [Board of Governors Definition, What Is a Board of Governors?]
 source: https://www.investopedia.com/terms/b/board-of-governors.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Board of Governors Definition

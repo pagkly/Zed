@@ -3,7 +3,7 @@ alias: [Balloon Payment]
 created: 2021-02-28T21:18:51 (UTC +11:00)
 tags: [Balloon Payment Definition, Balloon Payments—What They Are, How They Work, and Can You Afford One?]
 source: https://www.investopedia.com/terms/b/balloon-payment.asp
-author: ByCarol M. Kopp
+author: Carol M. Kopp
 ---
 
 # Balloon Payment Definition

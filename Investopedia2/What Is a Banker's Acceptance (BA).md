@@ -3,7 +3,7 @@ alias: [Banker's Acceptance (BA)]
 created: 2021-02-28T21:21:23 (UTC +11:00)
 tags: [Banker's Acceptance (BA) Definition, What Is a Banker's Acceptance (BA)?]
 source: https://www.investopedia.com/terms/b/bankersacceptance.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Banker's Acceptance (BA) Definition

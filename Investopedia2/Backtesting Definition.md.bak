@@ -1,10 +1,9 @@
 ---
-alias: [Backtesting Definition]
+alias: [Backtesting]
 created: 2021-02-28T21:18:49 (UTC +11:00)
 tags: [Backtesting Definition, Backtesting Definition]
 source: https://www.investopedia.com/terms/b/backtesting.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Backtesting Definition

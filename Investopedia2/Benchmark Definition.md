@@ -3,7 +3,7 @@ alias: [Benchmark]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Benchmark, Benchmark Definition]
 source: https://www.investopedia.com/terms/b/benchmark.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Benchmark

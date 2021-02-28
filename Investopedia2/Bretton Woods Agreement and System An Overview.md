@@ -3,7 +3,7 @@ alias: [Bretton Woods Agreement and System]
 created: 2021-02-28T22:03:24 (UTC +11:00)
 tags: [Bretton Woods Agreement and System Definition, Bretton Woods Agreement and System: An Overview]
 source: https://www.investopedia.com/terms/b/brettonwoodsagreement.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Bretton Woods Agreement and System Definition

@@ -3,7 +3,7 @@ alias: [Bounced Check]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bounced Check Definition, Bounced Checks Explained]
 source: https://www.investopedia.com/terms/b/bouncedcheck.asp
-author: ByJulia Kagan
+author: Julia Kagan
 ---
 
 # Bounced Check Definition

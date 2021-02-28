@@ -3,7 +3,7 @@ alias: [Barrier Option]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Barrier Option Definition, Barrier Option Definition]
 source: https://www.investopedia.com/terms/b/barrieroption.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Barrier Option Definition

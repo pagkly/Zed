@@ -1,10 +1,9 @@
 ---
-alias: [Budget Definition]
+alias: [Budget]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Budget Definition, Budget Definition]
 source: https://www.investopedia.com/terms/b/budget.asp
-author: By
-Akhilesh Ganti
+author: ByAkhilesh Ganti
 ---
 
 # Budget Definition

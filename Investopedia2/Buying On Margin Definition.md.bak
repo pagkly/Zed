@@ -1,10 +1,9 @@
 ---
-alias: [Buying On Margin Definition]
+alias: [Buying On Margin]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Buying On Margin Definition, Buying On Margin Definition]
 source: https://www.investopedia.com/terms/b/buying-on-margin.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Buying On Margin Definition

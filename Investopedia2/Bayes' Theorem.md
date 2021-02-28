@@ -3,7 +3,7 @@ alias: [Bayes' Theorem]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Bayes' Theorem Definition, Bayes' Theorem]
 source: https://www.investopedia.com/terms/b/bayes-theorem.asp
-author: ByAdam Hayes
+author: Adam Hayes
 ---
 
 # Bayes' Theorem Definition

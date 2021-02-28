@@ -3,7 +3,7 @@ alias: [Bond Quote]
 created: 2021-02-28T22:07:34 (UTC +11:00)
 tags: [Bond Quote Definition, What is a Bond Quote?]
 source: https://www.investopedia.com/terms/b/bondquote.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Bond Quote Definition

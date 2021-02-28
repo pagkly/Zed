@@ -3,7 +3,7 @@ alias: [Balanced Fund]
 created: 2021-02-28T21:18:50 (UTC +11:00)
 tags: [Balanced Fund Definition, Growth and Income: Is a Balanced Fund the Best of Both Worlds?]
 source: https://www.investopedia.com/terms/b/balancedfund.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Balanced Fund Definition

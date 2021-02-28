@@ -1,10 +1,9 @@
 ---
-alias: [Buyback Definition]
+alias: [Buyback]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Buyback Definition, Buyback]
 source: https://www.investopedia.com/terms/b/buyback.asp
-author: By
-Adam Hayes
+author: ByAdam Hayes
 ---
 
 # Buyback Definition

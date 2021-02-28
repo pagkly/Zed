@@ -3,7 +3,7 @@ alias: [Balance Sheet]
 created: 2021-02-28T21:18:51 (UTC +11:00)
 tags: [Balance Sheet Definition, Balance Sheet]
 source: https://www.investopedia.com/terms/b/balancesheet.asp
-author: ByJason Fernando
+author: Jason Fernando
 ---
 
 # Balance Sheet Definition

@@ -3,7 +3,7 @@ alias: [Barriers to Entry]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Barriers to Entry Definition, Barriers to Entry: What You Should Know]
 source: https://www.investopedia.com/terms/b/barrierstoentry.asp
-author: ByAdam Hayes
+author: Adam Hayes
 ---
 
 # Barriers to Entry Definition

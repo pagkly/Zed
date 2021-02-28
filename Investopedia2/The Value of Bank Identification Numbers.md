@@ -3,7 +3,7 @@ alias: [Bank Identification Number (BIN)]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Bank Identification Number (BIN) Definition, The Value of Bank Identification Numbers]
 source: https://www.investopedia.com/terms/b/bank-identification-number.asp
-author: ByJulia Kagan
+author: Julia Kagan
 ---
 
 # Bank Identification Number (BIN) Definition

@@ -1,10 +1,9 @@
 ---
-alias: [Book Value Per Common Share - BVPS Definition]
+alias: [Book Value Per Common Share - BVPS]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Book Value Per Common Share - BVPS Definition, Book Value Per Common Share]
 source: https://www.investopedia.com/terms/b/bookvaluepercommon.asp
-author: By
-Adam Hayes
+author: ByAdam Hayes
 ---
 
 # Book Value Per Common Share - BVPS Definition

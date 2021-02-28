@@ -3,7 +3,7 @@ alias: [Backwardation]
 created: 2021-02-28T21:18:49 (UTC +11:00)
 tags: [Backwardation Definition, How Backwardation Works]
 source: https://www.investopedia.com/terms/b/backwardation.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Backwardation Definition

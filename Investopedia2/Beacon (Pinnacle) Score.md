@@ -3,7 +3,7 @@ alias: [Beacon (Pinnacle) Score]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Beacon (Pinnacle) Score Definition, Beacon (Pinnacle) Score]
 source: https://www.investopedia.com/terms/b/beacon-score.asp
-author: ByJulia Kagan
+author: Julia Kagan
 ---
 
 # Beacon (Pinnacle) Score Definition

@@ -1,10 +1,9 @@
 ---
-alias: [Bull Trap Definition]
+alias: [Bull Trap]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Bull Trap Definition, Bull Trap Definition]
 source: https://www.investopedia.com/terms/b/bulltrap.asp
-author: By
-Alan Farley
+author: ByAlan Farley
 ---
 
 # Bull Trap Definition

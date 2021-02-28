@@ -1,10 +1,9 @@
 ---
-alias: [Bailout Definition]
+alias: [Bailout]
 created: 2021-02-28T21:18:50 (UTC +11:00)
 tags: [Bailout Definition, Bailout Money Helps Failing Businesses and Countries]
 source: https://www.investopedia.com/terms/b/bailout.asp
-author: By
-Alexandra Twin
+author: ByAlexandra Twin
 ---
 
 # Bailout Definition

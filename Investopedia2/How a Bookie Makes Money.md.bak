@@ -1,10 +1,9 @@
 ---
-alias: [Bookie Definition]
+alias: [Bookie]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bookie Definition, How a Bookie Makes Money]
 source: https://www.investopedia.com/terms/b/bookie.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Bookie Definition

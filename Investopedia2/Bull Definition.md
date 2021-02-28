@@ -3,7 +3,7 @@ alias: [Bull]
 created: 2021-02-28T22:03:24 (UTC +11:00)
 tags: [Bull Definition, Bull Definition]
 source: https://www.investopedia.com/terms/b/bull.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Bull Definition

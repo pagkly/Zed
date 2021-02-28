@@ -3,8 +3,7 @@ alias: [Boiler Room: Overview]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Boiler Room: Overview, What is a Boiler Room?]
 source: https://www.investopedia.com/terms/b/boilerroom.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Boiler Room: Overview

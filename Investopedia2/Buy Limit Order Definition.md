@@ -3,7 +3,7 @@ alias: [Buy Limit Order Definition and Example]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Buy Limit Order Definition and Example, Buy Limit Order Definition]
 source: https://www.investopedia.com/terms/b/buy-limit-order.asp
-author: ByCory Mitchell
+author: Cory Mitchell
 ---
 
 # Buy Limit Order Definition and Example

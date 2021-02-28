@@ -1,10 +1,9 @@
 ---
-alias: [Buy and Hold Definition]
+alias: [Buy and Hold]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Buy and Hold Definition, How a Buy-and-Hold Strategy Works]
 source: https://www.investopedia.com/terms/b/buyandhold.asp
-author: By
-Brian Beers
+author: ByBrian Beers
 ---
 
 # Buy and Hold Definition

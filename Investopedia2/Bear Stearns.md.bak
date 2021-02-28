@@ -1,10 +1,9 @@
 ---
-alias: [Bear Stearns Definition]
+alias: [Bear Stearns]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Bear Stearns Definition, Bear Stearns]
 source: https://www.investopedia.com/terms/b/bear-stearns.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Bear Stearns Definition

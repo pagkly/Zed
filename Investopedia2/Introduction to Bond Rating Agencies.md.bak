@@ -3,8 +3,7 @@ alias: [Introduction to Bond Rating Agencies]
 created: 2021-02-28T22:07:34 (UTC +11:00)
 tags: [Introduction to Bond Rating Agencies, Introduction to Bond Rating Agencies]
 source: https://www.investopedia.com/terms/b/bond-rating-agencies.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Introduction to Bond Rating Agencies

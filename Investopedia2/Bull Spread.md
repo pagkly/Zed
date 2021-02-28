@@ -3,7 +3,7 @@ alias: [Bull Spread]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Bull Spread Definition, Bull Spread]
 source: https://www.investopedia.com/terms/b/bullspread.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Bull Spread Definition

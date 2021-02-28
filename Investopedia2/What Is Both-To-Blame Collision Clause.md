@@ -3,7 +3,7 @@ alias: [Both-To-Blame Collision Clause]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Both-To-Blame Collision Clause Definition, What Is Both-To-Blame Collision Clause?]
 source: https://www.investopedia.com/terms/b/both-to-blame-collision-clause.asp
-author: ByJulia Kagan
+author: Julia Kagan
 ---
 
 # Both-To-Blame Collision Clause Definition

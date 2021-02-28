@@ -1,10 +1,9 @@
 ---
-alias: [Brazil, Russia, India and China (BRIC) Definition]
+alias: [Brazil, Russia, India and China (BRIC)]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Brazil, Russia, India and China (BRIC) Definition, History and Criticism of Brazil, Russia, India and China (BRIC)]
 source: https://www.investopedia.com/terms/b/bric.asp
-author: By
-Christina Majaski
+author: ByChristina Majaski
 ---
 
 # Brazil, Russia, India and China (BRIC) Definition

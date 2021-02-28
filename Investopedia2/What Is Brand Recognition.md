@@ -3,7 +3,7 @@ alias: [Brand Recognition]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Brand Recognition Definition, What Is Brand Recognition?]
 source: https://www.investopedia.com/terms/b/brand-recognition.asp
-author: ByWill Kenton
+author: Will Kenton
 ---
 
 # Brand Recognition Definition

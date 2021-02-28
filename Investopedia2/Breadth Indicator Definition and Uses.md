@@ -3,7 +3,7 @@ alias: [Breadth Indicator Definition and Uses]
 created: 2021-02-28T22:07:33 (UTC +11:00)
 tags: [Breadth Indicator Definition and Uses, Breadth Indicator Definition and Uses]
 source: https://www.investopedia.com/terms/b/breadthindicator.asp
-author: ByCory Mitchell
+author: Cory Mitchell
 ---
 
 # Breadth Indicator Definition and Uses

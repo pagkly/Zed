@@ -3,7 +3,7 @@ alias: [Buy-Side]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Buy-Side Definition, Buy-Side]
 source: https://www.investopedia.com/terms/b/buyside.asp
-author: ByJulie Young
+author: Julie Young
 ---
 
 # Buy-Side Definition

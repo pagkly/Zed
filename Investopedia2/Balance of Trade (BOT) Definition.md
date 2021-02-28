@@ -3,7 +3,7 @@ alias: [Balance of Trade (BOT)]
 created: 2021-02-28T21:18:50 (UTC +11:00)
 tags: [Balance of Trade (BOT) Definition, Balance of Trade (BOT) Definition]
 source: https://www.investopedia.com/terms/b/bot.asp
-author: ByWill Kenton
+author: Will Kenton
 ---
 
 # Balance of Trade (BOT) Definition

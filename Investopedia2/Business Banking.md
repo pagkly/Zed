@@ -3,7 +3,7 @@ alias: [Business Banking]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Business Banking Definition, Business Banking]
 source: https://www.investopedia.com/terms/b/business-banking.asp
-author: ByJulia Kagan
+author: Julia Kagan
 ---
 
 # Business Banking Definition

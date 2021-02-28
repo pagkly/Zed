@@ -3,7 +3,7 @@ alias: [Basic Earnings Per Share (EPS)]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Basic Earnings Per Share (EPS) Definition, Basic Earnings Per Share (EPS) Definition]
 source: https://www.investopedia.com/terms/b/basic-earnings-per-share.asp
-author: ByAkhilesh Ganti
+author: Akhilesh Ganti
 ---
 
 # Basic Earnings Per Share (EPS) Definition

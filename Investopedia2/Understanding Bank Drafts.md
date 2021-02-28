@@ -3,7 +3,7 @@ alias: [Bank Draft]
 created: 2021-02-28T21:21:23 (UTC +11:00)
 tags: [Bank Draft Definition, Understanding Bank Drafts]
 source: https://www.investopedia.com/terms/b/bank_draft.asp
-author: ByJulia Kagan
+author: Julia Kagan
 ---
 
 # Bank Draft Definition

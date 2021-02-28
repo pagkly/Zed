@@ -3,7 +3,7 @@ alias: [Build America Bonds (BABs)]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Build America Bonds (BABs), Build America Bonds (BABs)]
 source: https://www.investopedia.com/terms/b/build-america-bonds-babs.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Build America Bonds (BABs)

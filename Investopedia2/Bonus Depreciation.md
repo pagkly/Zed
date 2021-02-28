@@ -3,7 +3,7 @@ alias: [Bonus Depreciation]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bonus Depreciation Definition, Bonus Depreciation]
 source: https://www.investopedia.com/terms/b/bonusdepreciation.asp
-author: ByJulia Kagan
+author: Julia Kagan
 ---
 
 # Bonus Depreciation Definition

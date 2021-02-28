@@ -3,7 +3,7 @@ alias: [Bank Statement]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Bank Statement Definition, What Bank Statements Tell Us]
 source: https://www.investopedia.com/terms/b/bank-statement.asp
-author: ByAdam Barone
+author: Adam Barone
 ---
 
 # Bank Statement Definition

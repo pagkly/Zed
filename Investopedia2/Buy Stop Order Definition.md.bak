@@ -1,10 +1,9 @@
 ---
-alias: [Buy Stop Order Definition]
+alias: [Buy Stop Order]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Buy Stop Order Definition, Buy Stop Order Definition]
 source: https://www.investopedia.com/terms/b/buystoporder.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Buy Stop Order Definition

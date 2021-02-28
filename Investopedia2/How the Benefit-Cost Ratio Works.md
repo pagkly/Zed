@@ -3,7 +3,7 @@ alias: [Benefit-Cost Ratio (BCR)]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Benefit-Cost Ratio (BCR) Definition, How the Benefit-Cost Ratio Works]
 source: https://www.investopedia.com/terms/b/bcr.asp
-author: ByAdam Hayes
+author: Adam Hayes
 ---
 
 # Benefit-Cost Ratio (BCR) Definition

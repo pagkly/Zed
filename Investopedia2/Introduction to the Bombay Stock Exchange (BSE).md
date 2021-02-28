@@ -3,7 +3,7 @@ alias: [Bombay Stock Exchange (BSE)]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bombay Stock Exchange (BSE) Definition, Introduction to the Bombay Stock Exchange (BSE)]
 source: https://www.investopedia.com/terms/b/bombaystockexchange.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Bombay Stock Exchange (BSE) Definition

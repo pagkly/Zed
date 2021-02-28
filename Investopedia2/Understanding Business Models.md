@@ -3,7 +3,7 @@ alias: [Business Model]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Business Model Definition, Understanding Business Models]
 source: https://www.investopedia.com/terms/b/businessmodel.asp
-author: ByCarol M. Kopp
+author: Carol M. Kopp
 ---
 
 # Business Model Definition

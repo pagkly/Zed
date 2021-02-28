@@ -3,7 +3,7 @@ alias: [Burn Rate]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Burn Rate Definition, Understanding the Burn Rate]
 source: https://www.investopedia.com/terms/b/burnrate.asp
-author: ByWill Kenton
+author: Will Kenton
 ---
 
 # Burn Rate Definition

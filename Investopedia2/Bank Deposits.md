@@ -3,7 +3,7 @@ alias: [Bank Deposits]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Bank Deposits Definition, Bank Deposits]
 source: https://www.investopedia.com/terms/b/bank-deposits.asp
-author: ByJulia Kagan
+author: Julia Kagan
 ---
 
 # Bank Deposits Definition

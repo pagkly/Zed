@@ -1,10 +1,9 @@
 ---
-alias: [Bank Credit Definition]
+alias: [Bank Credit]
 created: 2021-02-28T21:21:23 (UTC +11:00)
 tags: [Bank Credit Definition, Bank Credit Explained]
 source: https://www.investopedia.com/terms/b/bank-credit.asp
-author: By
-Alexandra Twin
+author: ByAlexandra Twin
 ---
 
 # Bank Credit Definition

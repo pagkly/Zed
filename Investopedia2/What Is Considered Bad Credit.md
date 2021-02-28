@@ -3,7 +3,7 @@ alias: [Bad Credit]
 created: 2021-02-28T21:18:51 (UTC +11:00)
 tags: [Bad Credit Definition, What Is Considered Bad Credit?]
 source: https://www.investopedia.com/terms/b/bad-credit.asp
-author: ByCarol M. Kopp
+author: Carol M. Kopp
 ---
 
 # Bad Credit Definition

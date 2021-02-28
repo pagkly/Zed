@@ -3,7 +3,7 @@ alias: [Baseline]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Baseline Definition, Reading Into Baselines]
 source: https://www.investopedia.com/terms/b/baseline.asp
-author: ByWill Kenton
+author: Will Kenton
 ---
 
 # Baseline Definition

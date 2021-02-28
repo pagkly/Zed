@@ -1,10 +1,9 @@
 ---
-alias: [Bond Equivalent Yield (BEY) Definition]
+alias: [Bond Equivalent Yield (BEY)]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bond Equivalent Yield (BEY) Definition, Bond Equivalent Yield (BEY)]
 source: https://www.investopedia.com/terms/b/bey.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Bond Equivalent Yield (BEY) Definition

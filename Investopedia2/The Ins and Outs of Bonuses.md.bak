@@ -1,10 +1,9 @@
 ---
-alias: [Bonus Definition]
+alias: [Bonus]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bonus Definition, The Ins and Outs of Bonuses]
 source: https://www.investopedia.com/terms/b/bonus.asp
-author: By
-Andrew Bloomenthal
+author: ByAndrew Bloomenthal
 ---
 
 # Bonus Definition

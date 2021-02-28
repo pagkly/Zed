@@ -3,7 +3,7 @@ alias: [Bank-Owned Life Insurance (BOLI)]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Bank-Owned Life Insurance (BOLI), Bank-Owned Life Insurance (BOLI)]
 source: https://www.investopedia.com/terms/b/boli.asp
-author: ByJulia Kagan
+author: Julia Kagan
 ---
 
 # Bank-Owned Life Insurance (BOLI)

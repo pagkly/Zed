@@ -3,7 +3,7 @@ alias: [Branch Banking]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Branch Banking Definition, Understanding Branch Banking]
 source: https://www.investopedia.com/terms/b/branch-banking.asp
-author: ByJulia Kagan
+author: Julia Kagan
 ---
 
 # Branch Banking Definition

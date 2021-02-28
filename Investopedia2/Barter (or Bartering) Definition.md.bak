@@ -1,10 +1,9 @@
 ---
-alias: [Barter (or Bartering) Definition]
+alias: [Barter (or Bartering)]
 created: 2021-02-28T21:21:23 (UTC +11:00)
 tags: [Barter (or Bartering) Definition, Barter (or Bartering) Definition]
 source: https://www.investopedia.com/terms/b/barter.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Barter (or Bartering) Definition

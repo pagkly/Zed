@@ -3,7 +3,7 @@ alias: [Business Valuation]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Business Valuation Definition, Understanding Business Valuations]
 source: https://www.investopedia.com/terms/b/business-valuation.asp
-author: ByAdam Hayes
+author: Adam Hayes
 ---
 
 # Business Valuation Definition

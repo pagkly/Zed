@@ -3,7 +3,7 @@ alias: [Budget Deficit]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Budget Deficit Definition, Learn About the Concept of a Budget Deficit]
 source: https://www.investopedia.com/terms/b/budget-deficit.asp
-author: ByAdam Barone
+author: Adam Barone
 ---
 
 # Budget Deficit Definition

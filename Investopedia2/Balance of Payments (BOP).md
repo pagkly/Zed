@@ -3,7 +3,7 @@ alias: [Balance of Payments (BOP)]
 created: 2021-02-28T21:18:51 (UTC +11:00)
 tags: [Balance of Payments (BOP) Definition, Balance of Payments (BOP)]
 source: https://www.investopedia.com/terms/b/bop.asp
-author: ByWill Kenton
+author: Will Kenton
 ---
 
 # Balance of Payments (BOP) Definition

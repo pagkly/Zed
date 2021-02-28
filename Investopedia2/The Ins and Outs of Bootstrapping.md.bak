@@ -1,10 +1,9 @@
 ---
-alias: [Bootstrapping Definition]
+alias: [Bootstrapping]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bootstrapping Definition, The Ins and Outs of Bootstrapping]
 source: https://www.investopedia.com/terms/b/bootstrap.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Bootstrapping Definition

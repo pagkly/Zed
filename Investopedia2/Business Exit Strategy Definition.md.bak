@@ -3,8 +3,7 @@ alias: [Business Exit Strategy]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Business Exit Strategy, Business Exit Strategy Definition]
 source: https://www.investopedia.com/terms/b/business-exit-strategy.asp
-author: By
-Adam Hayes
+author: ByAdam Hayes
 ---
 
 # Business Exit Strategy

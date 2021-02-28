@@ -1,10 +1,9 @@
 ---
-alias: [Bankruptcy Definition]
+alias: [Bankruptcy]
 created: 2021-02-28T21:21:23 (UTC +11:00)
 tags: [Bankruptcy Definition, Bankruptcy Definition]
 source: https://www.investopedia.com/terms/b/bankruptcy.asp
-author: By
-Alicia Tuovila
+author: ByAlicia Tuovila
 ---
 
 # Bankruptcy Definition

@@ -3,7 +3,7 @@ alias: [Bundle of Rights]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Bundle of Rights Definition, Bundle of Rights: What Everyone Should Know]
 source: https://www.investopedia.com/terms/b/bundle-of-rights.asp
-author: ByWill Kenton
+author: Will Kenton
 ---
 
 # Bundle of Rights Definition

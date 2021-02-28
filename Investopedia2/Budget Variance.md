@@ -3,7 +3,7 @@ alias: [Budget Variance]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Budget Variance Definition, Budget Variance]
 source: https://www.investopedia.com/terms/b/budget-variance.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Budget Variance Definition

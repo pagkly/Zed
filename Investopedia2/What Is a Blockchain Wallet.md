@@ -3,7 +3,7 @@ alias: [What Is a Blockchain Wallet?]
 created: 2021-02-28T22:07:34 (UTC +11:00)
 tags: [What Is a Blockchain Wallet?, What Is a Blockchain Wallet?]
 source: https://www.investopedia.com/terms/b/blockchain-wallet.asp
-author: ByJake Frankenfield
+author: Jake Frankenfield
 ---
 
 # What Is a Blockchain Wallet?

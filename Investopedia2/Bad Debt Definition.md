@@ -3,7 +3,7 @@ alias: [Bad Debt]
 created: 2021-02-28T21:18:51 (UTC +11:00)
 tags: [Bad Debt Definition, Bad Debt Definition]
 source: https://www.investopedia.com/terms/b/baddebt.asp
-author: ByAlicia Tuovila
+author: Alicia Tuovila
 ---
 
 # Bad Debt Definition

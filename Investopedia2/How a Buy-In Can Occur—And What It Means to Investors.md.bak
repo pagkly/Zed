@@ -1,10 +1,9 @@
 ---
-alias: [Buy-In Definition]
+alias: [Buy-In]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Buy-In Definition, How a Buy-In Can Occur—And What It Means to Investors]
 source: https://www.investopedia.com/terms/b/buyin.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Buy-In Definition

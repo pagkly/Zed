@@ -3,8 +3,7 @@ alias: [Balanced Investment Strategy Defined]
 created: 2021-02-28T21:18:50 (UTC +11:00)
 tags: [Balanced Investment Strategy Defined, What Does “Balanced Investment Strategy” Mean?]
 source: https://www.investopedia.com/terms/b/balancedinvestmentstrategy.asp
-author: By
-Jason Fernando
+author: ByJason Fernando
 ---
 
 # Balanced Investment Strategy Defined

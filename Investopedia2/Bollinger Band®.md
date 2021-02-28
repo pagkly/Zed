@@ -3,7 +3,7 @@ alias: [Bollinger Band®]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bollinger Band® Definition, Bollinger Band®]
 source: https://www.investopedia.com/terms/b/bollingerbands.asp
-author: ByAdam Hayes
+author: Adam Hayes
 ---
 
 # Bollinger Band® Definition

@@ -3,7 +3,7 @@ alias: [Bond ETF]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bond ETF Definition, Bond ETF]
 source: https://www.investopedia.com/terms/b/bond-etf.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Bond ETF Definition

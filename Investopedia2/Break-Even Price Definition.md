@@ -3,7 +3,7 @@ alias: [Break-Even Price]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Break-Even Price Definition, Break-Even Price Definition]
 source: https://www.investopedia.com/terms/b/breakeven-price.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Break-Even Price Definition

@@ -1,10 +1,9 @@
 ---
-alias: [Business Risk Definition]
+alias: [Business Risk]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Business Risk Definition, The Ins and Outs of Business Risk]
 source: https://www.investopedia.com/terms/b/businessrisk.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Business Risk Definition

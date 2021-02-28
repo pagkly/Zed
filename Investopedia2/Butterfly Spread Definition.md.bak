@@ -1,10 +1,9 @@
 ---
-alias: [Butterfly Spread Definition]
+alias: [Butterfly Spread]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Butterfly Spread Definition, Butterfly Spread Definition]
 source: https://www.investopedia.com/terms/b/butterflyspread.asp
-author: By
-Cory Mitchell
+author: ByCory Mitchell
 ---
 
 # Butterfly Spread Definition

@@ -3,7 +3,7 @@ alias: [Brokerage Account]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Brokerage Account Definition, Brokerage Account]
 source: https://www.investopedia.com/terms/b/brokerageaccount.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Brokerage Account Definition

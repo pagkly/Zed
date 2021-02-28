@@ -3,7 +3,7 @@ alias: [Business-to-Business (B2B)]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Business-to-Business (B2B) Definition, Business to Business (B2B)]
 source: https://www.investopedia.com/terms/b/btob.asp
-author: ByJames Chen
+author: James Chen
 ---
 
 # Business-to-Business (B2B) Definition

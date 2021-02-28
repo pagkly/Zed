@@ -3,7 +3,7 @@ alias: [Boom And Bust Cycle]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Boom And Bust Cycle, Boom And Bust Cycle]
 source: https://www.investopedia.com/terms/b/boom-and-bust-cycle.asp
-author: ByAdam Hayes
+author: Adam Hayes
 ---
 
 # Boom And Bust Cycle

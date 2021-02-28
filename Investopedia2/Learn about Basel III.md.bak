@@ -1,10 +1,9 @@
 ---
-alias: [Basel III Definition]
+alias: [Basel III]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Basel III Definition, Learn about Basel III]
 source: https://www.investopedia.com/terms/b/basell-iii.asp
-author: By
-Staff Author
+author: ByStaff Author
 ---
 
 # Basel III Definition
