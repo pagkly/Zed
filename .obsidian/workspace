@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Edu/🎮.md",
+            "file": "Investopedia/Investing/Alpha.md",
             "mode": "source"
           }
         }
@@ -77,12 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edu/🎮.md",
+                "file": "Investopedia/Investing/Alpha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edu/🎮.md"
+                "file": "Investopedia/Investing/Alpha.md"
               }
             }
           },
@@ -138,15 +138,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia/Investing/Alpha.md",
+    "Investopedia/Investing/Absolute Advantage.md",
+    "Investopedia/Investing/A Brief History of Income Inequality in the United States.md",
+    "2021-{{02-28}}.md",
     "Edu/🎮.md",
     "Untitled.md",
     "Untitled 1.md",
     "README.md",
-    "2021-{{02-28}}.md",
     "Investopedia/Investing/Energy Risk Professional (ERP).md",
-    "Dict/inherent.md",
-    "Dict/underlie.md",
-    "Dict/underlies.md",
-    "Templates/Formatting/LaTeX/baqua.md"
+    "Dict/inherent.md"
   ]
 }
