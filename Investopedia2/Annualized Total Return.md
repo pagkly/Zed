@@ -3,8 +3,7 @@ alias: [Annualized Total Return]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Annualized Total Return, Annualized Total Return]
 source: https://www.investopedia.com/terms/a/annualized-total-return.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Annualized Total Return

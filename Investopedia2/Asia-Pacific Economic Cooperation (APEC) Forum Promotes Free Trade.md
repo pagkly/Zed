@@ -3,8 +3,7 @@ alias: [Asia-Pacific Economic Cooperation (APEC) Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Asia-Pacific Economic Cooperation (APEC) Definition, Asia-Pacific Economic Cooperation (APEC) Forum Promotes Free Trade]
 source: https://www.investopedia.com/terms/a/asiapacific-economic-cooperation-apec.asp
-author: By
-Andrew Bloomenthal
+author: Andrew Bloomenthal
 ---
 
 # Asia-Pacific Economic Cooperation (APEC) Definition

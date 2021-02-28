@@ -3,8 +3,7 @@ alias: [Anchoring and Adjustment Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Anchoring and Adjustment Definition, Anchoring and Adjustment Definition]
 source: https://www.investopedia.com/terms/a/anchoring-and-adjustment.asp
-author: By
-Investopedia Staff
+author: Investopedia Staff
 ---
 
 # Anchoring and Adjustment Definition

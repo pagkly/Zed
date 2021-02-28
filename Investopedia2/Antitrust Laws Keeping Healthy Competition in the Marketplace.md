@@ -3,8 +3,7 @@ alias: [Antitrust Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Antitrust Definition, Antitrust Laws: Keeping Healthy Competition in the Marketplace]
 source: https://www.investopedia.com/terms/a/antitrust.asp
-author: By
-Alexandra Twin
+author: Alexandra Twin
 ---
 
 # Antitrust Definition

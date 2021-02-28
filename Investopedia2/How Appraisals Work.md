@@ -3,8 +3,7 @@ alias: [Appraisal Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Appraisal Definition, How Appraisals Work]
 source: https://www.investopedia.com/terms/a/appraisal.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Appraisal Definition

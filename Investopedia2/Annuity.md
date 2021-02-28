@@ -3,8 +3,7 @@ alias: [Annuities: Insurance for Retirement]
 created: 2021-02-28T16:45:06 (UTC +11:00)
 tags: [Annuities: Insurance for Retirement, Annuity]
 source: https://www.investopedia.com/terms/a/annuity.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Annuities: Insurance for Retirement

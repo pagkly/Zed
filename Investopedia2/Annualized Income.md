@@ -3,8 +3,7 @@ alias: [Annualized Income Definition & Example]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Annualized Income Definition & Example, Annualized Income]
 source: https://www.investopedia.com/terms/a/annualized-income.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Annualized Income Definition & Example

@@ -3,8 +3,7 @@ alias: [Asset Allocation]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Asset Allocation, Asset Allocation]
 source: https://www.investopedia.com/terms/a/assetallocation.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Asset Allocation

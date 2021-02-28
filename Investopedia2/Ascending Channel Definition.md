@@ -3,8 +3,7 @@ alias: [Ascending Channel Definition]
 created: 2021-02-28T16:45:06 (UTC +11:00)
 tags: [Ascending Channel Definition, Ascending Channel Definition]
 source: https://www.investopedia.com/terms/a/ascendingchannel.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Ascending Channel Definition

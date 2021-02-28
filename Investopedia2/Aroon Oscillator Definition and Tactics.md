@@ -3,8 +3,7 @@ alias: [Aroon Oscillator Definition and Tactics]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Aroon Oscillator Definition and Tactics, Aroon Oscillator Definition and Tactics]
 source: https://www.investopedia.com/terms/a/aroonoscillator.asp
-author: By
-Cory Mitchell
+author: Cory Mitchell
 ---
 
 # Aroon Oscillator Definition and Tactics

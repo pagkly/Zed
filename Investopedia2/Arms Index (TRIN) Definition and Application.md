@@ -3,8 +3,7 @@ alias: [Arms Index (TRIN) Definition and Application]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Arms Index (TRIN) Definition and Application, Arms Index (TRIN) Definition and Application]
 source: https://www.investopedia.com/terms/a/arms.asp
-author: By
-Cory Mitchell
+author: Cory Mitchell
 ---
 
 # Arms Index (TRIN) Definition and Application

@@ -3,8 +3,7 @@ alias: [Arbitrage Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Arbitrage Definition, What Is Arbitrage?]
 source: https://www.investopedia.com/terms/a/arbitrage.asp
-author: By
-Jason Fernando
+author: Jason Fernando
 ---
 
 # Arbitrage Definition

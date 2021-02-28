@@ -3,8 +3,7 @@ alias: [Arbitrageur Definition]
 created: 2021-02-28T16:45:06 (UTC +11:00)
 tags: [Arbitrageur Definition, Arbitrageur]
 source: https://www.investopedia.com/terms/a/arbitrageur.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Arbitrageur Definition

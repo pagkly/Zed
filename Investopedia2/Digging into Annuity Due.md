@@ -3,8 +3,7 @@ alias: [Annuity Due Definition]
 created: 2021-02-28T16:45:05 (UTC +11:00)
 tags: [Annuity Due Definition, Digging into Annuity Due]
 source: https://www.investopedia.com/terms/a/annuitydue.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Annuity Due Definition

@@ -3,8 +3,7 @@ alias: [Anti-Dilution Provision Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Anti-Dilution Provision Definition, Anti-Dilution Provision Definition]
 source: https://www.investopedia.com/terms/a/anti-dilutionprovision.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Anti-Dilution Provision Definition

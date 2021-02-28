@@ -3,8 +3,7 @@ alias: [Amortized Bond Definition]
 created: 2021-02-28T16:45:05 (UTC +11:00)
 tags: [Amortized Bond Definition, Amortized Bond]
 source: https://www.investopedia.com/terms/a/amortized-bond.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Amortized Bond Definition

@@ -3,8 +3,7 @@ alias: [Aroon Indicator Definition and Uses]
 created: 2021-02-28T16:45:03 (UTC +11:00)
 tags: [Aroon Indicator Definition and Uses, Aroon Indicator Definition and Uses]
 source: https://www.investopedia.com/terms/a/aroon.asp
-author: By
-Cory Mitchell
+author: Cory Mitchell
 ---
 
 # Aroon Indicator Definition and Uses

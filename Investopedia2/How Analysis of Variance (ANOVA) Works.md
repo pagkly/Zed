@@ -3,8 +3,7 @@ alias: [Analysis of Variance (ANOVA) Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Analysis of Variance (ANOVA) Definition, How Analysis of Variance (ANOVA) Works]
 source: https://www.investopedia.com/terms/a/anova.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Analysis of Variance (ANOVA) Definition

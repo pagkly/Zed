@@ -3,8 +3,7 @@ alias: [Annual Report Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Annual Report Definition, Annual Reports: What You Need to Know]
 source: https://www.investopedia.com/terms/a/annualreport.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Annual Report Definition

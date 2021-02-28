@@ -3,8 +3,7 @@ alias: [Amortized Loan Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Amortized Loan Definition, Amortized Loan Definition]
 source: https://www.investopedia.com/terms/a/amortized_loan.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Amortized Loan Definition

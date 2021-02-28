@@ -3,8 +3,7 @@ alias: [Assemble-to-Order (ATO) Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Assemble-to-Order (ATO) Definition, Assemble-to-Order (ATO)]
 source: https://www.investopedia.com/terms/a/assemble-to-order.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Assemble-to-Order (ATO) Definition

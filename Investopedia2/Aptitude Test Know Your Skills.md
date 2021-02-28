@@ -3,8 +3,7 @@ alias: [Aptitude Test Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Aptitude Test Definition, Aptitude Test: Know Your Skills]
 source: https://www.investopedia.com/terms/a/aptitude-test.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Aptitude Test Definition

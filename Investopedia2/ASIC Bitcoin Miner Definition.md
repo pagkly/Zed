@@ -3,8 +3,7 @@ alias: [ASIC Bitcoin Miner Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [ASIC Bitcoin Miner Definition, ASIC Bitcoin Miner Definition]
 source: https://www.investopedia.com/terms/a/asic.asp
-author: By
-Carla Tardi
+author: Carla Tardi
 ---
 
 # ASIC Bitcoin Miner Definition

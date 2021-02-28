@@ -3,8 +3,7 @@ alias: [Arrow's Impossibility Theorem Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Arrow's Impossibility Theorem Definition, What Is Arrow's Impossibility Theorem?]
 source: https://www.investopedia.com/terms/a/arrows-impossibility-theorem.asp
-author: By
-Daniel Liberto
+author: Daniel Liberto
 ---
 
 # Arrow's Impossibility Theorem Definition

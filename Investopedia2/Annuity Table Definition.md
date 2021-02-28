@@ -3,8 +3,7 @@ alias: [Annuity Table Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Annuity Table Definition, Annuity Table Definition]
 source: https://www.investopedia.com/terms/a/annuity-table.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Annuity Table Definition

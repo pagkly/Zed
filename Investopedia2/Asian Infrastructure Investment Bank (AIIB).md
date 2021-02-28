@@ -3,8 +3,7 @@ alias: [Asian Infrastructure Investment Bank (AIIB)]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Asian Infrastructure Investment Bank (AIIB), Asian Infrastructure Investment Bank (AIIB)]
 source: https://www.investopedia.com/terms/a/asian-infrastructure-investment-bank-aiib.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Asian Infrastructure Investment Bank (AIIB)

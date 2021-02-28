@@ -3,8 +3,7 @@ alias: [Annual Return Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Annual Return Definition, Annual Return]
 source: https://www.investopedia.com/terms/a/annual-return.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Annual Return Definition

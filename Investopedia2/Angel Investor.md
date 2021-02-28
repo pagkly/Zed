@@ -3,8 +3,7 @@ alias: [Angel Investor Definition]
 created: 2021-02-28T16:45:03 (UTC +11:00)
 tags: [Angel Investor Definition, Angel Investor]
 source: https://www.investopedia.com/terms/a/angelinvestor.asp
-author: By
-Akhilesh Ganti
+author: Akhilesh Ganti
 ---
 
 # Angel Investor Definition

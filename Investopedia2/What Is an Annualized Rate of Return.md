@@ -3,8 +3,7 @@ alias: [Annualized Rate of Return Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Annualized Rate of Return Definition, What Is an Annualized Rate of Return?]
 source: https://www.investopedia.com/terms/a/annualized-rate.asp
-author: By
-Alexandra Twin
+author: Alexandra Twin
 ---
 
 # Annualized Rate of Return Definition

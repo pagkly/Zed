@@ -3,8 +3,7 @@ alias: [Ascending Triangle Definition and Tactics]
 created: 2021-02-28T16:45:03 (UTC +11:00)
 tags: [Ascending Triangle Definition and Tactics, Ascending Triangle Definition and Tactics]
 source: https://www.investopedia.com/terms/a/ascendingtriangle.asp
-author: By
-Cory Mitchell
+author: Cory Mitchell
 ---
 
 # Ascending Triangle Definition and Tactics

@@ -3,8 +3,7 @@ alias: [Articles of Association Definition and Example]
 created: 2021-02-28T16:45:03 (UTC +11:00)
 tags: [Articles of Association Definition and Example, Articles of Association Definition and Example]
 source: https://www.investopedia.com/terms/a/articles-of-association.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Articles of Association Definition and Example

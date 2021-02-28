@@ -3,8 +3,7 @@ alias: [Articles of Incorporation Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Articles of Incorporation Definition, Articles of Incorporation]
 source: https://www.investopedia.com/terms/a/articlesofincorporation.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Articles of Incorporation Definition

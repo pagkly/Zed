@@ -3,8 +3,7 @@ alias: [Arithmetic Mean Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Arithmetic Mean Definition, Arithmetic Mean Definition]
 source: https://www.investopedia.com/terms/a/arithmeticmean.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Arithmetic Mean Definition

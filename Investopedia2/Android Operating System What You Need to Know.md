@@ -3,8 +3,7 @@ alias: [Android Operating System Definition]
 created: 2021-02-28T16:45:04 (UTC +11:00)
 tags: [Android Operating System Definition, Android Operating System: What You Need to Know]
 source: https://www.investopedia.com/terms/a/android-operating-system.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Android Operating System Definition

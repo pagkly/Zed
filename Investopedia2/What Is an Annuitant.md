@@ -3,8 +3,7 @@ alias: [Annuitant Definition]
 created: 2021-02-28T16:45:08 (UTC +11:00)
 tags: [Annuitant Definition, What Is an Annuitant?]
 source: https://www.investopedia.com/terms/a/annuitant.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Annuitant Definition

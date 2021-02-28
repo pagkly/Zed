@@ -3,8 +3,7 @@ alias: [Annual Percentage Yield (APY) Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Annual Percentage Yield (APY) Definition, Annual Percentage Yield (APY) Definition]
 source: https://www.investopedia.com/terms/a/apy.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Annual Percentage Yield (APY) Definition

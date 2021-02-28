@@ -3,8 +3,7 @@ alias: [Anti Money Laundering (AML) Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Anti Money Laundering (AML) Definition, What is Anti Money Laundering (AML)?]
 source: https://www.investopedia.com/terms/a/aml.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Anti Money Laundering (AML) Definition

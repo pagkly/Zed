@@ -3,8 +3,7 @@ alias: [Appellate Courts Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Appellate Courts Definition, Appellate Courts]
 source: https://www.investopedia.com/terms/a/appellate-courts.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Appellate Courts Definition

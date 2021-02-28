@@ -3,8 +3,7 @@ alias: [Annual Turnover Definition]
 created: 2021-02-28T16:45:03 (UTC +11:00)
 tags: [Annual Turnover Definition, What Is Annual Turnover and Why Is It Important?]
 source: https://www.investopedia.com/terms/a/annual-turnover.asp
-author: By
-Adam Barone
+author: Adam Barone
 ---
 
 # Annual Turnover Definition

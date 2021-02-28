@@ -3,8 +3,7 @@ alias: [Amortization Definition]
 created: 2021-02-28T16:45:04 (UTC +11:00)
 tags: [Amortization Definition, Amortization]
 source: https://www.investopedia.com/terms/a/amortization.asp
-author: By
-Jason Fernando
+author: Jason Fernando
 ---
 
 # Amortization Definition

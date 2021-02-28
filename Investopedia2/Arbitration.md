@@ -3,8 +3,7 @@ alias: [Arbitration Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Arbitration Definition, Arbitration]
 source: https://www.investopedia.com/terms/a/arbitration.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Arbitration Definition

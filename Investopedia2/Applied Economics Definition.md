@@ -3,8 +3,7 @@ alias: [Applied Economics Definition]
 created: 2021-02-28T16:45:06 (UTC +11:00)
 tags: [Applied Economics Definition, Applied Economics Definition]
 source: https://www.investopedia.com/terms/a/applied-economics.asp
-author: By
-Investopedia Staff
+author: Investopedia Staff
 ---
 
 # Applied Economics Definition

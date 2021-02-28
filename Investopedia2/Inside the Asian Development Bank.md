@@ -3,8 +3,7 @@ alias: [Asian Development Bank Definition]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Asian Development Bank Definition, Inside the Asian Development Bank]
 source: https://www.investopedia.com/terms/a/asian-development-bank.asp
-author: By
-Brian Beers
+author: Brian Beers
 ---
 
 # Asian Development Bank Definition

@@ -3,8 +3,7 @@ alias: [Annual General Meeting (AGM) Definition]
 created: 2021-02-28T16:45:09 (UTC +11:00)
 tags: [Annual General Meeting (AGM) Definition, Annual General Meeting (AGM)]
 source: https://www.investopedia.com/terms/a/agm.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Annual General Meeting (AGM) Definition

@@ -3,8 +3,7 @@ alias: [Definition of Arbitrage Pricing Theory (APT)]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Definition of Arbitrage Pricing Theory (APT), Understanding Arbitrage Pricing Theory]
 source: https://www.investopedia.com/terms/a/apt.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Definition of Arbitrage Pricing Theory (APT)
