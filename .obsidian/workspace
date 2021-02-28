@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia2/Americans With Disabilities Act – ADA.md",
+            "file": "Investopedia2/Amortizable Bond Premium.md",
             "mode": "source"
           }
         }
@@ -77,12 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia2/Americans With Disabilities Act – ADA.md",
+                "file": "Investopedia2/Amortizable Bond Premium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia2/Americans With Disabilities Act – ADA.md"
+                "file": "Investopedia2/Amortizable Bond Premium.md"
               }
             }
           },
@@ -138,8 +138,8 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Investopedia2/Americans With Disabilities Act – ADA.md",
     "Investopedia2/Amortizable Bond Premium.md",
+    "Investopedia2/Americans With Disabilities Act – ADA.md",
     "Investopedia2/American Stock Exchange (AMEX).md",
     "Investopedia2/Amortized Loan Definition.md",
     "Investopedia2/Amortized Bond.md",
