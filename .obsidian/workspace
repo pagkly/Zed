@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia/Investing/Activity Cost Driver Definition.md",
+            "file": "Investopedia/Investing/AARP Definition.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia/Investing/Activity Cost Driver Definition.md",
+                "file": "Investopedia/Investing/AARP Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia/Investing/Activity Cost Driver Definition.md"
+                "file": "Investopedia/Investing/AARP Definition.md"
               }
             }
           },
@@ -139,15 +139,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Investopedia/Investing/Activity Cost Driver Definition.md",
+    "Investopedia/Investing/AARP Definition.md",
     "Investopedia/Investing/2020 Election Jobs, Trade, and the Economy Explained.md",
+    "Investopedia/Investing/A Brief History of Income Inequality in the United States.md",
+    "Investopedia/Investing/AI.md",
+    "Investopedia/Investing/Adverse Selection.md",
+    "Investopedia/Investing/Actual Deferral & Actual Contribution Percentage Tests Definition.md",
+    "Investopedia/Investing/Acquisition Premium Definition.md",
+    "Investopedia/Investing/Activity Cost Driver Definition.md",
     "Investopedia/American Stock Exchange (AMEX) Definition.md",
-    "README.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Templates/Absolute Advantage Definition.md",
-    "2021-{{02-28}}.md",
-    "Dict/inherent.md",
-    "Dict/endowment.md"
+    "README.md"
   ]
 }
