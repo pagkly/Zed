@@ -28,7 +28,7 @@ EBITDAmargin\=EBITDANet salesEBITDA\\;\\text{margin} = \\frac{EBITDA}{\\text{Ne
 
 ## How to Calculate the EBITDA-To-Sales Ratio
 
-EBITDA is an abbreviation for "earnings before interest, taxes, [depreciation](https://www.investopedia.com/terms/d/depreciation.asp), and [amortization](https://www.investopedia.com/terms/a/amortization.asp)." Thus, it is calculated adding back these line items to net income, and so does include operating expenses such as the [[Cost of Goods Sold]] (COGS) and selling, general, and administrative (SG&A) expenses.
+EBITDA is an abbreviation for "earnings before interest, taxes, [depreciation](https://www.investopedia.com/terms/d/depreciation.asp), and [amortization](https://www.investopedia.com/terms/a/amortization.asp)." Thus, it is calculated adding back these line items to net income, and so does include operating expenses such as the [[Cost of Goods Sold (COGS)]] (COGS) and selling, general, and administrative (SG&A) expenses.
 
 The EBITDA/sales ratio is therefore able to focus on the impact of direct operating costs while excluding the effects of the company's capital structure, tax exposure, and accounting quirks.
 
