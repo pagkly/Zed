@@ -52,7 +52,7 @@
 36. Creative Destruction
 37. Diminishing Utility
 38. Economies of Scale
-39. Elasticity
+39. [[Elasticity]]
 40. Externalities
 41. Markets
 42. Marginal Cost

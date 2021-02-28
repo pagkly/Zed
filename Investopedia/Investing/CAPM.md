@@ -62,15 +62,15 @@ Image by Julie Bang © Investopedia 2019
 
 The graph shows how greater expected returns (y-axis) require greater expected risk (x-axis). [Modern Portfolio Theory](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) suggests that starting with the risk-free rate, the expected return of a portfolio increases as the risk increases. Any portfolio that fits on the [Capital Market Line (CML)](https://www.investopedia.com/terms/c/cml.asp) is better than any possible portfolio to the right of that line, but at some point, a theoretical portfolio can be constructed on the CML with the best return for the amount of risk being taken.
 
-The CML and efficient frontier may be difficult to define, but it illustrates an important concept for investors: there is a trade-off between increased return and increased risk. Because it isn’t possible to perfectly build a portfolio that fits on the CML, it is more common for investors to take on too much risk as they seek additional return.
+The CML and [[Efficient Frontier ]]may be difficult to define, but it illustrates an important concept for investors: there is a trade-off between increased return and increased risk. Because it isn’t possible to perfectly build a portfolio that fits on the CML, it is more common for investors to take on too much risk as they seek additional return.
 
 In the following chart, you can see two portfolios that have been constructed to fit along the efficient frontier. Portfolio A is expected to return 8% per year and has a 10% [[[Standard Deviation]]](https://www.investopedia.com/terms/s/standarddeviation.asp) or risk level. Portfolio B is expected to return 10% per year but has a 16% [[Standard Deviation]]. The risk of portfolio B rose faster than its expected returns.
 
 Image by Julie Bang © Investopedia 2019
 
-The efficient frontier assumes the same things as the CAPM and can only be calculated in theory. If a portfolio existed on the efficient frontier it would be providing the maximal return for its level of risk. However, it is impossible to know whether a portfolio exists on the efficient frontier or not because future returns cannot be predicted.
+The [[Efficient Frontier ]]assumes the same things as the CAPM and can only be calculated in theory. If a portfolio existed on the [[Efficient Frontier ]]it would be providing the maximal return for its level of risk. However, it is impossible to know whether a portfolio exists on the [[Efficient Frontier ]]or not because future returns cannot be predicted.
 
-This trade-off between risk and return applies to the CAPM and the efficient frontier graph can be rearranged to illustrate the trade-off for individual assets. In the following chart, you can see that the CML is now called the [Security Market Line (SML)](https://www.investopedia.com/terms/s/sml.asp). Instead of expected risk on the x-axis, the stock’s beta is used. As you can see in the illustration, as beta increases from one to two, the expected return is also rising.
+This trade-off between risk and return applies to the CAPM and the [[Efficient Frontier ]]graph can be rearranged to illustrate the trade-off for individual assets. In the following chart, you can see that the CML is now called the [Security Market Line (SML)](https://www.investopedia.com/terms/s/sml.asp). Instead of expected risk on the x-axis, the stock’s beta is used. As you can see in the illustration, as beta increases from one to two, the expected return is also rising.
 
 Image by Julie Bang © Investopedia 2019
 
@@ -86,10 +86,10 @@ Imagine an advisor who has proposed adding a stock to a portfolio with a $100 sh
 
 Assume in this example that the peer group’s performance over the last few years was a little better than 10% while this stock had consistently underperformed with 9% returns. The investment manager shouldn’t take the advisor’s recommendation without some justification for the increased expected return.
 
-An investor can also use the concepts from the CAPM and efficient frontier to evaluate their portfolio or individual stock performance compared to the rest of the market. For example, assume that an investor’s portfolio has returned 10% per year for the last three years with a [[Standard Deviation]] of returns (risk) of 10%. However, the market averages have returned 10% for the last three years with a risk of 8%.
+An investor can also use the concepts from the CAPM and [[Efficient Frontier ]]to evaluate their portfolio or individual stock performance compared to the rest of the market. For example, assume that an investor’s portfolio has returned 10% per year for the last three years with a [[Standard Deviation]] of returns (risk) of 10%. However, the market averages have returned 10% for the last three years with a risk of 8%.
 
 The investor could use this observation to reevaluate how their portfolio is constructed and which holdings may not be on the SML. This could explain why the investor’s portfolio is to the right of the CML. If the holdings that are either dragging on returns or have increased the portfolio’s risk disproportionately can be identified, the investor can make changes to improve returns.
 
 ## The Bottom Line
 
-The CAPM uses the principles of Modern Portfolio Theory to determine if a security is fairly valued. It relies on assumptions about investor behaviors, risk and return distributions, and market fundamentals that don’t match reality. However, the underlying concepts of CAPM and the associated efficient frontier can help investors understand the relationship between expected risk and reward as they make better decisions about adding securities to a portfolio.
+The CAPM uses the principles of Modern Portfolio Theory to determine if a security is fairly valued. It relies on assumptions about investor behaviors, risk and return distributions, and market fundamentals that don’t match reality. However, the underlying concepts of CAPM and the associated [[Efficient Frontier ]]can help investors understand the relationship between expected risk and reward as they make better decisions about adding securities to a portfolio.

@@ -61,7 +61,7 @@ During the credit crisis and housing market collapse of 2008, the combination 
 
 During the housing crisis of 2008, homeowners in the hardest-hit areas, such as Las Vegas, saw the value of their homes depreciate by as much as 60%.
 
-Hypothetically, economic influences can also lead to increases in value or economic appreciation. Following the height of the 2008 financial crisis, regulators and the central bank took steps to improve economic conditions for the housing market that resulted in a housing market rebound and significant economic appreciation in real estate values from one appraisal to the next.
+Hypothetically, economic influences can also lead to increases in value or economic appreciation. Following the height of the 2008 financial crisis, regulators and the central bank took steps to improve [[Economic Conditions]] for the housing market that resulted in a housing market rebound and significant economic appreciation in real estate values from one appraisal to the next.
 
 ## Valuing Assets
 

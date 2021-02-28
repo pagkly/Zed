@@ -277,7 +277,7 @@ The government is right that there is no example of this kind of relationship in
 
 The first option would be for the U.K. to join Norway, Iceland, and Lichtenstein in the [European Economic Area](https://www.investopedia.com/terms/e/european-economic-area-eea-agreement.asp) (EEA), which provides access to the EU's single market for most goods and services (agriculture and fisheries are excluded). At the same time, the EEA is outside the customs union, so Britain could enter into trade deals with non-EU countries. The arrangement is hardly a win-win, however: the U.K. would be bound by some EU laws while losing its ability to influence those laws through the country's European Council and European Parliament voting rights. In Sept. 2017, May called this arrangement an unacceptable "loss of democratic control."23
 
-David Davis expressed interest in the Norway model in response to a question he received at the U.S. Chamber of Commerce in Washington. "It's something we've thought about but it's not at the top of our list."59 He was referring specifically to the European Free Trade Association (EFTA), which like the EEA offers access to the single market, but not the customs union. EFTA was once a large organization, but most of its members have left to join the EU. Today it comprises Norway, Iceland, Lichtenstein, and Switzerland; all but Switzerland are also members of the EEA.
+David Davis expressed interest in the Norway model in response to a question he received at the U.S. Chamber of Commerce in Washington. "It's something we've thought about but it's not at the top of our list."59 He was referring specifically to the European Free Trade Association (EFTA), which like the EEA offers access to the single market, but not the customs union. [[EFTA ]]was once a large organization, but most of its members have left to join the EU. Today it comprises Norway, Iceland, Lichtenstein, and Switzerland; all but Switzerland are also members of the EEA.
 
 ## The Switzerland Model
 
@@ -285,7 +285,7 @@ Switzerland's relationship to the EU, which is governed by around 20 major bilat
 
 The country allows free movement of people and is a member of the passport-free Schengen Area. It is subject to many single market rules, without having much say in making them. It is outside the customs union, allowing it to negotiate free trade agreements with third countries; usually, but not always, it has negotiated alongside the EEA countries. Switzerland has access to the single market for goods (with the exception of agriculture), but not services (with the exception of insurance). It pays a modest amount into the EU's budget. 
 
-Brexit supporters who want to "take back control" would be unlikely to embrace the concessions the Swiss have made on immigration, budget payments, and single market rules. The EU would probably not want a relationship modeled on the Swiss example, either: Switzerland's membership in EFTA but not the EEA, Schengen but not the EU, is a messy product of the complex history of European integration and—what else—a referendum.
+Brexit supporters who want to "take back control" would be unlikely to embrace the concessions the Swiss have made on immigration, budget payments, and single market rules. The EU would probably not want a relationship modeled on the Swiss example, either: Switzerland's membership in [[EFTA ]]but not the EEA, Schengen but not the EU, is a messy product of the complex history of European integration and—what else—a referendum.
 
 ## The Canada Model: A Free Trade Agreement
 

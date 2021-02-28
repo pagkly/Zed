@@ -6,25 +6,25 @@ author: By
 Will Kenton
 ---
 
-# Price Elasticity of Demand Definition
+# Price [[Elasticity]] of Demand Definition
 
 > ## Excerpt
-> Price elasticity of demand is a measure of the change in the quantity purchased of a product in relation to a change in its price.
+> Price [[Elasticity]] of demand is a measure of the change in the quantity purchased of a product in relation to a change in its price.
 
 ---
-## Price Elasticity of Demand: An Overview
+## Price [[Elasticity]] of Demand: An Overview
 
-Price elasticity of demand is a measurement of the change in consumption of a product in relation to a change in its price. Expressed mathematically, it is:
+Price [[Elasticity]] of demand is a measurement of the change in consumption of a product in relation to a change in its price. Expressed mathematically, it is:
 
 **_Price Elasticity of Demand = % Change in Quantity Demanded / % Change in Price_**
 
-Economists use [price elasticity](https://www.investopedia.com/terms/e/elasticity.asp) to understand how supply and demand for a product changes when its price changes.
+Economists use [price [[Elasticity]]](https://www.investopedia.com/terms/e/elasticity.asp) to understand how supply and demand for a product changes when its price changes.
 
-## Price Elasticity of Demand In Depth
+## Price [[Elasticity]] of Demand In Depth
 
 Economists have found that the prices of some goods are very [inelastic](https://www.investopedia.com/terms/e/inelastic.asp). That is, a reduction in price does not increase demand much, and an increase in price does not hurt demand either.
 
-For example, gasoline has little price elasticity of demand. Drivers will continue to buy as much as they have to, as will airlines, the trucking industry, and nearly every other buyer.
+For example, gasoline has little price [[Elasticity]] of demand. Drivers will continue to buy as much as they have to, as will airlines, the trucking industry, and nearly every other buyer.
 
 Other goods are much more [elastic](https://www.investopedia.com/terms/e/elastic.asp), so price changes for these goods cause substantial changes in their demand or their supply.
 
@@ -40,7 +40,7 @@ For example, in a world in which people like coffee and tea equally, if the pri
 
 ### Urgency Is a Factor
 
-The more [discretionary](https://www.investopedia.com/terms/d/discretionary-expense.asp) a purchase is, the more its quantity of demand will fall in response to price rises. That is, the product demand has greater elasticity.
+The more [discretionary](https://www.investopedia.com/terms/d/discretionary-expense.asp) a purchase is, the more its quantity of demand will fall in response to price rises. That is, the product demand has greater [[Elasticity]].
 
 Say you are considering buying a new washing machine, but the current one still works. It's just old and outdated. If the price of a new washing machine goes up, you're likely to forgo that immediate purchase and wait until prices go down or the current machine breaks down.
 
@@ -52,16 +52,16 @@ One thing all of these products have in common is that they lack good substitute
 
 The length of time that the price change lasts also matters.
 
-[Demand response](https://www.investopedia.com/ask/answers/040315/what-factors-influence-change-demand-elasticity.asp) to price fluctuations is different for a one-day sale than for a price change that lasts for a season or a year.
+[Demand response](https://www.investopedia.com/ask/answers/040315/what-factors-influence-change-demand-[[Elasticity]].asp) to price fluctuations is different for a one-day sale than for a price change that lasts for a season or a year.
 
-Clarity in time sensitivity is vital to understanding the price elasticity of demand and for comparing it across different products. Consumers may accept a seasonal price fluctuation rather than change their habits.
+Clarity in time sensitivity is vital to understanding the price [[Elasticity]] of demand and for comparing it across different products. Consumers may accept a seasonal price fluctuation rather than change their habits.
 
-## Example of Price Elasticity of Demand
+## Example of Price [[Elasticity]] of Demand
 
 As a rule of thumb, if the quantity of a product demanded or purchased changes more than the price changes, the product is termed elastic. (For example, the price changes by +5%, but the demand falls by -10%).
 
-If the change in quantity purchased is the same as the price change (say, 10%/10% = 1), the product is said to have unit (or unitary) price elasticity.
+If the change in quantity purchased is the same as the price change (say, 10%/10% = 1), the product is said to have unit (or unitary) price [[Elasticity]].
 
 Finally, if the quantity purchased changes less than the price (say, -5% demanded for a +10% change in price), then the product is termed inelastic.
 
-To calculate the elasticity of demand, consider this example: Suppose that the price of apples falls by 6% from $1.99 a bushel to $1.87 a bushel. In response, grocery shoppers increase their apple purchases by 20%. The elasticity of apples therefore is: 0.20/0.06 = 3.33, The demand for apples is quite elastic.
+To calculate the [[Elasticity]] of demand, consider this example: Suppose that the price of apples falls by 6% from $1.99 a bushel to $1.87 a bushel. In response, grocery shoppers increase their apple purchases by 20%. The [[Elasticity]] of apples therefore is: 0.20/0.06 = 3.33, The demand for apples is quite elastic.
