@@ -3,8 +3,7 @@ alias: [Aggregate Supply Definition]
 created: 2021-02-28T20:46:36 (UTC +11:00)
 tags: [Aggregate Supply Definition, Learn About Aggregate Supply]
 source: https://www.investopedia.com/terms/a/aggregatesupply.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Aggregate Supply Definition

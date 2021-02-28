@@ -3,8 +3,7 @@ alias: [Agency Costs Definition]
 created: 2021-02-28T20:46:38 (UTC +11:00)
 tags: [Agency Costs Definition, Agency Costs Are Internal Expenses Paid to Compensate Agents for Work]
 source: https://www.investopedia.com/terms/a/agencycosts.asp
-author: By
-Andrew Bloomenthal
+author: Andrew Bloomenthal
 ---
 
 # Agency Costs Definition

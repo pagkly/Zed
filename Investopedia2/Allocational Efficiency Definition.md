@@ -3,8 +3,7 @@ alias: [Allocational Efficiency Definition]
 created: 2021-02-28T20:46:35 (UTC +11:00)
 tags: [Allocational Efficiency Definition, Allocational Efficiency Definition]
 source: https://www.investopedia.com/terms/a/allocationalefficiency.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Allocational Efficiency Definition

@@ -3,8 +3,7 @@ alias: [Adjusted Funds From Operations—AFFO Definition]
 created: 2021-02-28T20:46:33 (UTC +11:00)
 tags: [Adjusted Funds From Operations—AFFO Definition, Adjusted Funds From Operations—AFFO]
 source: https://www.investopedia.com/terms/a/affo.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Adjusted Funds From Operations—AFFO Definition

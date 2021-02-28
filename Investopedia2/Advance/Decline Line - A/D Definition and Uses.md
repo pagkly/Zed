@@ -3,8 +3,7 @@ alias: [Advance/Decline Line - A/D Definition and Uses]
 created: 2021-02-28T20:46:34 (UTC +11:00)
 tags: [Advance/Decline Line - A/D Definition and Uses, Advance/Decline Line - A/D Definition and Uses]
 source: https://www.investopedia.com/terms/a/advancedeclineline.asp
-author: By
-Cory Mitchell
+author: Cory Mitchell
 ---
 
 # Advance/Decline Line - A/D Definition and Uses

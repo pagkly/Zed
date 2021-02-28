@@ -3,8 +3,7 @@ alias: [Alternative Trading System (ATS) Definition]
 created: 2021-02-28T20:46:41 (UTC +11:00)
 tags: [Alternative Trading System (ATS) Definition, Alternative Trading System (ATS) Definition]
 source: https://www.investopedia.com/terms/a/alternative-trading-system.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Alternative Trading System (ATS) Definition

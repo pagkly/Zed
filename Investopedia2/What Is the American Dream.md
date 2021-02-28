@@ -3,8 +3,7 @@ alias: [American Dream Definition]
 created: 2021-02-28T20:46:40 (UTC +11:00)
 tags: [American Dream Definition, What Is the American Dream?]
 source: https://www.investopedia.com/terms/a/american-dream.asp
-author: By
-Adam Barone
+author: Adam Barone
 ---
 
 # American Dream Definition

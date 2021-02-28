@@ -3,8 +3,7 @@ alias: [Altman Z-Score Definition]
 created: 2021-02-28T20:46:31 (UTC +11:00)
 tags: [Altman Z-Score Definition, Altman Z-Score]
 source: https://www.investopedia.com/terms/a/altman.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Altman Z-Score Definition

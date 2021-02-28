@@ -3,8 +3,7 @@ alias: [Allotment Definition]
 created: 2021-02-28T20:46:39 (UTC +11:00)
 tags: [Allotment Definition, Allotment]
 source: https://www.investopedia.com/terms/a/allotment.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Allotment Definition

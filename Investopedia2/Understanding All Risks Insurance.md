@@ -3,8 +3,7 @@ alias: [All Risks Definition]
 created: 2021-02-28T20:46:39 (UTC +11:00)
 tags: [All Risks Definition, Understanding All Risks Insurance]
 source: https://www.investopedia.com/terms/a/all-risks.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # All Risks Definition

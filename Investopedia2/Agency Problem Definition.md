@@ -3,8 +3,7 @@ alias: [Agency Problem Definition]
 created: 2021-02-28T20:46:36 (UTC +11:00)
 tags: [Agency Problem Definition, Agency Problem Definition]
 source: https://www.investopedia.com/terms/a/agencyproblem.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Agency Problem Definition

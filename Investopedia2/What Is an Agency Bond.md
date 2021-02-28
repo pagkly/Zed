@@ -3,8 +3,7 @@ alias: [Agency Bond Definition]
 created: 2021-02-28T20:46:35 (UTC +11:00)
 tags: [Agency Bond Definition, What Is an Agency Bond?]
 source: https://www.investopedia.com/terms/a/agencybonds.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Agency Bond Definition

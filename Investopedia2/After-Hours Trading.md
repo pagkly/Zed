@@ -3,8 +3,7 @@ alias: [After-Hours Trading Definition]
 created: 2021-02-28T20:46:34 (UTC +11:00)
 tags: [After-Hours Trading Definition, After-Hours Trading]
 source: https://www.investopedia.com/terms/a/afterhourstrading.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # After-Hours Trading Definition

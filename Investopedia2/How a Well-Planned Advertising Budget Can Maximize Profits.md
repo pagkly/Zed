@@ -3,8 +3,7 @@ alias: [Advertising Budget Definition]
 created: 2021-02-28T20:46:33 (UTC +11:00)
 tags: [Advertising Budget Definition, How a Well-Planned Advertising Budget Can Maximize Profits]
 source: https://www.investopedia.com/terms/a/advertising-budget.asp
-author: By
-Evan Tarver
+author: Evan Tarver
 ---
 
 # Advertising Budget Definition

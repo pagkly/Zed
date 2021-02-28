@@ -3,8 +3,7 @@ alias: [Aggregation Definition]
 created: 2021-02-28T20:46:35 (UTC +11:00)
 tags: [Aggregation Definition, Aggregation]
 source: https://www.investopedia.com/terms/a/aggregation.asp
-author: By
-Jake Frankenfield
+author: Jake Frankenfield
 ---
 
 # Aggregation Definition

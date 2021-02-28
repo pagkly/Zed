@@ -3,8 +3,7 @@ alias: [After-Tax Real Rate of Return Definition]
 created: 2021-02-28T20:46:33 (UTC +11:00)
 tags: [After-Tax Real Rate of Return Definition, After-Tax Real Rate of Return]
 source: https://www.investopedia.com/terms/a/after-tax-real-rate-of-return.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # After-Tax Real Rate of Return Definition

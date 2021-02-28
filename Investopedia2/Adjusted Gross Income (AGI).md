@@ -3,8 +3,7 @@ alias: [Adjusted Gross Income (AGI) Definition]
 created: 2021-02-28T20:46:34 (UTC +11:00)
 tags: [Adjusted Gross Income (AGI) Definition, Adjusted Gross Income (AGI)]
 source: https://www.investopedia.com/terms/a/agi.asp
-author: By
-Jason Fernando
+author: Jason Fernando
 ---
 
 # Adjusted Gross Income (AGI) Definition

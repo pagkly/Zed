@@ -3,8 +3,7 @@ alias: [Adjusted Present Value (APV) Definition]
 created: 2021-02-28T20:46:33 (UTC +11:00)
 tags: [Adjusted Present Value (APV) Definition, How to Include the Benefit of Interest in Present Value Calculations]
 source: https://www.investopedia.com/terms/a/apv.asp
-author: By
-Marshall Hargrave
+author: Marshall Hargrave
 ---
 
 # Adjusted Present Value (APV) Definition

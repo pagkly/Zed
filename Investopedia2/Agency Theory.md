@@ -3,8 +3,7 @@ alias: [Agency Theory Definition]
 created: 2021-02-28T20:46:34 (UTC +11:00)
 tags: [Agency Theory Definition, Agency Theory]
 source: https://www.investopedia.com/terms/a/agencytheory.asp
-author: By
-Carol M. Kopp
+author: Carol M. Kopp
 ---
 
 # Agency Theory Definition

@@ -3,8 +3,7 @@ alias: [Aggressive Investment Strategy Definition]
 created: 2021-02-28T20:46:36 (UTC +11:00)
 tags: [Aggressive Investment Strategy Definition, Aggressive Investment Strategy Definition]
 source: https://www.investopedia.com/terms/a/aggressiveinvestmentstrategy.asp
-author: By
-Gordon Scott
+author: Gordon Scott
 ---
 
 # Aggressive Investment Strategy Definition

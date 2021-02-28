@@ -3,8 +3,7 @@ alias: [After-Tax Income Definition]
 created: 2021-02-28T20:46:37 (UTC +11:00)
 tags: [After-Tax Income Definition, What is After-Tax Income?]
 source: https://www.investopedia.com/terms/a/aftertaxincome.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # After-Tax Income Definition

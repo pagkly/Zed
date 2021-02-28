@@ -3,8 +3,7 @@ alias: [After-Tax Contribution Definition]
 created: 2021-02-28T20:46:36 (UTC +11:00)
 tags: [After-Tax Contribution Definition, After-Tax Contribution]
 source: https://www.investopedia.com/terms/a/aftertaxcontribution.asp
-author: By
-Carol Kopp
+author: Carol Kopp
 ---
 
 # After-Tax Contribution Definition

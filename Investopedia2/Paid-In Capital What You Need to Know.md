@@ -3,8 +3,7 @@ alias: [Additional Paid-In Capital Definition]
 created: 2021-02-28T20:46:33 (UTC +11:00)
 tags: [Additional Paid-In Capital Definition, Paid-In Capital: What You Need to Know]
 source: https://www.investopedia.com/terms/a/additionalpaidincapital.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Additional Paid-In Capital Definition

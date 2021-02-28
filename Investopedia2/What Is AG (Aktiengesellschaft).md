@@ -3,8 +3,7 @@ alias: [What Is AG (Aktiengesellschaft)?]
 created: 2021-02-28T20:46:36 (UTC +11:00)
 tags: [What Is AG (Aktiengesellschaft)?, What Is AG (Aktiengesellschaft)?]
 source: https://www.investopedia.com/terms/a/ag-aktiengesellschaft.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # What Is AG (Aktiengesellschaft)?

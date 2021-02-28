@@ -3,8 +3,7 @@ alias: [Air Waybill (AWB) Definition]
 created: 2021-02-28T20:46:39 (UTC +11:00)
 tags: [Air Waybill (AWB) Definition, Who Uses an Air Waybill (AWB) and Why?]
 source: https://www.investopedia.com/terms/a/airway-bill.asp
-author: By
-Marshall Hargrave
+author: Marshall Hargrave
 ---
 
 # Air Waybill (AWB) Definition

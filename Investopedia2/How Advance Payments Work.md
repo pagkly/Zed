@@ -3,8 +3,7 @@ alias: [Advance Payment Definition]
 created: 2021-02-28T20:46:35 (UTC +11:00)
 tags: [Advance Payment Definition, How Advance Payments Work]
 source: https://www.investopedia.com/terms/a/advance-payment.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Advance Payment Definition

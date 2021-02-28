@@ -3,8 +3,7 @@ alias: [Actuarial Life Table Definition]
 created: 2021-02-28T20:46:31 (UTC +11:00)
 tags: [Actuarial Life Table Definition, Actuarial Life Table]
 source: https://www.investopedia.com/terms/a/actuarial-life-table.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Actuarial Life Table Definition

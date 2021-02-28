@@ -3,8 +3,7 @@ alias: [Actuarial Science]
 created: 2021-02-28T20:46:32 (UTC +11:00)
 tags: [Actuarial Science, Actuarial Science]
 source: https://www.investopedia.com/terms/a/actuarial-science.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Actuarial Science

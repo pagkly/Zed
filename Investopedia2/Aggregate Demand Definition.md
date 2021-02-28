@@ -3,8 +3,7 @@ alias: [Aggregate Demand Definition]
 created: 2021-02-28T20:46:35 (UTC +11:00)
 tags: [Aggregate Demand Definition, Aggregate Demand Definition]
 source: https://www.investopedia.com/terms/a/aggregatedemand.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Aggregate Demand Definition

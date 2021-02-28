@@ -3,8 +3,7 @@ alias: [Amended Return Definition]
 created: 2021-02-28T20:46:41 (UTC +11:00)
 tags: [Amended Return Definition, Amended Return]
 source: https://www.investopedia.com/terms/a/amendedreturn.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Amended Return Definition

@@ -3,8 +3,7 @@ alias: [Alphabet Stock Definition]
 created: 2021-02-28T20:46:43 (UTC +11:00)
 tags: [Alphabet Stock Definition, Alphabet Stock]
 source: https://www.investopedia.com/terms/a/alphabet-stock.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Alphabet Stock Definition

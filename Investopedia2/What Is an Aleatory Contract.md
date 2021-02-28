@@ -3,8 +3,7 @@ alias: [What Is an Aleatory Contract?]
 created: 2021-02-28T20:46:36 (UTC +11:00)
 tags: [What Is an Aleatory Contract?, What Is an Aleatory Contract?]
 source: https://www.investopedia.com/terms/a/aleatory-contract.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # What Is an Aleatory Contract?

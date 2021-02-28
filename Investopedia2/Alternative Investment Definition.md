@@ -3,8 +3,7 @@ alias: [Alternative Investment Definition]
 created: 2021-02-28T20:46:41 (UTC +11:00)
 tags: [Alternative Investment Definition, Alternative Investment Definition]
 source: https://www.investopedia.com/terms/a/alternative_investment.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Alternative Investment Definition

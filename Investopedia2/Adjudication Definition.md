@@ -3,8 +3,7 @@ alias: [Adjudication Definition]
 created: 2021-02-28T20:46:32 (UTC +11:00)
 tags: [Adjudication Definition, Adjudication Definition]
 source: https://www.investopedia.com/terms/a/adjudication.asp
-author: By
-Clay Halton
+author: Clay Halton
 ---
 
 # Adjudication Definition

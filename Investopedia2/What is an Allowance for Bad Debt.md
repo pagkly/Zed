@@ -3,8 +3,7 @@ alias: [Allowance for Bad Debt Definition]
 created: 2021-02-28T20:46:39 (UTC +11:00)
 tags: [Allowance for Bad Debt Definition, What is an Allowance for Bad Debt?]
 source: https://www.investopedia.com/terms/a/allowance-for-bad-debt.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Allowance for Bad Debt Definition

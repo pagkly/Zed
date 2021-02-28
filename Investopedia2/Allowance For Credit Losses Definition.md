@@ -3,8 +3,7 @@ alias: [Allowance For Credit Losses Definition]
 created: 2021-02-28T20:46:41 (UTC +11:00)
 tags: [Allowance For Credit Losses Definition, Allowance For Credit Losses Definition]
 source: https://www.investopedia.com/terms/a/allowance-for-credit-losses.asp
-author: By
-Daniel Liberto
+author: Daniel Liberto
 ---
 
 # Allowance For Credit Losses Definition

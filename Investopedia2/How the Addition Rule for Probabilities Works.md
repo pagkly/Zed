@@ -3,8 +3,7 @@ alias: [Addition Rule For Probabilities Definition]
 created: 2021-02-28T20:46:32 (UTC +11:00)
 tags: [Addition Rule For Probabilities Definition, How the Addition Rule for Probabilities Works]
 source: https://www.investopedia.com/terms/a/additionruleforprobabilities.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Addition Rule For Probabilities Definition

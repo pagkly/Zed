@@ -3,8 +3,7 @@ alias: [American Express Card Definition]
 created: 2021-02-28T20:46:37 (UTC +11:00)
 tags: [American Express Card Definition, American Express Card]
 source: https://www.investopedia.com/terms/a/american-express-card.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # American Express Card Definition

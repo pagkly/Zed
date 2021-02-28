@@ -3,8 +3,7 @@ alias: [Agribusiness Definition]
 created: 2021-02-28T20:46:39 (UTC +11:00)
 tags: [Agribusiness Definition, Agribusiness]
 source: https://www.investopedia.com/terms/a/agribusiness.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Agribusiness Definition

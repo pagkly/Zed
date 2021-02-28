@@ -3,8 +3,7 @@ alias: [Adjusting Journal Entry Definition]
 created: 2021-02-28T20:46:31 (UTC +11:00)
 tags: [Adjusting Journal Entry Definition, What is an Adjusting Journal Entry?]
 source: https://www.investopedia.com/terms/a/adjusting-journal-entry.asp
-author: By
-Alicia Tuovila
+author: Alicia Tuovila
 ---
 
 # Adjusting Journal Entry Definition

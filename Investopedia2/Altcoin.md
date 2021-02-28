@@ -3,8 +3,7 @@ alias: [Altcoin Definition]
 created: 2021-02-28T20:46:36 (UTC +11:00)
 tags: [Altcoin Definition, Altcoin]
 source: https://www.investopedia.com/terms/a/altcoin.asp
-author: By
-Jake Frankenfield
+author: Jake Frankenfield
 ---
 
 # Altcoin Definition

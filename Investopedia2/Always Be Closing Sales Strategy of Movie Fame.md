@@ -3,8 +3,7 @@ alias: [Always Be Closing—ABC Definition]
 created: 2021-02-28T20:46:31 (UTC +11:00)
 tags: [Always Be Closing—ABC Definition, Always Be Closing Sales Strategy of Movie Fame]
 source: https://www.investopedia.com/terms/a/always-be-closing.asp
-author: By
-Maya E. Dollarhide
+author: Maya E. Dollarhide
 ---
 
 # Always Be Closing—ABC Definition

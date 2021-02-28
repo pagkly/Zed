@@ -3,8 +3,7 @@ alias: [Adverse Selection Definition]
 created: 2021-02-28T20:46:34 (UTC +11:00)
 tags: [Adverse Selection Definition, Adverse Selection]
 source: https://www.investopedia.com/terms/a/adverseselection.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Adverse Selection Definition

@@ -3,8 +3,7 @@ alias: [Adhesion Contract Definition]
 created: 2021-02-28T20:46:32 (UTC +11:00)
 tags: [Adhesion Contract Definition, Adhesion Contract]
 source: https://www.investopedia.com/terms/a/adhesion-contract.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Adhesion Contract Definition

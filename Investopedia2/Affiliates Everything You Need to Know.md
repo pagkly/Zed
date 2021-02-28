@@ -3,8 +3,7 @@ alias: [Affiliate Definition]
 created: 2021-02-28T20:46:32 (UTC +11:00)
 tags: [Affiliate Definition, Affiliates: Everything You Need to Know]
 source: https://www.investopedia.com/terms/a/affiliate.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Affiliate Definition

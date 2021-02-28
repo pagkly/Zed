@@ -3,8 +3,7 @@ alias: [Administrative Expenses Definition]
 created: 2021-02-28T20:46:33 (UTC +11:00)
 tags: [Administrative Expenses Definition, Administrative Expenses Definition]
 source: https://www.investopedia.com/terms/a/administrative-expenses.asp
-author: By
-Alicia Tuovila
+author: Alicia Tuovila
 ---
 
 # Administrative Expenses Definition

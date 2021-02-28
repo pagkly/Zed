@@ -3,8 +3,7 @@ alias: [Alan Greenspan]
 created: 2021-02-28T20:46:39 (UTC +11:00)
 tags: [Alan Greenspan, Alan Greenspan Definition]
 source: https://www.investopedia.com/terms/a/alangreenspan.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Alan Greenspan

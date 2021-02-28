@@ -3,8 +3,7 @@ alias: [Adjustable-Rate Mortgage (ARM) Definition]
 created: 2021-02-28T20:46:33 (UTC +11:00)
 tags: [Adjustable-Rate Mortgage (ARM) Definition, Adjustable-Rate Mortgage (ARM) Definition]
 source: https://www.investopedia.com/terms/a/arm.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Adjustable-Rate Mortgage (ARM) Definition

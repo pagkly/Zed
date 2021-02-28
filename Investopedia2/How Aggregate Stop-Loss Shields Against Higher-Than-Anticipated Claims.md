@@ -3,8 +3,7 @@ alias: [Aggregate Stop-Loss Insurance Definition]
 created: 2021-02-28T20:46:35 (UTC +11:00)
 tags: [Aggregate Stop-Loss Insurance Definition, How Aggregate Stop-Loss Shields Against Higher-Than-Anticipated Claims]
 source: https://www.investopedia.com/terms/a/aggregate-stop-loss-insurance.asp
-author: By
-Caroline Banton
+author: Caroline Banton
 ---
 
 # Aggregate Stop-Loss Insurance Definition

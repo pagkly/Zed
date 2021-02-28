@@ -3,8 +3,7 @@ alias: [Advanced Internal Rating-Based (AIRB)]
 created: 2021-02-28T20:46:34 (UTC +11:00)
 tags: [Advanced Internal Rating-Based (AIRB), Advanced Internal Rating-Based (AIRB) Definition]
 source: https://www.investopedia.com/terms/a/airb.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Advanced Internal Rating-Based (AIRB)

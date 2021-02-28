@@ -3,8 +3,7 @@ alias: [Understanding Affiliate Marketing]
 created: 2021-02-28T20:46:34 (UTC +11:00)
 tags: [Understanding Affiliate Marketing, How Affiliate Marketing Works]
 source: https://www.investopedia.com/terms/a/affiliate-marketing.asp
-author: By
-Jake Frankenfield
+author: Jake Frankenfield
 ---
 
 # Understanding Affiliate Marketing

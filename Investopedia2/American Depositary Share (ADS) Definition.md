@@ -3,8 +3,7 @@ alias: [American Depositary Share (ADS) Definition]
 created: 2021-02-28T20:46:31 (UTC +11:00)
 tags: [American Depositary Share (ADS) Definition, American Depositary Share (ADS) Definition]
 source: https://www.investopedia.com/terms/a/ads.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # American Depositary Share (ADS) Definition
