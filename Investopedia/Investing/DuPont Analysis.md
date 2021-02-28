@@ -26,7 +26,7 @@ There are three major financial metrics that drive return on equity (ROE): [oper
 
 ## Formula and Calculation of DuPont Analysis
 
-The Dupont analysis is an expanded return on equity formula, calculated by multiplying the net profit margin by the asset turnover by the [equity multiplier](https://www.investopedia.com/terms/e/equitymultiplier.asp).
+The Dupont analysis is an expanded return on equity formula, calculated by multiplying the net profit margin by the [[Asset Turnover Ratio|asset turnover]] by the [equity multiplier](https://www.investopedia.com/terms/e/equitymultiplier.asp).
 
 DuPont Analysis\=Net Profit Margin×AT×EMwhere:Net Profit Margin\=Net IncomeRevenueAT\=Asset turnoverAsset Turnover\=SalesAverage Total AssetsEM\=Equity multiplierEquity Multiplier\=Average Total AssetsAverage Shareholders’ Equity\\begin{aligned} &\\text{DuPont Analysis} = \\text{Net Profit Margin} \\times \\text{AT} \\times \\text{EM} \\\\ &\\textbf{where:}\\\\ &\\text{Net Profit Margin} = \\frac{ \\text{Net Income} }{ \\text{Revenue} } \\\\ &\\text{AT} = \\text{Asset turnover} \\\\ &\\text{Asset Turnover} = \\frac{ \\text{Sales} }{ \\text{Average Total Assets} } \\\\ &\\text{EM} = \\text{Equity multiplier} \\\\ &\\text{Equity Multiplier} = \\frac{ \\text{Average Total Assets} }{ \\text{Average Shareholders' Equity} } \\\\ \\end{aligned}
 
@@ -80,7 +80,7 @@ Looking closely at Gear Inc., the investor can see that the entire change in ROE
 
 Or, as a real-life example, consider Wal-Mart Stores (NYSE: WMT). Wal-Mart has a net income over the [trailing twelve months](https://www.investopedia.com/terms/t/ttm.asp) of $5.2 billion, revenue of $512 billion, assets of $227 billion, and shareholders' equity of $72 billion.
 
-The company's profit margin is 1%, or $5.2 billion / $512 billion. Its asset turnover is 2.3, or $512 billion / $227 billion. The financial leverage (or equity multiplier) is 3.2, or $227 billion / $72 billion. Thus, its return or equity (ROE) is 7.4%, or 1% x 2.3 x 3.2.
+The company's profit margin is 1%, or $5.2 billion / $512 billion. Its [[Asset Turnover Ratio|asset turnover]] is 2.3, or $512 billion / $227 billion. The financial leverage (or equity multiplier) is 3.2, or $227 billion / $72 billion. Thus, its return or equity (ROE) is 7.4%, or 1% x 2.3 x 3.2.
 
 ## DuPont Analysis vs. ROE
 

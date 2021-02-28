@@ -22,7 +22,7 @@ Efficiency ratios, also known as activity ratios, are used by analysts to me
 
 An efficiency ratio measures a company's ability to use its assets to generate income. For example, an efficiency ratio often looks at various aspects of the company, such as the time it takes to collect cash from customers or the amount of time it takes to convert inventory to cash. This makes efficiency ratios important, because an improvement in the efficiency ratios usually translates to improved profitability.
 
-These ratios can be compared with peers in the same industry and can identify businesses that are better managed relative to the others. Some common efficiency ratios are [accounts receivable turnover](https://www.investopedia.com/terms/r/receivableturnoverratio.asp), [fixed asset turnover](https://www.investopedia.com/terms/f/fixed-asset-turnover.asp), sales to inventory, sales to net working capital, accounts payable to sales and stock turnover ratio.
+These ratios can be compared with peers in the same industry and can identify businesses that are better managed relative to the others. Some common efficiency ratios are [accounts receivable turnover](https://www.investopedia.com/terms/r/receivableturnoverratio.asp), [fixed [[Asset Turnover Ratio|asset turnover]]](https://www.investopedia.com/terms/f/fixed-asset-turnover.asp), sales to inventory, sales to net working capital, accounts payable to sales and stock turnover ratio.
 
 ## Efficiency Ratios for Banks
 

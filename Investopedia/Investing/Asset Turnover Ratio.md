@@ -1,9 +1,9 @@
 ---
+alias: [Asset Turnover Ratio, Asset Turnover]
 created: 2021-02-25T20:48:27 (UTC +11:00)
-tags: []
+tags: [Asset Turnover Ratio, Asset Turnoever]
 source: https://www.investopedia.com/terms/a/assetturnover.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Asset Turnover Ratio Definition

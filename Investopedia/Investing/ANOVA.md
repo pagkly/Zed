@@ -1,5 +1,5 @@
 ---
-alias: [Analysis of Variance (ANOVA)]
+alias: [Analysis of Variance, ANOVA]
 created: 2021-02-25T20:48:32 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/a/anova.asp

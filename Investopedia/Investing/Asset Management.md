@@ -1,9 +1,8 @@
 ---
 created: 2021-02-25T17:55:41 (UTC +11:00)
-tags: []
+tags: [Asset Management]
 source: https://www.investopedia.com/terms/a/assetmanagement.asp
-author: By
-Akhilesh Ganti
+author: Akhilesh Ganti
 ---
 
 # [[Asset Management]] Definition
