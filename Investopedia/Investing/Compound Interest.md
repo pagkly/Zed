@@ -125,9 +125,9 @@ The so-called Rule of 72 calculates the approximate time over which an investmen
 
 As an example, an investment that has a 6% annual rate of return will double in 12 years. An investment with an 8% annual rate of return will thus double in nine years.
 
-## Compound Annual Growth Rate (CAGR)
+## [[Compound Annual Growth Rate (CAGR)]]
 
-The compound annual growth rate (CAGR) is used for most financial applications that require the calculation of a single growth rate over a period of time.
+The [[Compound Annual Growth Rate (CAGR)]] is used for most financial applications that require the calculation of a single growth rate over a period of time.
 
 Let's say your investment portfolio has grown from $10,000 to $16,000 over five years; what is the CAGR? Essentially, this means that PV = -$10,000, FV = $16,000, and nt = 5, so the variable “i” has to be calculated. Using a financial calculator or Excel, it can be shown that i = 9.86%.
 

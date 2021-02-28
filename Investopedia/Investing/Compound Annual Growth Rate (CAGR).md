@@ -1,9 +1,9 @@
 ---
+alias: [Compound Annual Growth Rate, CAGR]
 created: 2021-02-25T22:31:47 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/c/cagr.asp
-author: By
-Jason Fernando
+author: By Jason Fernando
 ---
 
 # Compound Annual Growth Rate – CAGR Definition

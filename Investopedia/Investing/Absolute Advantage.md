@@ -23,7 +23,7 @@ An entity with an absolute advantage can produce a product or service at a [lowe
 -   Absolute advantage is when a producer can produce a good or service in greater quantity for the same cost, or the same quantity at a lower cost, than other producers.
 -   Absolute advantage can be the basis for large gains from trade between producers of different goods with different absolute advantages.
 -   By specialization, division of labor, and trade, producers with different absolute advantages can always gain more than producing in isolation.
--   Absolute advantage is related to comparative advantage, which can open up even more widespread opportunities for the division of labor and gains from trade.
+-   Absolute advantage is related to [[Comparative Advantage]], which can open up even more widespread opportunities for the division of labor and gains from trade.
 
 #### Basic Concept Of Absolute Advantage
 
@@ -35,9 +35,9 @@ Countries with an absolute advantage can decide to [specialize](https://www.inve
 
 By Smith’s argument, specializing in the products that they each have an absolute advantage in and then trading the products, can make all countries better off, as long as they each have at least one product for which they hold an absolute advantage over other nations.
 
-## Absolute Advantage vs. Comparative Advantage
+## Absolute Advantage vs. [[Comparative Advantage]]
 
-Absolute advantage can be contrasted to [comparative advantage](https://www.investopedia.com/terms/c/comparativeadvantage.asp), which is when a producer has a lower [opportunity cost](https://www.investopedia.com/terms/o/opportunitycost.asp) to produce a good or service than another producer.
+Absolute advantage can be contrasted to [[[Comparative Advantage]]](https://www.investopedia.com/terms/c/comparativeadvantage.asp), which is when a producer has a lower [opportunity cost](https://www.investopedia.com/terms/o/opportunitycost.asp) to produce a good or service than another producer.
 
 Absolute advantage leads to unambiguous gains from specialization and trade only in cases where each producer has an absolute advantage in producing some good. If a producer lacks any absolute advantage then Adam Smith’s argument would not necessarily apply.
 

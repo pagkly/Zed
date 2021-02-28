@@ -47,7 +47,7 @@
 31. Asymmetric Information
 32. Behavioral Economics
 33. Cumulative Advantage
-34. Comparative Advantage
+34. [[Comparative Advantage]]
 35. Competitive Advantage
 36. Creative Destruction
 37. Diminishing Utility
