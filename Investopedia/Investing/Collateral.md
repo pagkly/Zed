@@ -2,8 +2,7 @@
 created: 2021-02-25T22:31:21 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/c/collateral.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Collateral Definition

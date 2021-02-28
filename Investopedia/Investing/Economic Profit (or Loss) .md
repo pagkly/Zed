@@ -58,7 +58,7 @@ This calculation only considers the first year of business. If after the first y
 
 In using economic profit in comparison to gross profit, a company may look at different types of scenarios. In this case, gross profit is the focus, and a company would subtract the opportunity cost per unit:
 
-> Economic profit = revenue per unit - COGS per unit - unit opportunity cost
+> Economic profit = revenue per unit - [[COGS]] per unit - unit opportunity cost
 
 If a company generates $10 per unit from selling t-shirts with a $5 cost per unit, then its gross [profit](https://www.investopedia.com/terms/p/profit.asp) per unit for t-shirts is $5. However, if they could have potentially produced shorts with revenue of $10 and costs of $2 then there could be an opportunity cost of $8 as well:
 

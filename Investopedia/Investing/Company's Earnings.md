@@ -2,8 +2,7 @@
 created: 2021-02-28T11:55:18 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/e/earnings.asp
-author: By
-Alicia Tuovila
+author: Alicia Tuovila
 ---
 
 # Earnings Definition

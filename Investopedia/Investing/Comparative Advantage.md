@@ -2,7 +2,7 @@
 created: 2021-02-25T22:31:36 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/c/comparativeadvantage.asp
-author: By Adam Hayes
+author: Adam Hayes
 ---
 
 # Comparative Advantage Definition

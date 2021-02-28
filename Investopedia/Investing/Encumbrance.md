@@ -56,13 +56,13 @@ A [lease](https://www.investopedia.com/terms/l/lease.asp) is an agreement to ren
 
 ### Lien
 
-A lien is a type of security interest, an encumbrance that affects the title to a property. It gives a creditor the right to seize the property as collateral for an unmet obligation, usually an unpaid debt. The creditor can then sell the property to recoup at least a portion of their loan.
+A lien is a type of security interest, an encumbrance that affects the title to a property. It gives a creditor the right to seize the property as [[Collateral]] for an unmet obligation, usually an unpaid debt. The creditor can then sell the property to recoup at least a portion of their loan.
 
 A tax lien is a lien imposed by a government to force the payment of taxes; in the U.S., a federal tax lien trumps all other claims on a debtor's assets. A [mechanic's lien](https://www.investopedia.com/terms/m/mechanics-lien.asp) is a claim on personal or real property the claimant has performed services on. An example is if a contractor made adjustments to your property that were never paid for. Judgment liens are secured against the assets of a defendant in a lawsuit. 
 
 ### Mortgage
 
-A mortgage is one of the most common types of security interests. Essentially, it is a lien against a real estate property. The lender, generally a bank, retains an interest in the title to a house until the mortgage is paid off. If the borrower cannot repay the mortgage, the lender may foreclose, seizing the house as collateral and evicting the inhabitants.
+A mortgage is one of the most common types of security interests. Essentially, it is a lien against a real estate property. The lender, generally a bank, retains an interest in the title to a house until the mortgage is paid off. If the borrower cannot repay the mortgage, the lender may foreclose, seizing the house as [[Collateral]] and evicting the inhabitants.
 
 ### Restrictive Covenant
 

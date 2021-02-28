@@ -10,16 +10,16 @@ What are the Features and Risks of Debentures
 # Debenture Definition
 
 > ## Excerpt
-> A debenture is a type of debt — issued by governments and corporations — that lacks collateral, and is therefore dependent on the creditworthiness and reputation of the issuer.
+> A debenture is a type of debt — issued by governments and corporations — that lacks [[Collateral]], and is therefore dependent on the creditworthiness and reputation of the issuer.
 
 ---
 ## What Is a Debenture?
 
-A debenture is a type of bond or other debt instrument that is unsecured by [collateral](https://www.investopedia.com/terms/c/collateral.asp). Since debentures have no collateral backing, they must rely on the creditworthiness and reputation of the issuer for support. Both corporations and governments frequently issue debentures to raise capital or funds.
+A debenture is a type of bond or other debt instrument that is unsecured by [[[Collateral]]](https://www.investopedia.com/terms/c/collateral.asp). Since debentures have no [[Collateral]] backing, they must rely on the creditworthiness and reputation of the issuer for support. Both corporations and governments frequently issue debentures to raise capital or funds.
 
 ### Key Takeaways
 
--   A debenture is a type of debt instrument that is not backed by any collateral and usually has a term greater than 10 years.
+-   A debenture is a type of debt instrument that is not backed by any [[Collateral]] and usually has a term greater than 10 years.
 -   Debentures are backed only by the creditworthiness and reputation of the issuer.
 -   Both corporations and governments frequently issue debentures to raise capital or funds.
 -   Some debentures can convert to equity shares while others cannot.
@@ -98,9 +98,9 @@ A debenture is a type of bond. In particular, it is an unsecured or non-collater
 
 ### Are debentures risky investments?
 
-Because debentures are debt securities, they tend to be less risky that investing in the same company's common stock or preferred shares. Debenture holders would also be considered more senior and take priority over those other types of investments in the case of bankruptcy. Because these debts are not backed by any collateral, however, they are inherently riskier than secured debts. Therefore, these may carry relatively higher interest rates than otherwise similar bonds from the same issuer that are backed by collateral.
+Because debentures are debt securities, they tend to be less risky that investing in the same company's common stock or preferred shares. Debenture holders would also be considered more senior and take priority over those other types of investments in the case of bankruptcy. Because these debts are not backed by any [[Collateral]], however, they are inherently riskier than secured debts. Therefore, these may carry relatively higher interest rates than otherwise similar bonds from the same issuer that are backed by [[Collateral]].
 
-In fact, strictly speaking, a U.S. Treasury bond and a U.S. Treasury bill are both debentures. They are not secured by collateral, yet they are considered risk-free securities.
+In fact, strictly speaking, a U.S. Treasury bond and a U.S. Treasury bill are both debentures. They are not secured by [[Collateral]], yet they are considered risk-free securities.
 
 ### How are debentures structured?
 

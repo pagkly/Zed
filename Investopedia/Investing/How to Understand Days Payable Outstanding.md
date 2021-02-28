@@ -62,7 +62,7 @@ Similar calculations for technology leader Microsoft ([MSFT](https://www.investo
 
 It indicates that during the fiscal year ending 2018, Walmart paid its invoices in around 45 days after receiving the bills, while Microsoft took around 80 days, on an average, to pay its bills.
 
-A look at similar figures for the online retail giant Amazon ([AMZN](https://www.investopedia.com/markets/quote?tvwidgetsymbol=amzn)), which had AP of $34.62 billion and COGS of $111.93 billion for the fiscal year 2017, reveals a very high value of 112.90 days.3 Such high value of DPO is attributed to the working model of Amazon, which roughly has 50 percent of its sales being supplied by third-party sellers. Amazon instantly receives funds in its account for sale of goods which are actually supplied by third-party sellers using Amazon’s online platform.
+A look at similar figures for the online retail giant Amazon ([AMZN](https://www.investopedia.com/markets/quote?tvwidgetsymbol=amzn)), which had AP of $34.62 billion and [[COGS]] of $111.93 billion for the fiscal year 2017, reveals a very high value of 112.90 days.3 Such high value of DPO is attributed to the working model of Amazon, which roughly has 50 percent of its sales being supplied by third-party sellers. Amazon instantly receives funds in its account for sale of goods which are actually supplied by third-party sellers using Amazon’s online platform.
 
 However, it doesn’t pay the sellers immediately after the sale, but may send accumulated payments based on a weekly/monthly or threshold-based payment cycle. This working mechanism allows Amazon to hold onto the cash for a longer period of time, and the leading online retailer ends up with a significantly higher DPO.
 
