@@ -3140,9 +3140,9 @@ to complete the condition you gave it as
 
 a computer example if we try to have a
 
-program terminate when integer AI is no
+program terminate when integer [[AI]] is no
 
-longer greater than 99 but AI is
+longer greater than 99 but [[AI]] is
 
 initially 100 and only ever increases
 

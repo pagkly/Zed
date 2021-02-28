@@ -32,9 +32,9 @@ Here's how the system works:
 
 1.  An originator—an individual, [corporation](https://www.investopedia.com/terms/c/corporation.asp), or another entity—initiates a [direct deposit](https://www.investopedia.com/terms/d/directdeposit.asp) or direct payment using the ACH network.
 2.  ACH entries are entered and transmitted electronically rather than by check.
-3.  The originating [depository](https://www.investopedia.com/terms/d/depository.asp) financial institution (ODFI) enters the ACH entry at the request of the originator.
-4.  The ODFI aggregates payments from customers and transmits them in batches at regular, predetermined intervals to an ACH Operator.
-5.  ACH operators—either the Federal Reserve or the EPN—receive batches of ACH entries from the ODFI. 
+3.  The originating [depository](https://www.investopedia.com/terms/d/depository.asp) financial institution (ODFI) enters the [[ACH]] entry at the request of the originator.
+4.  The ODFI aggregates payments from customers and transmits them in batches at regular, predetermined intervals to an [[ACH]] Operator.
+5.  [[ACH]] operators—either the Federal Reserve or the EPN—receive batches of ACH entries from the ODFI. 
 6.  All ACH [transactions](https://www.investopedia.com/terms/t/transaction.asp) are sorted and made available by the operator to the receiving depository financial institution (RDFI).
 7.  The receiver's account is debited or credited by the RDFI, according to the type of ACH entry. Just like an originator, a receiver can be an individual, business, or another entity.
 8.  Each ACH credit transaction settles in one to two business days. Each debit transaction settles in one business day. 

@@ -23,7 +23,7 @@ Stocks of companies in emerging industries are often volatile and can experience
 -   An emerging industry refers to companies that are formed around a new product or idea that is in the early stages of development.
 -   Companies that are in emerging industries must overcome many barriers to entry if they are to become profitable.
 -   These barriers may include the lack of sufficient funding, the inability to take advantage of economies of scale, government restrictions, and competition from established companies.
--   Examples of current emerging industries include artificial intelligence (AI), robotics, virtual reality, self-driving cars, and biotechnology.
+-   Examples of current emerging industries include artificial intelligence ([[AI]]), robotics, virtual reality, self-driving cars, and biotechnology.
 -   Several exchange traded funds (ETFs) have been created to enable investment in emerging industries while reducing some of the risks associated with investing in these new sectors.
 
 ## Understanding an Emerging Industry
@@ -42,7 +42,7 @@ The world in the mid-1990s knew the Internet as an emerging industry. Hundreds o
 
 By the end of 2001 and into 2002, the dotcom bubble burst, and many publicly traded companies folded. However, those companies that offered valuable consumer services and products—such as Amazon and eBay—survived and flourished, becoming standard-bearers for the emerging Internet industry.
 
-Emerging industries in the current era—perhaps viewed as the next evolution of the Internet—are [artificial intelligence](https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp) (AI), virtual reality, and self-driving vehicles. Again, only a select few companies with the financial resources and [intellectual property](https://www.investopedia.com/terms/i/intellectualproperty.asp) are thus far dominating the nascent fields. The biotechnology industry, however, is experiencing such breakthroughs in immunotherapy and gene therapy that it can be considered an emerging industry, or at the very least a sector with growth potential at an inflection point.
+Emerging industries in the current era—perhaps viewed as the next evolution of the Internet—are [artificial intelligence](https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp) ([[AI]]), virtual reality, and self-driving vehicles. Again, only a select few companies with the financial resources and [intellectual property](https://www.investopedia.com/terms/i/intellectualproperty.asp) are thus far dominating the nascent fields. The biotechnology industry, however, is experiencing such breakthroughs in immunotherapy and gene therapy that it can be considered an emerging industry, or at the very least a sector with growth potential at an inflection point.
 
 ## Special Considerations
 
