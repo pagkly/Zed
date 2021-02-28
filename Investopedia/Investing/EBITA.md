@@ -42,4 +42,4 @@ In other words, the EBITA measurement may be used instead of [[EBITDA]] for comp
 
 ## Calculation of EBITA
 
-To calculate a company's EBITA, an analyst must first determine the company’s [earnings before tax](https://www.investopedia.com/terms/e/ebt.asp) (EBT). This figure appears in the company's income statements and other investor relations materials. Add to this figure any interest and amortization costs. So, the formula is: EBITA = EBT + interest expense + amortization expense.
+To calculate a company's EBITA, an analyst must first determine the company’s [earnings before tax](https://www.investopedia.com/terms/e/ebt.asp) ([[EBT]]). This figure appears in the company's income statements and other investor relations materials. Add to this figure any interest and amortization costs. So, the formula is: EBITA = [[EBT]] + interest expense + amortization expense.

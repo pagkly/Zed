@@ -91,7 +91,7 @@ The measurement's sometimes bad reputation is mostly a result of overexposure an
 
 Like any other measure, EBITDA is only a single indicator. To develop a full picture of the health of any given firm, a multitude of measures must be taken into consideration. If identifying great companies was as simple a checking a single number, everybody would be checking that number, and professional analysts would cease to exist.
 
-## EBITDA vs. EBT and [[EBIT]]
+## EBITDA vs. [[EBT]] and [[EBIT]]
 
 [[[EBIT]]](https://www.investopedia.com/terms/e/[[EBIT]].asp) (**e**arnings **b**efore **i**nterest and **t**axes) is a company's net income before income tax expense and interest expense have been deducted. [[EBIT]] is used to analyze the performance of a company's core operations without tax expenses and the costs of the capital structure influencing profit. The following formula is used to calculate [[EBIT]]: 
 
@@ -99,9 +99,9 @@ Like any other measure, EBITDA is only a single indicator. To develop a full pic
 
 Since net income includes the deductions of interest expense and tax expense, they need to be added back into net income to calculate [[EBIT]]. [[EBIT]] is often referred to as operating income since they both exclude taxes and interest expenses in their calculations. However, there are times when operating income can differ from [[EBIT]].
 
-[Earnings before tax (EBT)](https://www.investopedia.com/terms/e/ebt.asp) reflects how much of an operating profit has been realized before accounting for taxes, while [[EBIT]] excludes both taxes and interest payments. EBT is calculated by taking net income and adding taxes back in to calculate a company's profit.
+[Earnings before tax ([[EBT]])](https://www.investopedia.com/terms/e/ebt.asp) reflects how much of an operating profit has been realized before accounting for taxes, while [[EBIT]] excludes both taxes and interest payments. [[EBT]] is calculated by taking net income and adding taxes back in to calculate a company's profit.
 
-By removing [tax liabilities](https://www.investopedia.com/terms/t/taxliability.asp), investors can use EBT to evaluate a firm's operating performance after eliminating a variable outside of its control. In the United States, this is most useful for comparing companies that might have different state taxes or federal taxes. EBT and [[EBIT]] are similar to each other and are both variations of EBITDA.
+By removing [tax liabilities](https://www.investopedia.com/terms/t/taxliability.asp), investors can use [[EBT]] to evaluate a firm's operating performance after eliminating a variable outside of its control. In the United States, this is most useful for comparing companies that might have different state taxes or federal taxes. [[EBT]] and [[EBIT]] are similar to each other and are both variations of EBITDA.
 
 Since depreciation is not captured in EBITDA, it can lead to profit distortions for companies with a sizable amount of fixed assets and subsequently substantial depreciation expenses. The larger the depreciation expense, the more it will boost EBITDA.
 

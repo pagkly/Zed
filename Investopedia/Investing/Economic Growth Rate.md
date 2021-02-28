@@ -6,13 +6,13 @@ author: By
 James Chen
 ---
 
-# Economic Growth Rate Definition
+# [[Economic Growth ]]Rate Definition
 
 > ## Excerpt
-> An economic growth rate is the percentage change in the value of all of the goods and services produced in a nation during a specific period of time, as compared to an earlier period.
+> An [[Economic Growth ]]rate is the percentage change in the value of all of the goods and services produced in a nation during a specific period of time, as compared to an earlier period.
 
 ---
-## What Is an Economic Growth Rate?
+## What Is an [[Economic Growth ]]Rate?
 
 An economic growth rate is the percentage change in the value of all of the goods and services produced in a nation during a specific period of time, as compared to an earlier period. The economic growth rate is used to measure the comparative health of an economy over time. The numbers are usually compiled and reported quarterly and annually.
 

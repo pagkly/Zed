@@ -41,7 +41,7 @@ Generally, a new, entrepreneurial company that is seen as having strong potentia
 
 ## Measures of Earnings
 
-There are many measures and uses of earnings. Some analysts like to calculate earnings before taxes ([EBT](https://www.investopedia.com/terms/e/ebt.asp)), also known as pre-tax income. Some analysts prefer to see earnings before interest and taxes ([[[EBIT]]](https://www.investopedia.com/terms/e/ebit.asp)). Still other analysts, mainly in industries with a high level of fixed assets, prefer to see earnings before interest, taxes, depreciation, and amortization, also known as [[[EBITDA]]](https://www.investopedia.com/terms/e/ebitda.asp).
+There are many measures and uses of earnings. Some analysts like to calculate earnings before taxes ([[[EBT]]](https://www.investopedia.com/terms/e/ebt.asp)), also known as pre-tax income. Some analysts prefer to see earnings before interest and taxes ([[[EBIT]]](https://www.investopedia.com/terms/e/ebit.asp)). Still other analysts, mainly in industries with a high level of fixed assets, prefer to see earnings before interest, taxes, depreciation, and amortization, also known as [[[EBITDA]]](https://www.investopedia.com/terms/e/ebitda.asp).
 
 All three figures provide varying degrees of measuring profitability.
 
