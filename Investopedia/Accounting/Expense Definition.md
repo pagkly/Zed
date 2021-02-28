@@ -46,7 +46,7 @@ Expenses are used to calculate net income. The equation to calculate [net incom
 
 There are two main categories of business expenses in accounting: 
 
--   [Operating expenses](https://www.investopedia.com/terms/o/operating-cost.asp)**:** Expenses related to the company’s main activities, such as the [[Cost of Goods Sold (COGS)]], administrative fees, and rent.
+-   [Operating expenses](https://www.investopedia.com/terms/o/operating-cost.asp)**:** Expenses related to the company’s main activities, such as the [[COGS]], administrative fees, and rent.
 -   [Non-operating expenses](https://www.investopedia.com/terms/n/non-operating-expense.asp): Expenses not directly related to the business' core operations. Common examples include interest charges and other costs associated with borrowing money.
 
 ## Special Considerations

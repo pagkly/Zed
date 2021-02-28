@@ -30,7 +30,7 @@ Contribution Margin Ratio \= Sales Revenue − Variable CostsSales Revenue\
 
 ## What Does the Contribution Margin Tell You?
 
-The contribution margin is the foundation for [break-even analysis](https://www.investopedia.com/terms/b/breakevenanalysis.asp) used in the overall cost and sales price planning for products. The contribution margin helps to separate out the fixed cost and profit components coming from product sales and can be used to determine the selling price range of a product, the profit levels that can be expected from the sales, and structure sales commissions paid to sales team members, distributors or commission agents.
+The contribution margin is the foundation for [[[Break-Even Analysis]]](https://www.investopedia.com/terms/b/breakevenanalysis.asp) used in the overall cost and sales price planning for products. The contribution margin helps to separate out the fixed cost and profit components coming from product sales and can be used to determine the selling price range of a product, the profit levels that can be expected from the sales, and structure sales commissions paid to sales team members, distributors or commission agents.
 
 ### Fixed Cost Versus Variable Cost
 
@@ -45,7 +45,7 @@ Fixed costs are often considered as [sunk costs](https://www.investopedia.com/t
 ### Key Takeaways
 
 -   The contribution margin represents the portion of a product's sales revenue that isn't used up by variable costs, and so contributes to covering the company's fixed costs.
--   The concept of contribution margin is one of the fundamental keys in break-even analysis.
+-   The concept of contribution margin is one of the fundamental keys in [[Break-Even Analysis]].
 -   Low contribution margins are present in labor-intensive companies with few fixed expenses, while capital-intensive, industrial companies have higher fixed costs and thus, higher contribution margins.
 
 ## Contribution Margin Example

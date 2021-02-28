@@ -32,13 +32,13 @@ DPO\=Accounts Payable×Number of DaysCOGSwhere:COGS\=Cost of Goods Sold \=
 
 To manufacture a saleable product, a company needs raw material, utilities, and other resources. In terms of accounting practices, the accounts payable represents how much money the company owes to its supplier(s) for purchases made on credit.
 
-Additionally, there is a cost associated with manufacturing the saleable product, and it includes payment for utilities like electricity and for employee wages. This is represented by [[[Cost of Goods Sold]] ([[Cost of Goods Sold (COGS)]])](https://www.investopedia.com/terms/c/cogs.asp), which is defined as the cost of acquiring or manufacturing the products that a company sells during a period. Both of these figures represent cash outflows and are used in calculating DPO over a period of time.
+Additionally, there is a cost associated with manufacturing the saleable product, and it includes payment for utilities like electricity and for employee wages. This is represented by [[[Cost of Goods Sold]] ([[COGS]])](https://www.investopedia.com/terms/c/cogs.asp), which is defined as the cost of acquiring or manufacturing the products that a company sells during a period. Both of these figures represent cash outflows and are used in calculating DPO over a period of time.
 
 The number of days in the corresponding period is usually taken as 365 for a year and 90 for a quarter. The formula takes account of the average per day cost being borne by the company for manufacturing a saleable product. The numerator figure represents payments outstanding. The net factor gives the average number of days taken by the company to pay off its obligations after receiving the bills.
 
 Two different versions of the DPO formula are used depending upon the accounting practices. In one of the versions, the accounts payable amount is taken as the figure reported at the end of the accounting period, like “at the end of fiscal year/quarter ending Sept. 30.” This version represents DPO value “as of” the mentioned date.
 
-In another version, the average value of Beginning AP and Ending AP is taken, and the resulting figure represents DPO value “during” that particular period. [[Cost of Goods Sold (COGS)]] remains the same in both the versions.
+In another version, the average value of Beginning AP and Ending AP is taken, and the resulting figure represents DPO value “during” that particular period. [[COGS]] remains the same in both the versions.
 
 ## What Does Days Payable Outstanding Tell You?
 
@@ -56,7 +56,7 @@ DPO value also forms an integral part of the formula used for calculating the [c
 
 ## Example of How Days Payable Outstanding Is Used
 
-As a historical example, the leading retail corporation Walmart ([WMT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wmt)) had accounts payable worth $46.09 billion and [[Cost of Goods Sold (COGS)]] worth $373.4 billion for the fiscal year 2018.1 These figures are available in the annual [financial statement](https://www.investopedia.com/terms/f/financial-statements.asp) and [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) of the company. Taking the number of days as 365 for annual calculation, the DPO for Walmart comes to \[ 46.09 / (373.4/365) \] = 45.05 days.
+As a historical example, the leading retail corporation Walmart ([WMT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wmt)) had accounts payable worth $46.09 billion and [[COGS]] worth $373.4 billion for the fiscal year 2018.1 These figures are available in the annual [financial statement](https://www.investopedia.com/terms/f/financial-statements.asp) and [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) of the company. Taking the number of days as 365 for annual calculation, the DPO for Walmart comes to \[ 46.09 / (373.4/365) \] = 45.05 days.
 
 Similar calculations for technology leader Microsoft ([MSFT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=msft)) which had $8.62 billion as AP and $38.4 billion as COGS leads to DPO value of 80.73 days.2
 
