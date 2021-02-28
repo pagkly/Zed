@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia2/Determining the Annual Equivalent Rate (AER).md",
+            "file": "Investopedia2/Actuarial Life Table.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia2/Determining the Annual Equivalent Rate (AER).md",
+                "file": "Investopedia2/Actuarial Life Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia2/Determining the Annual Equivalent Rate (AER).md"
+                "file": "Investopedia2/Actuarial Life Table.md"
               }
             }
           },
@@ -138,6 +138,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia2/Actuarial Life Table.md",
     "Investopedia2/Determining the Annual Equivalent Rate (AER).md",
     "Investopedia2/Digging into Annuity Due.md",
     "Investopedia2/Define Average Propensity to Consume.md",
@@ -146,7 +147,6 @@
     "Investopedia2/Average True Range (ATR).md",
     "Investopedia2/Average Inventory.md",
     "Investopedia2/Automatic Stabilizer.md",
-    "Investopedia2/Inside the Average Annual Growth Rate (AAGR).md",
-    "Investopedia2/How Investment Returns for Different Periods Are Annualized.md"
+    "Investopedia2/Inside the Average Annual Growth Rate (AAGR).md"
   ]
 }
