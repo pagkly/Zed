@@ -3,8 +3,7 @@ alias: [American Depositary Receipt – ADR Definition]
 created: 2021-02-28T20:46:42 (UTC +11:00)
 tags: [American Depositary Receipt – ADR Definition, American Depositary Receipts – ADRs: A Good Way to Go Global]
 source: https://www.investopedia.com/terms/a/adr.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # American Depositary Receipt – ADR Definition
