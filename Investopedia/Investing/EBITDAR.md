@@ -22,7 +22,7 @@ EBITDAR\=EBITDA + Restructuring/Rental Costswhere:EBITDA = Earnings before
 
 ## What Does EBITDAR Tell You?
 
-EBITDAR is a metric used primarily to analyze the financial health and performance of companies that have gone through restructuring within the past year. It is also useful for businesses such as restaurants or casinos that have unique rent costs. It exists alongside [earnings before interest and tax (EBIT)](https://www.investopedia.com/terms/e/ebit.asp) and [earnings before interest, tax, depreciation, and amortization (EBITDA)](https://www.investopedia.com/terms/e/ebitda.asp).
+EBITDAR is a metric used primarily to analyze the financial health and performance of companies that have gone through restructuring within the past year. It is also useful for businesses such as restaurants or casinos that have unique rent costs. It exists alongside [earnings before interest and tax ([[EBIT]])](https://www.investopedia.com/terms/e/ebit.asp) and [earnings before interest, tax, depreciation, and amortization (EBITDA)](https://www.investopedia.com/terms/e/ebitda.asp).
 
 Using EBITDAR in analysis helps to reduce variability from one company's expenses to the next, in order to focus only on costs that are related to operations. This is helpful when comparing peer companies within the same industry.
 
@@ -32,7 +32,7 @@ Similarly, an investor may exclude restructuring costs when a company has gone t
 
 ### Key Takeaways
 
--   EBITDAR is a profitability measure, like EBIT or EBITDA, but it's better for casinos, restaurants, and other companies that have non-recurring or highly variable rent or restructuring costs.
+-   EBITDAR is a profitability measure, like [[EBIT]] or EBITDA, but it's better for casinos, restaurants, and other companies that have non-recurring or highly variable rent or restructuring costs.
 -   EBITDAR gives analysts a view of a company's core operational performance apart from expenses unrelated to operations, such as taxes, rent, restructuring costs, and non-cash expenses.
 -   Using EBITDAR allows for easier comparison of one firm to another by minimizing unique variables that don't relate directly to operations.
 
@@ -40,13 +40,13 @@ Similarly, an investor may exclude restructuring costs when a company has gone t
 
 EBITDAR is most often calculated for internal purposes only, as it is not a required financial reporting metric for public companies. A firm might calculate it each quarter to isolate and review operational expenses without having to consider fluctuating costs such as restructuring, or rent costs that may differ within various subsidiaries of the company or among the firm's competitors.
 
-The starting point is earnings before interest and tax (EBIT), also referred to as operating income. This metric excludes interest and taxes. The next step is to exclude costs associated with depreciation, amortization, rent or restructuring, to arrive at EBITDAR.
+The starting point is earnings before interest and tax ([[EBIT]]), also referred to as operating income. This metric excludes interest and taxes. The next step is to exclude costs associated with depreciation, amortization, rent or restructuring, to arrive at EBITDAR.
 
-For example, imagine the XYZ company earns $1 million in a year, and it has $400,000 in total operating expenses. Subtracting operating expenses from revenue results in $600,000 of EBIT, or operating income ($1 million revenue - $400,000 operating expenses) = $600,000.
+For example, imagine the XYZ company earns $1 million in a year, and it has $400,000 in total operating expenses. Subtracting operating expenses from revenue results in $600,000 of [[EBIT]], or operating income ($1 million revenue - $400,000 operating expenses) = $600,000.
 
 The operating expenses do not include interest and tax expenses, as the company chooses to show them further down on the income statement, after EBIT.
 
-Included in the firm's $400,000 operating expenses is depreciation of $15,000, amortization of $10,000, and rent of $50,000. To arrive at EBITDAR, an analyst excludes depreciation, amortization and rent ($15,000 + $10,000 + $50,000) from the calculation by starting with EBIT and adding back the amounts as follows:
+Included in the firm's $400,000 operating expenses is depreciation of $15,000, amortization of $10,000, and rent of $50,000. To arrive at EBITDAR, an analyst excludes depreciation, amortization and rent ($15,000 + $10,000 + $50,000) from the calculation by starting with [[EBIT]] and adding back the amounts as follows:
 
 -   **EBITDAR** = $600,000 EBIT + ($15,000+$10,000+$50,000) = $675,000
 

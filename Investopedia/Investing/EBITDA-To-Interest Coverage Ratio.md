@@ -46,8 +46,8 @@ As an example, consider the following. A company reports sales revenue of $1,000
 
 In the above example, the company's EBIT and EBITDA are calculated as:
 
--   EBIT = revenues - operating expenses - depreciation = $1,000,000 - ($250,000 + $20,000 + $100,000) - $50,000 = $580,000
--   EBITDA = EBIT + depreciation + amortization = $580,000 + $50,000 + $0 = $630,000
+-   [[EBIT]] = revenues - operating expenses - depreciation = $1,000,000 - ($250,000 + $20,000 + $100,000) - $50,000 = $580,000
+-   EBITDA = [[EBIT]] + depreciation + amortization = $580,000 + $50,000 + $0 = $630,000
 
 Next, using the formula for EBITDA-to-interest coverage that includes the lease payments term, the company's EBITDA-to-interest coverage ratio is:
 
