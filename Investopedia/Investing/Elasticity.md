@@ -1,9 +1,9 @@
 ---
+alias: 
 created: 2021-02-28T12:07:21 (UTC +11:00)
-tags: []
+tags: [Elasticity]
 source: https://www.investopedia.com/terms/e/elastic.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Elasticity Definition & Explanation

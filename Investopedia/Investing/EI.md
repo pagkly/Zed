@@ -1,4 +1,5 @@
 ---
+alias: [Employment Insurance, EI]
 created: 2021-02-28T12:07:22 (UTC +11:00)
 tags: [Employment Insurance, EI]
 source: https://www.investopedia.com/terms/e/employment-insurance.asp
