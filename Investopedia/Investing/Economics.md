@@ -23,7 +23,7 @@ Economics can generally be broken down into [macroeconomics](https://www.investo
 -   Economics is the study of how people allocate scarce resources for production, distribution, and consumption, both individually and collectively.
 -   Two major types of economics are _microeconomics_, which focuses on the behavior of individual consumers and producers, and _macroeconomics_, which examine overall economies on a regional, national, or international scale.
 -   Economics is especially concerned with efficiency in production and exchange and uses models and assumptions to understand how to create incentives and policies that will maximize efficiency.
--   Economists formulate and publish numerous economic indicators, such as gross domestic product (GDP) and the Consumer Price Index (CPI).
+-   Economists formulate and publish numerous economic indicators, such as gross domestic product (GDP) and the [[CPI |Consumer Price Index]] ([[CPI |CPI]]).
 -   Capitalism, socialism, and communism are types of economic systems.
 
 ## Understanding Economics
@@ -76,9 +76,9 @@ The [industrial production](https://www.investopedia.com/terms/i/ipi.asp) report
 
 The [Bureau of Labor Statistics (BLS)](https://www.investopedia.com/terms/b/bls.asp) releases employment data in a report called the [non-farm payrolls](https://www.investopedia.com/terms/n/nonfarmpayroll.asp), on the first Friday of each month.6 Generally, sharp increases in employment indicate prosperous economic growth. Likewise, potential contractions may be imminent if significant decreases occur. While these are general trends, it is important to consider the current position of the economy. For example, strong employment data could cause a currency to appreciate if the country has recently been through economic troubles because the growth could be a sign of economic health and recovery. Conversely, in an overheated economy, high employment can also lead to inflation, which in this situation could move the currency downward.
 
-### Consumer Price Index (CPI)
+### [[CPI |Consumer Price Index]] ([[CPI |CPI]])
 
-The [Consumer Price Index (CPI)](https://www.investopedia.com/terms/c/consumerpriceindex.asp), also issued by the BLS, measures the level of retail price changes (the costs that consumers pay) and is the benchmark for measuring [inflation](https://www.investopedia.com/terms/i/inflation.asp). Using a [basket](https://www.investopedia.com/terms/b/basket_of_goods.asp) that is representative of the goods and services in the economy, the [[CPI ]]compares the price changes month after month and year after year.7 This report is one of the more important economic indicators available, and its release can increase volatility in equity, fixed income, and forex markets. Greater-than-expected price increases are considered a sign of inflation, which will likely cause the underlying currency to depreciate.
+The [[[CPI |Consumer Price Index]] ([[CPI |CPI]])](https://www.investopedia.com/terms/c/consumerpriceindex.asp), also issued by the BLS, measures the level of retail price changes (the costs that consumers pay) and is the benchmark for measuring [inflation](https://www.investopedia.com/terms/i/inflation.asp). Using a [basket](https://www.investopedia.com/terms/b/basket_of_goods.asp) that is representative of the goods and services in the economy, the [[CPI ]]compares the price changes month after month and year after year.7 This report is one of the more important economic indicators available, and its release can increase volatility in equity, fixed income, and forex markets. Greater-than-expected price increases are considered a sign of inflation, which will likely cause the underlying currency to depreciate.
 
 ## Types of Economic Systems
 

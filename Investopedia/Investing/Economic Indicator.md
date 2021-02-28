@@ -18,7 +18,7 @@ An economic indicator is a piece of economic data, usually of [macroeconomic](ht
 
 Economic indicators can be anything the investor chooses, but specific pieces of data released by the government and non-profit organizations have become widely followed. Such indicators include but aren't limited to:
 
--   The [Consumer Price Index (CPI)](https://www.investopedia.com/terms/c/consumerpriceindex.asp)
+-   The [[[CPI |Consumer Price Index]] ([[CPI |CPI]])](https://www.investopedia.com/terms/c/consumerpriceindex.asp)
 -   [Gross domestic product](https://www.investopedia.com/terms/g/gdp.asp) (GDP)
 -   Unemployment figures
 -   Price of crude oil
@@ -37,7 +37,7 @@ Economic indicators can be divided into categories or groups. Most of these econ
 
 [Coincident indicators](https://www.investopedia.com/terms/c/coincidentindicator.asp), which include such things as GDP, employment levels, and retail sales, are seen with the occurrence of specific economic activities. This class of metrics shows the activity of a particular area or region. Many policymakers and economists follow this real-time data.
 
-[Lagging indicators](https://www.investopedia.com/terms/l/laggingindicator.asp), such as gross national product (GNP), CPI, unemployment rates, and interest rates, are only seen after a specific economic activity occurs. As the name implies, these data sets show information after the event has happened. This trailing indicator is a technical indicator that comes after large economic shifts.
+[Lagging indicators](https://www.investopedia.com/terms/l/laggingindicator.asp), such as gross national product (GNP), [[CPI |CPI]], unemployment rates, and interest rates, are only seen after a specific economic activity occurs. As the name implies, these data sets show information after the event has happened. This trailing indicator is a technical indicator that comes after large economic shifts.
 
 ## Interpreting Economic Indicators
 

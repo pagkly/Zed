@@ -1,9 +1,9 @@
 ---
+alias: [Consumer Price Index, CPI]
 created: 2021-02-25T22:32:07 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/c/consumerpriceindex.asp
-author: By
-Jason Fernando
+author: Jason Fernando
 ---
 
 # Consumer Price Index (CPI) Definition

@@ -2,8 +2,7 @@
 created: 2021-02-25T22:31:52 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/c/compoundinterest.asp
-author: By
-Jason Fernando
+author: Jason Fernando
 ---
 
 # Compound Interest Definition
@@ -129,21 +128,21 @@ As an example, an investment that has a 6% annual rate of return will double in 
 
 The [[Compound Annual Growth Rate (CAGR)]] is used for most financial applications that require the calculation of a single growth rate over a period of time.
 
-Let's say your investment portfolio has grown from $10,000 to $16,000 over five years; what is the CAGR? Essentially, this means that PV = -$10,000, FV = $16,000, and nt = 5, so the variable “i” has to be calculated. Using a financial calculator or Excel, it can be shown that i = 9.86%.
+Let's say your investment portfolio has grown from $10,000 to $16,000 over five years; what is the [[Compound Annual Growth Rate (CAGR)|CAGR]]? Essentially, this means that PV = -$10,000, FV = $16,000, and nt = 5, so the variable “i” has to be calculated. Using a financial calculator or Excel, it can be shown that i = 9.86%.
 
 According to the cash-flow convention, your initial investment (PV) of $10,000 is shown with a negative sign since it represents an outflow of funds. PV and FV must necessarily have opposite signs to solve for “i” in the above equation.
 
-### CAGR Real-life Applications
+### [[Compound Annual Growth Rate (CAGR)|CAGR]] Real-life Applications
 
-The CAGR is extensively used to calculate returns over periods of time for stock, [mutual funds](https://www.investopedia.com/ask/answers/051415/what-difference-between-mutual-fund-and-money-market-fund.asp), and investment portfolios. The CAGR is also used to ascertain whether a mutual fund manager or portfolio manager has exceeded the market’s rate of return over a period of time. If, for example, a market index has provided total returns of 10% over a five-year period, but a fund manager has only generated annual returns of 9% over the same period, the manager has underperformed the market.
+The [[Compound Annual Growth Rate (CAGR)|CAGR]] is extensively used to calculate returns over periods of time for stock, [mutual funds](https://www.investopedia.com/ask/answers/051415/what-difference-between-mutual-fund-and-money-market-fund.asp), and investment portfolios. The [[Compound Annual Growth Rate (CAGR)|CAGR]] is also used to ascertain whether a mutual fund manager or portfolio manager has exceeded the market’s rate of return over a period of time. If, for example, a market index has provided total returns of 10% over a five-year period, but a fund manager has only generated annual returns of 9% over the same period, the manager has underperformed the market.
 
-The CAGR can also be used to calculate the expected growth rate of investment portfolios over long periods of time, which is useful for such purposes as saving for retirement. Consider the following examples:
+The [[Compound Annual Growth Rate (CAGR)|CAGR]] can also be used to calculate the expected growth rate of investment portfolios over long periods of time, which is useful for such purposes as saving for retirement. Consider the following examples:
 
 **Example 1:** A risk-averse investor is happy with a modest 3% annual rate of return on her portfolio. Her present $100,000 portfolio would, therefore, grow to $180,611 after 20 years. In contrast, a risk-tolerant investor who expects an annual return of 6% on her portfolio would see $100,000 grow to $320,714 after 20 years.
 
-**Example 2:** The CAGR can be used to estimate how much needs to be stowed away to save for a specific objective. A couple who would like to save $50,000 over 10 years towards a down payment on a condo would need to save $4,165 per year if they assume an annual return (CAGR) of 4% on their savings. If they are prepared to take a little extra risk and expect a CAGR of 5%, they would need to save $3,975 annually.
+**Example 2:** The [[Compound Annual Growth Rate (CAGR)|CAGR]] can be used to estimate how much needs to be stowed away to save for a specific objective. A couple who would like to save $50,000 over 10 years towards a down payment on a condo would need to save $4,165 per year if they assume an annual return ([[Compound Annual Growth Rate (CAGR)|CAGR]]) of 4% on their savings. If they are prepared to take a little extra risk and expect a [[Compound Annual Growth Rate (CAGR)|CAGR]] of 5%, they would need to save $3,975 annually.
 
-**Example 3:** The CAGR can also be used to demonstrate the virtues of investing earlier rather than later in life. If the objective is to save $1 million by retirement at age 65, based on a CAGR of 6%, a 25-year old would need to save $6,462 per year to attain this goal. A 40-year old, on the other hand, would need to save $18,227, or almost three times that amount, to attain the same goal.
+**Example 3:** The [[Compound Annual Growth Rate (CAGR)|CAGR]] can also be used to demonstrate the virtues of investing earlier rather than later in life. If the objective is to save $1 million by retirement at age 65, based on a [[Compound Annual Growth Rate (CAGR)|CAGR]] of 6%, a 25-year old would need to save $6,462 per year to attain this goal. A 40-year old, on the other hand, would need to save $18,227, or almost three times that amount, to attain the same goal.
 
 -   CAGRs also crop up frequently in economic data. Here is an example: China’s per-capita GDP increased from $193 in 1980 to $6,091 in 2012. What is the annual growth in per-capita GDP over this 32-year period? The growth rate “i” in this case works out to be an impressive 11.4%.
 
