@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia2/Actuarial Life Table.md",
-            "mode": "preview"
+            "file": "Investopedia2/Affirmative Action.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia2/Actuarial Life Table.md",
+                "file": "Investopedia2/Affirmative Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia2/Actuarial Life Table.md"
+                "file": "Investopedia2/Affirmative Action.md"
               }
             }
           },
@@ -138,15 +138,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia2/Affirmative Action.md",
+    "Investopedia2/Adverse Selection.md",
+    "Investopedia2/Advanced Internal Rating-Based (AIRB) Definition.md",
+    "Investopedia2/Administrative Expenses Definition.md",
     "Investopedia2/Actuarial Life Table.md",
     "Investopedia2/Determining the Annual Equivalent Rate (AER).md",
     "Investopedia2/Digging into Annuity Due.md",
     "Investopedia2/Define Average Propensity to Consume.md",
     "Investopedia2/Benzodiazepines - Alcohol and Drug Foundation.md",
-    "Investopedia2/benzodiazepine clonazepam - Google Search.md",
-    "Investopedia2/Average True Range (ATR).md",
-    "Investopedia2/Average Inventory.md",
-    "Investopedia2/Automatic Stabilizer.md",
-    "Investopedia2/Inside the Average Annual Growth Rate (AAGR).md"
+    "Investopedia2/benzodiazepine clonazepam - Google Search.md"
   ]
 }
