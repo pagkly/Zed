@@ -38,7 +38,7 @@ An enterprise multiple is useful for transnational comparisons because it ignore
 
 Enterprise multiples can vary depending on the industry. It is reasonable to expect higher enterprise multiples in high-growth industries (e.g. biotech) and lower multiples in industries with slow growth (e.g. railways).
 
-Enterprise value (EV) is a measure of the economic value of a company. It is frequently used to determine the value of the business if it is acquired. It is considered to be a better valuation measure for M&A than a market cap since it includes the debt an acquirer would have to assume and the cash they'd receive.
+Enterprise value (EV) is a measure of the [[Economic Value]] of a company. It is frequently used to determine the value of the business if it is acquired. It is considered to be a better valuation measure for M&A than a market cap since it includes the debt an acquirer would have to assume and the cash they'd receive.
 
 ## Example of How to Use Enterprise Multiple
 

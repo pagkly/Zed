@@ -9,16 +9,16 @@ Daniel Liberto
 # Endogenous Growth Theory Definition
 
 > ## Excerpt
-> Endogenous growth theory maintains that economic growth is primarily the result of endogenous and not external forces.
+> Endogenous growth theory maintains that [[Economic Growth ]]is primarily the result of endogenous and not external forces.
 
 ---
 ## What is Endogenous Growth Theory?
 
-Endogenous growth theory is an economic theory which argues that [economic growth](https://www.investopedia.com/terms/e/economicgrowth.asp) is generated from within a system as a direct result of internal processes. More specifically, the theory notes that the enhancement of a nation's [human capital](https://www.investopedia.com/terms/h/humancapital.asp) will lead to economic growth by means of the development of new forms of technology and efficient and effective means of [production](https://www.investopedia.com/terms/m/manufacturing-production.asp).
+Endogenous growth theory is an economic theory which argues that [economic growth](https://www.investopedia.com/terms/e/economicgrowth.asp) is generated from within a system as a direct result of internal processes. More specifically, the theory notes that the enhancement of a nation's [human capital](https://www.investopedia.com/terms/h/humancapital.asp) will lead to [[Economic Growth ]]by means of the development of new forms of technology and efficient and effective means of [production](https://www.investopedia.com/terms/m/manufacturing-production.asp).
 
 ### Key Takeaways
 
--   Endogenous growth theory maintains that economic growth is primarily the result of internal forces, rather than external ones.
+-   Endogenous growth theory maintains that [[Economic Growth ]]is primarily the result of internal forces, rather than external ones.
 -   It argues that improvements in productivity can be tied directly to faster innovation and more investments in human capital from governments and private sector institutions.
 -   This view contrasts with neoclassical economics.
 
@@ -45,7 +45,7 @@ Endogenous growth theory emerged in the 1980s as an alternative to the [neoclass
 
 Economist Paul Romer put forward the argument that technological change is not just an [exogenous](https://www.investopedia.com/terms/e/exogenous-growth.asp) byproduct of independent scientific developments. He sought to prove that government policies, including investment in R&D and intellectual property laws, helped foster endogenous innovation and fuel persistent economic growth.
 
-Romer previously complained that his findings hadn’t been taken seriously enough. However, he was awarded the 2018 [Nobel Prize in Economics](https://www.investopedia.com/terms/n/nobel-memorial-prize-in-economic-sciences.asp) for his studies on long-term economic growth and its relationship with technological innovation. His concepts are also regularly discussed by politicians when they debate ways to stimulate economies.
+Romer previously complained that his findings hadn’t been taken seriously enough. However, he was awarded the 2018 [Nobel Prize in Economics](https://www.investopedia.com/terms/n/nobel-memorial-prize-in-economic-sciences.asp) for his studies on long-term [[Economic Growth ]]and its relationship with technological innovation. His concepts are also regularly discussed by politicians when they debate ways to stimulate economies.
 
 ## Criticism of Endogenous Growth Theory
 

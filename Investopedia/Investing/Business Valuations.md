@@ -14,11 +14,11 @@ Adam Hayes
 ---
 ## What Is a Business Valuation?
 
-A business valuation is a general process of determining the [economic value](https://www.investopedia.com/terms/e/economic-value.asp) of a whole business or company unit. Business valuation can be used to determine the fair value of a business for a variety of reasons, including sale value, establishing partner ownership, taxation, and even divorce proceedings. Owners will often turn to professional business evaluators for an objective estimate of the value of the business.
+A business valuation is a general process of determining the [[[Economic Value]]](https://www.investopedia.com/terms/e/economic-value.asp) of a whole business or company unit. Business valuation can be used to determine the fair value of a business for a variety of reasons, including sale value, establishing partner ownership, taxation, and even divorce proceedings. Owners will often turn to professional business evaluators for an objective estimate of the value of the business.
 
 ### Key Takeaways
 
--   Business valuation determines the economic value of a business or business unit.
+-   Business valuation determines the [[Economic Value]] of a business or business unit.
 -   Business valuation can be used to determine the fair value of a business for a variety of reasons, including sale value, establishing partner ownership, taxation, and even divorce proceedings.
 -   Several methods of valuing a business exist, such as looking at its market cap, earnings multipliers, or book value, among others.
 

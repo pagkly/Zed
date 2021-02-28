@@ -42,7 +42,7 @@ Businesses and investors also need to manage their strategy over economic cycles
 
 The [Keynesian](https://www.investopedia.com/terms/k/keynesianeconomics.asp) approach argues that changes in aggregate demand, spurred by [[inherent]] instability and volatility in investment demand, is responsible for generating cycles. When, for whatever reason, business sentiment turns gloomy and investment slows, a self-fulfilling loop of economic malaise can result.
 
-Less spending means less demand, which induces businesses to lay off workers and cut back even further. Unemployed workers mean less consumer spending and the whole economy sours, with no clear solution other than government intervention and economic stimulus, according to the Keynesians.
+Less spending means less demand, which induces businesses to lay off workers and cut back even further. Unemployed workers mean less consumer spending and the whole economy sours, with no clear solution other than government intervention and [[Economic Stimulus]], according to the Keynesians.
 
 Austrian economists argue that the manipulation of credit and interest rates by the central bank creates unsustainable distortions in the structure of relationships between industries and businesses which are corrected during a recession.
 

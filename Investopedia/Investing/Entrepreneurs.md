@@ -254,7 +254,7 @@ Entrepreneurs invest in community projects and help charities and other non-prof
 
 ### Entrepreneurial Ecosystems
 
-There is research that shows high levels of self-employment can stall economic development: Entrepreneurship, if not properly regulated, can lead to unfair market practices and corruption, and too many entrepreneurs can create income inequalities in society. Overall, though, entrepreneurship is a critical driver of innovation and economic growth. Therefore, fostering entrepreneurship is an important part of the economic growth strategies of many local and national governments around the world.
+There is research that shows high levels of self-employment can stall economic development: Entrepreneurship, if not properly regulated, can lead to unfair market practices and corruption, and too many entrepreneurs can create income inequalities in society. Overall, though, entrepreneurship is a critical driver of innovation and economic growth. Therefore, fostering entrepreneurship is an important part of the [[Economic Growth ]]strategies of many local and national governments around the world.
 
 To this end, governments commonly assist in the development of entrepreneurial ecosystems, which may include entrepreneurs themselves, government-sponsored assistance programs, and venture capitalists. They may also include non-government organizations, such as entrepreneurs' associations, business incubators, and education programs.
 

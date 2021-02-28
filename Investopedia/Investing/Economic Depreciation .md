@@ -49,7 +49,7 @@ When people talk about depreciation, it is often in reference to accounting depr
 
 Most businesses depreciate an asset to $0 in book value because they believe the asset’s value and expenses have been fully matched with the revenue it generates over its expected useful life. Companies may choose to hold some book value of a depreciated asset after it has been fully depreciated.
 
-The book value of an asset and the market value of an asset are usually very different. The economic value or market value of an asset may not be reported on financial statements but it is the value a company could potentially get if they chose to make an asset sale.
+The book value of an asset and the market value of an asset are usually very different. The [[Economic Value]] or market value of an asset may not be reported on financial statements but it is the value a company could potentially get if they chose to make an asset sale.
 
 ## Depreciation vs. Appreciation
 

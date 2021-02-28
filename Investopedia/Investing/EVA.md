@@ -6,7 +6,7 @@ author: By
 James Chen
 ---
 
-# Economic Value Added (EVA) Definition
+# [[Economic Value]] Added (EVA) Definition
 
 > ## Excerpt
 > Economic value added (EVA) is a financial metric based on residual wealth, calculated by deducting a firm's cost of capital from operating profit.

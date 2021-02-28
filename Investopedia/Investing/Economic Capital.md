@@ -38,7 +38,7 @@ The relationship between the frequency of loss, amount of loss, expected loss, f
 
 Image by Julie Bang © Investopedia 2019
 
-Calculations of economic capital and their use in [risk/reward](https://www.investopedia.com/terms/r/riskrewardratio.asp) ratios reveal which business lines a bank should pursue that make the best use of the risk/reward trade-off. Performance measures that use economic capital include: return on risk-adjusted capital ([RORAC](https://www.investopedia.com/terms/r/rorac.asp)); risk-adjusted return on capital (RAROC); and, economic value added (EVA). Business units that perform better on measures like these can receive more of the firm's capital in order to optimize risk. [Value-at-risk](https://www.investopedia.com/terms/v/var.asp) (VaR) and similar measures are also based on economic capital and are used by financial institutions for risk management.
+Calculations of economic capital and their use in [risk/reward](https://www.investopedia.com/terms/r/riskrewardratio.asp) ratios reveal which business lines a bank should pursue that make the best use of the risk/reward trade-off. Performance measures that use economic capital include: return on risk-adjusted capital ([RORAC](https://www.investopedia.com/terms/r/rorac.asp)); risk-adjusted return on capital (RAROC); and, [[Economic Value]] added (EVA). Business units that perform better on measures like these can receive more of the firm's capital in order to optimize risk. [Value-at-risk](https://www.investopedia.com/terms/v/var.asp) (VaR) and similar measures are also based on economic capital and are used by financial institutions for risk management.
 
 ## Example of Economic Capital
 

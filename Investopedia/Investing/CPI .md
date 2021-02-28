@@ -33,7 +33,7 @@ While it does measure the variation in price for retail goods and other items pa
 
 ## How is CPI Used?
 
-CPI is an economic indicator. It is the most widely used measure of inflation and, by proxy, of the effectiveness of the government’s economic policy. The CPI gives the government, businesses, and citizens an idea about prices changes in the economy, and can act as a guide in order to make informed decisions about the economy. 
+CPI is an [[Economic Indicator]]. It is the most widely used measure of inflation and, by proxy, of the effectiveness of the government’s economic policy. The CPI gives the government, businesses, and citizens an idea about prices changes in the economy, and can act as a guide in order to make informed decisions about the economy. 
 
 The CPI and the components that make it up can also be used as a deflator for other economic indicators, including [retail sales](https://www.investopedia.com/terms/r/retail-sales.asp), hourly/weekly earnings. Additionally, it can be used to value a consumer’s dollar to find its [purchasing power](https://www.investopedia.com/terms/p/purchasingpower.asp). Generally, the dollar’s purchasing power declines when the aggregate price level increases and vice versa. 
 

@@ -49,7 +49,7 @@ Eventually this process of recovery leads to a new phase of growth and expansion
 
 ## Indicators of Recovery
 
-Economists often play a big part in defining an economy’s business cycle phase as well as the stages of economic growth or contraction it may be experiencing. To assess the economy, economists look at both leading and lagging economic indicators in their analysis.
+Economists often play a big part in defining an economy’s business cycle phase as well as the stages of [[Economic Growth ]]or contraction it may be experiencing. To assess the economy, economists look at both leading and lagging economic indicators in their analysis.
 
 [Leading indicators](https://www.investopedia.com/terms/l/leadingindicator.asp) can be things such as the stock market, which often rises ahead of an economic recovery. This is usually because future expectations drive stock prices. On the other hand, employment is typically somewhat of a [lagging indicator](https://www.investopedia.com/terms/l/laggingindicator.asp). Unemployment often remains high even as the economy begins to recover because many employers will not hire additional personnel until they are reasonably confident there is a long-term need for new hiring.
 
