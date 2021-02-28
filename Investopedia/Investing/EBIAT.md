@@ -28,7 +28,7 @@ Earnings before interest after taxes (EBIAT) is a financial measure that is an i
 
 EBIAT takes taxes into account because taxes are viewed as an ongoing expense that is beyond a company's control, particularly if the company is profitable. The calculation of EBIAT removes any tax benefits that might be gained from [debt financing](https://www.investopedia.com/terms/d/debtfinancing.asp). Thus, the measure provides an accurate picture of the company by eliminating all elements that can potentially boost or reduce its financial strength.
 
-EBIAT is not used in [financial analysis](https://www.investopedia.com/terms/f/financial-analysis.asp) as often as earnings before [interest, taxes, depreciation, and amortization](https://www.investopedia.com/terms/e/ebitda.asp) (EBITDA). However, it is monitored as it shows how much cash is available to pay creditors if [liquidation](https://www.investopedia.com/terms/l/liquidation.asp) becomes necessary. If the company does not have much depreciation or amortization, EBIAT may be more closely watched.
+EBIAT is not used in [financial analysis](https://www.investopedia.com/terms/f/financial-analysis.asp) as often as earnings before [interest, taxes, depreciation, and amortization](https://www.investopedia.com/terms/e/ebitda.asp) ([[EBITDA]]). However, it is monitored as it shows how much cash is available to pay creditors if [liquidation](https://www.investopedia.com/terms/l/liquidation.asp) becomes necessary. If the company does not have much depreciation or amortization, EBIAT may be more closely watched.
 
 ## Example of the Earnings Before Interest After Taxes (EBIAT) Calculation
 

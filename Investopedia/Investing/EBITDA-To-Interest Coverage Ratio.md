@@ -16,7 +16,7 @@ Adam Hayes
 
 The EBITDA-to-interest coverage ratio is a financial ratio that is used to assess a company's financial durability by examining whether it is at least profitable enough to pay off its interest expenses using its pre-tax income. Specifically it looks to see what proportion of [earnings before interest, taxes, depreciation, and amortization](https://www.investopedia.com/terms/e/ebitda.asp) (EBITDA), can be used for this purpose.
 
-The EBITDA-to-interest coverage ratio is also known simply as as EBITDA coverage. The main difference between EBITDA coverage and the [interest coverage ratio](https://www.investopedia.com/terms/i/interestcoverageratio.asp), is that the latter uses [earnings before income and taxes](https://www.investopedia.com/terms/e/ebit.asp) (EBIT), rather than the more encompassing EBITDA.
+The EBITDA-to-interest coverage ratio is also known simply as as EBITDA coverage. The main difference between EBITDA coverage and the [interest coverage ratio](https://www.investopedia.com/terms/i/interestcoverageratio.asp), is that the latter uses [earnings before income and taxes](https://www.investopedia.com/terms/e/ebit.asp) ([[EBIT]]), rather than the more encompassing EBITDA.
 
 -   The EBITDA-to-interest coverage ratio, or EBITDA coverage, is used to see how easily a firm can pay the interest on its outstanding debt.
 -   The formula divides earnings before interest, taxes, depreciation, and amortization by total interest payments, making it more inclusive than the standard interest coverage ratio.
@@ -40,11 +40,11 @@ There are two formulas used for the EBITDA-to-interest coverage ratio that diffe
 
 and
 
-> Interest coverage ratio, which is EBIT / interest expenses.
+> Interest coverage ratio, which is [[EBIT]] / interest expenses.
 
-As an example, consider the following. A company reports sales revenue of $1,000,000. Salary expenses are reported as $250,000, while utilities are reported as $20,000. Lease payments are $100,000. The company also reports [depreciation](https://www.investopedia.com/terms/d/depreciation.asp) of $50,000 and [interest expenses](https://www.investopedia.com/terms/i/interestexpense.asp) of $120,000. To calculate the EBITDA-to-interest coverage ratio, first an analyst needs to calculate the EBITDA. EBITDA is calculated by taking the company's [EBIT](https://www.investopedia.com/terms/e/ebit.asp) (earnings before interest and tax) and adding back the depreciation and amortization amounts.
+As an example, consider the following. A company reports sales revenue of $1,000,000. Salary expenses are reported as $250,000, while utilities are reported as $20,000. Lease payments are $100,000. The company also reports [depreciation](https://www.investopedia.com/terms/d/depreciation.asp) of $50,000 and [interest expenses](https://www.investopedia.com/terms/i/interestexpense.asp) of $120,000. To calculate the EBITDA-to-interest coverage ratio, first an analyst needs to calculate the EBITDA. EBITDA is calculated by taking the company's [[[EBIT]]](https://www.investopedia.com/terms/e/ebit.asp) (earnings before interest and tax) and adding back the depreciation and amortization amounts.
 
-In the above example, the company's EBIT and EBITDA are calculated as:
+In the above example, the company's [[EBIT]] and EBITDA are calculated as:
 
 -   [[EBIT]] = revenues - operating expenses - depreciation = $1,000,000 - ($250,000 + $20,000 + $100,000) - $50,000 = $580,000
 -   EBITDA = [[EBIT]] + depreciation + amortization = $580,000 + $50,000 + $0 = $630,000

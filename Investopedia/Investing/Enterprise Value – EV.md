@@ -42,7 +42,7 @@ Market capitalization is not intended to represent a company's book value. Inste
 
 Enterprise value is used as the basis for many financial ratios that measure the performance of a company. An [enterprise multiple](https://www.investopedia.com/terms/e/ev-ebitda.asp) that contains enterprise value relates the total value of a company as reflected in the market value of its capital from all sources to a measure of operating earnings generated, such as earnings before interest, taxes, depreciation, and amortization ([EBITDA)](https://www.investopedia.com/terms/e/ebitda.asp).
 
-EBITDA is a measure of a company's ability to generate revenue and is used as an alternative to simple earnings or net income in some circumstances. EBITDA, however, can be misleading because it strips out the cost of capital investments like property, plant, and equipment. Another figure, EBIT, can be used as a similar financial metric without the drawback of removing depreciation and amortization expenses related to property, plant and equipment. EBITDA is calculated using the following formula:
+EBITDA is a measure of a company's ability to generate revenue and is used as an alternative to simple earnings or net income in some circumstances. EBITDA, however, can be misleading because it strips out the cost of capital investments like property, plant, and equipment. Another figure, [[EBIT]], can be used as a similar financial metric without the drawback of removing depreciation and amortization expenses related to property, plant and equipment. EBITDA is calculated using the following formula:
 
 > **EBITDA** = recurring earnings from continuing operations + interest + taxes + depreciation + amortization
 

@@ -44,11 +44,11 @@ The starting point is earnings before interest and tax ([[EBIT]]), also referred
 
 For example, imagine the XYZ company earns $1 million in a year, and it has $400,000 in total operating expenses. Subtracting operating expenses from revenue results in $600,000 of [[EBIT]], or operating income ($1 million revenue - $400,000 operating expenses) = $600,000.
 
-The operating expenses do not include interest and tax expenses, as the company chooses to show them further down on the income statement, after EBIT.
+The operating expenses do not include interest and tax expenses, as the company chooses to show them further down on the income statement, after [[EBIT]].
 
 Included in the firm's $400,000 operating expenses is depreciation of $15,000, amortization of $10,000, and rent of $50,000. To arrive at EBITDAR, an analyst excludes depreciation, amortization and rent ($15,000 + $10,000 + $50,000) from the calculation by starting with [[EBIT]] and adding back the amounts as follows:
 
--   **EBITDAR** = $600,000 EBIT + ($15,000+$10,000+$50,000) = $675,000
+-   **EBITDAR** = $600,000 [[EBIT]] + ($15,000+$10,000+$50,000) = $675,000
 
 Note that rent is excluded for the EBITDAR metric only.
 

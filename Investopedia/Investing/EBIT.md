@@ -76,13 +76,13 @@ Often, companies include interest income in EBIT, but some may exclude it depe
 
 Another way to calculate EBIT is by taking the net income figure (profit) from the income statement and adding the [income tax expense](https://www.investopedia.com/terms/t/tax-expense.asp) and [interest expense](https://www.investopedia.com/terms/i/interestexpense.asp) back into net income.
 
-### EBIT vs. EBITDA
+### EBIT vs. [[EBITDA]]
 
-EBIT is a company's operating profit without interest expense and taxes. However, EBITDA or (**e**arnings **b**efore **i**nterest, **t**axes, **d**epreciation, and **a**mortization) takes EBIT and strips out [depreciation](https://www.investopedia.com/terms/d/depreciation.asp), and [amortization](https://www.investopedia.com/terms/a/amortization.asp) expenses when calculating profitability. Like EBIT, EBITDA also excludes taxes and interest expenses on debt. But, there are [differences between EBIT and EBITDA](https://www.investopedia.com/ask/answers/020215/what-difference-between-ebit-and-ebitda.asp).
+EBIT is a company's operating profit without interest expense and taxes. However, EBITDA or (**e**arnings **b**efore **i**nterest, **t**axes, **d**epreciation, and **a**mortization) takes EBIT and strips out [depreciation](https://www.investopedia.com/terms/d/depreciation.asp), and [amortization](https://www.investopedia.com/terms/a/amortization.asp) expenses when calculating profitability. Like EBIT, [[EBITDA]] also excludes taxes and interest expenses on debt. But, there are [differences between EBIT and [[EBITDA]]](https://www.investopedia.com/ask/answers/020215/what-difference-between-ebit-and-ebitda.asp).
 
 For companies with a significant amount of fixed assets, they can depreciate the expense of purchasing those assets over their useful life. In other words, depreciation allows a company to spread the cost of an asset over many years or the life of the asset. Depreciation saves a company from recording the cost of the asset in the year the asset was purchased. As a result, depreciation expense reduces profitability.
 
-For company's with a significant amount of fixed assets, depreciation expense can impact net income or the bottom line. EBITDA measures a company's profits by removing depreciation. As a result, EBITDA helps to drill down to the profitability of a company's operational performance. EBIT and EBITDA each have their merits and uses in financial analysis.
+For company's with a significant amount of fixed assets, depreciation expense can impact net income or the bottom line. [[EBITDA]] measures a company's profits by removing depreciation. As a result, [[EBITDA]] helps to drill down to the profitability of a company's operational performance. EBIT and [[EBITDA]] each have their merits and uses in financial analysis.
 
 ### Limitations of EBIT
 

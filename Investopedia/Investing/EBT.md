@@ -30,7 +30,7 @@ If, for example, a company sells 30 widgets for $1,000 a piece during January, i
 
 After a company determines its gross revenue, it tallies all its operating costs together and subtracts that figure from the gross. The operating costs of a company may include any expenses related to its daily activities, such as salary and wages, rent, and other [overhead](https://www.investopedia.com/terms/o/overhead.asp) expenses. If the company is a technology company with substantial investments in human [capital](https://www.investopedia.com/terms/c/capital.asp), it might have salaries of $10,000 a month and monthly rent of $1,000. This higher cost to produce means that it would subtract $11,000 in total overhead from its gross revenue. Using our example above for this tech company, the resulting [earnings before interest, tax, depreciation, and amortization (EBITDA)](https://www.investopedia.com/terms/e/ebitda.asp) is $16,000.
 
-Assuming the company owns no physical assets and instead chooses to rent computers and server space from Amazon, its earnings before interest and taxes (EBIT) would also equal $16,000. If it has $1,000 of monthly interest expenses, its EBT would be $15,000.
+Assuming the company owns no physical assets and instead chooses to rent computers and server space from Amazon, its earnings before interest and taxes ([[EBIT]]) would also equal $16,000. If it has $1,000 of monthly interest expenses, its EBT would be $15,000.
 
 ## Earnings Before Tax (EBT) as a Tool for Comparison
 
