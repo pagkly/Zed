@@ -1,10 +1,9 @@
 ---
 alias: [Capital Asset Pricing Model, CAPM]
 created: 2021-02-25T22:30:18 (UTC +11:00)
-tags: []
+tags: [Capital Asset Pricing Model, CAPM]
 source: https://www.investopedia.com/terms/c/capm.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Capital Asset Pricing Model (CAPM)

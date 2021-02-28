@@ -23,7 +23,7 @@ Alpha is used in finance as a measure of [performance](https://www.investopedia
 -   Alpha refers to excess returns earned on an investment above the benchmark return.
 -   Active portfolio managers seek to generate alpha in diversified portfolios, with diversification intended to eliminate unsystematic risk.
 -   Because alpha represents the performance of a portfolio relative to a benchmark, it is often considered to represent the value that a portfolio manager adds to or subtracts from a fund's return.
--   Jensen’s alpha takes into consideration the capital asset pricing model ([[CAPM]]) and includes a risk-adjusted component in its calculation. 
+-   Jensen’s alpha takes into consideration the [[CAPM|capital asset pricing model]] ([[CAPM]]) and includes a risk-adjusted component in its calculation. 
 
 ## Understanding Alpha
 
@@ -43,7 +43,7 @@ The [Efficient Market Hypothesis](https://www.investopedia.com/terms/e/efficient
 
 Alpha is commonly used to rank active mutual funds as well as all other types of investments. It is often represented as a single number (like +3.0 or -5.0), and this typically refers to a percentage measuring how the portfolio or fund performed compared to the referenced benchmark index (i.e., 3% better or 5% worse).
 
-Deeper analysis of alpha may also include "[Jensen’s alpha](https://www.investopedia.com/terms/j/jensensmeasure.asp)." Jensen’s alpha takes into consideration the capital asset pricing model ([[[CAPM]]](https://www.investopedia.com/terms/c/capm.asp)) market theory and includes a risk-adjusted component in its calculation. Beta (or the beta coefficient) is used in the [[CAPM]], which calculates the expected return of an asset based on its own particular beta and the expected market returns. [Alpha and beta](https://www.investopedia.com/articles/07/alphabeta.asp) are used together by investment managers to calculate, compare, and analyze returns.
+Deeper analysis of alpha may also include "[Jensen’s alpha](https://www.investopedia.com/terms/j/jensensmeasure.asp)." Jensen’s alpha takes into consideration the [[CAPM|capital asset pricing model]] ([[[CAPM]]](https://www.investopedia.com/terms/c/capm.asp)) market theory and includes a risk-adjusted component in its calculation. Beta (or the beta coefficient) is used in the [[CAPM]], which calculates the expected return of an asset based on its own particular beta and the expected market returns. [Alpha and beta](https://www.investopedia.com/articles/07/alphabeta.asp) are used together by investment managers to calculate, compare, and analyze returns.
 
 The entire investing universe offers a broad range of securities, investment products, and advisory options for investors to consider. Different market cycles also have an influence on the alpha of investments across different asset classes. This is why risk-return metrics are important to consider in conjunction with alpha.
 

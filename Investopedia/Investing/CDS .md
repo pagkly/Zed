@@ -1,9 +1,9 @@
 ---
+alias: [Credit Default Swap, CDS]
 created: 2021-02-25T22:32:54 (UTC +11:00)
-tags: []
+tags: [Credit Default Swap, CDS]
 source: https://www.investopedia.com/terms/c/creditdefaultswap.asp
-author: By
-Justin Kuepper
+author: Justin Kuepper
 ---
 
 # Credit Default Swap (CDS) Definition

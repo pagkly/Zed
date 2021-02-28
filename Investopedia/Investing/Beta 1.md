@@ -9,12 +9,12 @@ Will Kenton
 # Beta Definition
 
 > ## Excerpt
-> Beta is a measure of the volatility, or [[Systematic Risk]], of a security or portfolio in comparison to the market as a whole. It is used in the capital asset pricing model.
+> Beta is a measure of the volatility, or [[Systematic Risk]], of a security or portfolio in comparison to the market as a whole. It is used in the [[CAPM|capital asset pricing model]].
 
 ---
 ## What Is Beta?
 
-Beta is a measure of the volatility_—_or [[[Systematic Risk]]](https://www.investopedia.com/terms/s/systematicrisk.asp)_—_of a security or portfolio compared to the market as a whole. Beta is used in the [capital asset pricing model](https://www.investopedia.com/terms/c/capm.asp) ([[CAPM]]), which describes the relationship between [[Systematic Risk]] and expected return for assets (usually stocks). [[CAPM]] is widely used as a method for pricing risky securities and for generating estimates of the expected returns of assets, considering both the risk of those assets and the cost of capital.
+Beta is a measure of the volatility_—_or [[[Systematic Risk]]](https://www.investopedia.com/terms/s/systematicrisk.asp)_—_of a security or portfolio compared to the market as a whole. Beta is used in the [[[CAPM|capital asset pricing model]]](https://www.investopedia.com/terms/c/capm.asp) ([[CAPM]]), which describes the relationship between [[Systematic Risk]] and expected return for assets (usually stocks). [[CAPM]] is widely used as a method for pricing risky securities and for generating estimates of the expected returns of assets, considering both the risk of those assets and the cost of capital.
 
 ### Key Takeaways
 
