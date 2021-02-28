@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dict/inherent 1.md",
+            "file": "Dict/underlie.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dict/inherent 1.md",
+                "file": "Dict/underlie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dict/inherent 1.md"
+                "file": "Dict/underlie.md"
               }
             }
           },
@@ -140,6 +140,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Dict/underlie.md",
     "Dict/inherent 1.md",
     "Dict/inherent.md",
     "Dict/underlies.md",
@@ -148,7 +149,6 @@
     "Day Planners/Lincoln20210302.md",
     "Day Planners/20210424.md",
     "Templates/Formatting/ytif youtube iframe.md",
-    "Templates/Formatting/tif twitter iframe.md",
-    "Templates/Formatting/underline.md"
+    "Templates/Formatting/tif twitter iframe.md"
   ]
 }
