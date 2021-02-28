@@ -1,10 +1,9 @@
 ---
-alias: [Baltic Dry Index (BDI) Definition]
+alias: [Baltic Dry Index (BDI)]
 created: 2021-02-28T21:18:51 (UTC +11:00)
 tags: [Baltic Dry Index (BDI) Definition, The Baltic Dry Index Measures Changes in Transportation Costs]
 source: https://www.investopedia.com/terms/b/baltic_dry_index.asp
-author: By
-Carol M. Kopp
+author: ByCarol M. Kopp
 ---
 
 # Baltic Dry Index (BDI) Definition

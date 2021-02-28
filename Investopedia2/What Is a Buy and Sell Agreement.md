@@ -1,10 +1,9 @@
 ---
-alias: [Buy and Sell Agreement Definition]
+alias: [Buy and Sell Agreement]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Buy and Sell Agreement Definition, What Is a Buy and Sell Agreement?]
 source: https://www.investopedia.com/terms/b/buy-and-sell-agreement.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Buy and Sell Agreement Definition

@@ -1,10 +1,9 @@
 ---
-alias: [Business Ethics Definition]
+alias: [Business Ethics]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Business Ethics Definition, Business Ethics: Fair Business Policies Within Controversial Subjects]
 source: https://www.investopedia.com/terms/b/business-ethics.asp
-author: By
-Alexandra Twin
+author: ByAlexandra Twin
 ---
 
 # Business Ethics Definition

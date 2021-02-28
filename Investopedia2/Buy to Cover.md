@@ -1,10 +1,9 @@
 ---
-alias: [Buy to Cover Definition]
+alias: [Buy to Cover]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Buy to Cover Definition, Buy to Cover]
 source: https://www.investopedia.com/terms/b/buytocover.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Buy to Cover Definition

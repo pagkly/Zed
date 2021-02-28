@@ -1,10 +1,9 @@
 ---
-alias: [Book Value Definition]
+alias: [Book Value]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Book Value Definition, Book Value]
 source: https://www.investopedia.com/terms/b/bookvalue.asp
-author: By
-Adam Hayes
+author: ByAdam Hayes
 ---
 
 # Book Value Definition

@@ -1,10 +1,9 @@
 ---
-alias: [Budget Surplus Definition]
+alias: [Budget Surplus]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Budget Surplus Definition, Learn about Budget Surplus]
 source: https://www.investopedia.com/terms/b/budget-surplus.asp
-author: By
-Julia Kagan
+author: ByJulia Kagan
 ---
 
 # Budget Surplus Definition

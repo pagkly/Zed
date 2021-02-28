@@ -1,10 +1,9 @@
 ---
-alias: [Barrier Option Definition]
+alias: [Barrier Option]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Barrier Option Definition, Barrier Option Definition]
 source: https://www.investopedia.com/terms/b/barrieroption.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Barrier Option Definition

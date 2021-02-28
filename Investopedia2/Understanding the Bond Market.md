@@ -1,10 +1,9 @@
 ---
-alias: [Bond Market Definition]
+alias: [Bond Market]
 created: 2021-02-28T22:07:34 (UTC +11:00)
 tags: [Bond Market Definition, Understanding the Bond Market]
 source: https://www.investopedia.com/terms/b/bondmarket.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Bond Market Definition

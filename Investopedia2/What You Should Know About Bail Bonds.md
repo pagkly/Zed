@@ -1,10 +1,9 @@
 ---
-alias: [Bail Bond Definition]
+alias: [Bail Bond]
 created: 2021-02-28T21:18:50 (UTC +11:00)
 tags: [Bail Bond Definition, What You Should Know About Bail Bonds]
 source: https://www.investopedia.com/terms/b/bail-bond.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Bail Bond Definition

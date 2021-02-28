@@ -3,8 +3,7 @@ alias: [Backorder Defintion]
 created: 2021-02-28T21:18:49 (UTC +11:00)
 tags: [Backorder Defintion, How Backorders Work]
 source: https://www.investopedia.com/terms/b/backorder.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Backorder Defintion

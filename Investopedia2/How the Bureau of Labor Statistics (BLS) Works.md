@@ -1,10 +1,9 @@
 ---
-alias: [Bureau of Labor Statistics (BLS) Definition]
+alias: [Bureau of Labor Statistics (BLS)]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Bureau of Labor Statistics (BLS) Definition, How the Bureau of Labor Statistics (BLS) Works]
 source: https://www.investopedia.com/terms/b/bls.asp
-author: By
-Adam Hayes
+author: ByAdam Hayes
 ---
 
 # Bureau of Labor Statistics (BLS) Definition

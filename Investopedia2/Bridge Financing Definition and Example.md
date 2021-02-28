@@ -1,10 +1,9 @@
 ---
-alias: [Bridge Financing Definition]
+alias: [Bridge Financing]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Bridge Financing Definition, Bridge Financing Definition and Example]
 source: https://www.investopedia.com/terms/b/bridgefinancing.asp
-author: By
-Cory Mitchell
+author: ByCory Mitchell
 ---
 
 # Bridge Financing Definition

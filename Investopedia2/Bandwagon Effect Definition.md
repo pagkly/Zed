@@ -1,10 +1,9 @@
 ---
-alias: [Bandwagon Effect Definition]
+alias: [Bandwagon Effect]
 created: 2021-02-28T21:18:51 (UTC +11:00)
 tags: [Bandwagon Effect Definition, Bandwagon Effect Definition]
 source: https://www.investopedia.com/terms/b/bandwagon-effect.asp
-author: By
-Investopedia Staff
+author: ByInvestopedia Staff
 ---
 
 # Bandwagon Effect Definition

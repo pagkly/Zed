@@ -1,10 +1,9 @@
 ---
-alias: [Baby Boomer Definition]
+alias: [Baby Boomer]
 created: 2021-02-28T21:18:50 (UTC +11:00)
 tags: [Baby Boomer Definition, Baby Boomer]
 source: https://www.investopedia.com/terms/b/baby_boomer.asp
-author: By
-Investopedia Staff
+author: ByInvestopedia Staff
 ---
 
 # Baby Boomer Definition

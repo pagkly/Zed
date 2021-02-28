@@ -3,8 +3,7 @@ alias: [Bottom-Up Investing]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bottom-Up Investing, Bottom-Up Investing Definition]
 source: https://www.investopedia.com/terms/b/bottomupinvesting.asp
-author: By
-Adam Hayes
+author: ByAdam Hayes
 ---
 
 # Bottom-Up Investing

@@ -1,10 +1,9 @@
 ---
-alias: [Bloomberg Definition]
+alias: [Bloomberg]
 created: 2021-02-28T22:07:33 (UTC +11:00)
 tags: [Bloomberg Definition, Bloomberg Definition]
 source: https://www.investopedia.com/terms/b/bloomberg.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Bloomberg Definition

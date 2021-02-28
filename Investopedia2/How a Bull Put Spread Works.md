@@ -1,10 +1,9 @@
 ---
-alias: [Bull Put Spread Definition]
+alias: [Bull Put Spread]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Bull Put Spread Definition, How a Bull Put Spread Works]
 source: https://www.investopedia.com/terms/b/bullputspread.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Bull Put Spread Definition

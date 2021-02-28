@@ -1,10 +1,9 @@
 ---
-alias: [Back Office Definition]
+alias: [Back Office]
 created: 2021-02-28T21:18:50 (UTC +11:00)
 tags: [Back Office Definition, Understanding the Back Office]
 source: https://www.investopedia.com/terms/b/backoffice.asp
-author: By
-Adam Barone
+author: ByAdam Barone
 ---
 
 # Back Office Definition

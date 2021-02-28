@@ -1,10 +1,9 @@
 ---
-alias: [Brand Identity Definition]
+alias: [Brand Identity]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Brand Identity Definition, Create a Strong Brand to Grow Your Business]
 source: https://www.investopedia.com/terms/b/brand-identity.asp
-author: By
-Evan Tarver
+author: ByEvan Tarver
 ---
 
 # Brand Identity Definition

@@ -1,10 +1,9 @@
 ---
-alias: [Bank Bill Swap Rate (BBSW) Definition]
+alias: [Bank Bill Swap Rate (BBSW)]
 created: 2021-02-28T21:21:23 (UTC +11:00)
 tags: [Bank Bill Swap Rate (BBSW) Definition, How the Bank Bill Swap Rate Works as a Benchmark for Australian Bonds]
 source: https://www.investopedia.com/terms/b/bank-bill-swap-rate-bbsw.asp
-author: By
-Chris B. Murphy
+author: ByChris B. Murphy
 ---
 
 # Bank Bill Swap Rate (BBSW) Definition

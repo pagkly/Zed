@@ -1,10 +1,9 @@
 ---
-alias: [Build-Operate-Transfer Contract Definition]
+alias: [Build-Operate-Transfer Contract]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Build-Operate-Transfer Contract Definition, How Build-Operate-Transfer Contracts Work]
 source: https://www.investopedia.com/terms/b/botcontract.asp
-author: By
-Adam Hayes
+author: ByAdam Hayes
 ---
 
 # Build-Operate-Transfer Contract Definition

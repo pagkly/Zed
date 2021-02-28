@@ -1,10 +1,9 @@
 ---
-alias: [Borrowing Base Definition]
+alias: [Borrowing Base]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Borrowing Base Definition, Bring on the Borrowing Base]
 source: https://www.investopedia.com/terms/b/borrowing-base.asp
-author: By
-Andrew Bloomenthal
+author: ByAndrew Bloomenthal
 ---
 
 # Borrowing Base Definition

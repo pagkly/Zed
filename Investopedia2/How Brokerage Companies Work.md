@@ -1,10 +1,9 @@
 ---
-alias: [Brokerage Company Definition]
+alias: [Brokerage Company]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Brokerage Company Definition, How Brokerage Companies Work]
 source: https://www.investopedia.com/terms/b/brokerage-company.asp
-author: By
-Adam Hayes
+author: ByAdam Hayes
 ---
 
 # Brokerage Company Definition

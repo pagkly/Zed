@@ -1,10 +1,9 @@
 ---
-alias: [Bank Guarantee Definition]
+alias: [Bank Guarantee]
 created: 2021-02-28T21:21:24 (UTC +11:00)
 tags: [Bank Guarantee Definition, Understanding Bank Guarantees]
 source: https://www.investopedia.com/terms/b/bankguarantee.asp
-author: By
-Mitchell Grant
+author: ByMitchell Grant
 ---
 
 # Bank Guarantee Definition

@@ -1,10 +1,9 @@
 ---
-alias: [Box Spread Definition]
+alias: [Box Spread]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Box Spread Definition, Box Spread Definition]
 source: https://www.investopedia.com/terms/b/boxspread.asp
-author: By
-Akhilesh Ganti
+author: ByAkhilesh Ganti
 ---
 
 # Box Spread Definition

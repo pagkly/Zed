@@ -1,10 +1,9 @@
 ---
-alias: [Brand Loyalty Definition]
+alias: [Brand Loyalty]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Brand Loyalty Definition, Brand Loyalty: What You Need to Know]
 source: https://www.investopedia.com/terms/b/brand-loyalty.asp
-author: By
-Carol M. Kopp
+author: ByCarol M. Kopp
 ---
 
 # Brand Loyalty Definition

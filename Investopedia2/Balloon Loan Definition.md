@@ -1,10 +1,9 @@
 ---
-alias: [Balloon Loan Definition]
+alias: [Balloon Loan]
 created: 2021-02-28T21:18:51 (UTC +11:00)
 tags: [Balloon Loan Definition, Balloon Loan Definition]
 source: https://www.investopedia.com/terms/b/balloonloan.asp
-author: By
-Julia Kagan
+author: ByJulia Kagan
 ---
 
 # Balloon Loan Definition

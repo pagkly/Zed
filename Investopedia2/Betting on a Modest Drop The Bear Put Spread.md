@@ -1,10 +1,9 @@
 ---
-alias: [Bear Put Spread Definition]
+alias: [Bear Put Spread]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Bear Put Spread Definition, Betting on a Modest Drop: The Bear Put Spread]
 source: https://www.investopedia.com/terms/b/bearputspread.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Bear Put Spread Definition

@@ -3,8 +3,7 @@ alias: [Basis Points (BPS)]
 created: 2021-02-28T21:21:26 (UTC +11:00)
 tags: [Basis Points (BPS), Basis Points (BPS)]
 source: https://www.investopedia.com/terms/b/basispoint.asp
-author: By
-Jason Fernando
+author: ByJason Fernando
 ---
 
 # Basis Points (BPS)

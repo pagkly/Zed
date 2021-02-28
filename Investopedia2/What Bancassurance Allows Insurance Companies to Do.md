@@ -1,10 +1,9 @@
 ---
-alias: [Bancassurance Definition]
+alias: [Bancassurance]
 created: 2021-02-28T21:18:50 (UTC +11:00)
 tags: [Bancassurance Definition, What Bancassurance Allows Insurance Companies to Do]
 source: https://www.investopedia.com/terms/b/bancassurance.asp
-author: By
-Caroline Banton
+author: ByCaroline Banton
 ---
 
 # Bancassurance Definition

@@ -1,10 +1,9 @@
 ---
-alias: [Business Intelligence – BI Definition]
+alias: [Business Intelligence – BI]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Business Intelligence – BI Definition, How Business Intelligence – BI Works]
 source: https://www.investopedia.com/terms/b/business-intelligence-bi.asp
-author: By
-Jake Frankenfield
+author: ByJake Frankenfield
 ---
 
 # Business Intelligence – BI Definition

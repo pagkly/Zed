@@ -1,10 +1,9 @@
 ---
-alias: [Bare Trust Definition]
+alias: [Bare Trust]
 created: 2021-02-28T21:21:26 (UTC +11:00)
 tags: [Bare Trust Definition, Bare Trust Definition]
 source: https://www.investopedia.com/terms/b/bare-trust.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Bare Trust Definition

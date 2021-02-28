@@ -1,10 +1,9 @@
 ---
-alias: [Breakeven Point (BEP) Definition]
+alias: [Breakeven Point (BEP)]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Breakeven Point (BEP) Definition, Breakeven Point (BEP)]
 source: https://www.investopedia.com/terms/b/breakevenpoint.asp
-author: By
-Cory Mitchell
+author: ByCory Mitchell
 ---
 
 # Breakeven Point (BEP) Definition

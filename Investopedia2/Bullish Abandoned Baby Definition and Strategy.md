@@ -3,8 +3,7 @@ alias: [Bullish Abandoned Baby Definition and Strategy]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Bullish Abandoned Baby Definition and Strategy, Bullish Abandoned Baby Definition and Strategy]
 source: https://www.investopedia.com/terms/b/bullish-abandoned-baby.asp
-author: By
-Cory Mitchell
+author: ByCory Mitchell
 ---
 
 # Bullish Abandoned Baby Definition and Strategy

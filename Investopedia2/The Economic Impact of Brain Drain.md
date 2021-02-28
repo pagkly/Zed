@@ -1,10 +1,9 @@
 ---
-alias: [Brain Drain Definition]
+alias: [Brain Drain]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Brain Drain Definition, The Economic Impact of Brain Drain]
 source: https://www.investopedia.com/terms/b/brain_drain.asp
-author: By
-Julie Young
+author: ByJulie Young
 ---
 
 # Brain Drain Definition

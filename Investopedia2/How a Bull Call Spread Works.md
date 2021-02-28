@@ -1,10 +1,9 @@
 ---
-alias: [Bull Call Spread Definition]
+alias: [Bull Call Spread]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Bull Call Spread Definition, How a Bull Call Spread Works]
 source: https://www.investopedia.com/terms/b/bullcallspread.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Bull Call Spread Definition

@@ -3,8 +3,7 @@ alias: [Bullet Bond]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Bullet Bond, Bullet Bond]
 source: https://www.investopedia.com/terms/b/bulletbond.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Bullet Bond

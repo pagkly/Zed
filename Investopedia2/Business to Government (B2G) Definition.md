@@ -1,10 +1,9 @@
 ---
-alias: [Business to Government (B2G) Definition]
+alias: [Business to Government (B2G)]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Business to Government (B2G) Definition, Business to Government (B2G) Definition]
 source: https://www.investopedia.com/terms/b/business-to-government.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Business to Government (B2G) Definition

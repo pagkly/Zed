@@ -1,10 +1,9 @@
 ---
-alias: [Basic Materials Sector Definition]
+alias: [Basic Materials Sector]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Basic Materials Sector Definition, What Is the Basic Materials Sector?]
 source: https://www.investopedia.com/terms/b/basic_materials.asp
-author: By
-Carol M. Kopp
+author: ByCarol M. Kopp
 ---
 
 # Basic Materials Sector Definition

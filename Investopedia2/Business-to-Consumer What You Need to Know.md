@@ -1,10 +1,9 @@
 ---
-alias: [Business-to-Consumer (B2C) Definition]
+alias: [Business-to-Consumer (B2C)]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Business-to-Consumer (B2C) Definition, Business-to-Consumer: What You Need to Know]
 source: https://www.investopedia.com/terms/b/btoc.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Business-to-Consumer (B2C) Definition

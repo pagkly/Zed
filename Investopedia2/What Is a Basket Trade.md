@@ -1,10 +1,9 @@
 ---
-alias: [Basket Trade Definition]
+alias: [Basket Trade]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Basket Trade Definition, What Is a Basket Trade?]
 source: https://www.investopedia.com/terms/b/baskettrade.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Basket Trade Definition

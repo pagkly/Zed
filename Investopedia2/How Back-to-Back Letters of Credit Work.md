@@ -1,10 +1,9 @@
 ---
-alias: [Back-to-Back Letters of Credit Definition]
+alias: [Back-to-Back Letters of Credit]
 created: 2021-02-28T21:18:51 (UTC +11:00)
 tags: [Back-to-Back Letters of Credit Definition, How Back-to-Back Letters of Credit Work]
 source: https://www.investopedia.com/terms/b/back-to-back-letters-of-credit.asp
-author: By
-Julia Kagan
+author: ByJulia Kagan
 ---
 
 # Back-to-Back Letters of Credit Definition

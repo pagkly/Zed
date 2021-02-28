@@ -1,10 +1,9 @@
 ---
-alias: [Brokerage Fee Definition]
+alias: [Brokerage Fee]
 created: 2021-02-28T22:03:25 (UTC +11:00)
 tags: [Brokerage Fee Definition, Brokerage Fee Definition]
 source: https://www.investopedia.com/terms/b/brokerage-fee.asp
-author: By
-Akhilesh Ganti
+author: ByAkhilesh Ganti
 ---
 
 # Brokerage Fee Definition

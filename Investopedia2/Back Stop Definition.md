@@ -1,10 +1,9 @@
 ---
-alias: [Back Stop Definition]
+alias: [Back Stop]
 created: 2021-02-28T21:18:50 (UTC +11:00)
 tags: [Back Stop Definition, Back Stop Definition]
 source: https://www.investopedia.com/terms/b/backstop.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Back Stop Definition

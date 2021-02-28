@@ -1,10 +1,9 @@
 ---
-alias: [Bond Valuation Definition]
+alias: [Bond Valuation]
 created: 2021-02-28T22:07:33 (UTC +11:00)
 tags: [Bond Valuation Definition, Bond Valuation: What's the Fair Value of a Bond?]
 source: https://www.investopedia.com/terms/b/bond-valuation.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Bond Valuation Definition

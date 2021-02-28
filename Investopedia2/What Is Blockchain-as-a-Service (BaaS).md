@@ -1,10 +1,9 @@
 ---
-alias: [Blockchain-as-a-Service (BaaS) Definition]
+alias: [Blockchain-as-a-Service (BaaS)]
 created: 2021-02-28T22:07:33 (UTC +11:00)
 tags: [Blockchain-as-a-Service (BaaS) Definition, What Is Blockchain-as-a-Service (BaaS)?]
 source: https://www.investopedia.com/terms/b/blockchainasaservice-baas.asp
-author: By
-Jake Frankenfield
+author: ByJake Frankenfield
 ---
 
 # Blockchain-as-a-Service (BaaS) Definition

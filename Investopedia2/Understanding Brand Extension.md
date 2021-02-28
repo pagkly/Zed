@@ -1,10 +1,9 @@
 ---
-alias: [Brand Extension Definition]
+alias: [Brand Extension]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Brand Extension Definition, Understanding Brand Extension]
 source: https://www.investopedia.com/terms/b/brand-extension.asp
-author: By
-Carol M. Kopp
+author: ByCarol M. Kopp
 ---
 
 # Brand Extension Definition

@@ -1,10 +1,9 @@
 ---
-alias: [Boilerplate Definition]
+alias: [Boilerplate]
 created: 2021-02-28T22:07:34 (UTC +11:00)
 tags: [Boilerplate Definition, Boilerplate]
 source: https://www.investopedia.com/terms/b/boilerplate.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Boilerplate Definition

@@ -1,10 +1,9 @@
 ---
-alias: [Blue Sky Laws Definition]
+alias: [Blue Sky Laws]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Blue Sky Laws Definition, Blue Sky Laws Definition]
 source: https://www.investopedia.com/terms/b/blueskylaws.asp
-author: By
-Troy Segal
+author: ByTroy Segal
 ---
 
 # Blue Sky Laws Definition

@@ -1,10 +1,9 @@
 ---
-alias: [Business Economics Definition]
+alias: [Business Economics]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Business Economics Definition, A Definition and Explanation of Business Economics]
 source: https://www.investopedia.com/terms/b/business-economics.asp
-author: By
-Caroline Banton
+author: ByCaroline Banton
 ---
 
 # Business Economics Definition

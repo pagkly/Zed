@@ -1,10 +1,9 @@
 ---
-alias: [Backlog Definition]
+alias: [Backlog]
 created: 2021-02-28T21:18:51 (UTC +11:00)
 tags: [Backlog Definition, Backlog]
 source: https://www.investopedia.com/terms/b/backlog.asp
-author: By
-Staff
+author: ByStaff
 ---
 
 # Backlog Definition

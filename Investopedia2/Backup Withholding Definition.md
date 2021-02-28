@@ -1,10 +1,9 @@
 ---
-alias: [Backup Withholding Definition]
+alias: [Backup Withholding]
 created: 2021-02-28T21:18:50 (UTC +11:00)
 tags: [Backup Withholding Definition, Backup Withholding Definition]
 source: https://www.investopedia.com/terms/b/backupwithholding.asp
-author: By
-Julia Kagan
+author: ByJulia Kagan
 ---
 
 # Backup Withholding Definition

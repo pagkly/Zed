@@ -1,10 +1,9 @@
 ---
-alias: [Bear Hug: Business Definition]
+alias: [Bear Hug: Business]
 created: 2021-02-28T21:37:44 (UTC +11:00)
 tags: [Bear Hug: Business Definition, What's a Bear Hug in Business?]
 source: https://www.investopedia.com/terms/b/bearhug.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Bear Hug: Business Definition

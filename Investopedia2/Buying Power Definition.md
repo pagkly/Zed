@@ -1,10 +1,9 @@
 ---
-alias: [Buying Power Definition]
+alias: [Buying Power]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Buying Power Definition, Buying Power Definition]
 source: https://www.investopedia.com/terms/b/buyingpower.asp
-author: By
-Lucas Downey
+author: ByLucas Downey
 ---
 
 # Buying Power Definition

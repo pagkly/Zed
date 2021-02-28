@@ -1,10 +1,9 @@
 ---
-alias: [Barbell Definition]
+alias: [Barbell]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Barbell Definition, How the Barbell Investment Strategy Works]
 source: https://www.investopedia.com/terms/b/barbell.asp
-author: By
-James Chen
+author: ByJames Chen
 ---
 
 # Barbell Definition

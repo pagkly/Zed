@@ -1,10 +1,9 @@
 ---
-alias: [Book-to-Market Ratio Definition]
+alias: [Book-to-Market Ratio]
 created: 2021-02-28T22:07:33 (UTC +11:00)
 tags: [Book-to-Market Ratio Definition, Understanding the Book-to-Market Ratio]
 source: https://www.investopedia.com/terms/b/booktomarketratio.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Book-to-Market Ratio Definition

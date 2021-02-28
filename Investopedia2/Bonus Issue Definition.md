@@ -1,10 +1,9 @@
 ---
-alias: [Bonus Issue Definition]
+alias: [Bonus Issue]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Bonus Issue Definition, Bonus Issue Definition]
 source: https://www.investopedia.com/terms/b/bonusissue.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Bonus Issue Definition

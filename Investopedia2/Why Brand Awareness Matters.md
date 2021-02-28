@@ -1,10 +1,9 @@
 ---
-alias: [Brand Awareness Definition]
+alias: [Brand Awareness]
 created: 2021-02-28T22:07:35 (UTC +11:00)
 tags: [Brand Awareness Definition, Why Brand Awareness Matters]
 source: https://www.investopedia.com/terms/b/brandawareness.asp
-author: By
-Carol M. Kopp
+author: ByCarol M. Kopp
 ---
 
 # Brand Awareness Definition

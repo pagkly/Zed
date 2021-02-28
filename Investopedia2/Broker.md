@@ -3,8 +3,7 @@ alias: [Broker Definition and Example]
 created: 2021-02-28T22:03:26 (UTC +11:00)
 tags: [Broker Definition and Example, Broker]
 source: https://www.investopedia.com/terms/b/broker.asp
-author: By
-Tim Smith
+author: ByTim Smith
 ---
 
 # Broker Definition and Example

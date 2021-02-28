@@ -1,10 +1,9 @@
 ---
-alias: [Bank Run Definition]
+alias: [Bank Run]
 created: 2021-02-28T21:21:25 (UTC +11:00)
 tags: [Bank Run Definition, What Happens in a Bank Run]
 source: https://www.investopedia.com/terms/b/bankrun.asp
-author: By
-Will Kenton
+author: ByWill Kenton
 ---
 
 # Bank Run Definition
