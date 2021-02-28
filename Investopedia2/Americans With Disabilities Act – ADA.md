@@ -1,5 +1,5 @@
 ---
-alias: [Americans With Disabilities Act – ADA Definition]
+alias: [Americans With Disabilities Act, ADA]
 created: 2021-02-28T16:45:03 (UTC +11:00)
 tags: [Americans With Disabilities Act – ADA Definition, Americans With Disabilities Act – ADA]
 source: https://www.investopedia.com/terms/a/americans-with-disabilities-act-ada.asp
