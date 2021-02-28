@@ -30,7 +30,7 @@ Whether the context is corporate finance, government finance, or personal financ
 
 ### DSCR Formula and Calculation
 
-The formula for the debt-service coverage ratio requires [net operating income](https://www.investopedia.com/terms/n/noi.asp) and the total [debt servicing](https://www.investopedia.com/terms/d/debtservice.asp) for the entity. Net operating income is a company's revenue minus certain operating expenses (COE), not including taxes and interest payments. It is often considered the equivalent of [earnings before interest and tax (EBIT)](https://www.investopedia.com/terms/e/ebit.asp).
+The formula for the debt-service coverage ratio requires [net operating income](https://www.investopedia.com/terms/n/noi.asp) and the total [debt servicing](https://www.investopedia.com/terms/d/debtservice.asp) for the entity. Net operating income is a company's revenue minus certain operating expenses (COE), not including taxes and interest payments. It is often considered the equivalent of [earnings before interest and tax ([[EBIT]])](https://www.investopedia.com/terms/e/ebit.asp).
 
 DSCR\=Net Operating IncomeTotal Debt Servicewhere:Net Operating Income\=Revenue−COECOE\=Certain operating expensesTotal Debt Service\=Current debt obligations\\begin{aligned} &\\text{DSCR} = \\frac{ \\text{Net Operating Income} }{ \\text{Total Debt Service} } \\\\ &\\textbf{where:} \\\\ &\\text{Net Operating Income} = \\text{Revenue} - \\text{COE} \\\\ &\\text{COE} = \\text{Certain operating expenses} \\\\ &\\text{Total Debt Service} = \\text{Current debt obligations} \\\\ \\end{aligned}
 
@@ -74,11 +74,11 @@ DSCR\=$2,150,000$350,000\=6.14\\begin{aligned} &\\text{DSCR} = \\frac{ \\$2,150,
 
 The [interest coverage ratio](https://www.investopedia.com/terms/i/interestcoverageratio.asp) indicates the number of times that a company's operating profit will cover the interest it must pay on all debts for a given period. This is expressed as a ratio and is most often computed on an annual basis.
 
-To calculate the interest coverage ratio, simply divide the EBIT for the established period by the total interest payments due for that same period. The EBIT, often called net operating income or operating profit, is calculated by subtracting overhead and operating expenses, such as rent, cost of goods, freight, wages, and utilities, from revenue. This number reflects the amount of cash available after subtracting all expenses necessary to keep the business running.
+To calculate the interest coverage ratio, simply divide the EBIT for the established period by the total interest payments due for that same period. The [[EBIT]], often called net operating income or operating profit, is calculated by subtracting overhead and operating expenses, such as rent, cost of goods, freight, wages, and utilities, from revenue. This number reflects the amount of cash available after subtracting all expenses necessary to keep the business running.
 
-The higher the ratio of EBIT to interest payments, the more financially stable the company. This metric only considers interest payments and not payments made on principal debt balances that may be required by lenders.
+The higher the ratio of [[EBIT]] to interest payments, the more financially stable the company. This metric only considers interest payments and not payments made on principal debt balances that may be required by lenders.
 
-The debt-service coverage ratio is slightly more comprehensive. This metric assesses a company's ability to meet its minimum principal and interest payments, including sinking fund payments, for a given period. To calculate DSCR, EBIT is divided by the total amount of principal and interest payments required for a given period to obtain net operating income. Because it takes into account principal payments in addition to interest, the DSCR is a slightly more robust indicator of a company's financial fitness.
+The debt-service coverage ratio is slightly more comprehensive. This metric assesses a company's ability to meet its minimum principal and interest payments, including sinking fund payments, for a given period. To calculate DSCR, [[EBIT]] is divided by the total amount of principal and interest payments required for a given period to obtain net operating income. Because it takes into account principal payments in addition to interest, the DSCR is a slightly more robust indicator of a company's financial fitness.
 
 In either case, a company with a debt-service coverage ratio of less than 1.00 does not generate enough revenue to cover its minimum debt expenses. In terms of business management or investment, this represents a risky prospect since even a brief period of lower-than-average income could spell disaster.
 

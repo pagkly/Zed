@@ -20,7 +20,7 @@ This metric also excludes expenses associated with debt by adding back [interest
 
 Simply put, EBITDA is a measure of profitability. While there is no legal requirement for companies to disclose their EBITDA, according to the U.S. [generally accepted accounting principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP), it can be worked out and reported using the information found in a company's [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp).
 
-The earnings, tax, and interest figures are found on the income statement, while the depreciation and amortization figures are normally found in the notes to operating profit or on the cash flow statement. The usual shortcut to calculate EBITDA is to start with operating profit, also called [earnings before interest and tax](https://www.investopedia.com/terms/e/ebit.asp) (EBIT) and then add back depreciation and amortization.
+The earnings, tax, and interest figures are found on the income statement, while the depreciation and amortization figures are normally found in the notes to operating profit or on the cash flow statement. The usual shortcut to calculate EBITDA is to start with operating profit, also called [earnings before interest and tax](https://www.investopedia.com/terms/e/ebit.asp) ([[EBIT]]) and then add back depreciation and amortization.
 
 ## EBITDA Formula and Calculation
 
@@ -91,9 +91,9 @@ The measurement's sometimes bad reputation is mostly a result of overexposure an
 
 Like any other measure, EBITDA is only a single indicator. To develop a full picture of the health of any given firm, a multitude of measures must be taken into consideration. If identifying great companies was as simple a checking a single number, everybody would be checking that number, and professional analysts would cease to exist.
 
-## EBITDA vs. EBT and EBIT
+## EBITDA vs. EBT and [[EBIT]]
 
-[EBIT](https://www.investopedia.com/terms/e/ebit.asp) (**e**arnings **b**efore **i**nterest and **t**axes) is a company's net income before income tax expense and interest expense have been deducted. EBIT is used to analyze the performance of a company's core operations without tax expenses and the costs of the capital structure influencing profit. The following formula is used to calculate EBIT: 
+[[[EBIT]]](https://www.investopedia.com/terms/e/[[EBIT]].asp) (**e**arnings **b**efore **i**nterest and **t**axes) is a company's net income before income tax expense and interest expense have been deducted. EBIT is used to analyze the performance of a company's core operations without tax expenses and the costs of the capital structure influencing profit. The following formula is used to calculate EBIT: 
 
 EBIT\=Net Income+Interest Expense+Tax Expense\\textit{EBIT} = \\text{Net Income} + \\text{Interest Expense} + \\text{Tax Expense}
 
