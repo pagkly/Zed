@@ -1,9 +1,9 @@
 ---
+alias: [Correlation Coefficient]
 created: 2021-02-25T22:32:31 (UTC +11:00)
-tags: []
+tags: [Correlation Coefficient]
 source: https://www.investopedia.com/terms/c/correlationcoefficient.asp
-author: By
-Jason Fernando
+author: Jason Fernando
 ---
 
 # [[Correlation]] Coefficient Definition

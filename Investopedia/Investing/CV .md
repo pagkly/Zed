@@ -1,6 +1,7 @@
 ---
+alias: [Coefficient of Variation, CV]
 created: 2021-02-25T22:31:13 (UTC +11:00)
-tags: []
+tags: [Coefficient of Variation, CV]
 source: https://www.investopedia.com/terms/c/coefficientofvariation.asp
 author: By
 Adam Hayes
