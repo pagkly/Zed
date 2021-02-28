@@ -1,9 +1,9 @@
 ---
+alias: [Endowment]
 created: 2021-02-28T12:07:21 (UTC +11:00)
-tags: []
+tags: [Endowment]
 source: https://www.investopedia.com/terms/e/endowment.asp
-author: By
-Tim Smith
+author: Tim Smith
 ---
 
 # Endowment Definition

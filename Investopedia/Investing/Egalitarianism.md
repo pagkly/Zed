@@ -1,9 +1,8 @@
 ---
 created: 2021-02-28T12:07:22 (UTC +11:00)
-tags: []
+tags: [Egalitarianism]
 source: https://www.investopedia.com/terms/e/egalitarianism.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Egalitarianism Definition

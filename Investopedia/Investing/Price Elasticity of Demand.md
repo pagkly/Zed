@@ -1,6 +1,7 @@
 ---
+alias: [Price Elasticity of Demand, PED]
 created: 2021-02-25T22:34:44 (UTC +11:00)
-tags: []
+tags: [Price Elasticity of Demand, PED, Elasticity]
 source: https://www.investopedia.com/terms/p/priceelasticity.asp
 author: By
 Will Kenton
