@@ -156,7 +156,7 @@ Paradoxically, while customers value high-touch telephone access, they also expe
 
 Few successful business owners find perfect formulas straight out of the gate. On the contrary: ideas must morph over time. Whether tweaking product design or altering food items on a menu, finding the perfect sweet spot takes trial and error.
 
-Former Starbucks Chairman and CEO Howard Schultz initially thought playing Italian opera music over store speakers would accentuate the Italian coffeehouse experience he was attempting to replicate. But customers saw things differently and didn’t seem to like arias with their espressos. As a result, Schultz jettisoned the opera and introduced comfortable chairs instead.
+Former Starbucks Chairman and [[CEO]] Howard Schultz initially thought playing Italian opera music over store speakers would accentuate the Italian coffeehouse experience he was attempting to replicate. But customers saw things differently and didn’t seem to like arias with their espressos. As a result, Schultz jettisoned the opera and introduced comfortable chairs instead.
 
 ### Money Savvy
 

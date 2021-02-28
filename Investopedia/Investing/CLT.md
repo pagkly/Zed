@@ -1,9 +1,9 @@
 ---
+alias: [Central Limit Theorem,CLT]
 created: 2021-02-25T22:30:43 (UTC +11:00)
-tags: []
+tags: [Central Limit Theorem,CLT]
 source: https://www.investopedia.com/terms/c/central_limit_theorem.asp
-author: By
-Akhilesh Ganti
+author: Akhilesh Ganti
 ---
 
 # What Is the Central Limit Theorem (CLT)?

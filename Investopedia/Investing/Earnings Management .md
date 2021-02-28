@@ -30,7 +30,7 @@ Management can feel pressure to manage earnings by manipulating the company's ac
 
 ### Important
 
-The Securities and Exchange Commission (SEC) has pressed charges against managers who engaged in fraudulent earnings management. The SEC also requires that the financial statements of publicly traded companies be certified by the Chief Executive Officer (CEO) or Chief Financial Officer (CFO).
+The Securities and Exchange Commission (SEC) has pressed charges against managers who engaged in fraudulent earnings management. The SEC also requires that the financial statements of publicly traded companies be certified by the [[CEO|Chief Executive Officer]] ([[CEO]]) or Chief Financial Officer (CFO).
 
 ## Examples of Earnings Management
 

@@ -24,7 +24,7 @@ Venture capitalists use the quality of the elevator speech as a way to judge whe
 
 ## How the Elevator Pitch is Used
 
-An elevator pitch is frequently memorized and practiced in advance by entrepreneurs who actively seek backers for their business ideas. There are a variety of forums and events where such pitches are presented before an audience that may include potential investors. For example, [startup](https://www.investopedia.com/terms/s/startup.asp) incubator programs may conclude with a demo day event where a founding member of the team, often the CEO, will deliver the elevator pitch about the company.
+An elevator pitch is frequently memorized and practiced in advance by entrepreneurs who actively seek backers for their business ideas. There are a variety of forums and events where such pitches are presented before an audience that may include potential investors. For example, [startup](https://www.investopedia.com/terms/s/startup.asp) incubator programs may conclude with a demo day event where a founding member of the team, often the [[CEO]], will deliver the elevator pitch about the company.
 
 In such an instance, the pitch will describe the “pain point” the team is attempting to solve, what approaches have already been attempted to resolve the issue, and what the startup has to offer that has not been tried before. Moreover, the pitch is intended to explain, in clear and direct terms, why the idea or product can succeed where other novel concepts have not.
 

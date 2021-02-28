@@ -1,9 +1,9 @@
 ---
+alias: [Chartered Financial Analyst, CFA]
 created: 2021-02-25T22:30:49 (UTC +11:00)
-tags: []
+tags: [Chartered Financial Analyst, CFA]
 source: https://www.investopedia.com/terms/c/cfa.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Chartered Financial Analyst (CFA) Definition

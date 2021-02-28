@@ -91,7 +91,7 @@
 75. **Mathematics, Probability and Statistics:**
 76. Agent Based Models
 77. Bayes Theorem
-78. Central Limit Theorem
+78. [[CLT|Central Limit Theorem]]
 79. Complex Adaptive Systems
 80. Correlation versus Causation
 81. Combinations

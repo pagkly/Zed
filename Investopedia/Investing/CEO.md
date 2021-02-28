@@ -1,6 +1,7 @@
 ---
+alias: [Chief Executive Officer, CEO]
 created: 2021-02-25T22:30:57 (UTC +11:00)
-tags: [Chief Executive Officer (CEO]
+tags: [Chief Executive Officer, CEO]
 source: https://www.investopedia.com/terms/c/ceo.asp
 author: Adam Hayes
 ---

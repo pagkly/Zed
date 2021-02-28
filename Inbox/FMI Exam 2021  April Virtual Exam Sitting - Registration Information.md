@@ -31,7 +31,7 @@ Year
 
 ![Select a date](https://www.cvent.com/a/images/Calendar.gif "Select a date")
 
-Designations held (e.g. CFA, CPA):
+Designations held (e.g. [[CFA]], CPA):
 
 \*Organisation/Company/University:
 
