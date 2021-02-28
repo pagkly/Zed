@@ -5,7 +5,7 @@ source: https://www.investopedia.com/terms/e/ebita.asp
 author: By
 Andrew Bloomenthal
 ---
-
+EBITA Helps Investors Evaluate Company Performance
 # EBITA Definition
 
 > ## Excerpt

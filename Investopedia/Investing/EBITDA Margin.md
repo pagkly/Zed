@@ -32,7 +32,7 @@ That makes it easy to compare the relative profitability of two or more companie
 
 Calculating a company's EBITDA margin is helpful when gauging the effectiveness of a company's cost-cutting efforts. The higher a company's EBITDA margin is, the lower its [operating expenses](https://www.investopedia.com/terms/o/operating_expense.asp) are in relation to total revenue.
 
-Therefore, a good EBITDA margin is a relatively high number in comparison with its peers. Similarly, a good EBIT or EBITA margin is a relatively high number.
+Therefore, a good EBITDA margin is a relatively high number in comparison with its peers. Similarly, a good EBIT or [[EBITA]] margin is a relatively high number.
 
 For example, after lowering its yearly expenses by nearly 17% in 2017, Twitter saw its EBITDA margin rise to 35%, compared to about 30% the prior year. The firm's EBITDA margin grew despite a 3% dip in annual revenue.
 
@@ -40,10 +40,10 @@ For example, after lowering its yearly expenses by nearly 17% in 2017, Twitter s
 
 There are a couple of alternatives to EBITDA that are used by investors and analysts working to understand a company's profitability:
 
--   [EBITA](https://www.investopedia.com/terms/e/ebita.asp#:~:text=Earnings%20before%20interest%2C%20taxes%2C%20and,company's%20real%20performance%20over%20time.) is earnings before interest, taxes, and amortization
+-   [[[EBITA]]](https://www.investopedia.com/terms/e/ebita.asp#:~:text=Earnings%20before%20interest%2C%20taxes%2C%20and,company's%20real%20performance%20over%20time.) is earnings before interest, taxes, and amortization
 -   [EBIT](https://www.investopedia.com/terms/e/ebit.asp) is earnings before interest and taxes and is also known as operating margin
 
-In any case, the formula for determining operating profitability is a simple one. EBITDA (or EBITA or EBIT) divided by total revenue equals operating profitability.
+In any case, the formula for determining operating profitability is a simple one. EBITDA (or [[EBITA]] or EBIT) divided by total revenue equals operating profitability.
 
 So, a firm with revenue totaling $125,000 and EBITDA of $15,000 would have an EBITDA margin of $15,000/$125,000 = 12%.
 

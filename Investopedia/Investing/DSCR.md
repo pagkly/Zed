@@ -36,7 +36,7 @@ DSCR\=Net Operating IncomeTotal Debt Servicewhere:Net Operating Income\=Re
 
 #### The Debt-Service Coverage Ratio (DSCR)
 
-Some calculations include [non-operating income](https://www.investopedia.com/terms/n/non-operating-income.asp) in EBIT. As a lender or investor comparing different companies' credit-worthiness —or a manager comparing different years or quarters—it is important to apply consistent criteria when calculating DSCR. As a borrower, it is important to realize that lenders may calculate DSCR in slightly different ways.
+Some calculations include [non-operating income](https://www.investopedia.com/terms/n/non-operating-income.asp) in [[EBIT]]. As a lender or investor comparing different companies' credit-worthiness —or a manager comparing different years or quarters—it is important to apply consistent criteria when calculating DSCR. As a borrower, it is important to realize that lenders may calculate DSCR in slightly different ways.
 
 Total debt service refers to current debt obligations, meaning any interest, principal, sinking fund and [lease](https://www.investopedia.com/terms/l/lease.asp) payments that are due in the coming year. On a [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp), this will include short-term debt and the [current portion of long-term debt](https://www.investopedia.com/terms/c/currentportionlongtermdebt.asp).
 
@@ -74,7 +74,7 @@ DSCR\=$2,150,000$350,000\=6.14\\begin{aligned} &\\text{DSCR} = \\frac{ \\$2,150,
 
 The [interest coverage ratio](https://www.investopedia.com/terms/i/interestcoverageratio.asp) indicates the number of times that a company's operating profit will cover the interest it must pay on all debts for a given period. This is expressed as a ratio and is most often computed on an annual basis.
 
-To calculate the interest coverage ratio, simply divide the EBIT for the established period by the total interest payments due for that same period. The [[EBIT]], often called net operating income or operating profit, is calculated by subtracting overhead and operating expenses, such as rent, cost of goods, freight, wages, and utilities, from revenue. This number reflects the amount of cash available after subtracting all expenses necessary to keep the business running.
+To calculate the interest coverage ratio, simply divide the [[EBIT]] for the established period by the total interest payments due for that same period. The [[EBIT]], often called net operating income or operating profit, is calculated by subtracting overhead and operating expenses, such as rent, cost of goods, freight, wages, and utilities, from revenue. This number reflects the amount of cash available after subtracting all expenses necessary to keep the business running.
 
 The higher the ratio of [[EBIT]] to interest payments, the more financially stable the company. This metric only considers interest payments and not payments made on principal debt balances that may be required by lenders.
 

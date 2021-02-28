@@ -18,13 +18,13 @@ An economic collapse is a breakdown of a national, regional, or territorial econ
 
 ### Key Takeaways
 
--   Economic collapse is not part of the regular economic cycle of expansion and contraction.
+-   Economic collapse is not part of the regular [[Economic Cycle]] of expansion and contraction.
 -   An economic collapse is most clearly identified by a widespread breakdown in normal market mechanisms and commerce.
 -   The Great Depression of the 1930s is considered one of the worst economic collapses in history due to its global impact, while the extent of the fallout from the 2020 COVID-19 pandemic remains to be seen.
 
 ## Understanding Economic Collapse
 
-An economic collapse is an extraordinary event that is not necessarily a part of the standard economic cycle. It can occur at any point in the cycle, leading to contraction and recessionary phases. Economic theory outlines several phases that an economy can go through. A full economic cycle includes movement from trough, to expansion, followed by a peak, and then a contraction leading back towards the trough. Although an economic collapse should be more likely in an economy that is already contracting, black swan events or trends in the global economy can override any point in the cycle to set off an economic collapse.
+An economic collapse is an extraordinary event that is not necessarily a part of the standard [[Economic Cycle]]. It can occur at any point in the cycle, leading to contraction and recessionary phases. Economic theory outlines several phases that an economy can go through. A full [[Economic Cycle]] includes movement from trough, to expansion, followed by a peak, and then a contraction leading back towards the trough. Although an economic collapse should be more likely in an economy that is already contracting, black swan events or trends in the global economy can override any point in the cycle to set off an economic collapse.
 
 Unlike contractions and recessions, there is no agreed upon guideline for an economic collapse. Instead, the term economic collapse is a label that may be applied by economists and government officials - and it may be applied months or years after the actual event. Governments also tend to speak in terms of economic collapse when crafting large scale stimulus during market panics. The threat of economic collapse is raised in order to make the case for intervention in the economy.
 

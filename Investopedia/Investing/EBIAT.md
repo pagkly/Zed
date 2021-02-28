@@ -32,9 +32,9 @@ EBIAT is not used in [financial analysis](https://www.investopedia.com/terms/f/f
 
 ## Example of the Earnings Before Interest After Taxes (EBIAT) Calculation
 
-The calculation for EBIAT is straightforward. It is the company's [[[EBIT]]](https://www.investopedia.com/video/play/ebit-earnings-interest-and-taxes/) x (1 - Tax rate). A company's EBIT is calculated in the following way:
+The calculation for EBIAT is straightforward. It is the company's [[[EBIT]]](https://www.investopedia.com/video/play/ebit-earnings-interest-and-taxes/) x (1 - Tax rate). A company's [[EBIT]] is calculated in the following way:
 
-EBIT = revenues - operating expenses + non-operating income
+[[EBIT]] = revenues - operating expenses + non-operating income
 
 As an example, consider the following. Company X reports sales revenue of $1,000,000 for the year. Over that same period, the company reports a non-operating income of $30,000. The company's cost of goods sold is $200,000 while depreciation and amortization are reported at $75,000. Selling, general, and administrative expenses are $150,000 and other miscellaneous expenses are $20,000. The company also reports a one-time special expense of $50,000 for the year.
 

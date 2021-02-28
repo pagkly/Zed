@@ -30,7 +30,7 @@ EPV\=Adjusted  earningsWACCwhere:EPV\=earnings power valueWACC\=weighted av
 
 ## How to Calculate Earnings Power Value (EPV)
 
-EPV starts with [operating earnings](https://www.investopedia.com/terms/o/operatingearnings.asp), or EBIT (earnings before interest and tax), not adjusted at this point for one-time charges. Average [[EBIT]] margins over a business cycle of at least five years are multiplied by sustainable revenues to yield "normalized [[EBIT]]." (Greenwald considers "sustainable" as "usually current" revenues.) Normalized [[EBIT]] is then multiplied by (1 - average tax rate). The next step is to add back excess depreciation (after-tax basis at one-half average tax rate).
+EPV starts with [operating earnings](https://www.investopedia.com/terms/o/operatingearnings.asp), or [[EBIT]] (earnings before interest and tax), not adjusted at this point for one-time charges. Average [[EBIT]] margins over a business cycle of at least five years are multiplied by sustainable revenues to yield "normalized [[EBIT]]." (Greenwald considers "sustainable" as "usually current" revenues.) Normalized [[EBIT]] is then multiplied by (1 - average tax rate). The next step is to add back excess depreciation (after-tax basis at one-half average tax rate).
 
 At this point, the analyst has a firm's "normalized" earnings figure. Adjustments now take place to account for unconsolidated subsidiaries, current restructuring charges, pricing power, and other material items. This adjusted earnings figure is then divided by the firm's [weighted average cost of capital](https://www.investopedia.com/terms/w/wacc.asp) (WACC) to derive EPV business operations.
 
