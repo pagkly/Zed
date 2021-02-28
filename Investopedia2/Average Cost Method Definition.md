@@ -3,8 +3,7 @@ alias: [Average Cost Method Definition]
 created: 2021-02-28T17:42:20 (UTC +11:00)
 tags: [Average Cost Method Definition, Average Cost Method Definition]
 source: https://www.investopedia.com/terms/a/averagecostmethod.asp
-author: By
-Alicia Tuovila
+author: Alicia Tuovila
 ---
 
 # Average Cost Method Definition

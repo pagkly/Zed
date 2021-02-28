@@ -3,8 +3,7 @@ alias: [Assurance Definition]
 created: 2021-02-28T17:42:13 (UTC +11:00)
 tags: [Assurance Definition, What You Should Know About Assurance]
 source: https://www.investopedia.com/terms/a/assurance.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Assurance Definition

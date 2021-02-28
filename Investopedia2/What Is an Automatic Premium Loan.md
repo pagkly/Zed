@@ -3,8 +3,7 @@ alias: [The Definition of an Automatic Premium Loan]
 created: 2021-02-28T17:42:20 (UTC +11:00)
 tags: [The Definition of an Automatic Premium Loan, What Is an Automatic Premium Loan?]
 source: https://www.investopedia.com/terms/a/automatic-premium-loan.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # The Definition of an Automatic Premium Loan

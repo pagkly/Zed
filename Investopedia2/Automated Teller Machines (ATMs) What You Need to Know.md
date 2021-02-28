@@ -3,8 +3,7 @@ alias: [Automated Teller Machine (ATM) Definition]
 created: 2021-02-28T17:42:07 (UTC +11:00)
 tags: [Automated Teller Machine (ATM) Definition, Automated Teller Machines (ATMs): What You Need to Know]
 source: https://www.investopedia.com/terms/a/atm.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Automated Teller Machine (ATM) Definition

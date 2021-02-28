@@ -3,8 +3,7 @@ alias: [Automatic Stabilizer Definition]
 created: 2021-02-28T17:42:23 (UTC +11:00)
 tags: [Automatic Stabilizer Definition, Automatic Stabilizer]
 source: https://www.investopedia.com/terms/a/automaticstabilizer.asp
-author: By
-Investopedia Staff
+author: Investopedia Staff
 ---
 
 # Automatic Stabilizer Definition

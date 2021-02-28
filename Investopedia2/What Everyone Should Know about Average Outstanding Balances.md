@@ -3,8 +3,7 @@ alias: [Average Outstanding Balance Definition]
 created: 2021-02-28T17:42:10 (UTC +11:00)
 tags: [Average Outstanding Balance Definition, What Everyone Should Know about Average Outstanding Balances]
 source: https://www.investopedia.com/terms/a/average-outstanding-balance.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Average Outstanding Balance Definition

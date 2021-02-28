@@ -3,8 +3,7 @@ alias: [Auditor's Report Definition]
 created: 2021-02-28T17:42:07 (UTC +11:00)
 tags: [Auditor's Report Definition, Auditor's Report]
 source: https://www.investopedia.com/terms/a/auditorsreport.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Auditor's Report Definition

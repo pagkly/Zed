@@ -3,8 +3,7 @@ alias: [Atomic Swaps Defined]
 created: 2021-02-28T17:42:20 (UTC +11:00)
 tags: [Atomic Swaps Defined, What Are Atomic Swaps?]
 source: https://www.investopedia.com/terms/a/atomic-swaps.asp
-author: By
-Jake Frankenfield
+author: Jake Frankenfield
 ---
 
 # Atomic Swaps Defined

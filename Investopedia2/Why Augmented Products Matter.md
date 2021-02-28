@@ -3,8 +3,7 @@ alias: [Augmented Product Definition]
 created: 2021-02-28T17:42:12 (UTC +11:00)
 tags: [Augmented Product Definition, Why Augmented Products Matter]
 source: https://www.investopedia.com/terms/a/augmented-product.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Augmented Product Definition

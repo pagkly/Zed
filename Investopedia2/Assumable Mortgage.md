@@ -3,8 +3,7 @@ alias: [Assumable Mortgage Definition]
 created: 2021-02-28T17:42:20 (UTC +11:00)
 tags: [Assumable Mortgage Definition, Assumable Mortgage]
 source: https://www.investopedia.com/terms/a/assumablemortgage.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Assumable Mortgage Definition

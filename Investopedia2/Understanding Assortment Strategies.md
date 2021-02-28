@@ -3,8 +3,7 @@ alias: [Assortment Strategy Definition]
 created: 2021-02-28T17:42:08 (UTC +11:00)
 tags: [Assortment Strategy Definition, Understanding Assortment Strategies]
 source: https://www.investopedia.com/terms/a/assortment-strategy.asp
-author: By
-Carla Tardi
+author: Carla Tardi
 ---
 
 # Assortment Strategy Definition

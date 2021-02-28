@@ -3,8 +3,7 @@ alias: [Asset Management Company (AMC)]
 created: 2021-02-28T17:42:15 (UTC +11:00)
 tags: [Asset Management Company (AMC), Asset Management Company (AMC)]
 source: https://www.investopedia.com/terms/a/asset_management_company.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Asset Management Company (AMC)

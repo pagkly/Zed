@@ -3,8 +3,7 @@ alias: [Asset Coverage Ratio]
 created: 2021-02-28T17:42:13 (UTC +11:00)
 tags: [Asset Coverage Ratio, Asset Coverage Ratio]
 source: https://www.investopedia.com/terms/a/assetcoverage.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Asset Coverage Ratio

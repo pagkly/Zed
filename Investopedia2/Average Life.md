@@ -3,8 +3,7 @@ alias: [Average Life Definition]
 created: 2021-02-28T17:42:14 (UTC +11:00)
 tags: [Average Life Definition, Average Life]
 source: https://www.investopedia.com/terms/a/averagelife.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Average Life Definition

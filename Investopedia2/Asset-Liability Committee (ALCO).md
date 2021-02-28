@@ -3,8 +3,7 @@ alias: [Asset-Liability Committee (ALCO) Definition]
 created: 2021-02-28T17:42:15 (UTC +11:00)
 tags: [Asset-Liability Committee (ALCO) Definition, Asset-Liability Committee (ALCO)]
 source: https://www.investopedia.com/terms/a/asset-liability-committee.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Asset-Liability Committee (ALCO) Definition

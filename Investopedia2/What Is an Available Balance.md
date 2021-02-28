@@ -3,8 +3,7 @@ alias: [Available Balance Definition]
 created: 2021-02-28T17:42:12 (UTC +11:00)
 tags: [Available Balance Definition, What Is an Available Balance?]
 source: https://www.investopedia.com/terms/a/available-balance.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Available Balance Definition

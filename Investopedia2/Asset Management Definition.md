@@ -3,8 +3,7 @@ alias: [Asset Management Definition]
 created: 2021-02-28T17:42:15 (UTC +11:00)
 tags: [Asset Management Definition, Asset Management Definition]
 source: https://www.investopedia.com/terms/a/assetmanagement.asp
-author: By
-Akhilesh Ganti
+author: Akhilesh Ganti
 ---
 
 # Asset Management Definition

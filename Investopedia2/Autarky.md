@@ -3,8 +3,7 @@ alias: [Autarky Defintiion]
 created: 2021-02-28T17:42:23 (UTC +11:00)
 tags: [Autarky Defintiion, Autarky]
 source: https://www.investopedia.com/terms/a/autarky.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Autarky Defintiion

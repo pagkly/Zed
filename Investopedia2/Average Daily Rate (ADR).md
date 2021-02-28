@@ -3,8 +3,7 @@ alias: [Average Daily Rate (ADR) Definition]
 created: 2021-02-28T17:42:17 (UTC +11:00)
 tags: [Average Daily Rate (ADR) Definition, Average Daily Rate (ADR)]
 source: https://www.investopedia.com/terms/a/average-daily-rate.asp
-author: By
-Marshall Hargrave
+author: Marshall Hargrave
 ---
 
 # Average Daily Rate (ADR) Definition

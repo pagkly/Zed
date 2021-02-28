@@ -3,8 +3,7 @@ alias: [Auditor Definition]
 created: 2021-02-28T17:42:22 (UTC +11:00)
 tags: [Auditor Definition, Auditor]
 source: https://www.investopedia.com/terms/a/auditor.asp
-author: By
-Daniel Liberto
+author: Daniel Liberto
 ---
 
 # Auditor Definition

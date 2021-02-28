@@ -3,8 +3,7 @@ alias: [Asset-Backed Security (ABS) Definition]
 created: 2021-02-28T17:42:22 (UTC +11:00)
 tags: [Asset-Backed Security (ABS) Definition, Asset-Backed Security (ABS)]
 source: https://www.investopedia.com/terms/a/asset-backedsecurity.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Asset-Backed Security (ABS) Definition

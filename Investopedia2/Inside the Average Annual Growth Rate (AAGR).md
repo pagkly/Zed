@@ -3,8 +3,7 @@ alias: [Average Annual Growth Rate (AAGR) Definition]
 created: 2021-02-28T17:42:07 (UTC +11:00)
 tags: [Average Annual Growth Rate (AAGR) Definition, Inside the Average Annual Growth Rate (AAGR)]
 source: https://www.investopedia.com/terms/a/aagr.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Average Annual Growth Rate (AAGR) Definition

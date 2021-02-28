@@ -3,8 +3,7 @@ alias: [Asset Retirement Obligation Defined]
 created: 2021-02-28T17:42:16 (UTC +11:00)
 tags: [Asset Retirement Obligation Defined, What Is Asset Retirement Obligation?]
 source: https://www.investopedia.com/terms/a/asset-retirement-obligation.asp
-author: By
-Andrew Bloomenthal
+author: Andrew Bloomenthal
 ---
 
 # Asset Retirement Obligation Defined

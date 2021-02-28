@@ -3,8 +3,7 @@ alias: [Attribution Analysis]
 created: 2021-02-28T17:42:12 (UTC +11:00)
 tags: [Attribution Analysis, Attribution Analysis]
 source: https://www.investopedia.com/terms/a/attribution-analysis.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Attribution Analysis

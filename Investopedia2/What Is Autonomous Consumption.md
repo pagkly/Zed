@@ -3,8 +3,7 @@ alias: [Autonomous Consumption Definition]
 created: 2021-02-28T17:42:08 (UTC +11:00)
 tags: [Autonomous Consumption Definition, What Is Autonomous Consumption?]
 source: https://www.investopedia.com/terms/a/autonomousconsumption.asp
-author: By
-Daniel Liberto
+author: Daniel Liberto
 ---
 
 # Autonomous Consumption Definition

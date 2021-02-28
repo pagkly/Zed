@@ -3,8 +3,7 @@ alias: [Average Collection Period Defintion]
 created: 2021-02-28T17:42:13 (UTC +11:00)
 tags: [Average Collection Period Defintion, Average Collection Period Defintion]
 source: https://www.investopedia.com/terms/a/average_collection_period.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Average Collection Period Defintion

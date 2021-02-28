@@ -3,8 +3,7 @@ alias: [Autocorrelation Definition and Example]
 created: 2021-02-28T17:42:08 (UTC +11:00)
 tags: [Autocorrelation Definition and Example, Autocorrelation]
 source: https://www.investopedia.com/terms/a/autocorrelation.asp
-author: By
-Tim Smith
+author: Tim Smith
 ---
 
 # Autocorrelation Definition and Example

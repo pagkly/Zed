@@ -3,8 +3,7 @@ alias: [Auction Market Definition]
 created: 2021-02-28T17:42:18 (UTC +11:00)
 tags: [Auction Market Definition, Playing in the Auction Market Requires Competitive Bidding]
 source: https://www.investopedia.com/terms/a/auctionmarket.asp
-author: By
-Evan Tarver
+author: Evan Tarver
 ---
 
 # Auction Market Definition

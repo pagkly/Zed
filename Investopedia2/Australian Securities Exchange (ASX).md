@@ -3,8 +3,7 @@ alias: [Australian Securities Exchange (ASX)]
 created: 2021-02-28T17:42:17 (UTC +11:00)
 tags: [Australian Securities Exchange (ASX), Australian Securities Exchange (ASX)]
 source: https://www.investopedia.com/terms/a/asx.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Australian Securities Exchange (ASX)

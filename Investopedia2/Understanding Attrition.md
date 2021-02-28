@@ -3,8 +3,7 @@ alias: [Attrition Definition]
 created: 2021-02-28T17:42:12 (UTC +11:00)
 tags: [Attrition Definition, Understanding Attrition]
 source: https://www.investopedia.com/terms/a/attrition.asp
-author: By
-Will Kenton
+author: Will Kenton
 ---
 
 # Attrition Definition

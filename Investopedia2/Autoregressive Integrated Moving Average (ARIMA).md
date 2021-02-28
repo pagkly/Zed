@@ -3,8 +3,7 @@ alias: [Autoregressive Integrated Moving Average (ARIMA)]
 created: 2021-02-28T17:42:17 (UTC +11:00)
 tags: [Autoregressive Integrated Moving Average (ARIMA), Autoregressive Integrated Moving Average (ARIMA)]
 source: https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Autoregressive Integrated Moving Average (ARIMA)

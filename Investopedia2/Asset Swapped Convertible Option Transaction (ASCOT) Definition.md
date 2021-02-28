@@ -3,8 +3,7 @@ alias: [Asset Swapped Convertible Option Transaction (ASCOT)]
 created: 2021-02-28T17:42:15 (UTC +11:00)
 tags: [Asset Swapped Convertible Option Transaction (ASCOT), Asset Swapped Convertible Option Transaction (ASCOT) Definition]
 source: https://www.investopedia.com/terms/a/ascot.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Asset Swapped Convertible Option Transaction (ASCOT)

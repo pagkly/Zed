@@ -3,8 +3,7 @@ alias: [Asset Protection Definition]
 created: 2021-02-28T17:42:08 (UTC +11:00)
 tags: [Asset Protection Definition, Asset Protection]
 source: https://www.investopedia.com/terms/a/asset-protection.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Asset Protection Definition

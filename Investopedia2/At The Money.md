@@ -3,8 +3,7 @@ alias: [At The Money (ATM) Definition]
 created: 2021-02-28T17:42:13 (UTC +11:00)
 tags: [At The Money (ATM) Definition, At The Money]
 source: https://www.investopedia.com/terms/a/atthemoney.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # At The Money (ATM) Definition

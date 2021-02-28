@@ -3,8 +3,7 @@ alias: [Autoregressive Defined]
 created: 2021-02-28T17:42:17 (UTC +11:00)
 tags: [Autoregressive Defined, What Does Autoregressive Mean?]
 source: https://www.investopedia.com/terms/a/autoregressive.asp
-author: By
-Jason Fernando
+author: Jason Fernando
 ---
 
 # Autoregressive Defined

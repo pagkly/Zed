@@ -3,8 +3,7 @@ alias: [Austerity Definition]
 created: 2021-02-28T17:42:23 (UTC +11:00)
 tags: [Austerity Definition, Austerity]
 source: https://www.investopedia.com/terms/a/austerity.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Austerity Definition

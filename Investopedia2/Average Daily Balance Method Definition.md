@@ -3,8 +3,7 @@ alias: [Average Daily Balance Method Definition]
 created: 2021-02-28T17:42:17 (UTC +11:00)
 tags: [Average Daily Balance Method Definition, Average Daily Balance Method Definition]
 source: https://www.investopedia.com/terms/a/averagedailybalance.asp
-author: By
-Daniel Liberto
+author: Daniel Liberto
 ---
 
 # Average Daily Balance Method Definition

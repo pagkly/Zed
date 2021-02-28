@@ -3,8 +3,7 @@ alias: [Average Selling Price (ASP) Defintion]
 created: 2021-02-28T17:42:20 (UTC +11:00)
 tags: [Average Selling Price (ASP) Defintion, Understanding Average Selling Price (ASP)]
 source: https://www.investopedia.com/terms/a/averagesellingprice.asp
-author: By
-Mitchell Grant
+author: Mitchell Grant
 ---
 
 # Average Selling Price (ASP) Defintion

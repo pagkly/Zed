@@ -3,8 +3,7 @@ alias: [Audit Committee Definition]
 created: 2021-02-28T17:42:10 (UTC +11:00)
 tags: [Audit Committee Definition, Audit Committee Definition]
 source: https://www.investopedia.com/terms/a/audit-committee.asp
-author: By
-Alicia Tuovila
+author: Alicia Tuovila
 ---
 
 # Audit Committee Definition

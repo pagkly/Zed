@@ -3,8 +3,7 @@ alias: [Average Daily Trading Volume - ADTV Definition]
 created: 2021-02-28T17:42:08 (UTC +11:00)
 tags: [Average Daily Trading Volume - ADTV Definition, Average Daily Trading Volume - ADTV Definition]
 source: https://www.investopedia.com/terms/a/averagedailytradingvolume.asp
-author: By
-Cory Mitchell
+author: Cory Mitchell
 ---
 
 # Average Daily Trading Volume - ADTV Definition

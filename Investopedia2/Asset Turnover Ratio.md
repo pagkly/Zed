@@ -3,8 +3,7 @@ alias: [Asset Turnover Ratio Definition]
 created: 2021-02-28T17:42:20 (UTC +11:00)
 tags: [Asset Turnover Ratio Definition, Asset Turnover Ratio]
 source: https://www.investopedia.com/terms/a/assetturnover.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Asset Turnover Ratio Definition

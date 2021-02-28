@@ -3,8 +3,7 @@ alias: [Assurance Services Definition]
 created: 2021-02-28T17:42:10 (UTC +11:00)
 tags: [Assurance Services Definition, How Assurance Services Work]
 source: https://www.investopedia.com/terms/a/assurance-services.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Assurance Services Definition

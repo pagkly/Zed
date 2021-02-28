@@ -3,8 +3,7 @@ alias: [Axe Definition]
 created: 2021-02-28T17:42:12 (UTC +11:00)
 tags: [Axe Definition, Axe Definition]
 source: https://www.investopedia.com/terms/a/axe.asp
-author: By
-Akhilesh Ganti
+author: Akhilesh Ganti
 ---
 
 # Axe Definition

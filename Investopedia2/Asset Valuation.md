@@ -3,8 +3,7 @@ alias: [Asset Valuation Definition and Example]
 created: 2021-02-28T17:42:16 (UTC +11:00)
 tags: [Asset Valuation Definition and Example, Asset Valuation]
 source: https://www.investopedia.com/terms/a/assetvaluation.asp
-author: By
-Tim Smith
+author: Tim Smith
 ---
 
 # Asset Valuation Definition and Example

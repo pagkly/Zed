@@ -3,8 +3,7 @@ alias: [Assets Under Management – AUM Definition]
 created: 2021-02-28T17:42:08 (UTC +11:00)
 tags: [Assets Under Management – AUM Definition, Why Assets Under Management – AUM Matters]
 source: https://www.investopedia.com/terms/a/aum.asp
-author: By
-James Chen
+author: James Chen
 ---
 
 # Assets Under Management – AUM Definition
