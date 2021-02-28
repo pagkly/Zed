@@ -1,5 +1,5 @@
 ---
-alias: [Average True Range (ATR) Definition]
+alias: [Average True Range (ATR)]
 created: 2021-02-28T17:42:08 (UTC +11:00)
 tags: [Average True Range (ATR) Definition, Average True Range (ATR)]
 source: https://www.investopedia.com/terms/a/atr.asp

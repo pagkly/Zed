@@ -1,5 +1,5 @@
 ---
-alias: [Administrative Services (ASO) Definition]
+alias: [Administrative Services (ASO)]
 created: 2021-02-28T20:46:34 (UTC +11:00)
 tags: [Administrative Services (ASO) Definition, Administrative Services Only (ASO) Definition]
 source: https://www.investopedia.com/terms/a/administrative-services-only.asp

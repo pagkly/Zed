@@ -1,5 +1,5 @@
 ---
-alias: [Application Programming Interface (API)]
+alias: [Application Programming Interface , API]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Application Programming Interface (API) Definition, Application Programming Interface (API) Definition]
 source: https://www.investopedia.com/terms/a/application-programming-interface.asp

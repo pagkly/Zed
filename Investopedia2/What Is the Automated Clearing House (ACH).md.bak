@@ -1,5 +1,5 @@
 ---
-alias: [Automated Clearing House (ACH) Definition]
+alias: [Automated Clearing House (ACH)]
 created: 2021-02-28T17:42:07 (UTC +11:00)
 tags: [Automated Clearing House (ACH) Definition, What Is the Automated Clearing House (ACH)?]
 source: https://www.investopedia.com/terms/a/ach.asp
