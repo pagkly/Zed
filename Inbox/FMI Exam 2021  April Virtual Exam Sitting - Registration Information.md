@@ -72,6 +72,6 @@ To convert the UTC time to your local time: https://www.timeanddate.com/worldclo
     -   Deferral requests must be sent to [info@fminstitute.com](mailto:info@fminstitute.com) prior to the beginning of each respective exam.
     -   Please note that to maintain your active exam registration, the deferral payment must be made no later than 8 weeks after the exam date you have deferred from.
 8.  **No-Shows:** If you do not show up at your scheduled exam, you are considered a "No-Show" and your exam fee is forfeited.
-9.  FMI Code of Conduct \- The FMI is a Professional Body and it expects that all FMI Candidates and Certification Holders maintain high standards of personal and professional ethics and conduct. Therefore, all FMI Candidates and Certification Holders must abide by the [FMI Code of Ethics and Professional Conduct](http://fminstitute.com/code-of-conduct/).
+9.  FMI Code of Conduct \- The FMI is a Professional Body and it expects that all FMI Candidates and Certification Holders maintain high standards of personal and professional ethics and conduct. Therefore, all FMI Candidates and Certification Holders must abide by the [FMI [[How Codes of Ethics Work|Code of Ethics]] and Professional Conduct](http://fminstitute.com/code-of-conduct/).
 
 \* I agree to the Exam Registration Policies

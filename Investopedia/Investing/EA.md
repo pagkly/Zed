@@ -30,7 +30,7 @@ In 1913, when the 16th Amendment was passed, EA duties expanded to include [tax 
 
 EAs are not required to get college degrees. An individual with five years of taxation experience with the IRS may apply to become an enrolled agent without taking the exam. They must complete 72 hours of continuing education every 36 months. CPAs and attorneys may serve as enrolled agents without taking the exam. 5 6
 
-Enrolled agents are the only tax professionals who do not require a state license. However, they have a federal license and can represent a [taxpayer](https://www.investopedia.com/terms/t/taxpayer.asp) in any state.3 They must abide by the specifications of the Treasury Department's Circular 230, which provides the guidelines governing enrolled agents. Enrolled agents that have an NAEA membership are also subject to a [code of ethics](https://www.investopedia.com/terms/c/code-of-ethics.asp) and rules of professional conduct.7 8
+Enrolled agents are the only tax professionals who do not require a state license. However, they have a federal license and can represent a [taxpayer](https://www.investopedia.com/terms/t/taxpayer.asp) in any state.3 They must abide by the specifications of the Treasury Department's Circular 230, which provides the guidelines governing enrolled agents. Enrolled agents that have an NAEA membership are also subject to a [[[How Codes of Ethics Work|code of ethics]]](https://www.investopedia.com/terms/c/code-of-ethics.asp) and rules of professional conduct.7 8
 
 ## Benefits of Using an Enrolled Agent
 

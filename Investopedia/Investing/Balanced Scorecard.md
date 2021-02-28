@@ -1,5 +1,5 @@
 ---
-ts: [Balanced Scorecard]
+alias: [Balanced Scorecard]
 created: 2021-02-25T21:18:36 (UTC +11:00)
 tags: [Balanced Scorecard]
 source: https://www.investopedia.com/terms/b/balancedscorecard.asp

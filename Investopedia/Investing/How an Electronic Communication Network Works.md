@@ -1,6 +1,7 @@
 ---
+alias: [Electronic Communication Network, ECN]
 created: 2021-02-28T12:07:22 (UTC +11:00)
-tags: []
+tags: [Electronic Communication Network, ECN]
 source: https://www.investopedia.com/terms/e/ecn.asp
 author: By
 Adam Hayes

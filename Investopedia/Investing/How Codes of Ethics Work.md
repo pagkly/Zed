@@ -1,9 +1,9 @@
 ---
+alias: [Code of Ethics]
 created: 2021-02-25T22:31:05 (UTC +11:00)
-tags: []
+tags: [Code of Ethics]
 source: https://www.investopedia.com/terms/c/code-of-ethics.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Code of Ethics Definition
