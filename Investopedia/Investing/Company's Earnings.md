@@ -44,21 +44,21 @@ There are many measures and uses of earnings. Some analysts like to calculate ea
 
 All three figures provide varying degrees of measuring profitability.
 
-### Earnings per Share
+### [[EPS|Earnings per Share]]
 
-Earnings per share ([[[EPS]]](https://www.investopedia.com/terms/e/eps.asp)) is a commonly cited ratio used to show the company's profitability on a per-share basis. It is calculated by dividing the company's total earnings by the number of shares outstanding.
+[[EPS|Earnings per share]] ([[[EPS]]](https://www.investopedia.com/terms/e/eps.asp)) is a commonly cited ratio used to show the company's profitability on a per-share basis. It is calculated by dividing the company's total earnings by the number of shares outstanding.
 
 ### Price-to-Earnings
 
 Earnings are also used to determine a key indicator known as the price-to-earnings ([P/E](https://www.investopedia.com/terms/p/price-earningsratio.asp)) ratio.
 
-The price-to-earnings ratio, calculated as share price divided by earnings per share, is used by investors and analysts to compare the relative values of companies in the same industry or sector.
+The price-to-earnings ratio, calculated as share price divided by [[EPS|earnings per share]], is used by investors and analysts to compare the relative values of companies in the same industry or sector.
 
 The stock of a company with a high P/E ratio relative to its industry peers may be considered overvalued. A company with a low price compared with its earnings might appear to be undervalued.
 
 ### Earnings Yield
 
-The [earnings yield](https://www.investopedia.com/terms/e/earningsyield.asp), or the earnings per share for the most recent 12-month period divided by the current market price per share, is another way of measuring earnings. It is in fact simply the inverse of the P/E ratio.
+The [earnings yield](https://www.investopedia.com/terms/e/earningsyield.asp), or the [[EPS|earnings per share]] for the most recent 12-month period divided by the current market price per share, is another way of measuring earnings. It is in fact simply the inverse of the P/E ratio.
 
 ### Criticism of Earnings
 
@@ -66,7 +66,7 @@ Since corporate earnings are such an important metric and have a direct impact o
 
 Some companies attempt to sway investors by prominently displaying their earnings on their [financial](https://www.investopedia.com/articles/professionals/092415/career-advice-financial-analyst-vsresearch-analyst.asp) statements in order to hide deficiencies reported lower down that reveal weaknesses like dubious accounting practices or an unanticipated drop in sales. These companies are said to have a poor or weak [quality of earnings](https://www.investopedia.com/terms/q/qualityofearnings.asp).
 
-The earnings per share number may also be inflated with share [buybacks](https://www.investopedia.com/terms/b/buyback.asp) or other methods of changing the number of shares outstanding. Companies can do this by repurchasing shares with retained earnings or debt to make it appear as if they are generating greater profits per outstanding share.
+The [[EPS|earnings per share]] number may also be inflated with share [buybacks](https://www.investopedia.com/terms/b/buyback.asp) or other methods of changing the number of shares outstanding. Companies can do this by repurchasing shares with retained earnings or debt to make it appear as if they are generating greater profits per outstanding share.
 
 Other companies may purchase a smaller company with a higher P/E ratio to [bootstrap](https://www.investopedia.com/terms/b/bootstrap.asp) their own numbers into favorable territory.
 

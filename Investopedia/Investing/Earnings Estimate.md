@@ -12,7 +12,7 @@ Will Kenton
 > An earnings estimate is an analyst's estimate for a company's future quarterly or annual earnings per share.
 
 ---
-An earnings estimate is an analyst's estimate for a company's future quarterly or annual [earnings per share](https://www.investopedia.com/terms/e/eps.asp) (EPS). Future earnings estimates are arguably the most important input when attempting to value a firm. By placing estimates on the earnings of a firm for certain periods (quarterly, annually, etc.), analysts can then use cash flow analysis to approximate [fair value](https://www.investopedia.com/terms/f/fairvalue.asp) for a company, which in turn will give a target share price.
+An earnings estimate is an analyst's estimate for a company's future quarterly or annual [earnings per share](https://www.investopedia.com/terms/e/eps.asp) ([[EPS]]). Future earnings estimates are arguably the most important input when attempting to value a firm. By placing estimates on the earnings of a firm for certain periods (quarterly, annually, etc.), analysts can then use cash flow analysis to approximate [fair value](https://www.investopedia.com/terms/f/fairvalue.asp) for a company, which in turn will give a target share price.
 
 ## Breaking Down Earnings Estimate
 

@@ -1,10 +1,9 @@
 ---
+alias: [Employee Retirement Income Security Act, ERISA]
 created: 2021-02-28T12:07:21 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/e/erisa.asp
-author: By
-
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Employee Retirement Income Security Act (ERISA) Definition

@@ -21,14 +21,14 @@ A share of stock represents [equity](https://www.investopedia.com/terms/e/equity
 ### Key Takeaways
 
 -   Dilution is the reduction in shareholders' equity positions due to the issuance or creation of new shares.
--   Dilution also reduces a company's earnings per share ([[EPS]]), which can have a negative impact on share prices.
+-   Dilution also reduces a company's [[EPS|earnings per share]] ([[EPS]]), which can have a negative impact on share prices.
 -   Dilution can occur when a firm raises additional equity capital, though existing shareholders are usually disadvantaged.
 
 ## Understanding Dilution
 
 Dilution is simply a case of cutting the equity "cake" into more pieces. There will be more pieces but each will be smaller. So, you will still get your piece of the cake only that it will be a smaller proportion of the total than you had been expecting, which is often not desired.
 
-While it primarily affects equity ownership positions, dilution also reduces the company's earnings per share ([[[EPS]]](https://www.investopedia.com/terms/e/[[EPS]].asp), or net income divided by the float), which often depresses stock prices in the market. For this reason, many public companies publish estimates of both non-diluted and diluted [[EPS]], which is essentially a "what-if-scenario" for investors in the case new shares are issued. Diluted [[EPS]] assumes that potentially [dilutive](https://www.investopedia.com/ask/answers/102714/what-are-differences-between-dilutive-securities-and-antidilutive-securities.asp) securities have already been converted to outstanding shares.
+While it primarily affects equity ownership positions, dilution also reduces the company's [[EPS|earnings per share]] ([[[EPS]]](https://www.investopedia.com/terms/e/[[EPS]].asp), or net income divided by the float), which often depresses stock prices in the market. For this reason, many public companies publish estimates of both non-diluted and diluted [[EPS]], which is essentially a "what-if-scenario" for investors in the case new shares are issued. Diluted [[EPS]] assumes that potentially [dilutive](https://www.investopedia.com/ask/answers/102714/what-are-differences-between-dilutive-securities-and-antidilutive-securities.asp) securities have already been converted to outstanding shares.
 
 Share dilution may happen any time a company raises additional equity capital, as newly created shares are issued to new investors. The potential upside of raising capital in this way is that the funds the company receives from selling additional shares can improve the company's profitability and growth prospects, and by extension the value of its stock.
 

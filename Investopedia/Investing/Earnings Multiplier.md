@@ -14,7 +14,7 @@ Will Kenton
 ---
 ## What Is the Earnings Multiplier?
 
-The earnings multiplier is a financial metric that frames a company's current stock price in terms of the company's [earnings per share](https://www.investopedia.com/terms/e/eps.asp) ([[EPS]]) of stock, that's simply computed as price per share/earnings per share. Also known as the [price-to-earnings](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E) ratio, the earnings multiplier can be used as a simplified [valuation](https://www.investopedia.com/terms/v/valuation.asp) tool with which to compare the relative costliness of the stocks of similar companies. It can likewise help investors judge current stock prices against their historical prices on an earnings-relative basis.
+The earnings multiplier is a financial metric that frames a company's current stock price in terms of the company's [[[EPS|earnings per share]]](https://www.investopedia.com/terms/e/eps.asp) ([[EPS]]) of stock, that's simply computed as price per share/[[EPS|earnings per share]]. Also known as the [price-to-earnings](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E) ratio, the earnings multiplier can be used as a simplified [valuation](https://www.investopedia.com/terms/v/valuation.asp) tool with which to compare the relative costliness of the stocks of similar companies. It can likewise help investors judge current stock prices against their historical prices on an earnings-relative basis.
 
 ### Key Takeaways
 

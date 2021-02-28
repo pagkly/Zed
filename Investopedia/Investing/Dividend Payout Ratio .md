@@ -26,7 +26,7 @@ The dividend payout ratio provides an indication of how much money a company is 
 
 ## Formula and Calculation of Dividend Payout Ratio
 
-The dividend payout ratio can be calculated as the yearly dividend per share divided by the earnings per share, or equivalently, the dividends divided by net income (as shown below).
+The dividend payout ratio can be calculated as the yearly dividend per share divided by the [[EPS|earnings per share]], or equivalently, the dividends divided by net income (as shown below).
 
 Dividend Payout Ratio\=Dividends PaidNet Income\\begin{aligned} &\\text{Dividend Payout Ratio} = \\frac{ \\text{Dividends Paid} }{ \\text{Net Income} } \\\\ \\end{aligned}
 
@@ -36,13 +36,13 @@ Dividend Payout Ratio\=1−Retention Ratio\\begin{aligned} &\\text{Dividend P
 
 On a per-share basis, the [retention ratio](https://www.investopedia.com/terms/r/retentionratio.asp) can be expressed as:
 
-Retention Ratio\=EPS−DPSEPSwhere:EPS\=Earnings per shareDPS\=Dividends per share\\begin{aligned}&\\text{Retention Ratio} = \\frac{ \\text{EPS}-\\text{DPS} }{ \\text{EPS} } \\\\&\\textbf{where:}\\\\&\\text{EPS}=\\text{Earnings per share} \\\\&\\text{DPS}=\\text{Dividends per share}\\end{aligned}
+Retention Ratio\=[[EPS]]−DPSEPSwhere:EPS\=Earnings per shareDPS\=Dividends per share\\begin{aligned}&\\text{Retention Ratio} = \\frac{ \\text{EPS}-\\text{DPS} }{ \\text{EPS} } \\\\&\\textbf{where:}\\\\&\\text{EPS}=\\text{Earnings per share} \\\\&\\text{DPS}=\\text{Dividends per share}\\end{aligned}
 
 ### You can also calculate a payout ratio using Microsoft Excel:
 
 First, if you are given the sum of the dividends over a certain period and the outstanding shares, you can calculate the [dividends per share](https://www.investopedia.com/terms/d/dividend-per-share.asp) (DPS). Suppose you are invested in a company that paid a total of $5 million last year and it has 5 million shares outstanding. On Microsoft Excel, enter "Dividends per Share" into cell A1. Next, enter "=5000000/5000000" in cell B1; the dividend per share in this company is $1 per share.
 
-Then, you need to calculate the [earnings per share](https://www.investopedia.com/terms/e/eps.asp) (EPS) if it is not given. Enter "Earnings per Share" into cell A2. Suppose the company had a net income of $50 million last year. The formula for earnings per share is (net income - dividends on preferred stock) ÷ (shares outstanding). Enter "=(50000000 - 5000000)/5000000" into cell B2. The EPS for this company is $9.
+Then, you need to calculate the [[[EPS|earnings per share]]](https://www.investopedia.com/terms/e/eps.asp) ([[EPS]]) if it is not given. Enter "[[EPS|Earnings per Share]]" into cell A2. Suppose the company had a net income of $50 million last year. The formula for [[EPS|earnings per share]] is (net income - dividends on preferred stock) ÷ (shares outstanding). Enter "=(50000000 - 5000000)/5000000" into cell B2. The [[EPS]] for this company is $9.
 
 Finally, calculate the payout ration. Enter "Payout Ratio" into cell A3. Next, enter "=B1/B2" into cell B3; the payout ratio is 11.11%. Investors use the ratio to gauge whether dividends are appropriate and sustainable. The payout ratio depends on the sector; for example, startup companies may have a low payout ratio because they are more focused on reinvesting their income to grow the business.
 
@@ -72,7 +72,7 @@ Another adjustment that can be made to provide a more accurate picture is to sub
 
 Companies that make a profit at the end of a fiscal period can do a number of things with the profit they earned. They can pay it to shareholders as [dividends](https://www.investopedia.com/terms/d/dividend.asp), they can retain it to reinvest in the business for growth, or they can do both. The portion of the profit that a company chooses to pay out to its shareholders can be measured with the payout ratio.
 
-For example, on November 29, 2017, The Walt Disney Company declared a $0.84 semi-annual cash dividend per share to shareholders of record December 11, 2017, to be paid January 11, 2018.4 As of the [fiscal year ended](https://www.investopedia.com/terms/f/fiscalyearend.asp) September 30, 2017, the company's EPS was $5.73.5 Its payout ratio is, therefore, ($0.84 / $5.73) = 0.1466, or 14.66%. Disney will pay out 14.66% and retain 85.34%.
+For example, on November 29, 2017, The Walt Disney Company declared a $0.84 semi-annual cash dividend per share to shareholders of record December 11, 2017, to be paid January 11, 2018.4 As of the [fiscal year ended](https://www.investopedia.com/terms/f/fiscalyearend.asp) September 30, 2017, the company's [[EPS]] was $5.73.5 Its payout ratio is, therefore, ($0.84 / $5.73) = 0.1466, or 14.66%. Disney will pay out 14.66% and retain 85.34%.
 
 ## Dividend Payout Ratio vs. Dividend Yield
 

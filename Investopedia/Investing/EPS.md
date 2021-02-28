@@ -1,9 +1,9 @@
 ---
+alias: [Earnings Per Share, EPS]
 created: 2021-02-28T11:55:17 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/e/eps.asp
-author: By
-Jason Fernando
+author: Jason Fernando
 ---
 
 # Earnings Per Share – EPS Definition
