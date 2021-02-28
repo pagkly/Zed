@@ -36,7 +36,7 @@ Legal egalitarianism involves the principle that everyone is subject to the same
 
 In terms of wealth and finance in [free-market](https://www.investopedia.com/terms/f/freemarket.asp) economies, supporters of economic egalitarianism believe everyone has the right to accumulate wealth. Therefore, each individual should have the opportunity to make money in this system. People may amass wealth through investments, entrepreneurial efforts, and income from employment.
 
-Starting a business can be attempted by anyone and represents an opportunity to make money. The [entrepreneur](https://www.investopedia.com/terms/e/entrepreneur.asp) will typically seek financing and invest the capital in a business enterprise. Customers have an equal opportunity to buy the company's products or services. Finally, these consumers have an equal choice to respond to the company's prices and quality of goods or services to make an informed decision about a purchase.
+Starting a business can be attempted by anyone and represents an opportunity to make money. The [[[Entrepreneurs|entrepreneur]]](https://www.investopedia.com/terms/e/entrepreneur.asp) will typically seek financing and invest the capital in a business enterprise. Customers have an equal opportunity to buy the company's products or services. Finally, these consumers have an equal choice to respond to the company's prices and quality of goods or services to make an informed decision about a purchase.
 
 ## Special Considerations
 

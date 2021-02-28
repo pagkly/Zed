@@ -1,9 +1,9 @@
 ---
+alias: [Entity Theory]
 created: 2021-02-28T12:07:22 (UTC +11:00)
-tags: []
+tags: [Entity Theory]
 source: https://www.investopedia.com/terms/e/entity-theory.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Entity Theory Definition

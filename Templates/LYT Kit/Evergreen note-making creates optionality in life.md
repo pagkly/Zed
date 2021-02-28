@@ -8,7 +8,7 @@ Simply put, optionality is not feeling stuck.
 
 It enhances the value you have at your fingertips. It allows you to work from a place of abudance, as opposed to a place of scarcity. And it aids in your ability to pivot your career at the drop of a hat (or the onset of a pandemic!).
 
-Personally, I've leaned on experiences from coaching college football and working as civil engineer to entrepreneurship and filmmaking. I've parlayed hard-earned patterns in one field of thought—systematizing and maintaining a small business—into a completely different one—like editing in television. 
+Personally, I've leaned on experiences from coaching college football and working as civil engineer to [[Entrepreneurs|entrepreneurship]] and filmmaking. I've parlayed hard-earned patterns in one field of thought—systematizing and maintaining a small business—into a completely different one—like editing in television. 
 
 A large part of this ability stems from not just having quality experiences in my life, but in being able to re-apply fundamental aspects of those past experiences to new situations. 
 

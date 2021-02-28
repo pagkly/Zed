@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia/Investing/Entrepreneurs.md",
+            "file": "Investopedia/Investing/Entity Theory.md",
             "mode": "source"
           }
         }
@@ -77,12 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia/Investing/Entrepreneurs.md",
+                "file": "Investopedia/Investing/Entity Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia/Investing/Entrepreneurs.md"
+                "file": "Investopedia/Investing/Entity Theory.md"
               }
             }
           },
@@ -138,6 +138,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia/Investing/Entity Theory.md",
     "Investopedia/Investing/Entrepreneurs.md",
     "Investopedia/Investing/How Investors can Perform Due Diligence on a Company.md",
     "Investopedia/Investing/How Empire Building Works.md",
@@ -146,7 +147,6 @@
     "Dict/endowment.md",
     "Dict/underlie.md",
     "Dict/inherent.md",
-    "Dict/underlie 1.md",
-    "Investopedia/Investing/Endowment Effect .md"
+    "Dict/underlie 1.md"
   ]
 }

@@ -30,7 +30,7 @@ Basically, the theory of creative destruction assumes that long-standing arrange
 
 Creative destruction theory treats [economics](https://www.investopedia.com/articles/economics/11/five-economic-concepts-need-to-know.asp) as an organic and dynamic process. This stands in stark contrast with the static mathematical models of traditional Cambridge-tradition economics. [Equilibrium](https://www.investopedia.com/terms/e/equilibrium.asp) is no longer the end goal of market processes. Instead, many fluctuating dynamics are constantly reshaped or replaced by innovation and competition.
 
-As is implied by the word destruction, the process inevitably results in losers and winners. Producers and workers committed to the older technology will be left stranded. [Entrepreneurs](https://www.investopedia.com/terms/e/entrepreneur.asp) and workers in new technologies, meanwhile, will inevitably create [disequilibrium](https://www.investopedia.com/terms/d/disequilibrium.asp) and highlight new profit opportunities.
+As is implied by the word destruction, the process inevitably results in losers and winners. Producers and workers committed to the older technology will be left stranded. [[[Entrepreneurs]]](https://www.investopedia.com/terms/e/[[Entrepreneurs|entrepreneur]].asp) and workers in new technologies, meanwhile, will inevitably create [disequilibrium](https://www.investopedia.com/terms/d/disequilibrium.asp) and highlight new profit opportunities.
 
 Netflix is a modern example of creative destruction, having overthrown disc rental and traditional media industries.
 

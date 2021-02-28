@@ -16,7 +16,7 @@ The Earnout Selling Your Business and Collecting Future Earnings
 
 An earnout is a contractual provision stating that the seller of a business is to obtain additional compensation in the future if the business achieves certain financial goals, which are usually stated as a percentage of [gross sales](https://www.investopedia.com/terms/g/grosssales.asp) or earnings.
 
-If an entrepreneur seeking to sell a business is asking for a price more than a buyer is willing to pay, an earnout provision can be utilized. In a simplified example, there could be a purchase price of $1 million plus 5% of gross sales over the next three years.
+If an [[Entrepreneurs|entrepreneur]] seeking to sell a business is asking for a price more than a buyer is willing to pay, an earnout provision can be utilized. In a simplified example, there could be a purchase price of $1 million plus 5% of gross sales over the next three years.
 
 ### Key Takeaways
 

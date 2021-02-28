@@ -35,9 +35,9 @@ Central tenets to endogenous growth theory include:
 -   Government policy's ability to raise a country’s growth rate if they lead to more intense competition in markets and help to stimulate product and process innovation.
 -   There are increasing returns to scale from [capital investment](https://www.investopedia.com/terms/c/capital-investment.asp), especially in infrastructure and investment in education, health, and telecommunications.
 -   Private sector investment in R&D is a crucial source of technological progress.
--   The protection of property rights and [patents](https://www.investopedia.com/terms/p/patent.asp) is essential to providing incentives for businesses and entrepreneurs to engage in R&D.
+-   The protection of property rights and [patents](https://www.investopedia.com/terms/p/patent.asp) is essential to providing incentives for businesses and [[Entrepreneurs]] to engage in R&D.
 -   Investment in human capital is a vital component of growth.
--   Government policy should encourage [entrepreneurship](https://www.investopedia.com/articles/investing/092514/entrepreneur-vs-small-business-owner-defined.asp) as a means of creating new businesses and ultimately as an important source of new jobs, investment, and further innovation.
+-   Government policy should encourage [[[Entrepreneurs|entrepreneurship]]](https://www.investopedia.com/articles/investing/092514/[[[[Entrepreneurs]]|entrepreneur]]-vs-small-business-owner-defined.asp) as a means of creating new businesses and ultimately as an important source of new jobs, investment, and further innovation.
 
 ## History of Endogenous Growth Theory
 

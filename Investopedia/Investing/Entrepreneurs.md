@@ -1,9 +1,9 @@
 ---
+alias: [Entrepreneur, Entrepreneurship]
 created: 2021-02-28T12:07:22 (UTC +11:00)
-tags: []
+tags: [Entrepreneur, Entrepreneurship]
 source: https://www.investopedia.com/terms/e/entrepreneur.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Entrepreneur and Entrepreneurship Definition
