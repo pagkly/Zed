@@ -5,7 +5,7 @@ source: https://www.investopedia.com/terms/d/dupontanalysis.asp
 author: By
 Marshall Hargrave
 ---
-
+How to Use the DuPont Analysis to Assess a Company's ROE
 # DuPont Analysis Definition
 
 > ## Excerpt

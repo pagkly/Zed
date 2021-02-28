@@ -5,7 +5,7 @@ source: https://www.investopedia.com/terms/e/earnout.asp
 author: By
 Evan Tarver
 ---
-
+The Earnout Selling Your Business and Collecting Future Earnings
 # Earnout Definition
 
 > ## Excerpt
