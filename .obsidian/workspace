@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia/Investing/Asset Management.md",
+            "file": "Investopedia/Investing/ARR.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia/Investing/Asset Management.md",
+                "file": "Investopedia/Investing/ARR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia/Investing/Asset Management.md"
+                "file": "Investopedia/Investing/ARR.md"
               }
             }
           },
@@ -130,15 +130,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Investopedia/Investing/Asset Management.md",
+    "Investopedia/Investing/ARR.md",
     "Investopedia/Investing/Artificial Intelligence (AI).md",
+    "Investopedia/Investing/Asset Management.md",
+    "Investopedia/Investing/Automated Clearing House (ACH).md",
+    "Investopedia/Investing/Average True Range (ATR).md",
+    "Investopedia/Investing/Asset Turnover Ratio.md",
+    "Investopedia/Investing/Bank Identification Numbers.md",
+    "Investopedia/Investing/Energy Risk Professional (ERP).md",
     "Investopedia/Investing/Angel Investor.md",
-    "Investopedia/Investing/Accounting Rate of Return (ARR) Definition.md",
-    "Investopedia/Investing/Absolute Advantage.md",
-    "Investopedia/Investing/Acquisition.md",
-    "Investopedia/Investing/Acid-Test Ratio.md",
-    "Investopedia/Investing/A Brief History of Income Inequality in the United States.md",
-    "Investopedia/Investing/2020 Election Jobs, Trade, and the Economy Explained.md",
-    "Investopedia/Investing/How a Balanced Scorecard Is Used.md"
+    "Investopedia/Investing/Accounting Rate of Return (ARR) Definition.md"
   ]
 }
