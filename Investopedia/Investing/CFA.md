@@ -14,7 +14,7 @@ Adam Hayes
 ---
 ## What Is a Chartered Financial Analyst (CFA)?
 
-A chartered financial analyst (CFA) is a globally-recognized professional designation given by the [CFA Institute](https://www.investopedia.com/terms/c/cfainstitute.asp), (formerly the AIMR (Association for Investment Management and Research)), that measures and certifies the competence and integrity of financial analysts. Candidates are required to pass three levels of exams covering areas, such as accounting, economics, ethics, money management, and security analysis.
+A chartered financial analyst (CFA) is a globally-recognized professional designation given by the [CFA Institute](https://www.investopedia.com/terms/c/cfainstitute.asp), (formerly the AIMR (Association for Investment Management and Research)), that measures and certifies the competence and integrity of financial analysts. Candidates are required to pass three levels of exams covering areas, such as accounting, [[Economics]], ethics, money management, and security analysis.
 
 From 1963 to first half of 2016, 1,348,103 candidates have sat for the [Level I exam](https://www.investopedia.com/articles/professionals/101215/best-way-prepare-cfa-level-1-exam.asp), with 209,561 candidates ultimately going on to pass the Level III exam, representing a weighted average completion rate of 15.5%. In the last 10 years, the completion rate was slightly lower at 12.9%.1
 
@@ -43,7 +43,7 @@ The exams are difficult. Only 43% passed the level exam in June 2018, which is s
 
 ### Level I Exam
 
-The CFA Level I examination is administered twice per year in June and December. It focuses on analysis using the tools of the 10 topic areas of the Candidate [Body of Knowledge](https://www.investopedia.com/terms/b/body-of-knowledge.asp). These areas are ethical and professional standards, quantitative methods, economics, financial reporting and analysis, corporate finance, equity investments, fixed income, derivatives, alternative investments, and portfolio management and wealth planning. The exam format is 240 multiple choice questions to be completed within six hours.10 The June 2018 Level I exam pass rate was 43%.1
+The CFA Level I examination is administered twice per year in June and December. It focuses on analysis using the tools of the 10 topic areas of the Candidate [Body of Knowledge](https://www.investopedia.com/terms/b/body-of-knowledge.asp). These areas are ethical and professional standards, quantitative methods, [[Economics]], financial reporting and analysis, corporate finance, equity investments, fixed income, derivatives, alternative investments, and portfolio management and wealth planning. The exam format is 240 multiple choice questions to be completed within six hours.10 The June 2018 Level I exam pass rate was 43%.1
 
 The 10-year weighted average CFA pass rates for Level I is 40%.
 

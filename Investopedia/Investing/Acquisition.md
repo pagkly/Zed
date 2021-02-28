@@ -20,7 +20,7 @@ We mostly hear about acquisitions of large well-known companies because these hu
 
 ## Why Make an Acquisition?
 
-Companies acquire other companies for various reasons. They may seek economies of scale, diversification, greater market share, increased synergy, cost reductions, or new niche offerings. Other reasons for acquisitions include those listed below.
+Companies acquire other companies for various reasons. They may seek [[Economies of Scale]], diversification, greater market share, increased synergy, cost reductions, or new niche offerings. Other reasons for acquisitions include those listed below.
 
 ### As a Way to Enter a Foreign Market
 

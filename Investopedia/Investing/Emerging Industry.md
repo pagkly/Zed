@@ -22,7 +22,7 @@ Stocks of companies in emerging industries are often volatile and can experience
 
 -   An emerging industry refers to companies that are formed around a new product or idea that is in the early stages of development.
 -   Companies that are in emerging industries must overcome many barriers to entry if they are to become profitable.
--   These barriers may include the lack of sufficient funding, the inability to take advantage of economies of scale, government restrictions, and competition from established companies.
+-   These barriers may include the lack of sufficient funding, the inability to take advantage of [[Economies of Scale]], government restrictions, and competition from established companies.
 -   Examples of current emerging industries include artificial intelligence ([[AI]]), robotics, virtual reality, self-driving cars, and biotechnology.
 -   Several exchange traded funds (ETFs) have been created to enable investment in emerging industries while reducing some of the risks associated with investing in these new sectors.
 
@@ -32,7 +32,7 @@ It may take years for an emerging industry to reach profitability. [Research and
 
 ## Barriers to Entry
 
-[Barriers to entry](https://www.investopedia.com/terms/b/barrierstoentry.asp) in an emerging industry can be relatively high because of the level of expertise required to compete in the new field. Examples of these barriers include scarce resources to manufacture a company's products, inability to take advantage of [economies of scale](https://www.investopedia.com/terms/e/economiesofscale.asp), lack of sufficient financing, government restrictions, and competition from established companies.
+[Barriers to entry](https://www.investopedia.com/terms/b/barrierstoentry.asp) in an emerging industry can be relatively high because of the level of expertise required to compete in the new field. Examples of these barriers include scarce resources to manufacture a company's products, inability to take advantage of [[[Economies of Scale]]](https://www.investopedia.com/terms/e/economiesofscale.asp), lack of sufficient financing, government restrictions, and competition from established companies.
 
 However, despite these barriers, many entrants will rush into a new industry in an attempt to gain an early advantage. They will raise money (if they can), hire key personnel, and secure the services of influential advisors. Many of these entrants, however, will eventually discover they do not have the skills or sufficient funds to bring a product or service to market, and at some point, fail entirely.
 

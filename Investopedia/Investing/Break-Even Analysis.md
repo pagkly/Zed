@@ -32,17 +32,17 @@ Break-even analysis looks at the level of fixed costs relative to the profit ear
 
 Although investors are not particularly interested in an individual company's break-even analysis on their production, they may use the calculation to determine at what price they will break even on a trade or investment. The calculation is useful when trading in or creating a strategy to buy [options](https://www.investopedia.com/ask/answers/062415/how-does-implied-volatility-impact-pricing-options.asp) or a fixed-income security product.
 
-### Contribution Margin
+### [[Contribution Margin]]
 
-The concept of break-even analysis is concerned with the [contribution margin](https://www.investopedia.com/video/play/contribution-margin/) of a product. The contribution margin is the excess between the selling price of the product and the total variable costs. For example, if an item sells for $100, the total fixed costs are $25 per unit, and the total variable costs are $60 per unit, the contribution margin of the product is $40 ($100 - $60). This $40 reflects the amount of revenue collected to cover the remaining fixed costs, which are excluded when figuring the contribution margin.
+The concept of break-even analysis is concerned with the [[[Contribution Margin]]](https://www.investopedia.com/video/play/contribution-margin/) of a product. The [[Contribution Margin]] is the excess between the selling price of the product and the total variable costs. For example, if an item sells for $100, the total fixed costs are $25 per unit, and the total variable costs are $60 per unit, the [[Contribution Margin]] of the product is $40 ($100 - $60). This $40 reflects the amount of revenue collected to cover the remaining fixed costs, which are excluded when figuring the [[Contribution Margin]].
 
 ### Calculations for Break-Even Analysis
 
-The calculation of break-even analysis may use two equations. In the first calculation, divide the total fixed costs by the unit contribution margin. In the example above, assume the value of the entire fixed costs is $20,000. With a contribution margin of $40, the break-even point is 500 units ($20,000 divided by $40). Upon the sale of 500 units, the payment of all fixed costs are complete, and the company will report a net profit or loss of $0.
+The calculation of break-even analysis may use two equations. In the first calculation, divide the total fixed costs by the unit [[Contribution Margin]]. In the example above, assume the value of the entire fixed costs is $20,000. With a [[Contribution Margin]] of $40, the break-even point is 500 units ($20,000 divided by $40). Upon the sale of 500 units, the payment of all fixed costs are complete, and the company will report a net profit or loss of $0.
 
-Alternatively, the calculation for a break-even point in sales dollars happens by dividing the total fixed costs by the contribution margin ratio. The contribution margin ratio is the contribution margin per unit divided by the sale price.
+Alternatively, the calculation for a break-even point in sales dollars happens by dividing the total fixed costs by the [[Contribution Margin]] ratio. The [[Contribution Margin]] ratio is the [[Contribution Margin]] per unit divided by the sale price.
 
-Returning to the example above, the contribution margin ratio is 40% ($40 contribution margin per item divided by $100 sale price per item). Therefore, the break-even point in sales dollars is $50,000 ($20,000 total fixed costs divided by 40%). Confirm this figured by multiplying the break-even in units (500) by the sale price ($100), which equals $50,000.
+Returning to the example above, the [[Contribution Margin]] ratio is 40% ($40 [[Contribution Margin]] per item divided by $100 sale price per item). Therefore, the break-even point in sales dollars is $50,000 ($20,000 total fixed costs divided by 40%). Confirm this figured by multiplying the break-even in units (500) by the sale price ($100), which equals $50,000.
 
 ## Real-World Example
 

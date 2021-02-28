@@ -16,12 +16,12 @@ Investopedia Staff
 
 An economy of scope means that the production of one good reduces the cost of producing another related good. Economies of scope occur when producing a wider variety of goods or services in tandem is more cost effective for a firm than producing less of a variety, or producing each good independently. In such a case, the long-run average and [marginal cost](https://www.investopedia.com/terms/m/marginalcostofproduction.asp) of a company, organization, or economy decreases due to the production of [complementary goods](https://www.investopedia.com/terms/c/complement.asp) and services.
 
-While economies of scope are characterized by efficiencies formed by variety, [economies of scale](https://www.investopedia.com/terms/e/economiesofscale.asp) are instead characterized by volume. The latter refers to a reduction in marginal cost by producing additional units. Economies of scale, for instance, helped drive corporate growth in the 20th century through assembly line production.
+While economies of scope are characterized by efficiencies formed by variety, [[[Economies of Scale]]](https://www.investopedia.com/terms/e/economiesofscale.asp) are instead characterized by volume. The latter refers to a reduction in marginal cost by producing additional units. [[Economies of Scale]], for instance, helped drive corporate growth in the 20th century through assembly line production.
 
 ### Key Takeaways
 
 -   Economies of scope describe situations where producing two or more goods together results in a lower marginal cost than producing them separately.
--   Economies of scope differ from economies of scale, in that the former means producing a variety of different products together to reduce costs while the latter means producing more of the same good in order to reduce costs by increasing efficiency.
+-   Economies of scope differ from [[Economies of Scale]], in that the former means producing a variety of different products together to reduce costs while the latter means producing more of the same good in order to reduce costs by increasing efficiency.
 -   Economies of scope can result from goods that are co-products or complements in production, goods that have complementary production processes, or goods that share inputs to production.
 
 ## Understanding Economies of Scope

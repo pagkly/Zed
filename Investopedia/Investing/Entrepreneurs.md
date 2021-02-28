@@ -120,7 +120,7 @@ Entrepreneurship refers to an individual that has an idea and intends to execute
 
 ### How Entrepreneurs Make Money
 
-Entrepreneurs make money like any business: they seek to generate revenues that are greater than costs. Increasing revenues is the goal and that can be achieved through marketing, word-of-mouth, and networking. Keeping costs low is also critical as it results in higher [profit margins](https://www.investopedia.com/terms/p/profitmargin.asp). This can be achieved through efficient operations and eventually [economies of scale](https://www.investopedia.com/terms/e/economiesofscale.asp).
+Entrepreneurs make money like any business: they seek to generate revenues that are greater than costs. Increasing revenues is the goal and that can be achieved through marketing, word-of-mouth, and networking. Keeping costs low is also critical as it results in higher [profit margins](https://www.investopedia.com/terms/p/profitmargin.asp). This can be achieved through efficient operations and eventually [[[Economies of Scale]]](https://www.investopedia.com/terms/e/economiesofscale.asp).
 
 ### Taxes for Entrepreneurs
 

@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Investopedia/Investing/Economic Value.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia/Investing/Economic Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +106,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Investopedia/Investing/Economic Value.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,15 +132,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia/Investing/Economies of Scope .md",
+    "Investopedia/Investing/Economies of Scale.md",
+    "Investopedia/Investing/Economics.md",
     "Investopedia/Investing/Economic Value.md",
+    "Investopedia/Investing/Contribution Margin.md",
     "Investopedia/Investing/Economic Stimulus.md",
     "Investopedia/Investing/Economic Shock .md",
     "Investopedia/Investing/Economic Rent.md",
     "Investopedia/Investing/Economic Recovery .md",
-    "Investopedia/Investing/Economic Profit (or Loss) .md",
-    "Investopedia/Investing/Economic Order Quantity – EOQ.md",
-    "Investopedia/Investing/Economic Moat .md",
-    "Investopedia/Investing/Economic Life.md",
-    "Investopedia/Investing/Economic Justice.md"
+    "Investopedia/Investing/Economic Profit (or Loss) .md"
   ]
 }

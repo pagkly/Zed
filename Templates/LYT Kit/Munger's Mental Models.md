@@ -51,7 +51,7 @@
 35. Competitive Advantage
 36. Creative Destruction
 37. Diminishing Utility
-38. Economies of Scale
+38. [[Economies of Scale]]
 39. [[Elasticity]]
 40. Externalities
 41. Markets

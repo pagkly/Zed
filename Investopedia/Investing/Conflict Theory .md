@@ -89,4 +89,4 @@ One common criticism of conflict theory is that it fails to capture the way in w
 
 ### Who is credited with inventing conflict theory?
 
-Conflict theory is attributed to Karl Marx, a 19th-century political philosopher who led the development of communism as a school of thought in economics. Karl Marx’s two most famous works are “The Communist Manifesto”, which he published in 1848; and “Das Kapital”, published in 1867. Although he lived in the 19th-century, he had a substantial influence on politics and economics in the 20th-century, and is generally considered one of recent history’s most influential and controversial thinkers.
+Conflict theory is attributed to Karl Marx, a 19th-century political philosopher who led the development of communism as a school of thought in [[Economics]]. Karl Marx’s two most famous works are “The Communist Manifesto”, which he published in 1848; and “Das Kapital”, published in 1867. Although he lived in the 19th-century, he had a substantial influence on politics and [[Economics]] in the 20th-century, and is generally considered one of recent history’s most influential and controversial thinkers.
