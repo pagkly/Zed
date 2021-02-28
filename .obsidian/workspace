@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia2/Why Assets Under Management – AUM Matters.md",
+            "file": "Investopedia2/Playing in the Auction Market Requires Competitive Bidding.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia2/Why Assets Under Management – AUM Matters.md",
+                "file": "Investopedia2/Playing in the Auction Market Requires Competitive Bidding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia2/Why Assets Under Management – AUM Matters.md"
+                "file": "Investopedia2/Playing in the Auction Market Requires Competitive Bidding.md"
               }
             }
           },
@@ -138,6 +138,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia2/Playing in the Auction Market Requires Competitive Bidding.md",
     "Investopedia2/Why Assets Under Management – AUM Matters.md",
     "Investopedia2/Alpha.md",
     "Investopedia2/Asset Management Company (AMC).md",
@@ -146,7 +147,6 @@
     "Investopedia2/Affirmative Action.md",
     "Investopedia2/Administrative Services Only (ASO) Definition.md",
     "Investopedia2/Adjustable Life Insurance.md",
-    "Investopedia2/Amortization of Intangibles Definition.md",
-    "Investopedia2/Amortization.md"
+    "Investopedia2/Amortization of Intangibles Definition.md"
   ]
 }
