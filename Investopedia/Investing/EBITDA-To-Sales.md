@@ -5,7 +5,7 @@ source: https://www.investopedia.com/terms/e/ebitda_to_sales_ratio.asp
 author: By
 Adam Hayes
 ---
-
+EBITDA-To-Sales Ratio
 # EBITDA-To-Sales Ratio Definition
 
 > ## Excerpt
@@ -14,11 +14,11 @@ Adam Hayes
 ---
 ## What Is the EBITDA-To-Sales Ratio?
 
-The EBITDA-to-sales ratio, also known as [EBITDA margin](https://www.investopedia.com/terms/e/ebitda-margin.asp), is a financial metric used to assess a company's profitability by comparing its gross revenue with its earnings. More specifically, since [EBITDA](https://www.investopedia.com/terms/e/ebitda.asp) itself is derived in part from revenue, this metric indicates the percentage of a company's earnings remaining after operating expenses. A higher value indicates the company is able to produce earnings more efficiently by keeping costs low.
+The EBITDA-to-sales ratio, also known as [[[EBITDA Margin]]](https://www.investopedia.com/terms/e/ebitda-margin.asp), is a financial metric used to assess a company's profitability by comparing its gross revenue with its earnings. More specifically, since [EBITDA](https://www.investopedia.com/terms/e/ebitda.asp) itself is derived in part from revenue, this metric indicates the percentage of a company's earnings remaining after operating expenses. A higher value indicates the company is able to produce earnings more efficiently by keeping costs low.
 
 ### Key Takeaways
 
--   The EBITDA-to-sales ratio (EBITDA margin) shows how much cash a company generates for each dollar of sales revenue, before accounting for interest, taxes, and amortization & depreciation.
+-   The EBITDA-to-sales ratio ([[EBITDA Margin]]) shows how much cash a company generates for each dollar of sales revenue, before accounting for interest, taxes, and amortization & depreciation.
 -   A low EBITDA-to-sales ratio suggests that a company may have problems with profitability as well as its cash flow, while a high result may indicate a solid business with stable earnings.
 -   Because the ratio excludes the impact of debt interest, highly leveraged companies should cot be evaluated using this metric.
 

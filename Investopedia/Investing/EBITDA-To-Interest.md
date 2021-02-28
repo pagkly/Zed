@@ -5,7 +5,7 @@ source: https://www.investopedia.com/terms/e/ebitdacoverinterestratio.asp
 author: By
 Adam Hayes
 ---
-
+EBITDA-To-Interest Coverage Ratio
 # [[EBITDA]]-To-Interest Coverage Ratio Definition
 
 > ## Excerpt
