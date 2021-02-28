@@ -66,7 +66,7 @@ Perhaps the most aggressive way of attempting to capitalize on a bull market is 
 
 ## Bull Market Example
 
-The most prolific bull market in modern American history started at the end of the stagflation era in 1982 and concluded during the dotcom bust in 2000. During this secular bull market—a term that denotes a bull market lasting many years—the Dow Jones Industrial Average (DJIA) averaged 16.8% annual returns. The NASDAQ, a tech-heavy exchange, increased its value five-fold between 1995 and 2000, rising from 1,000 to over 5,000. A protracted bear market followed the 1982-2000 bull market. From 2000 to 2009, the market struggled to establish footing and delivered average annual returns of -6.2%. However, 2009 saw the start of ten-year bull market run. Analysts believe that the last bull market started on March 9, 2009 and was mainly led by an upswing in technology stocks.
+The most prolific bull market in modern American history started at the end of the stagflation era in 1982 and concluded during the dotcom bust in 2000. During this secular bull market—a term that denotes a bull market lasting many years—the Dow Jones Industrial Average (DJIA) averaged 16.8% annual returns. The NASDAQ, a tech-heavy exchange, increased its value five-fold between 1995 and 2000, rising from 1,000 to over 5,000. A protracted [[Bear Market ]]followed the 1982-2000 bull market. From 2000 to 2009, the market struggled to establish footing and delivered average annual returns of -6.2%. However, 2009 saw the start of ten-year bull market run. Analysts believe that the last bull market started on March 9, 2009 and was mainly led by an upswing in technology stocks.
 
 ## Frequently Asked Questions
 

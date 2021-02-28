@@ -40,13 +40,13 @@ Below are two examples of Bayes' theorem in which the first example shows how th
 
 ### Deriving the Bayes' Theorem Formula
 
-Bayes' theorem follows simply from the axioms of conditional probability. Conditional probability is the probability of an event given that another event occurred. For example, a simple probability question may ask: "What is the probability of Amazon.com's stock price falling?" Conditional probability takes this question a step further by asking: "What is the probability of AMZN stock price falling _given that_ the [Dow Jones Industrial Average](https://www.investopedia.com/terms/d/djia.asp) (DJIA) index fell earlier?"
+Bayes' theorem follows simply from the axioms of conditional probability. Conditional probability is the probability of an event given that another event occurred. For example, a simple probability question may ask: "What is the probability of Amazon.com's stock price falling?" Conditional probability takes this question a step further by asking: "What is the probability of AMZN stock price falling _given that_ the [[[DJIA |Dow Jones Industrial Average]]](https://www.investopedia.com/terms/d/[[DJIA |djia]].asp) ([[DJIA |DJIA]]) index fell earlier?"
 
 The conditional probability of A given that B has happened can be expressed as:
 
-If A is: "AMZN price falls" then P(AMZN) is the probability that AMZN falls; and B is: "DJIA is already down," and P(DJIA) is the probability that the DJIA fell; then the conditional probability expression reads as "the probability that AMZN drops given a DJIA decline is equal to the probability that AMZN price declines and DJIA declines over the probability of a decrease in the DJIA index.
+If A is: "AMZN price falls" then P(AMZN) is the probability that AMZN falls; and B is: "[[DJIA ]]is already down," and P([[DJIA |DJIA]]) is the probability that the [[DJIA ]]fell; then the conditional probability expression reads as "the probability that AMZN drops given a [[DJIA ]]decline is equal to the probability that AMZN price declines and [[DJIA ]]declines over the probability of a decrease in the [[DJIA ]]index.
 
-P(AMZN|DJIA) = P(AMZN and DJIA) / P(DJIA)
+P(AMZN|[[DJIA |DJIA]]) = P(AMZN and DJIA) / P(DJIA)
 
 P(AMZN and DJIA) is the probability of _both_ A and B occurring. This is also the same as the probability of A occurring multiplied by the probability that B occurs given that A occurs, expressed as P(AMZN) x P(DJIA|AMZN). The fact that these two expressions are equal leads to Bayes' theorem, which is written as:
 

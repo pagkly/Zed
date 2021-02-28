@@ -2,8 +2,7 @@
 created: 2021-02-25T22:36:16 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/d/dupontanalysis.asp
-author: By
-Marshall Hargrave
+author: Marshall Hargrave
 ---
 How to Use the DuPont Analysis to Assess a Company's ROE
 # DuPont Analysis Definition

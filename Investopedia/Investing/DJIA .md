@@ -1,6 +1,7 @@
 ---
+alias: [Dow Jones Industrial Average, DJIA]
 created: 2021-02-25T22:36:00 (UTC +11:00)
-tags: []
+tags: [Dow Jones Industrial Average, DJIA]
 source: https://www.investopedia.com/terms/d/djia.asp
 author: Akhilesh Ganti
 ---
@@ -261,7 +262,7 @@ The following are some important historical milestones achieved by the Dow: 
 -   Dec. 26, 2018: The Dow recorded its largest one-day point gain of 1086.25.
 -   July 11, 2019: The Dow broke above 27,000 for the first time in its history.
 -   Feb. 12, 2020: The Dow hits its pre-crisis high of 29,551.
--   March 2020: The Dow Jones crashes with back-to-back record down days amid the global coronavirus pandemic, breaking below 20,000 and falling 3,000 points in a single day amid several 2,000 and 1,500 up and down moves. It officially entered bear market territory on March 11, 2020, ending the longest bull market in history that began in March 2009.6
+-   March 2020: The Dow Jones crashes with back-to-back record down days amid the global coronavirus pandemic, breaking below 20,000 and falling 3,000 points in a single day amid several 2,000 and 1,500 up and down moves. It officially entered [[Bear Market ]]territory on March 11, 2020, ending the longest bull market in history that began in March 2009.6
 -   Nov. 16, 2020: The finally broke its pre-COVID-19 high, reaching 29,950.44 points.7
 -   Nov. 24, 2020: The Dow closes [breaks the 30,000 mark](https://www.investopedia.com/dow-tops-30-000-for-first-time-ever-5088847) for the first time, closing at 30,045.84. 8
 

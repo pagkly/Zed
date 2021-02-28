@@ -40,7 +40,7 @@ Bear markets can last for multiple years or just several weeks. A [secular](http
 
 The U.S. major market indexes were close to bear market territory on December 24, 2018, falling just shy of a 20% drawdown. More recently, major indexes including the S&P 500 and Dow Jones Industrial Average fell sharply into bear market territory between March 11–12, 2020. Prior to that, the last prolonged bear market in the United States occurred between 2007 and 2009 during [the Financial Crisis](https://www.investopedia.com/terms/f/financial-crisis.asp) and lasted for roughly 17 months. The S&P 500 lost 50% of its value during that time.
 
-In February 2020, global stocks entered a sudden bear market in the wake of the global coronavirus pandemic, sending the DJIA down 38% from its all-time high on February 12 (29,568.77) to a low on March 23 (18,213.65) in just over one month. Though the S&P 500 and the Nasdaq 100 both made new highs by August, the DJIA failed to do so.
+In February 2020, global stocks entered a sudden bear market in the wake of the global coronavirus pandemic, sending the [[DJIA |DJIA]] down 38% from its all-time high on February 12 (29,568.77) to a low on March 23 (18,213.65) in just over one month. Though the S&P 500 and the Nasdaq 100 both made new highs by August, the DJIA failed to do so.
 
 History and duration of bear markets.
 
@@ -61,7 +61,7 @@ The bear market phenomenon is thought to get its name from the way in which a be
 
 A bear market should not be confused with a correction, which is a short-term trend that has a duration of fewer than two months. While [corrections](https://www.investopedia.com/terms/c/correction.asp) offer a good time for value investors to find an [entry point](https://www.investopedia.com/terms/e/entry-point.asp) into stock markets, bear markets rarely provide suitable points of entry. This barrier is because it is almost impossible to determine a bear market's bottom. Trying to recoup losses can be an uphill battle unless investors are short sellers or use other strategies to make gains in falling markets.
 
-Between 1900 and 2018, there were 33 bear markets, averaging one every 3.5 years. One of the most recent bear markets coincided with the global financial crisis occurring between October 2007 and March 2009. During that time the Dow Jones Industrial Average (DJIA) declined 54%.
+Between 1900 and 2018, there were 33 bear markets, averaging one every 3.5 years. One of the most recent bear markets coincided with the global financial crisis occurring between October 2007 and March 2009. During that time the [[DJIA |Dow Jones Industrial Average]] (DJIA) declined 54%.
 
 ## Short Selling in Bear Markets
 
@@ -81,6 +81,6 @@ A put option gives the owner the freedom, but not the responsibility, to sell a 
 
 The ballooning housing mortgage default crisis caught up with the stock market in October 2007. Back then, the S&P 500 had touched a high of 1565.15 October 9. By March 5, 2009, it had crashed to 682.55 as the extent and ramifications of housing mortgage defaults on the overall economy became clear. The U.S. major market indexes were again close to bear market territory on December 24, 2018, falling just shy of a 20% drawdown.
 
-Most recently, the Dow Jones Industrial Average went into a bear market on March 11, 2020, and the S&P 500 entered a bear market on March 12, 2020. This followed the longest bull market on record for the index, which started in March 2009. Stocks were driven down by the effects of the coronavirus and falling oil prices due to the split between Saudi Arabia and Russia. During this period, the Dow Jones fell sharply from all-time highs close to 30,000 to lows below 19,000 in a matter of weeks.
+Most recently, the [[DJIA |Dow Jones Industrial Average]] went into a bear market on March 11, 2020, and the S&P 500 entered a bear market on March 12, 2020. This followed the longest bull market on record for the index, which started in March 2009. Stocks were driven down by the effects of the coronavirus and falling oil prices due to the split between Saudi Arabia and Russia. During this period, the Dow Jones fell sharply from all-time highs close to 30,000 to lows below 19,000 in a matter of weeks.
 
 Other examples include the aftermath of the bursting of the dot com bubble in March 2000, which wiped out approximately 49% of the S&P 500's value and lasted until October 2002; and the Great Depression which began with the stock market collapse of October 28-29, 1929.

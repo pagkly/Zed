@@ -63,4 +63,4 @@ As of August 15, 2020, the SPY had assets under management of $300 billion with 
 
 ### EDOW
 
-The First Trust Dow 30 Equal Weight ETF (EDOW) tracks the 30 stocks in the [Dow Jones Industrial Average (DJIA)](https://www.investopedia.com/terms/d/djia.asp). The EDOW has assets under management of $37 million and much lower trading volume compared to the SPY, averaging nearly 3,000 shares per day. Liquidity for this fund could be a consideration for investors, meaning it could be difficult to buy and sell shares at certain times of the day or week.
+The First Trust Dow 30 Equal Weight ETF (EDOW) tracks the 30 stocks in the [[[DJIA |Dow Jones Industrial Average]] ([[DJIA |DJIA]])](https://www.investopedia.com/terms/d/djia.asp). The EDOW has assets under management of $37 million and much lower trading volume compared to the SPY, averaging nearly 3,000 shares per day. Liquidity for this fund could be a consideration for investors, meaning it could be difficult to buy and sell shares at certain times of the day or week.
