@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia/Investing/ARR.md",
+            "file": "Untitled 1.md",
             "mode": "source"
           }
         }
@@ -77,11 +77,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia/Investing/ARR.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia/Investing/ARR.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -138,6 +138,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "02-Mar-2021.md",
     "Investopedia/Investing/ARR.md",
     "Investopedia/Investing/Artificial Intelligence (AI).md",
     "Investopedia/Investing/Asset Management.md",
@@ -145,8 +147,6 @@
     "Investopedia/Investing/Average True Range (ATR).md",
     "Investopedia/Investing/Asset Turnover Ratio.md",
     "Investopedia/Investing/Bank Identification Numbers.md",
-    "Investopedia/Investing/Energy Risk Professional (ERP).md",
-    "Investopedia/Investing/Angel Investor.md",
-    "Investopedia/Investing/Accounting Rate of Return (ARR) Definition.md"
+    "Investopedia/Investing/Energy Risk Professional (ERP).md"
   ]
 }
