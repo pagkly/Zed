@@ -1,9 +1,9 @@
 ---
+alias: [Enhanced Oil Recovery, EOR]
 created: 2021-02-28T12:07:22 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/e/enhanced-oil-recovery.asp
-author: By
-Jason Fernando
+author: Jason Fernando
 ---
 
 # Enhanced Oil Recovery (EOR) Definition

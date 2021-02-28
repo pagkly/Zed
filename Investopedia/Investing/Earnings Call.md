@@ -18,7 +18,7 @@ Earnings call is a conference call between the management of a [public company](
 
 ## Earnings Call Explained
 
-The term "earnings call" is a combination of a company's report of "earnings" (such as its [net income](https://www.investopedia.com/terms/n/netincome.asp) or [earnings per share](https://www.investopedia.com/terms/e/eps.asp)) and the conference call to discuss results.
+The term "earnings call" is a combination of a company's report of "earnings" (such as its [net income](https://www.investopedia.com/terms/n/netincome.asp) or [[[EPS|earnings per share]]](https://www.investopedia.com/terms/e/eps.asp)) and the conference call to discuss results.
 
 The vast majority of listed companies host earnings calls to discuss their financial results although small companies with minimal investor interest may be the exception to the rule. Many companies provide a phone recording or presentation of the earnings call on their corporate websites for a number of weeks after the actual call, making it possible for investors who could not log in to the call to access this information.
 

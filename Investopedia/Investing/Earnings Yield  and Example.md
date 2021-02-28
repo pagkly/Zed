@@ -9,12 +9,12 @@ Cory Mitchell
 # Earnings Yield Definition
 
 > ## Excerpt
-> Earnings yield is a valuation metric that refers to the earnings per share for the most recent 12-month period divided by the current price per share.
+> Earnings yield is a valuation metric that refers to the [[EPS|earnings per share]] for the most recent 12-month period divided by the current price per share.
 
 ---
 ## What Is Earnings Yield?
 
-The earnings yield refers to the [earnings per share](https://www.investopedia.com/terms/e/eps.asp) for the most recent 12-month period divided by the current market price per share. The earnings yield (which is the inverse of the [P/E ratio](https://www.investopedia.com/terms/p/price-earningsratio.asp)) shows the percentage of a company's earnings per share. This metric is used by many investment managers to determine optimal [asset allocations](https://www.investopedia.com/terms/a/assetallocation.asp) and is used by investors to determine which assets seem underpriced or overpriced.
+The earnings yield refers to the [[[EPS|earnings per share]]](https://www.investopedia.com/terms/e/eps.asp) for the most recent 12-month period divided by the current market price per share. The earnings yield (which is the inverse of the [P/E ratio](https://www.investopedia.com/terms/p/price-earningsratio.asp)) shows the percentage of a company's [[EPS|earnings per share]]. This metric is used by many investment managers to determine optimal [asset allocations](https://www.investopedia.com/terms/a/assetallocation.asp) and is used by investors to determine which assets seem underpriced or overpriced.
 
 ### Key Takeaways
 
@@ -23,7 +23,7 @@ The earnings yield refers to the [earnings per share](https://www.investopedia.c
 -   Earnings yield is one indication of value; a low ratio may indicate an overvalued stock, or a high value may indicate an undervalued stock.
 -   The growth prospects for a company are a critical consideration when using earnings yield. Stocks with high growth potential are typically valued higher and may have a low earnings yield even as their stock price rises.
 
-#### Earnings Per Share Explained
+#### [[EPS|Earnings Per Share]] Explained
 
 ## How Earnings Yield Works
 

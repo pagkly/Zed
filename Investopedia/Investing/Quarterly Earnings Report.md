@@ -14,9 +14,9 @@ Alicia Tuovila
 ---
 ## What Is a Quarterly Earnings Report?
 
-A quarterly earnings report is a quarterly filing made by public companies to report their performance. Earnings reports include items such as net income, [earnings per share](https://www.investopedia.com/terms/e/eps.asp), earnings from [continuing operations](https://www.investopedia.com/terms/c/continuingoperations.asp), and net sales. By analyzing quarterly earnings reports, investors can begin to gauge the financial health of the company and determine whether it deserves their investment.
+A quarterly earnings report is a quarterly filing made by public companies to report their performance. Earnings reports include items such as net income, [[[EPS|earnings per share]]](https://www.investopedia.com/terms/e/eps.asp), earnings from [continuing operations](https://www.investopedia.com/terms/c/continuingoperations.asp), and net sales. By analyzing quarterly earnings reports, investors can begin to gauge the financial health of the company and determine whether it deserves their investment.
 
-[Fundamental analysts](https://www.investopedia.com/terms/f/fundamentalanalysis.asp) believe that good investments are identified with hard work in the form of ratio and performance analysis. Particular attention is paid to the trend in ratios gleaned from the quarterly earnings reports over time, rather than solely the single data point from each report. One of the most anticipated numbers for analysis is earnings per share because it provides an indication of how much the company earned for its shareholders.
+[Fundamental analysts](https://www.investopedia.com/terms/f/fundamentalanalysis.asp) believe that good investments are identified with hard work in the form of ratio and performance analysis. Particular attention is paid to the trend in ratios gleaned from the quarterly earnings reports over time, rather than solely the single data point from each report. One of the most anticipated numbers for analysis is [[EPS|earnings per share]] because it provides an indication of how much the company earned for its shareholders.
 
 ## Understanding the Quarterly Earnings Report
 

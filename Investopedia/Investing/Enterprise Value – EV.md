@@ -52,7 +52,7 @@ EV/EBITDA is useful in a number of situations:
 
 -   The ratio may be more useful than the P/E ratio when comparing firms with different [degrees of financial leverage](https://www.investopedia.com/terms/d/dfl.asp) (DFL).
 -   EBITDA is useful for valuing capital-intensive businesses with high levels of depreciation and amortization.
--   EBITDA is usually positive even when earnings per share ([[EPS]]) is not.
+-   EBITDA is usually positive even when [[EPS|earnings per share]] ([[EPS]]) is not.
 
 EV/EBITDA also has a number of drawbacks, however:
 
