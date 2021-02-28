@@ -1,0 +1,52 @@
+---
+alias: [Binomial Distribution Definition]
+created: 2021-02-28T22:16:51 (UTC +11:00)
+tags: [Binomial Distribution Definition, How Binomial Distribution Works]
+source: https://www.investopedia.com/terms/b/binomialdistribution.asp
+author: By
+Adam Barone
+---
+
+# Binomial Distribution Definition
+
+> ## Excerpt
+> The binomial distribution is a probability distribution that summarizes the likelihood that a value will take one of two independent values.
+
+---
+
+How Binomial Distribution Works
+## What Is Binomial Distribution?
+
+The binomial distribution is a [probability distribution](https://www.investopedia.com/terms/p/probabilitydistribution.asp) that summarizes the likelihood that a value will take one of two independent values under a given set of parameters or assumptions. The underlying assumptions of the binomial distribution are that there is only one outcome for each trial, that each trial has the same probability of success, and that each trial is [mutually exclusive](https://www.investopedia.com/terms/m/mutuallyexclusive.asp), or independent of each other.
+
+### Key Takeaways
+
+-   The binomial distribution is a probability distribution that summarizes the likelihood that a value will take one of two independent values under a given set of parameters or assumptions.
+-   The underlying assumptions of the binomial distribution are that there is only one outcome for each trial, that each trial has the same probability of success, and that each trial is mutually exclusive or independent of each other.
+-   The binomial distribution is a common discrete distribution used in statistics, as opposed to a continuous distribution, such as the normal distribution.
+
+## Understanding Binomial Distribution
+
+The binomial distribution is a common [discrete](https://www.investopedia.com/terms/d/discrete-distribution.asp) distribution used in statistics, as opposed to a continuous distribution, such as the [normal distribution](https://www.investopedia.com/terms/n/normaldistribution.asp). This is because the binomial distribution only counts two states, typically represented as 1 (for a success) or 0 (for a failure) given a number of trials in the data. The binomial distribution, therefore, represents the probability for x successes in n trials, given a success probability p for each trial.
+
+Binomial distribution summarizes the number of trials, or observations when each trial has the same probability of attaining one particular value. The binomial distribution determines the probability of observing a specified number of successful outcomes in a specified number of trials.
+
+The binomial distribution is often used in social science statistics as a building block for models for dichotomous outcome variables, like whether a Republican or Democrat will win an upcoming election or whether an individual will die within a specified period of time, etc.
+
+## Analyzing Binomial Distribution
+
+The expected value, or mean, of a binomial distribution, is calculated by multiplying the number of trials by the probability of successes. For example, the expected value of the number of heads in 100 trials of head and tales is 50, or (100 \* 0.5). Another common example of the binomial distribution is by estimating the chances of success for a free-throw shooter in basketball where 1 = a basket is made and 0 = a miss.
+
+The mean of the binomial distribution is np, and the variance of the binomial distribution is np (1 − p). When p = 0.5, the distribution is symmetric around the mean. When p > 0.5, the distribution is skewed to the left. When p < 0.5, the distribution is skewed to the right.
+
+The binomial distribution is the sum of a series of multiple independent and identically distributed Bernoulli trials. In a Bernoulli trial, the experiment is said to be random and can only have two possible outcomes: success or failure.
+
+For example, flipping a coin is considered to be a Bernoulli trial; each trial can only take one of two values (heads or tails), each success has the same probability (the probability of flipping a head is 0.5), and the results of one trial do not influence the results of another. The Bernoulli distribution is a special case of the binomial distribution where the number of trials n = 1.
+
+## Example of Binomial Distribution
+
+The [binomial distribution](https://www.investopedia.com/articles/active-trading/092114/basics-binomial-distribution.asp) is calculated by multiplying the probability of success raised to the power of the number of successes and the probability of failure raised to the power of the difference between the number of successes and the number of trials. Then, multiply the product by the combination between the number of trials and the number of successes.
+
+For example, assume that a casino created a new game in which participants are able to place bets on the number of heads or tails in a specified number of coin flips. Assume a participant wants to place a $10 bet that there will be exactly six heads in 20 coin flips. The participant wants to calculate the probability of this occurring, and therefore, they use the calculation for the binomial distribution.
+
+The probability was calculated as: (20! / (6! \* (20 - 6)!)) \* (0.50)^(6) \* (1 - 0.50) ^ (20 - 6). Consequently, the probability of exactly six heads occurring in 20 coin flips is 0.037, or 3.7%. The expected value was 10 heads in this case, so the participant made a poor bet.

@@ -1,0 +1,100 @@
+---
+alias: [Commodity Futures Contract]
+created: 2021-02-28T22:26:39 (UTC +11:00)
+tags: [Commodity Futures Contract Definition, How Commodity Futures Contracts Work]
+source: https://www.investopedia.com/terms/c/commodityfuturescontract.asp
+author: James Chen
+---
+
+# Commodity Futures Contract Definition
+
+> ## Excerpt
+> A commodity futures contract allows an investor to trade a certain quantity of the commodity of their choice at a specific price at a later point in time.
+
+---
+
+How Commodity Futures Contracts Work
+## What Is a Commodity Futures Contract?
+
+A commodity futures contract is an agreement to buy or sell a predetermined amount of a [commodity](https://www.investopedia.com/terms/c/commodity.asp) at a specific price on a specific date in the future. Commodity futures can be used to hedge or protect an investment position or to bet on the directional move of the underlying asset.
+
+Many investors confuse futures contracts with options contracts. With futures contracts, the holder has an obligation to act. Unless the holder unwinds the futures contract before expiration, they must either buy or sell the underlying asset at the stated price.
+
+## How a Commodity Futures Contract Works
+
+Most commodity futures contracts are closed out or netted at their expiration date. The price difference between the original trade and the closing trade is cash-settled. Commodity futures are typically used to take a position in an underlying asset. Typical assets include:
+
+-   Crude oil
+-   Wheat
+-   Corn
+-   Gold
+-   Silver
+-   Natural Gas
+
+Commodity futures contracts are called by the name of their expiration month meaning the contract ending in September is the September futures contract. Some commodities can have a significant amount of price volatility or price fluctuations. As a result, there's the potential for large gains but large losses as well.
+
+### Key Takeaways
+
+-   A commodity futures contract is an agreement to buy or sell a predetermined amount of a commodity at a specific price on a specific date in the future.
+-   Commodity futures can be used to hedge or protect an investment position or to bet on the directional move of the underlying asset.
+-   The high degree of leverage used with commodity futures can amplify gains, but losses can be amplified as well.
+
+## Speculating with Commodity Futures Contracts
+
+Commodities futures contracts can be used by speculators to make directional price bets on the underlying asset's price. Positions can be taken in either direction meaning investors can go long (or buy) as well as go short (or sell) the commodity.
+
+Commodity futures use a high degree of [leverage](https://www.investopedia.com/terms/l/leverage.asp) so that the investor doesn't need to put up the total amount of the contract. Instead, a fraction of the total trade amount must be placed with the broker handling the account. The amount of leverage needed can vary, given the commodity and the broker.
+
+As an example, let's say an [initial margin](https://www.investopedia.com/terms/i/initialmargin.asp) amount of $3,700 allows an investor to enter into a [futures contract](https://www.investopedia.com/terms/f/futurescontract.asp) for 1,000 barrels of oil valued at $45,000—with oil priced at $45 per barrel. If the price of oil is trading at $60 at the contract's expiry, the investor has a $15 gain or a $15,000 profit. The trades would settle through the investor's brokerage account crediting the net difference of the two contracts. Most futures contracts will be cash-settled, but some contracts will settle with the delivery of the underlying asset to a centralized processing warehouse.
+
+Considering the significant amount of leverage with futures trading, a small move in the price of a commodity could result in large gains or losses compared to the initial margin. Speculating on futures is an advanced trading strategy and not fit for the risk tolerance of most investors.
+
+### Risks of Commodity Speculating
+
+Unlike options, futures are the obligation of the purchase or sale of the [underlying asset](https://www.investopedia.com/terms/u/underlying-asset.asp). As a result, failure to close an existing position could result in an inexperienced investor taking delivery of a large quantity of unwanted commodities.
+
+Trading in commodity [futures](https://www.investopedia.com/terms/f/futures.asp) contracts can be very risky for the inexperienced. The high degree of leverage used with commodity futures can amplify gains, but losses can be amplified as well. If a futures contract position is losing money, the broker can initiate a [margin call](https://www.investopedia.com/terms/m/margincall.asp), which is a demand for additional funds to shore up the account. Further, the broker will usually have to approve an account to trade on margins before they can enter into contracts.
+
+## Hedging with Commodity Futures Contracts
+
+As mentioned earlier, most speculation futures cash settle. Another reason to enter the futures market, however, is to [hedge](https://www.investopedia.com/terms/h/hedge.asp) the price of the commodity. Businesses use future hedges to lock in prices of the commodities they sell or used in production.
+
+Commodity futures used by companies give a hedge to the risk of adverse price movements. The goal of hedging is to prevent losses from potentially unfavorable price changes rather than to speculate. Many companies that hedge use or producing the underlying asset of a futures contract. Examples of commodities hedging use include farmers, oil producers, livestock breeders, manufacturers, and many others.
+
+For example, a plastics producer could use commodity futures to lock in a price for buying natural gas by-products needed for production at a date in the future. The price of natural gas—like all petroleum products—can fluctuate considerably, and since the producer requires the natural gas by-product for production, they are at risk of cost increases in the future.
+
+If a company locks in the price and the price increases, the manufacturer would have a profit on the commodity hedge. The profit from the hedge would offset the increased cost of purchasing the product. Also, the company could take delivery of the product or offset the futures contract pocketing the profit from the net difference between the purchase price and the sale price of the futures contracts.
+
+## Risks to Commodity Hedging
+
+Hedging a commodity can lead to a company missing out on favorable price moves since the contract is locked in at a fixed rate regardless of where the commodity's price trades afterward. Also, if the company miscalculates their needs for the commodity and over-hedges, it could lead to having to unwind the futures contract for a loss when selling it back to the market.
+
+Pros
+
+-   Leveraged margin accounts only require a fraction of the total contract amount deposited initially.
+    
+-   Speculators and companies can trade both sides of the market.
+    
+-   Companies can hedge the price of necessary commodities, and control costs.
+    
+
+Cons
+
+-   The high degree of leverage can amplify losses and lead to margin calls and significant losses.
+    
+-   Hedging a commodity can lead to a company missing out on favorable price moves since the contract is fixed.
+    
+-   If a company over hedges a commodity, it can lead to losses from unwinding the contract.
+    
+
+## Real-World Example of Commodity Futures
+
+Business owners can use commodity futures contracts to fix the selling prices of their products weeks, months, or years in advance.
+
+As an example, let's say a farmer is expecting to produce 1,000,000 bushels of soybeans in the next 12 months. Typically, soybean futures contracts include the quantity of 5,000 bushels. The farmer's break-even point on a bushel of soybeans is $10 per bushel meaning $10 is the minimum price needed to cover the costs of producing the soybeans. The farmer sees that a one-year futures contract for soybeans is currently priced at $15 per bushel.
+
+The farmer decides to lock in the $15 selling price per bushel by selling enough one-year soybean contracts to cover the harvest. The farmer needs 200 futures contracts (1,000,000 bushels needed / 5,000 bushels per contract = 200 contracts).
+
+One year later, regardless of price, the farmer delivers the 1,000,000 bushels and receives the locked-in price of $15 x 200 contracts x 5000 bushels, or $15,000,000 in total income.
+
+However, unless soybeans were priced at $15 per bushel in the market on the expiration date, the farmer had either gotten paid more than the prevailing market price or missed out on higher prices. If soybeans were priced at $13 per bushel at expiry, the farmer's $15 hedge would be $2 per bushel higher than the market price for a gain of $2,000,000. On the other hand, if soybeans were trading at $17 per bushel at expiry, the $15 selling price from the contract means the farmer would have missed out on an additional $2 per bushel profit.

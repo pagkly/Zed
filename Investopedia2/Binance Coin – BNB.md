@@ -1,0 +1,41 @@
+---
+alias: [Binance Coin – BNB]
+created: 2021-02-28T22:16:51 (UTC +11:00)
+tags: [Binance Coin – BNB Definition, Binance Coin – BNB]
+source: https://www.investopedia.com/terms/b/binance-coin-bnb.asp
+author: Jake Frankenfield
+---
+
+# Binance Coin – BNB Definition
+
+> ## Excerpt
+> Binance Coin (BNB) is the native currency of the Binance exchange which follows the ERC 20 standard.
+
+---
+
+Binance Coin – BNB
+## What Is Binance Coin?
+
+Binance Coin is the crypto-coin issued by Binance exchange, and trades with the BNB symbol. Binance coin runs on the [Ethereum](https://www.investopedia.com/terms/e/ethereum.asp) blockchain with [ERC 20 standard](https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/), and has a strict limit of maximum 200 million BNB tokens.
+
+## Binance Coin Explained
+
+The Binance coin is expected to fuel the operations of the Binance exchange and its ecosystem. It supports multiple utilities on the Binance ecosystem, which includes paying for trading fees, [exchange fees](https://www.investopedia.com/terms/e/exchange-fees.asp), listing fees, and any other fees on the Binance exchange.
+
+The first year launch offer provides a 50% discount on trades through Binance coin, and the discount percentage reduces by half each year. That is, the second-year discount is 25%, the third-year discount is 12.5%, and the fourth-year discount is 6.25%, with the discount ending from the fifth year onwards.
+
+One can also use Binance coins to invest in certain ICOs that are listed through Binance’s Launchpad program. New cryptocurrencies will list on the Binance exchange, and use of Binance will provide a seamless marketplace for [trading in a variety of established and new virtual tokens](https://www.investopedia.com/terms/g/gas-ethereum.asp).
+
+The crypto token has also garnered support from other partnerships which has helped its usage spread. It includes a partnership with Asia's premier high-end live video streaming platform, Uplive, which sells virtual gifts for BNB tokens to Uplive’s 20 million strong user base. Binance coin is also supported by the platform, the mobile app, and the VISA debit card of Monaco, the pioneering payments and cryptocurrency platform.
+
+Binance platform also has a repurchase plan, under which it will use 20% of its profits to buy back BNB tokens, and burn/destroy them until a maximum of 50%, or 100 million, BNB tokens are bought back. This process will leave only 100 million BNB tokens in circulation, helping it maintain a substantial value. Mid April-2018, the Binance team [announced](https://support.binance.com/hc/en-us/articles/360002684252-Binance-3rd-Quarterly-Token-Burn) that it completed the burn of 2,220,314 BNB tokens (roughly $30 million).
+
+Consistent coin burns with increasing burn percentage as per the scheduled plans indicate the Binance exchange's profitability.
+
+The coin was launched during an [initial coin offering (ICO)](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp) in July 2017. It offered 10%, or 20 million, BNB tokens to [angel investors](https://www.investopedia.com/terms/a/angelinvestor.asp), 40%, or 80 million, tokens to the founding team, and the remaining 50%, or 100 million, to the various participants through the ICO process.
+
+Almost half the funds raised during the ICO process were intended to be used for Binance branding and marketing, while around one-third were used to build the Binance platform and perform necessary upgrades to the Binance ecosystem.
+
+Binance Coin had a market cap of around $1.4 billion during early April 2018. At present, it does not offer exchange against fiat currencies and exchange in BNB is possible only through cryptocoins like bitcoin or ether tokens.
+
+Binance will eventually become the native currency of the decentralized Binance exchange.
