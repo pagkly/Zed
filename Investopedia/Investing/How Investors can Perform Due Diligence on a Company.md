@@ -176,7 +176,7 @@ Due diligence is primarily a way to reduce exposure to risk. The process ensures
 
 ### What Are the Types of Due Diligence?
 
-Depending on its purpose, due diligence takes different forms. A company that is considering an M&A will perform a financial analysis on a target company. The due diligence might also include an analysis of future growth. The acquirer may ask questions that address the structuring of the acquisition. The acquirer is also likely to look at the current practices and policies of the target company and perform a shareholder value analysis. Due diligence can be categorized as "hard" due diligence, which is concerned with the numbers on the financial statements, and "soft" due diligence, which is concerned with the people within the company and its customer base.
+Depending on its purpose, due diligence takes different forms. A company that is considering an M&A will perform a financial analysis on a target company. The due diligence might also include an analysis of future growth. The acquirer may ask questions that address the structuring of the [[Acquisition]]. The acquirer is also likely to look at the current practices and policies of the target company and perform a shareholder value analysis. Due diligence can be categorized as "hard" due diligence, which is concerned with the numbers on the financial statements, and "soft" due diligence, which is concerned with the people within the company and its customer base.
 
 ### What Is a Due Diligence Checklist?
 
@@ -184,7 +184,7 @@ A due diligence checklist is an organized way to analyze a company. The checklis
 
 ### What Is a Due Diligence Example?
 
-Examples of due diligence can be found in many areas of our daily lives. For example, conducting a property inspection before completing a purchase to assess the risk of the investment, an acquiring company that examines a target firm before completing a merger or acquisition, and an employer performing a background check on a potential recruit.
+Examples of due diligence can be found in many areas of our daily lives. For example, conducting a property inspection before completing a purchase to assess the risk of the investment, an acquiring company that examines a target firm before completing a merger or [[Acquisition]], and an employer performing a background check on a potential recruit.
 
 ## The Bottom Line
 

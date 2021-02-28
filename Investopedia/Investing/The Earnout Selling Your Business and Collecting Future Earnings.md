@@ -35,7 +35,7 @@ An earnout helps eliminate uncertainty for the buyer, as it is tied to future fi
 
 There are a number of key considerations, aside from the cash compensation when structuring an earnout. This includes determining the crucial members of the organization and whether an earnout is extended to them.
 
-The length of the contract and the executive's role with the company post-[acquisition](https://www.investopedia.com/terms/a/acquisition.asp) are two issues that also have to be negotiated. This is so because the performance of the company is tied to management as well as other key employees. If these employees leave then the company may not hit its financial targets.
+The length of the contract and the executive's role with the company post-[[[Acquisition]]](https://www.investopedia.com/terms/a/[[[[Acquisition]]]].asp) are two issues that also have to be negotiated. This is so because the performance of the company is tied to management as well as other key employees. If these employees leave then the company may not hit its financial targets.
 
 The agreement should also specify the accounting assumptions that will be used going forward. Although a company can adhere to [generally accepted accounting principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP), there are still judgments managers have to make that can affect results. For instance, assuming a higher level for returns and allowances will lower earnings.
 
