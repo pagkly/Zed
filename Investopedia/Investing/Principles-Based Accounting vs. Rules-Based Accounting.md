@@ -68,8 +68,8 @@ In the case of rules-based methods like GAAP, complex rules can cause unnecessar
 
 ## Example of Accounting Manipulation
 
-[Enron](https://www.investopedia.com/terms/e/enron.asp) was a major energy company in the 1990s. In 2001, Enron shareholders lost almost $75 billion in value after the company's executives used fraudulent accounting practices to overstate revenue while hiding debt in its subsidiaries.6
+[[[Enron]]](https://www.investopedia.com/terms/e/[[Enron]].asp) was a major energy company in the 1990s. In 2001, [[Enron]] shareholders lost almost $75 billion in value after the company's executives used fraudulent accounting practices to overstate revenue while hiding debt in its subsidiaries.6
 
-Enron declared bankruptcy–and with $63 billion in assets–was the largest U.S. bankruptcy at that time.7 The company's collapse sent shockwaves throughout the financial markets leading to a wave of additional regulations.
+[[Enron]] declared bankruptcy–and with $63 billion in assets–was the largest U.S. bankruptcy at that time.7 The company's collapse sent shockwaves throughout the financial markets leading to a wave of additional regulations.
 
 When contemplating which [accounting method](https://www.investopedia.com/terms/a/accountingmethod.asp) is best, make certain that the information provided in the financial statements is relevant, reliable, and comparable across reporting periods and entities. Although there are benefits to principle-based accounting, it is recognized that the method may need to be modified to make it more effective and efficient.

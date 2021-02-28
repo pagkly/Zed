@@ -67,7 +67,7 @@ Many [ratios](https://www.investopedia.com/financial-edge/0910/6-basic-financial
 As you research ratios for a company, compare several of its competitors. You might find yourself becoming more interested in a competitor.
 
 -   The P/E ratio gives you a general sense of how much expectation is built into the company's stock price. It's a good idea to examine this ratio over a few years to make sure that the current quarter isn't an aberration.
--   The [price-to-book (P/B) ratio](https://www.investopedia.com/terms/p/price-to-bookratio.asp), the enterprise multiple, and the price-to-sales (or revenue) ratio measure the valuation of the company in relation to its debt, annual revenues, and balance sheet. Peer comparison is important here because the healthy ranges differ from industry to industry.
+-   The [price-to-book (P/B) ratio](https://www.investopedia.com/terms/p/price-to-bookratio.asp), the [[Enterprise Multiple]], and the price-to-sales (or revenue) ratio measure the valuation of the company in relation to its debt, annual revenues, and balance sheet. Peer comparison is important here because the healthy ranges differ from industry to industry.
 -   The PEG ratio suggests expectations among investors for the company's future earnings growth and how it compares to the current earnings multiple. Stocks with PEG ratios close to one are considered fairly valued under normal market conditions.
 
 ### Step 5: Management and Share Ownership

@@ -1,9 +1,9 @@
 ---
+alias: [Enterprise Multiple]
 created: 2021-02-28T12:07:22 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/e/ev-ebitda.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Enterprise Multiple Definition

@@ -70,4 +70,4 @@ The [[EPS|earnings per share]] number may also be inflated with share [buybacks]
 
 Other companies may purchase a smaller company with a higher P/E ratio to [bootstrap](https://www.investopedia.com/terms/b/bootstrap.asp) their own numbers into favorable territory.
 
-When earnings manipulations are revealed, as in the case with Enron or Worldcom, the accounting crisis that follows often leaves shareholders on the hook for rapidly declining stock prices.
+When earnings manipulations are revealed, as in the case with [[Enron]] or Worldcom, the accounting crisis that follows often leaves shareholders on the hook for rapidly declining stock prices.
