@@ -34,7 +34,7 @@ CapEx can tell you how much a company is investing in existing and new [fixed as
 
 The amount of capital expenditures a company is likely to have is dependent on the industry. Some of the most capital-intensive industries have the highest levels of capital expenditures including oil exploration and production, telecommunication, manufacturing, and utility industries.
 
-CapEx can be found in the cash flow from investing activities in a company's [cash flow statement](https://www.investopedia.com/investing/what-is-a-cash-flow-statement/). Different companies highlight CapEx in a number of ways, and an analyst or investor may see it listed as capital spending, purchases of [property, plant, and equipment](https://www.investopedia.com/terms/p/ppe.asp) (PP&E), or acquisition expense.
+CapEx can be found in the cash flow from investing activities in a company's [cash flow statement](https://www.investopedia.com/investing/what-is-a-cash-flow-statement/). Different companies highlight CapEx in a number of ways, and an analyst or investor may see it listed as capital spending, purchases of [property, plant, and equipment](https://www.investopedia.com/terms/p/ppe.asp) (PP&E), or [[Acquisition]] expense.
 
 You can also calculate capital expenditures by using data from a company's income statement and balance sheet. On the income statement, find the amount of [depreciation expense](https://www.investopedia.com/terms/d/depreciation.asp) recorded for the current period. On the balance sheet, locate the current period's property, plant, and equipment (PP&E) line-item balance.
 

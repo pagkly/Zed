@@ -54,7 +54,7 @@ Real-world examples of the economy of scope can be seen in [mergers and acqui
 
 Economies of scope are essential for any large business, and a firm can go about achieving such scope in a variety of ways. First, and most common, is the idea that efficiency is gained through related [diversification](https://www.investopedia.com/terms/d/diversification.asp). Products that share the same inputs or that have complementary productive processes offer great opportunities for economies of scope through diversification.
 
-Horizontally [merging](https://www.investopedia.com/terms/m/merger.asp) with or [acquiring](https://www.investopedia.com/terms/a/acquisition.asp) another company is another a way to achieve economies of scope. Two regional retail chains, for example, may merge with each other to combine different product lines and reduce average warehouse costs. Goods that can share common inputs like this are very suitable for generating economies of scope through horizontal acquisitions.
+Horizontally [merging](https://www.investopedia.com/terms/m/merger.asp) with or [acquiring](https://www.investopedia.com/terms/a/[[Acquisition]].asp) another company is another a way to achieve economies of scope. Two regional retail chains, for example, may merge with each other to combine different product lines and reduce average warehouse costs. Goods that can share common inputs like this are very suitable for generating economies of scope through horizontal acquisitions.
 
 ## Example of Economies of Scope
 
