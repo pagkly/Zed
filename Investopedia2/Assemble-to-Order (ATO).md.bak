@@ -1,5 +1,5 @@
 ---
-alias: [Assemble-to-Order (ATO)]
+alias: [Assemble-to-Order , ATO]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Assemble-to-Order (ATO) Definition, Assemble-to-Order (ATO)]
 source: https://www.investopedia.com/terms/a/assemble-to-order.asp

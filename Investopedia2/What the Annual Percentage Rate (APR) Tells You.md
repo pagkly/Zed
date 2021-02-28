@@ -1,5 +1,5 @@
 ---
-alias: [Annual Percentage Rate , APR]
+alias: [Annual Percentage Rate, APR]
 created: 2021-02-28T16:45:03 (UTC +11:00)
 tags: [Annual Percentage Rate (APR) Definition, What the Annual Percentage Rate (APR) Tells You]
 source: https://www.investopedia.com/terms/a/apr.asp

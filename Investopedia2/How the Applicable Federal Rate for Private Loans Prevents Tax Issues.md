@@ -1,5 +1,5 @@
 ---
-alias: [Applicable Federal Rate , AFR]
+alias: [Applicable Federal Rate, AFR]
 created: 2021-02-28T16:45:06 (UTC +11:00)
 tags: [Applicable Federal Rate (AFR) Definition, How the Applicable Federal Rate for Private Loans Prevents Tax Issues]
 source: https://www.investopedia.com/terms/a/applicablefederalrate.asp

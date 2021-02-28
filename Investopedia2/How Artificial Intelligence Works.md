@@ -1,5 +1,5 @@
 ---
-alias: [Artificial Intelligence , AI]
+alias: [Artificial Intelligence, AI]
 created: 2021-02-28T16:45:06 (UTC +11:00)
 tags: [Artificial Intelligence (AI) Definition, How Artificial Intelligence Works]
 source: https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Appraisal Management Company (AMC)]
+alias: [Appraisal Management Company , AMC]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Appraisal Management Company (AMC) Definition, Appraisal Management Company (AMC)]
 source: https://www.investopedia.com/terms/a/appraisal-management-company-amc.asp

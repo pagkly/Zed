@@ -1,5 +1,5 @@
 ---
-alias: [Introduction to Allocated Loss Adjustment Expenses , ALAE]
+alias: [Introduction to Allocated Loss Adjustment Expenses, ALAE]
 created: 2021-02-28T20:46:40 (UTC +11:00)
 tags: [Introduction to Allocated Loss Adjustment Expenses (ALAE) Definition, Introduction to Allocated Loss Adjustment Expenses (ALAE)]
 source: https://www.investopedia.com/terms/a/allocated-loss-adjustment-expenses-alae.asp

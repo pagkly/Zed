@@ -1,5 +1,5 @@
 ---
-alias: [Alternative Minimum Tax (AMT)]
+alias: [Alternative Minimum Tax , AMT]
 created: 2021-02-28T20:46:41 (UTC +11:00)
 tags: [Alternative Minimum Tax (AMT) Definition, What Is an Alternative Minimum Tax (AMT)?]
 source: https://www.investopedia.com/terms/a/alternativeminimumtax.asp

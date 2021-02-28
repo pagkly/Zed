@@ -1,5 +1,5 @@
 ---
-alias: [American Opportunity Tax Credit , AOTC]
+alias: [American Opportunity Tax Credit, AOTC]
 created: 2021-02-28T20:46:43 (UTC +11:00)
 tags: [American Opportunity Tax Credit (AOTC) Definition, American Opportunity Tax Credit (AOTC)]
 source: https://www.investopedia.com/terms/a/american-opportunity-tax-credit.asp

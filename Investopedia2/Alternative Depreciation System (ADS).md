@@ -1,5 +1,5 @@
 ---
-alias: [Alternative Depreciation System , ADS]
+alias: [Alternative Depreciation System, ADS]
 created: 2021-02-28T20:46:37 (UTC +11:00)
 tags: [Alternative Depreciation System (ADS) Definition, Alternative Depreciation System (ADS)]
 source: https://www.investopedia.com/terms/a/alternative-depreciation-system.asp

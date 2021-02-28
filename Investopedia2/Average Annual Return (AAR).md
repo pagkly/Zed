@@ -1,5 +1,5 @@
 ---
-alias: [Average Annual Return , AAR]
+alias: [Average Annual Return, AAR]
 created: 2021-02-28T17:42:12 (UTC +11:00)
 tags: [Average Annual Return (AAR) Definition, Average Annual Return (AAR)]
 source: https://www.investopedia.com/terms/a/aar.asp

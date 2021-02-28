@@ -1,5 +1,5 @@
 ---
-alias: [Asset-Liability Committee , ALCO]
+alias: [Asset-Liability Committee, ALCO]
 created: 2021-02-28T17:42:15 (UTC +11:00)
 tags: [Asset-Liability Committee (ALCO) Definition, Asset-Liability Committee (ALCO)]
 source: https://www.investopedia.com/terms/a/asset-liability-committee.asp

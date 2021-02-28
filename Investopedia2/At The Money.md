@@ -1,5 +1,5 @@
 ---
-alias: [At The Money , ATM]
+alias: [At The Money, ATM]
 created: 2021-02-28T17:42:13 (UTC +11:00)
 tags: [At The Money (ATM) Definition, At The Money]
 source: https://www.investopedia.com/terms/a/atthemoney.asp

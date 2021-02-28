@@ -1,5 +1,5 @@
 ---
-alias: [Average Directional Index (ADX)]
+alias: [Average Directional Index , ADX]
 created: 2021-02-28T17:42:07 (UTC +11:00)
 tags: [Average Directional Index (ADX) Definition, Average Directional Index (ADX) Definition and Uses]
 source: https://www.investopedia.com/terms/a/adx.asp

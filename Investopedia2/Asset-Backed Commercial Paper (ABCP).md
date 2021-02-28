@@ -1,5 +1,5 @@
 ---
-alias: [Asset-Backed Commercial Paper , ABCP]
+alias: [Asset-Backed Commercial Paper, ABCP]
 created: 2021-02-28T17:42:11 (UTC +11:00)
 tags: [Asset-Backed Commercial Paper (ABCP) Definition, Asset-Backed Commercial Paper (ABCP)]
 source: https://www.investopedia.com/terms/a/asset_backed_commercial_paper.asp

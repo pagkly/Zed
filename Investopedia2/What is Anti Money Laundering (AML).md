@@ -1,5 +1,5 @@
 ---
-alias: [Anti Money Laundering , AML]
+alias: [Anti Money Laundering, AML]
 created: 2021-02-28T16:45:10 (UTC +11:00)
 tags: [Anti Money Laundering (AML) Definition, What is Anti Money Laundering (AML)?]
 source: https://www.investopedia.com/terms/a/aml.asp
