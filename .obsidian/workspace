@@ -6,12 +6,23 @@
       {
         "id": "3579901811c7b7bb",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Day Planners/20210302.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "205ef00fcd70bc55",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Temporal/Now.md",
+            "mode": "preview"
           }
         }
       },
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/20210302.md",
+                "file": "Templates/Temporal/Now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/20210302.md"
+                "file": "Templates/Temporal/Now.md"
               }
             }
           },
@@ -161,15 +172,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Templates/Temporal/Now.md",
+    "Templates/Temporal/Date.md",
+    "Templates/Temporal/Daily.md",
+    "Templates/DailyNotes.md",
+    "Templates/Untitled 3.md",
+    "Day Planners/Lincoln20210302.md",
     "Day Planners/20210302.md",
     "Day Planners/20210323.md",
     "Day Planners/20210424.md",
-    "Day Planners/20210303.md",
-    "Day Planners/Lincoln20210302.md",
-    "Day Planners/Day Planner-20210228.md",
-    "Untitled.md",
-    "README.md",
-    "Day Planners/Day Planner-20210227.md",
-    "Day Planners/02-Mar-2021.md"
+    "Day Planners/20210303.md"
   ]
 }
