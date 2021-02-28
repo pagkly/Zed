@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Temporal/Now.md",
-            "mode": "preview"
+            "file": "Day Planners/Temporal/Daily.md",
+            "mode": "source"
           }
         }
       },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Temporal/Now.md",
+                "file": "Day Planners/Temporal/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Temporal/Now.md"
+                "file": "Day Planners/Temporal/Daily.md"
               }
             }
           },
@@ -172,15 +172,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Day Planners/Temporal/Daily.md",
+    "Day Planners/Temporal/Date.md",
+    "Templates/Temporal/Today.md",
+    "Templates/Temporal/time.md",
     "Templates/Temporal/Now.md",
     "Templates/Temporal/Date.md",
     "Templates/Temporal/Daily.md",
     "Templates/DailyNotes.md",
     "Templates/Untitled 3.md",
-    "Day Planners/Lincoln20210302.md",
-    "Day Planners/20210302.md",
-    "Day Planners/20210323.md",
-    "Day Planners/20210424.md",
-    "Day Planners/20210303.md"
+    "Day Planners/Lincoln20210302.md"
   ]
 }
