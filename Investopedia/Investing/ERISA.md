@@ -1,7 +1,7 @@
 ---
 alias: [Employee Retirement Income Security Act, ERISA]
 created: 2021-02-28T12:07:21 (UTC +11:00)
-tags: []
+tags: [Employee Retirement Income Security Act, ERISA]
 source: https://www.investopedia.com/terms/e/erisa.asp
 author: Julia Kagan
 ---

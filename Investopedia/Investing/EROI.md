@@ -1,7 +1,7 @@
 ---
 alias: [Energy Return on Investment, EROI]
 created: 2021-02-28T12:07:22 (UTC +11:00)
-tags: []
+tags: [Energy Return on Investment, EROI]
 source: https://www.investopedia.com/terms/e/energy-return-on-investment.asp
 author: James Chen
 ---

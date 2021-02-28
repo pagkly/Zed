@@ -1,6 +1,6 @@
 ---
 created: 2021-02-28T11:55:17 (UTC +11:00)
-tags: []
+tags: [Economic Value Added, EVA]
 source: https://www.investopedia.com/terms/e/eva.asp
 author: By
 James Chen

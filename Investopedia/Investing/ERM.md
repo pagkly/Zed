@@ -1,7 +1,7 @@
 ---
 alias: [Enterprise Risk Management, ERM]
 created: 2021-02-28T12:07:22 (UTC +11:00)
-tags: []
+tags: [Enterprise Risk Management, ERM]
 source: https://www.investopedia.com/terms/e/enterprise-risk-management.asp
 author: Will Kenton
 ---
