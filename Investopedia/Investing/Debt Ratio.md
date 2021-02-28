@@ -1,9 +1,9 @@
 ---
+alias: [Debt Ratio]
 created: 2021-02-25T22:33:41 (UTC +11:00)
-tags: []
+tags: [Debt Ratio]
 source: https://www.investopedia.com/terms/d/debtratio.asp
-author: By
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Debt Ratio Definition

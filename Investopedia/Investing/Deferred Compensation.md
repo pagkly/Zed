@@ -1,9 +1,8 @@
 ---
 created: 2021-02-25T22:34:04 (UTC +11:00)
-tags: []
+tags: [Deferred Compensation]
 source: https://www.investopedia.com/terms/d/deferred-compensation.asp
-author: By
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Deferred Compensation Definition

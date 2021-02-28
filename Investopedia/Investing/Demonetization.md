@@ -2,8 +2,7 @@
 created: 2021-02-25T22:34:51 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/d/demonetization.asp
-author: By
-Investopedia Staff
+author: Investopedia Staff
 ---
 
 # Demonetization Definition

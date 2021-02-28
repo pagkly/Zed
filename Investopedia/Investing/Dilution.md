@@ -2,8 +2,7 @@
 created: 2021-02-25T22:35:06 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/d/dilution.asp
-author: By
-Akhilesh Ganti
+author: Akhilesh Ganti
 ---
 
 # Dilution

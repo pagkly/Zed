@@ -2,8 +2,7 @@
 created: 2021-02-25T22:36:00 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/d/djia.asp
-author: By
-Akhilesh Ganti
+author: Akhilesh Ganti
 ---
 
 # Dow Jones Industrial Average (DJIA) Definition

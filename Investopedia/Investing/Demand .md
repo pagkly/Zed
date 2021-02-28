@@ -1,9 +1,8 @@
 ---
 created: 2021-02-25T22:34:35 (UTC +11:00)
-tags: []
+tags: [Demand]
 source: https://www.investopedia.com/terms/d/demand.asp
-author: By
-Investopedia Staff
+author: Investopedia Staff
 ---
 
 # Demand Definition

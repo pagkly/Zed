@@ -2,8 +2,7 @@
 created: 2021-02-25T22:34:58 (UTC +11:00)
 tags: []
 source: https://www.investopedia.com/terms/d/derivative.asp
-author: By
-Jason Fernando
+author: Jason Fernando
 ---
 
 # Derivative Definition
