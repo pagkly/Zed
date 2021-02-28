@@ -67,7 +67,7 @@ In order to make sure that a specific stock is being compared to the right bench
 
 For example, a gold [[exchange-traded fund (ETF)]](https://www.investopedia.com/terms/e/etf.asp), such as the SPDR Gold Shares ([[GLD]](https://www.investopedia.com/markets/quote?tvwidgetsymbol&=gld)), is tied to the performance of gold bullion.1 Consequently, a gold ETF would have a low  [[Beta]]  and R-squared relationship with the S&P 500.
 
-One way for a stock investor to think about risk is to split it into two categories. The first category is called systematic risk, which is the risk of the entire market declining. The [[financial crisis in 2008]](https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp) is an example of a systematic-risk event; no amount of [[diversification]](https://www.investopedia.com/terms/d/diversification.asp) could have prevented investors from losing value in their stock portfolios. [[Systematic Risk]] is also known as un-diversifiable risk.
+One way for a stock investor to think about risk is to split it into two categories. The first category is called [[Systematic Risk]], which is the risk of the entire market declining. The [[financial crisis in 2008]](https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp) is an example of a systematic-risk event; no amount of [[diversification]](https://www.investopedia.com/terms/d/diversification.asp) could have prevented investors from losing value in their stock portfolios. [[Systematic Risk]] is also known as un-diversifiable risk.
 
 [[Unsystematic risk]](https://www.investopedia.com/terms/u/unsystematicrisk.asp), also known as diversifiable risk, is the uncertainty associated with an individual stock or industry. For example, the surprise announcement that the company Lumber Liquidators ([[LL]](https://www.investopedia.com/markets/quote?tvwidgetsymbol&=LL)) had been selling hardwood flooring with dangerous levels of formaldehyde in 2015 is an example of unsystematic risk.2 It was risk that was specific to that company. Unsystematic risk can be partially mitigated through diversification.
 
@@ -76,7 +76,7 @@ One way for a stock investor to think about risk is to split it into two categor
 
 ###  [[Beta]] Value Equal to 1.0
 
-If a stock has a  [[Beta]]  of 1.0, it indicates that its price activity is strongly correlated with the market. A stock with a [[Beta]] of 1.0 has **systematic risk**. However, the [[Beta]] calculation can’t detect any unsystematic risk. Adding a stock to a portfolio with a  [[Beta]] of 1.0 doesn’t add any risk to the portfolio, but it also doesn’t increase the likelihood that the portfolio will provide an excess return.
+If a stock has a  [[Beta]]  of 1.0, it indicates that its price activity is strongly correlated with the market. A stock with a [[Beta]] of 1.0 has **[[Systematic Risk]]**. However, the [[Beta]] calculation can’t detect any unsystematic risk. Adding a stock to a portfolio with a  [[Beta]] of 1.0 doesn’t add any risk to the portfolio, but it also doesn’t increase the likelihood that the portfolio will provide an excess return.
 
 ###  [[Beta]]  Value Less Than One
 

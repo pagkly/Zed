@@ -22,7 +22,7 @@ Said another way, CLT is a statistical theory stating that given a sufficiently 
 
 -   The central limit theorem (CLT) states that the distribution of sample means approximates a normal distribution as the sample size gets larger.
 -   Sample sizes equal to or greater than 30 are considered sufficient for the CLT to hold.
--   A key aspect of CLT is that the average of the sample means and standard deviations will equal the population mean and standard deviation.
+-   A key aspect of CLT is that the average of the sample means and standard deviations will equal the population mean and [[Standard Deviation]].
 -   A sufficiently large sample size can predict the characteristics of a population accurately.
 
 Although this concept was first developed by Abraham de Moivre in 1733, it wasn’t formally named until 1930, when noted Hungarian mathematician George Polya officially dubbed it the Central Limit Theorem.12
@@ -33,7 +33,7 @@ According to the central limit theorem, the mean of a sample of data will be clo
 
 As a general rule, sample sizes equal to or greater than 30 are deemed sufficient for the CLT to hold, meaning that the distribution of the sample means is fairly normally distributed. Therefore, the more samples one takes, the more the graphed results take the shape of a normal distribution.
 
-Central Limit Theorem exhibits a phenomenon where the average of the sample means and standard deviations equal the population mean and standard deviation, which is extremely useful in accurately predicting the characteristics of populations.
+Central Limit Theorem exhibits a phenomenon where the average of the sample means and standard deviations equal the population mean and [[Standard Deviation]], which is extremely useful in accurately predicting the characteristics of populations.
 
 ## The Central Limit Theorem in Finance
 

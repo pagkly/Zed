@@ -45,7 +45,7 @@ Correlation statistics also allows investors to determine when the correlation b
 
 ## Correlation Coefficient Equation
 
-To calculate the Pearson product-moment correlation, one must first determine the covariance of the two variables in question. Next, one must calculate each variable's standard deviation. The correlation coefficient is determined by dividing the covariance by the product of the two variables' standard deviations.
+To calculate the Pearson product-moment correlation, one must first determine the covariance of the two variables in question. Next, one must calculate each variable's [[Standard Deviation]]. The correlation coefficient is determined by dividing the covariance by the product of the two variables' standard deviations.
 
 ρxy\=Cov(x,y)σxσywhere:ρxy\=Pearson product-moment correlation coefficientCov(x,y)\=covariance of variables x and yσx\=standard deviation of xσy\=standard deviation of y
 
@@ -60,7 +60,7 @@ $$
 \end{aligned}
 $$
 
-Standard deviation is a measure of the [dispersion](https://www.investopedia.com/terms/d/dispersion.asp) of data from its average. Covariance is a measure of how two variables change together, but its magnitude is unbounded, so it is difficult to interpret. By dividing covariance by the product of the two standard deviations, one can calculate the normalized version of the statistic. This is the correlation coefficient.
+[[Standard Deviation]] is a measure of the [dispersion](https://www.investopedia.com/terms/d/dispersion.asp) of data from its average. Covariance is a measure of how two variables change together, but its magnitude is unbounded, so it is difficult to interpret. By dividing covariance by the product of the two standard deviations, one can calculate the normalized version of the statistic. This is the correlation coefficient.
 
 ## Frequently Asked Questions
 

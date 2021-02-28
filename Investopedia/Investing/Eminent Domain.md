@@ -24,7 +24,7 @@ Eminent domain is the power of the United States government, states, and municip
 
 ## Understanding Eminent Domain
 
-Eminent domain is a right granted under the Fifth Amendment of the Constitution. Similar powers are found in most [common law](https://www.investopedia.com/terms/c/common-law.asp) nations. Called "[expropriation](https://www.investopedia.com/terms/e/expropriation.asp)" in Canada, "compulsory acquisition" in Australia, in the U.K., New Zealand, and Ireland eminent domain is known as "compulsory purchase."
+Eminent domain is a right granted under the Fifth Amendment of the Constitution. Similar powers are found in most [common law](https://www.investopedia.com/terms/c/common-law.asp) nations. Called "[expropriation](https://www.investopedia.com/terms/e/expropriation.asp)" in Canada, "compulsory [[Acquisition]]" in Australia, in the U.K., New Zealand, and Ireland eminent domain is known as "compulsory purchase."
 
 Private property is taken through [condemnation](https://www.investopedia.com/terms/c/condemnation.asp) proceedings, in which owners can challenge the legality of the seizure and settle the matter of fair market value used for compensation. The most straightforward examples of condemnation involve land and buildings seized to make way for a public project. It may include airspace, water, dirt, timber, and rock appropriated from private land for the construction of roads.
 

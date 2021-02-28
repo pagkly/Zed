@@ -9,22 +9,22 @@ Will Kenton
 # Beta Definition
 
 > ## Excerpt
-> Beta is a measure of the volatility, or systematic risk, of a security or portfolio in comparison to the market as a whole. It is used in the capital asset pricing model.
+> Beta is a measure of the volatility, or [[Systematic Risk]], of a security or portfolio in comparison to the market as a whole. It is used in the capital asset pricing model.
 
 ---
 ## What Is Beta?
 
-Beta is a measure of the volatility_—_or [systematic risk](https://www.investopedia.com/terms/s/systematicrisk.asp)_—_of a security or portfolio compared to the market as a whole. Beta is used in the [capital asset pricing model](https://www.investopedia.com/terms/c/capm.asp) (CAPM), which describes the relationship between systematic risk and expected return for assets (usually stocks). CAPM is widely used as a method for pricing risky securities and for generating estimates of the expected returns of assets, considering both the risk of those assets and the cost of capital.
+Beta is a measure of the volatility_—_or [[[Systematic Risk]]](https://www.investopedia.com/terms/s/systematicrisk.asp)_—_of a security or portfolio compared to the market as a whole. Beta is used in the [capital asset pricing model](https://www.investopedia.com/terms/c/capm.asp) (CAPM), which describes the relationship between [[Systematic Risk]] and expected return for assets (usually stocks). CAPM is widely used as a method for pricing risky securities and for generating estimates of the expected returns of assets, considering both the risk of those assets and the cost of capital.
 
 ### Key Takeaways
 
--   Beta, primarily used in the [[Capital Asset Pricing Model (CAPM)]], is a measure of the volatility–or systematic risk–of a security or portfolio compared to the market as a whole.
+-   Beta, primarily used in the [[Capital Asset Pricing Model (CAPM)]], is a measure of the volatility–or [[Systematic Risk]]–of a security or portfolio compared to the market as a whole.
 -   Beta data about an individual stock can only provide an investor with an approximation of how much risk the stock will add to a (presumably) diversified portfolio.
 -   For beta to be meaningful, the stock should be related to the benchmark that is used in the calculation.
 
 ## How Beta Works
 
-A [beta](https://www.investopedia.com/ask/answers/070615/what-formula-calculating-beta.asp) coefficient can measure the volatility of an individual stock compared to the systematic risk of the entire market. In statistical terms, beta represents the slope of the line through a regression of data points. In finance, each of these data points represents an individual stock's returns against those of the market as a whole.
+A [beta](https://www.investopedia.com/ask/answers/070615/what-formula-calculating-beta.asp) coefficient can measure the volatility of an individual stock compared to the [[Systematic Risk]] of the entire market. In statistical terms, beta represents the slope of the line through a regression of data points. In finance, each of these data points represents an individual stock's returns against those of the market as a whole.
 
 Beta effectively describes the activity of a security's returns as it responds to swings in the market. A security's beta is calculated by dividing the product of the [covariance](https://www.investopedia.com/terms/c/covariance.asp) of the security's returns and the market's returns by the [variance](https://www.investopedia.com/terms/v/variance.asp) of the market's returns over a specified period.
 
@@ -36,11 +36,11 @@ The beta calculation is used to help investors understand whether a stock moves 
 
 Ultimately, an investor is using beta to try to gauge how much risk a stock is adding to a portfolio. While a stock that deviates very little from the market doesn’t add a lot of risk to a portfolio, it also doesn’t increase the potential for greater returns.
 
-In order to make sure that a specific stock is being compared to the right benchmark, it should have a high R-squared value in relation to the benchmark. [R-squared](https://www.investopedia.com/terms/r/r-squared.asp) is a statistical measure that shows the percentage of a security's historical price movements that can be explained by movements in the benchmark index. When using beta to determine the degree of systematic risk, a security with a high R-squared value, in relation to its benchmark, could indicate a more relevant benchmark.
+In order to make sure that a specific stock is being compared to the right benchmark, it should have a high R-squared value in relation to the benchmark. [R-squared](https://www.investopedia.com/terms/r/r-squared.asp) is a statistical measure that shows the percentage of a security's historical price movements that can be explained by movements in the benchmark index. When using beta to determine the degree of [[Systematic Risk]], a security with a high R-squared value, in relation to its benchmark, could indicate a more relevant benchmark.
 
 For example, a gold [exchange-traded fund (ETF)](https://www.investopedia.com/terms/e/etf.asp), such as the SPDR Gold Shares ([GLD](https://www.investopedia.com/markets/quote?tvwidgetsymbol=gld)), is tied to the performance of gold bullion.1 Consequently, a gold ETF would have a low beta and R-squared relationship with the S&P 500.
 
-One way for a stock investor to think about risk is to split it into two categories. The first category is called systematic risk, which is the risk of the entire market declining. The [financial crisis in 2008](https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp) is an example of a systematic-risk event; no amount of [diversification](https://www.investopedia.com/terms/d/diversification.asp) could have prevented investors from losing value in their stock portfolios. Systematic risk is also known as un-diversifiable risk.
+One way for a stock investor to think about risk is to split it into two categories. The first category is called [[Systematic Risk]], which is the risk of the entire market declining. The [financial crisis in 2008](https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp) is an example of a systematic-risk event; no amount of [diversification](https://www.investopedia.com/terms/d/diversification.asp) could have prevented investors from losing value in their stock portfolios. [[Systematic Risk]] is also known as un-diversifiable risk.
 
 [Unsystematic risk](https://www.investopedia.com/terms/u/unsystematicrisk.asp), also known as diversifiable risk, is the uncertainty associated with an individual stock or industry. For example, the surprise announcement that the company Lumber Liquidators ([LL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=LL)) had been selling hardwood flooring with dangerous levels of formaldehyde in 2015 is an example of unsystematic risk.2 It was risk that was specific to that company. Unsystematic risk can be partially mitigated through diversification.
 
@@ -48,7 +48,7 @@ One way for a stock investor to think about risk is to split it into two categor
 
 ### Beta Value Equal to 1.0
 
-If a stock has a beta of 1.0, it indicates that its price activity is strongly correlated with the market. A stock with a beta of 1.0 has systematic risk. However, the beta calculation can’t detect any unsystematic risk. Adding a stock to a portfolio with a beta of 1.0 doesn’t add any risk to the portfolio, but it also doesn’t increase the likelihood that the portfolio will provide an excess return.
+If a stock has a beta of 1.0, it indicates that its price activity is strongly correlated with the market. A stock with a beta of 1.0 has [[Systematic Risk]]. However, the beta calculation can’t detect any unsystematic risk. Adding a stock to a portfolio with a beta of 1.0 doesn’t add any risk to the portfolio, but it also doesn’t increase the likelihood that the portfolio will provide an excess return.
 
 ### Beta Value Less Than One
 

@@ -28,7 +28,7 @@ ARR\=AverageAnnualProfitInitialInvestmentARR = \\frac{Average\\, Annual\\, Profi
 
 ## What Does ARR Tell You?
 
-Accounting rate of return is a [capital budgeting](https://www.investopedia.com/video/play/capital-budgeting/) metric that's useful if you want to calculate an investment's profitability quickly. Businesses use ARR primarily to compare multiple projects to determine the expected rate of return of each project, or to help decide on an investment or an [acquisition](https://www.investopedia.com/terms/a/acquisition.asp). ARR factors in any possible annual expenses, including depreciation, associated with the project. Depreciation is a helpful accounting convention whereby the cost of a fixed asset is spread out, or expensed, annually during the useful life of the asset. This lets the company earn a profit from the asset right away, even in its first year of service.
+Accounting rate of return is a [capital budgeting](https://www.investopedia.com/video/play/capital-budgeting/) metric that's useful if you want to calculate an investment's profitability quickly. Businesses use ARR primarily to compare multiple projects to determine the expected rate of return of each project, or to help decide on an investment or an [[[Acquisition]]](https://www.investopedia.com/terms/a/acquisition.asp). ARR factors in any possible annual expenses, including depreciation, associated with the project. Depreciation is a helpful accounting convention whereby the cost of a fixed asset is spread out, or expensed, annually during the useful life of the asset. This lets the company earn a profit from the asset right away, even in its first year of service.
 
 ### Key Takeaways
 

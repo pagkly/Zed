@@ -94,7 +94,7 @@ Look at some of the greatest and most successful companies; all of them have had
 
 ## Entrepreneurship Financing
 
-Given the riskiness of a new venture, the acquisition of capital funding is particularly challenging, and many entrepreneurs deal with it via bootstrapping: financing a business using methods such as using their own money, providing [sweat equity](https://www.investopedia.com/terms/s/sweatequity.asp) to reduce labor costs, minimizing inventory, and factoring receivables.
+Given the riskiness of a new venture, the [[Acquisition]] of capital funding is particularly challenging, and many entrepreneurs deal with it via bootstrapping: financing a business using methods such as using their own money, providing [sweat equity](https://www.investopedia.com/terms/s/sweatequity.asp) to reduce labor costs, minimizing inventory, and factoring receivables.
 
 While some entrepreneurs are lone players struggling to get small businesses off the ground on a [shoestring](https://www.investopedia.com/terms/s/shoestring.asp), others take on partners armed with greater access to capital and other resources. In these situations, new firms may acquire financing from venture capitalists, angel investors, hedge funds, crowdfunding, or through more traditional sources such as bank loans.
 

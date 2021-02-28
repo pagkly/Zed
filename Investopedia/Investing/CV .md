@@ -14,11 +14,11 @@ Adam Hayes
 ---
 ## What Is the Coefficient of Variation (CV)?
 
-The coefficient of variation (CV) is a statistical measure of the dispersion of data points in a data series around the mean. The coefficient of variation represents the ratio of the standard deviation to the mean, and it is a useful statistic for comparing the degree of variation from one data series to another, even if the means are drastically different from one another.
+The coefficient of variation (CV) is a statistical measure of the dispersion of data points in a data series around the mean. The coefficient of variation represents the ratio of the [[Standard Deviation]] to the mean, and it is a useful statistic for comparing the degree of variation from one data series to another, even if the means are drastically different from one another.
 
 ## Understanding the Coefficient of Variation
 
-The coefficient of variation shows the extent of [variability](https://www.investopedia.com/terms/v/variability.asp) of data in a sample in relation to the mean of the population. In finance, the coefficient of variation allows investors to determine how much volatility, or risk, is assumed in comparison to the amount of return expected from investments. Ideally, if the coefficient of variation formula should result in a lower ratio of the [standard deviation](https://www.investopedia.com/terms/s/standarddeviation.asp) to mean return, then the better the risk-return trade-off. Note that if the expected return in the denominator is negative or zero, the coefficient of variation could be misleading.
+The coefficient of variation shows the extent of [variability](https://www.investopedia.com/terms/v/variability.asp) of data in a sample in relation to the mean of the population. In finance, the coefficient of variation allows investors to determine how much volatility, or risk, is assumed in comparison to the amount of return expected from investments. Ideally, if the coefficient of variation formula should result in a lower ratio of the [[[Standard Deviation]]](https://www.investopedia.com/terms/s/standarddeviation.asp) to mean return, then the better the risk-return trade-off. Note that if the expected return in the denominator is negative or zero, the coefficient of variation could be misleading.
 
 The coefficient of variation is helpful when using the risk/reward ratio to select investments. For example, an investor who is risk-averse may want to consider assets with a historically low degree of [volatility](https://www.investopedia.com/terms/v/volatility.asp) relative to the return, in relation to the overall market or its industry. Conversely, risk-seeking investors may look to invest in assets with a historically high degree of volatility.
 
@@ -30,7 +30,7 @@ The coefficient of variation formula or calculation can be used to determine the
 
 -   The coefficient of variation (CV) is a statistical measure of the relative dispersion of data points in a data series around the mean.
 -   In finance, the coefficient of variation allows investors to determine how much volatility, or risk, is assumed in comparison to the amount of return expected from investments.
--   The lower the ratio of the standard deviation to mean return, the better risk-return trade-off.
+-   The lower the ratio of the [[Standard Deviation]] to mean return, the better risk-return trade-off.
 
 ## Coefficient of Variation Formula
 

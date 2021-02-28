@@ -14,7 +14,7 @@ Will Kenton
 ---
 ## What Is the Capital Asset Pricing Model?
 
-The Capital Asset Pricing Model (CAPM) describes the relationship between systematic risk and [expected return](https://www.investopedia.com/terms/e/expectedreturn.asp) for assets, particularly stocks. CAPM is widely used throughout finance for pricing risky [securities](https://www.investopedia.com/terms/s/security.asp) and generating expected returns for assets given the risk of those assets and [cost of capital](https://www.investopedia.com/terms/c/costofcapital.asp).
+The Capital Asset Pricing Model (CAPM) describes the relationship between [[Systematic Risk]] and [expected return](https://www.investopedia.com/terms/e/expectedreturn.asp) for assets, particularly stocks. CAPM is widely used throughout finance for pricing risky [securities](https://www.investopedia.com/terms/s/security.asp) and generating expected returns for assets given the risk of those assets and [cost of capital](https://www.investopedia.com/terms/c/costofcapital.asp).
 
 #### Capital Asset Pricing Model - CAPM
 
@@ -64,7 +64,7 @@ The graph shows how greater expected returns (y-axis) require greater expected r
 
 The CML and efficient frontier may be difficult to define, but it illustrates an important concept for investors: there is a trade-off between increased return and increased risk. Because it isn’t possible to perfectly build a portfolio that fits on the CML, it is more common for investors to take on too much risk as they seek additional return.
 
-In the following chart, you can see two portfolios that have been constructed to fit along the efficient frontier. Portfolio A is expected to return 8% per year and has a 10% [standard deviation](https://www.investopedia.com/terms/s/standarddeviation.asp) or risk level. Portfolio B is expected to return 10% per year but has a 16% standard deviation. The risk of portfolio B rose faster than its expected returns.
+In the following chart, you can see two portfolios that have been constructed to fit along the efficient frontier. Portfolio A is expected to return 8% per year and has a 10% [[[Standard Deviation]]](https://www.investopedia.com/terms/s/standarddeviation.asp) or risk level. Portfolio B is expected to return 10% per year but has a 16% [[Standard Deviation]]. The risk of portfolio B rose faster than its expected returns.
 
 Image by Julie Bang © Investopedia 2019
 
@@ -86,7 +86,7 @@ Imagine an advisor who has proposed adding a stock to a portfolio with a $100 sh
 
 Assume in this example that the peer group’s performance over the last few years was a little better than 10% while this stock had consistently underperformed with 9% returns. The investment manager shouldn’t take the advisor’s recommendation without some justification for the increased expected return.
 
-An investor can also use the concepts from the CAPM and efficient frontier to evaluate their portfolio or individual stock performance compared to the rest of the market. For example, assume that an investor’s portfolio has returned 10% per year for the last three years with a standard deviation of returns (risk) of 10%. However, the market averages have returned 10% for the last three years with a risk of 8%.
+An investor can also use the concepts from the CAPM and efficient frontier to evaluate their portfolio or individual stock performance compared to the rest of the market. For example, assume that an investor’s portfolio has returned 10% per year for the last three years with a [[Standard Deviation]] of returns (risk) of 10%. However, the market averages have returned 10% for the last three years with a risk of 8%.
 
 The investor could use this observation to reevaluate how their portfolio is constructed and which holdings may not be on the SML. This could explain why the investor’s portfolio is to the right of the CML. If the holdings that are either dragging on returns or have increased the portfolio’s risk disproportionately can be identified, the investor can make changes to improve returns.
 

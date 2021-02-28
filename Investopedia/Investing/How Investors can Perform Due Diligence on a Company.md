@@ -158,7 +158,7 @@ Other examples of hard due diligence activities include:
 
 Conducting soft due diligence is not an exact science. It should focus on how well a targeted workforce will mesh with the acquiring corporation's culture.
 
-Hard and soft due diligence intertwine when it comes to compensation and incentive programs. These programs are not only based on real numbers, making them easy to incorporate into post-acquisition planning, but they can also be discussed with employees and used to gauge cultural impact.
+Hard and soft due diligence intertwine when it comes to compensation and incentive programs. These programs are not only based on real numbers, making them easy to incorporate into post-[[Acquisition]] planning, but they can also be discussed with employees and used to gauge cultural impact.
 
 Soft due diligence is concerned with employee motivation, and compensation packages are specifically constructed to boost those motivations. It is not a panacea or a cure-all, but soft due diligence can help the acquiring firm predict whether a compensation program can be implemented to improve the success of a deal.
 

@@ -34,7 +34,7 @@ Enterprise Multiple\=EVEBITDAwhere:EV\=Enterprise Value\=Market capitalizatio
 
 Investors mainly use a company's enterprise multiple to determine whether a company is undervalued or overvalued. A low ratio relative to peers or historical averages indicates that a company might be [undervalued](https://www.investopedia.com/terms/u/undervalued.asp) and a high ratio indicates that the company might be overvalued.
 
-An enterprise multiple is useful for transnational comparisons because it ignores the distorting effects of individual countries' taxation policies. It's also used to find attractive [takeover](https://www.investopedia.com/terms/t/takeover.asp) candidates since [enterprise value](https://www.investopedia.com/terms/e/enterprisevalue.asp) includes debt and is a better metric than [market capitalization](https://www.investopedia.com/terms/m/marketcapitalization.asp) for merger and acquisition (M&A) purposes.
+An enterprise multiple is useful for transnational comparisons because it ignores the distorting effects of individual countries' taxation policies. It's also used to find attractive [takeover](https://www.investopedia.com/terms/t/takeover.asp) candidates since [enterprise value](https://www.investopedia.com/terms/e/enterprisevalue.asp) includes debt and is a better metric than [market capitalization](https://www.investopedia.com/terms/m/marketcapitalization.asp) for merger and [[Acquisition]] (M&A) purposes.
 
 Enterprise multiples can vary depending on the industry. It is reasonable to expect higher enterprise multiples in high-growth industries (e.g. biotech) and lower multiples in industries with slow growth (e.g. railways).
 

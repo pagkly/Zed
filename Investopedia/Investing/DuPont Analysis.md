@@ -54,7 +54,7 @@ The [[Asset Turnover Ratio]] measures how efficiently a company uses its [assets
 
 Asset Turnover Ratio\=RevenueAverage Assets\=$1,000$100\=10\\begin{aligned} &\\text{Asset Turnover Ratio} = \\frac{ \\text{Revenue} }{ \\text{Average Assets} } = \\frac{ \\$1,000 }{ \\$100 } = 10 \\\\ \\end{aligned}
 
-A normal asset turnover ratio will vary from one industry group to another. For example, a discount retailer or grocery store will generate a lot of revenue from its assets with a small margin, which will make the asset turnover ratio very large. On the other hand, a utility company owns very expensive [fixed assets](https://www.investopedia.com/terms/f/fixedasset.asp) relative to its revenue, which will result in an [[Asset Turnover Ratio]] that is much lower than that of a retail firm.
+A normal [[Asset Turnover Ratio]] will vary from one industry group to another. For example, a discount retailer or grocery store will generate a lot of revenue from its assets with a small margin, which will make the [[Asset Turnover Ratio]] very large. On the other hand, a utility company owns very expensive [fixed assets](https://www.investopedia.com/terms/f/fixedasset.asp) relative to its revenue, which will result in an [[Asset Turnover Ratio]] that is much lower than that of a retail firm.
 
 The ratio can be helpful when comparing two companies that are very similar. Because average assets include components like [inventory](https://www.investopedia.com/terms/i/inventory.asp), changes in this ratio can signal that sales are slowing down or speeding up earlier than it would show up in other financial measures. If a company's asset turnover rises, its ROE will improve.
 
