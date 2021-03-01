@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dict/underlie.md",
-            "mode": "preview"
+            "file": "Dict/underlie 1.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dict/underlie.md",
+                "file": "Dict/underlie 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dict/underlie.md"
+                "file": "Dict/underlie 1.md"
               }
             }
           },
@@ -138,6 +138,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Dict/underlie 1.md",
     "Dict/underlie.md",
     "Dict/inherent.md",
     "Dict/endowment.md",
@@ -146,7 +147,6 @@
     "Investopedia2/Deed Definition.md",
     "Investopedia2/Utilizing Checks and Balances to Reduce Mistakes and Bad Behavior.md",
     "Investopedia2/What Adjusted EBITDA Tells Us.md",
-    "Investopedia2/What Are a Minority Shareholder's Rights During a Merger.md",
-    "Investopedia2/What Is a Deferment Period.md"
+    "Investopedia2/What Are a Minority Shareholder's Rights During a Merger.md"
   ]
 }
