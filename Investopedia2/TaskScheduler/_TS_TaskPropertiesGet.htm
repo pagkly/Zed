@@ -1,0 +1,145 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Function _TS_TaskPropertiesGet</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <link href="../css/default.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<h1>Function Reference</h1>
+<font size="+1">_TS_TaskPropertiesGet</font>
+<hr size="2">
+<p>Lists all or specified properties of a Task or Task Definition and returns an array or string or writes the properties to the console.<br></p>
+
+<p class="codeheader">
+#Include &lt;TaskScheduler.au3&gt;<br>
+_TS_TaskPropertiesGet($oService, $vTask[, $iFormat = 1[, $bIgnoreNoValues = False[, $sQuerySection = ""[, $sQueryProperties = ""]]]])<br>
+</p>
+<p>&nbsp;</p>
+
+<p><b>Parameters</b></p>
+<table border="1" width="100%" cellspacing="0" cellpadding="3" bordercolor="#C0C0C0">
+  <tr>
+    <td width="15%">$oService</td>
+    <td width="85%">Task Scheduler Service object as returned by _TS_Open</td>
+  </tr>
+  <tr>
+   <td>$vTask</td>
+   <td>Path and name or object of the Registered Task to process or a Task Definition object</td>
+  </tr>
+  <tr>
+   <td>$iFormat</td>
+   <td>Format of the output. Can be one of the following values<br>
+       1 - User friendly format (default). Please see Remarks<br>
+       2 - Format you can use as input to _TS_TaskPropertiesSet (just the content of the array)<br>
+       3 - Format you can use as input to _TS_TaskPropertiesSet (full AutoIt syntax to define the array - without XML and written to the console)</td>
+  </tr>
+  <tr>
+   <td>$bIgnoreNoValues</td>
+   <td>	<b>[optional]</b> If set to True properties without a value do not get returned (default = False)</td>
+  </tr>
+  <tr>
+   <td>$sQuerySection</td>
+   <td>	<b>[optional]</b> Name of the Scheduler object to retrieve the properties from. If set to "" all objects will be retrieved (default = "")</td>
+  </tr>
+  <tr>
+   <td>$sQueryProperties</td>
+   <td>	<b>[optional]</b> Comma separated list of properties to retrieve from $sSection. If set to "" all properties will be retrieved (default = "")</td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<p><b>Return Value</b></p>
+Success: For $iFormat=1 or 2: Zero based two-dimensional array with the following information. Please see Remarks as well.<br>
+&nbsp;&nbsp;&nbsp;  0 - Section related to a COM object<br>
+&nbsp;&nbsp;&nbsp;  1 - Property name<br>
+&nbsp;&nbsp;&nbsp;  2 - Property value<br>
+&nbsp;&nbsp;&nbsp;  3 - Comment<br>
+Success: For $iFormat=3: Writes the AutoIt array definition to the console<br>
+Failure: Returns "" and sets @error<br>
+&nbsp;&nbsp;&nbsp; 1901 - Error returned by _TS_TaskGet. @extended is set to the COM error code. Most probably the Task could not be found<br>
+<p>&nbsp;</p>
+
+<p><b>Remarks</b></p>
+For $iFormat = 1 if you only request a single property you will get a string holding the value of the property. Else you get an array as described above.<br>
+All data returned by the function is in the format as retrieved from the Taskscheduler object.<br>
+e.g. LogonType is of type Integer, UserId is returned as String.<br>
+<br>
+<p>&nbsp;</p>
+
+<p><b>Related</b></p>
+
+<p>&nbsp;</p>
+
+<p><b>See Also</b></p>
+https://www.experts-exchange.com/articles/11326/VBScript-and-Task-Scheduler-2-0-Listing-Scheduled-Tasks.html<br>
+<p>&nbsp;</p>
+<p><b>Example</b></p>
+<p class="codebox">
+<br>
+<span><span class="S12">#Region</span><span class="S1"> ;**** Directives created by AutoIt3Wrapper_GUI ****</span><br>
+<span class="S12">#AutoIt3Wrapper_Res_requestedExecutionLevel=asInvoker</span><br>
+<span class="S12">#AutoIt3Wrapper_AU3Check_Stop_OnWarning=y</span><br>
+<span class="S12">#AutoIt3Wrapper_AU3Check_Parameters=-d -w 1 -w 2 -w 3 -w 4 -w 5 -w 6 -w 7</span><br>
+<span class="S12">#EndRegion</span><span class="S1"> ;**** Directives created by AutoIt3Wrapper_GUI ****</span><br>
+<br>
+<span class="S11">#include</span><span class="S0"> </span><span class="S7">&lt;TaskScheduler.au3&gt;</span><br>
+<span class="S11">#include</span><span class="S0"> </span><span class="S7">&lt;Array.au3&gt;</span><br>
+<br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$sTaskname</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> </span><span class="S7">"\Microsoft\Windows\Device Information\Device"</span><br>
+<br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; Connect to the Task Scheduler Service</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$oService</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_Open</span><span class="S8">()</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&lt;&gt;</span><span class="S0"> </span><span class="S3">0</span><span class="S0"> </span><span class="S5">Then</span><span class="S0"> </span><span class="S5">Exit</span><span class="S0"> </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Task Scheduler UDF"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Error connecting to the Task Scheduler Service. @error = "</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended = "</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; Get the property to check if the Task has been enabled - in user friendly format</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$vTaskProperties</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_TaskPropertiesGet</span><span class="S8">(</span><span class="S9">$oService</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$sTaskname</span><span class="S8">,</span><span class="S0"> </span><span class="S3">1</span><span class="S8">,</span><span class="S0"> </span><span class="S5">False</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"TASK"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Enabled"</span><span class="S8">)</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S5">Not</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S5">Then</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S1">; _ArrayDisplay($vTaskProperties, "_TS_TaskPropertiesGet - User friendly format")</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONINFORMATION</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskPropertiesGet"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Value of property 'Enabled' in section 'TASK': "</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S9">$vTaskProperties</span><span class="S8">)</span><br>
+<span class="S5">Else</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskPropertiesGet"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Returned @error="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<span class="S5">EndIf</span><br>
+<br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; Get all properties of the PRINCIPAL sub-object</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S9">$vTaskProperties</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_TaskPropertiesGet</span><span class="S8">(</span><span class="S9">$oService</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$sTaskname</span><span class="S8">,</span><span class="S0"> </span><span class="S3">1</span><span class="S8">,</span><span class="S0"> </span><span class="S5">True</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"PRINCIPAL"</span><span class="S8">)</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S5">Not</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S5">Then</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S15">_ArrayDisplay</span><span class="S8">(</span><span class="S9">$vTaskProperties</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskPropertiesGet"</span><span class="S8">)</span><br>
+<span class="S5">Else</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskPropertiesGet"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Returned @error="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<span class="S5">EndIf</span><br>
+<br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; List properties of a single Task - in the format used by _TS_TaskPropertiesSet</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S9">$vTaskProperties</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_TaskPropertiesGet</span><span class="S8">(</span><span class="S9">$oService</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$sTaskname</span><span class="S8">,</span><span class="S0"> </span><span class="S3">2</span><span class="S8">,</span><span class="S0"> </span><span class="S5">True</span><span class="S8">)</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S5">Not</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S5">Then</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S15">_ArrayDisplay</span><span class="S8">(</span><span class="S9">$vTaskProperties</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskPropertiesGet - format used by _TS_TaskProperiesSet"</span><span class="S8">)</span><br>
+<span class="S5">Else</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskPropertiesGet"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Returned @error="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<span class="S5">EndIf</span><br>
+<br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; List properties of a single Task - write the AutoIt array definition to the console</span><br>
+<span class="S1">; Ignore properties without values</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S9">$vTaskProperties</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_TaskPropertiesGet</span><span class="S8">(</span><span class="S9">$oService</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$sTaskname</span><span class="S8">,</span><span class="S0"> </span><span class="S3">3</span><span class="S8">,</span><span class="S0"> </span><span class="S5">True</span><span class="S8">)</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S5">Not</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S5">Then</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONINFORMATION</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskPropertiesGet"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"AutoIt array definition has been written to the console"</span><span class="S8">)</span><br>
+<span class="S5">Else</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskPropertiesGet"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Returned @error="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<span class="S5">EndIf</span><br>
+<br>
+<span class="S0">_TS_Close</span><span class="S8">()</span></span><br>
+<p>&nbsp;</p>
+
+</body>
+</html>

@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Function _TS_TaskList</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <link href="../css/default.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<h1>Function Reference</h1>
+<font size="+1">_TS_TaskList</font>
+<hr size="2">
+<p>Returns a list of all Tasks in a given Folder and all subfolders.<br></p>
+
+<p class="codeheader">
+#Include &lt;TaskScheduler.au3&gt;<br>
+_TS_TaskList($oService[, $vFolder = "\"[, $iShowHidden = 0[, $iShowDisabled = 1[, $iShowMS = 1[, $iProperties = 0[, $bReadable = True]]]]]])<br>
+</p>
+<p>&nbsp;</p>
+
+<p><b>Parameters</b></p>
+<table border="1" width="100%" cellspacing="0" cellpadding="3" bordercolor="#C0C0C0">
+  <tr>
+    <td width="15%">$oService</td>
+    <td width="85%">Task Scheduler Service object as returned by _TS_Open</td>
+  </tr>
+  <tr>
+   <td>$vFolder</td>
+   <td>	<b>[optional]</b> Task Folder to process either as string Folderpath (e.g. "\test\test2") or Folder object (default = "\" means: root Folder)</td>
+  </tr>
+  <tr>
+   <td>$iShowHidden</td>
+   <td>	<b>[optional]</b> Returns hidden Tasks as well when set to 1 (default = 0)</td>
+  </tr>
+  <tr>
+   <td>$iShowDisabled</td>
+   <td>	<b>[optional]</b> Returns disabled Tasks as well when set to 1 (default = 1)</td>
+  </tr>
+  <tr>
+   <td>$iShowMS</td>
+   <td>	<b>[optional]</b> Returns Tasks in Microsoft Folders as well when set to 1 (default = 1)</td>
+  </tr>
+  <tr>
+   <td>$iProperties</td>
+   <td>	<b>[optional]</b> A bitwise mask that indicates the properties to be returned (default = 0 = all properties) e.g. 5 returns Task name and State.<br>
+       Possible values (to select all 25 possible columns use the maximum value of 2^25 - 1 or 0 (which gets translated to 2^25 - 1):<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 (2^0) - Task name<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 (2^1) - Task Folder<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4 (2^2) - State<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8 (2^3) - Hidden<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16 (2^4) - Last Task result<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32 (2^5) - Last run<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;64 (2^6) - Next run<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;128 (2^7) - Missed runs<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;256 (2^8) - Allow demand start<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;512 (2^9) - AllowHardTerminate<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1024 (2^10) - DeleteExpiredTaskAfter<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2048 (2^11) - DisallowStartIfOnBatteries<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4096 (2^12) - ExecutionTimeLimit<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8192 (2^13) - MultipleInstances<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;16384 (2^14) - Priority<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;32768 (2^15) - RestartCount<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;65536 (2^16) - RestartInterval<br>
+       &nbsp;&nbsp;&nbsp;131072 (2^17) - RunOnlyIfIdle<br>
+       &nbsp;&nbsp;&nbsp;262144 (2^18) - RunOnlyIfNetworkAvailable<br>
+       &nbsp;&nbsp;&nbsp;524288 (2^19) - StartWhenAvailable<br>
+       &nbsp;&nbsp;1048576 (2^20) - StopIfGoingOnBatteries<br>
+       &nbsp;&nbsp;2097152 (2^21) - WakeToRun<br>
+       &nbsp;&nbsp;4194304 (2^22) - Author<br>
+       &nbsp;&nbsp;8388608 (2^23) - Date<br>
+       &nbsp;16777216 (2^24) - Description</td>
+  </tr>
+  <tr>
+   <td>$bReadable</td>
+   <td>	<b>[optional]</b> True translates some values (e.g. State to text, date/time to readable format and suppresses empty values).</td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<p><b>Return Value</b></p>
+Success: two-dimensional zero based array with the information requested by parameter $iProperties (see there)<br>
+Failure: Returns "" and sets @error:<br>
+&nbsp;&nbsp;&nbsp; 1801 - Error accessing the specified Taskfolder. @extended is set to the COM error code<br>
+<p>&nbsp;</p>
+
+<p><b>Remarks</b></p>
+None.<br>
+<br>
+<p>&nbsp;</p>
+
+<p><b>Related</b></p>
+
+<p>&nbsp;</p>
+
+<p><b>Example</b></p>
+<p class="codebox">
+<br>
+<span><span class="S12">#Region</span><span class="S1"> ;**** Directives created by AutoIt3Wrapper_GUI ****</span><br>
+<span class="S12">#AutoIt3Wrapper_Res_requestedExecutionLevel=asInvoker</span><br>
+<span class="S12">#AutoIt3Wrapper_AU3Check_Stop_OnWarning=y</span><br>
+<span class="S12">#AutoIt3Wrapper_AU3Check_Parameters=-d -w 1 -w 2 -w 3 -w 4 -w 5 -w 6 -w 7</span><br>
+<span class="S12">#EndRegion</span><span class="S1"> ;**** Directives created by AutoIt3Wrapper_GUI ****</span><br>
+<br>
+<span class="S11">#include-once</span><br>
+<span class="S11">#include</span><span class="S0"> </span><span class="S7">&lt;TaskScheduler.au3&gt;</span><br>
+<span class="S11">#include</span><span class="S0"> </span><span class="S7">&lt;Array.au3&gt;</span><br>
+<span class="S4">AutoItSetOption</span><span class="S8">(</span><span class="S7">"MustDeclareVars"</span><span class="S8">,</span><span class="S0"> </span><span class="S3">1</span><span class="S8">)</span><br>
+<br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; Connect to the Task Scheduler Service</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$oService</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_Open</span><span class="S8">()</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&lt;&gt;</span><span class="S0"> </span><span class="S3">0</span><span class="S0"> </span><span class="S5">Then</span><span class="S0"> </span><span class="S5">Exit</span><span class="S0"> </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Task Scheduler UDF"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Error connecting to the Task Scheduler Service. @error = "</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended = "</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; List all tasks (starting in the root folder). Show hidden and disabled tasks.</span><br>
+<span class="S1">; Ignore Microsoft folder. Display Task name, folder, last run time and number of missed runs.</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$iProperties</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> </span><span class="S3">2</span><span class="S8">^</span><span class="S3">0</span><span class="S0"> </span><span class="S8">+</span><span class="S0"> </span><span class="S3">2</span><span class="S8">^</span><span class="S3">1</span><span class="S0"> </span><span class="S8">+</span><span class="S0"> </span><span class="S3">2</span><span class="S8">^</span><span class="S3">5</span><span class="S0"> </span><span class="S8">+</span><span class="S0"> </span><span class="S3">2</span><span class="S8">^</span><span class="S3">7</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$aTasks</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_TaskList</span><span class="S8">(</span><span class="S9">$oService</span><span class="S8">,</span><span class="S0"> </span><span class="S5">Default</span><span class="S8">,</span><span class="S0"> </span><span class="S3">1</span><span class="S8">,</span><span class="S0"> </span><span class="S3">1</span><span class="S8">,</span><span class="S0"> </span><span class="S3">0</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$iProperties</span><span class="S8">,</span><span class="S0"> </span><span class="S5">True</span><span class="S8">)</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S5">Not</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S5">Then</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S15">_ArrayDisplay</span><span class="S8">(</span><span class="S9">$aTasks</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskList"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">""</span><span class="S8">,</span><span class="S0"> </span><span class="S3">0</span><span class="S8">,</span><span class="S0"> </span><span class="S5">Default</span><span class="S8">,</span><span class="S0"> _TS_TaskListHeader</span><span class="S8">(</span><span class="S9">$iProperties</span><span class="S8">))</span><br>
+<span class="S5">Else</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskList"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Returned @error="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<span class="S5">EndIf</span><br>
+<br>
+<span class="S0">_TS_Close</span><span class="S8">()</span></span><br>
+<p>&nbsp;</p>
+
+</body>
+</html>

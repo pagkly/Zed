@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Function _TS_TaskExportXML</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <link href="../css/default.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<h1>Function Reference</h1>
+<font size="+1">_TS_TaskExportXML</font>
+<hr size="2">
+<p>Returns the XML representation of a single Task and writes it to a file or returns it in an array.<br></p>
+
+<p class="codeheader">
+#Include &lt;TaskScheduler.au3&gt;<br>
+_TS_TaskExportXML($oService, $sTaskPath[, $sXMLOutput = Default])<br>
+</p>
+<p>&nbsp;</p>
+
+<p><b>Parameters</b></p>
+<table border="1" width="100%" cellspacing="0" cellpadding="3" bordercolor="#C0C0C0">
+  <tr>
+    <td width="15%">$oService</td>
+    <td width="85%">Task Scheduler Service object as returned by _TS_Open</td>
+  </tr>
+  <tr>
+   <td>$sTaskPath</td>
+   <td>Task path (Folder plus Task name) to process</td>
+  </tr>
+  <tr>
+   <td>$sXMLOutput</td>
+   <td>	<b>[optional]</b> Destination to export the XML to. If not specified the XML gets returned as an array (default)</td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<p><b>Return Value</b></p>
+Success: 1 if written to a file, one-dimensional zero based array holding the XML.<br>
+Failure: Returns 0 and sets @error:<br>
+&nbsp;&nbsp;&nbsp; 1501 - Error returned by _TS_TaskGet. @extended is set to the COM error code<br>
+&nbsp;&nbsp;&nbsp; 1502 - Error opening the output file.<br>
+<p>&nbsp;</p>
+
+<p><b>Remarks</b></p>
+An existing file will be overwritten.<br>
+<br>
+<p>&nbsp;</p>
+
+<p><b>Related</b></p>
+
+<p>&nbsp;</p>
+
+<p><b>Example</b></p>
+<p class="codebox">
+<br>
+<span><span class="S12">#Region</span><span class="S1"> ;**** Directives created by AutoIt3Wrapper_GUI ****</span><br>
+<span class="S12">#AutoIt3Wrapper_Res_requestedExecutionLevel=asInvoker</span><br>
+<span class="S12">#AutoIt3Wrapper_AU3Check_Stop_OnWarning=y</span><br>
+<span class="S12">#AutoIt3Wrapper_AU3Check_Parameters=-d -w 1 -w 2 -w 3 -w 4 -w 5 -w 6 -w 7</span><br>
+<span class="S12">#EndRegion</span><span class="S1"> ;**** Directives created by AutoIt3Wrapper_GUI ****</span><br>
+<br>
+<span class="S11">#include</span><span class="S0"> </span><span class="S7">&lt;TaskScheduler.au3&gt;</span><br>
+<br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; Make sure the needed folders/tasks exist</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S4">BitOR</span><span class="S8">(</span><span class="S9">$MB_ICONQUESTION</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$MB_YESNO</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$MB_DEFBUTTON2</span><span class="S8">),</span><span class="S0"> </span><span class="S7">"_TS_TaskExportXML"</span><span class="S8">,</span><span class="S0"> </span><span class="S8">_</span><br>
+<span class="S0">&nbsp; &nbsp; &nbsp; &nbsp; </span><span class="S7">"Please make sure you have created folder '\test' and run _TS_WrapperDateTime.au3 in advance so the needed tasks exist!"</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">"Do you want to continue?"</span><span class="S8">)</span><span class="S0"> </span><span class="S8">&lt;&gt;</span><span class="S0"> </span><span class="S9">$IDYES</span><span class="S0"> </span><span class="S5">Then</span><span class="S0"> </span><span class="S5">Exit</span><br>
+<br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; Connect to the Task Scheduler Service</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$oService</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_Open</span><span class="S8">()</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&lt;&gt;</span><span class="S0"> </span><span class="S3">0</span><span class="S0"> </span><span class="S5">Then</span><span class="S0"> </span><span class="S5">Exit</span><span class="S0"> </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Task Scheduler UDF"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Error connecting to the Task Scheduler Service. @error = "</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended = "</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; Connect to a single Task and export as XML to an array</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$vResult</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_TaskExportXML</span><span class="S8">(</span><span class="S9">$oService</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"\Test\Test_Daily"</span><span class="S8">)</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S5">Then</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskExportXML"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Returned @error="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<span class="S5">Else</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S15">_ArrayDisplay</span><span class="S8">(</span><span class="S9">$vResult</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskExportXML"</span><span class="S8">)</span><br>
+<span class="S5">EndIf</span><br>
+<br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; Connect to a single Task and export as XML to a file</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S9">$vResult</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_TaskExportXML</span><span class="S8">(</span><span class="S9">$oService</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"\Test\Test_Daily"</span><span class="S8">,</span><span class="S0"> </span><span class="S6">@SCRIPTDIR</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">"\Test_Daily.XML"</span><span class="S8">)</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S5">Then</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskExportXML"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Returned @error="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<span class="S5">Else</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONINFORMATION</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskExportXML"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Task successfully exported to the specified file!"</span><span class="S8">)</span><br>
+<span class="S5">EndIf</span><br>
+<br>
+<span class="S0">_TS_Close</span><span class="S8">()</span></span><br>
+<p>&nbsp;</p>
+
+</body>
+</html>

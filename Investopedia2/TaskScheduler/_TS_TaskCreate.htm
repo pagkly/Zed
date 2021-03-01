@@ -1,0 +1,128 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Function _TS_TaskCreate</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <link href="../css/default.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<h1>Function Reference</h1>
+<font size="+1">_TS_TaskCreate</font>
+<hr size="2">
+<p>Create a Task Definition object so you can then set all needed properties using _TS_TaskPropertiesSet.<br></p>
+
+<p class="codeheader">
+#Include &lt;TaskScheduler.au3&gt;<br>
+_TS_TaskCreate($oService)<br>
+</p>
+<p>&nbsp;</p>
+
+<p><b>Parameters</b></p>
+<table border="1" width="100%" cellspacing="0" cellpadding="3" bordercolor="#C0C0C0">
+  <tr>
+    <td width="15%">$oService</td>
+    <td width="85%">Task Scheduler Service object as returned by _TS_Open</td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<p><b>Return Value</b></p>
+Success: Task Definition object<br>
+Failure: Returns 0 and sets @error:<br>
+&nbsp;&nbsp;&nbsp; 1201 - Error creating the Task Definition. @extended is set to the COM error code<br>
+<p>&nbsp;</p>
+
+<p><b>Remarks</b></p>
+None.<br>
+<br>
+<p>&nbsp;</p>
+
+<p><b>Related</b></p>
+
+<p>&nbsp;</p>
+
+<p><b>Example</b></p>
+<p class="codebox">
+<br>
+<span><span class="S12">#Region</span><span class="S1"> ;**** Directives created by AutoIt3Wrapper_GUI ****</span><br>
+<span class="S12">#AutoIt3Wrapper_Res_requestedExecutionLevel=asInvoker</span><br>
+<span class="S12">#AutoIt3Wrapper_AU3Check_Stop_OnWarning=y</span><br>
+<span class="S12">#AutoIt3Wrapper_AU3Check_Parameters=-d -w 1 -w 2 -w 3 -w 4 -w 5 -w 6 -w 7</span><br>
+<span class="S12">#EndRegion</span><span class="S1"> ;**** Directives created by AutoIt3Wrapper_GUI ****</span><br>
+<br>
+<span class="S11">#include</span><span class="S0"> </span><span class="S7">&lt;TaskScheduler.au3&gt;</span><br>
+<span class="S11">#include</span><span class="S0"> </span><span class="S7">&lt;Array.au3&gt;</span><br>
+<br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$sFolder</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> </span><span class="S7">"\Test"</span><span class="S0"> &nbsp;&nbsp;&nbsp;</span><span class="S1">; Folder where to create the task</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$sName</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> </span><span class="S7">"Test-Task"</span><span class="S0"> &nbsp;</span><span class="S1">; Name of the task to create</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; Prepare start and end date of the trigger. Format must be YYYY-MM-DDTHH:MM:SS</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$sStartDateTime</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> </span><span class="S15">_DateAdd</span><span class="S8">(</span><span class="S7">"n"</span><span class="S8">,</span><span class="S0"> </span><span class="S3">2</span><span class="S8">,</span><span class="S0"> </span><span class="S15">_NowCalc</span><span class="S8">())</span><br>
+<span class="S9">$sStartDateTime</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> </span><span class="S4">StringReplace</span><span class="S8">(</span><span class="S9">$sStartDateTime</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"/"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"-"</span><span class="S8">)</span><br>
+<span class="S9">$sStartDateTime</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> </span><span class="S4">StringReplace</span><span class="S8">(</span><span class="S9">$sStartDateTime</span><span class="S8">,</span><span class="S0"> </span><span class="S7">" "</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"T"</span><span class="S8">)</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$sEndDateTime</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> </span><span class="S15">_DateAdd</span><span class="S8">(</span><span class="S7">"M"</span><span class="S8">,</span><span class="S0"> </span><span class="S3">4</span><span class="S8">,</span><span class="S0"> </span><span class="S15">_NowCalc</span><span class="S8">())</span><br>
+<span class="S9">$sEndDateTime</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> </span><span class="S4">StringReplace</span><span class="S8">(</span><span class="S9">$sEndDateTime</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"/"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"-"</span><span class="S8">)</span><br>
+<span class="S9">$sEndDateTime</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> </span><span class="S4">StringReplace</span><span class="S8">(</span><span class="S9">$sEndDateTime</span><span class="S8">,</span><span class="S0"> </span><span class="S7">" "</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"T"</span><span class="S8">)</span><br>
+<br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; Connect to the Task Scheduler Service</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$oService</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_Open</span><span class="S8">()</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&lt;&gt;</span><span class="S0"> </span><span class="S3">0</span><span class="S0"> </span><span class="S5">Then</span><span class="S0"> </span><span class="S5">Exit</span><span class="S0"> </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Task Scheduler UDF"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Error connecting to the Task Scheduler Service. @error = "</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended = "</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; Delete a task in the same folder with the same name</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S0">_TS_TaskDelete</span><span class="S8">(</span><span class="S9">$oService</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$sFolder</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">"\"</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S9">$sName</span><span class="S8">)</span><br>
+<span class="S1">; If @error &lt;&gt; 0 And @error &lt;&gt; 2 Then Exit MsgBox($MB_ICONERROR, "_TS_TaskCreate", "_TS_TaskDelete returned @error=" &amp; @error &amp; ", @extended=" &amp; @extended &amp; @CRLF &amp; @CRLF &amp; _TS_ErrorText(@error))</span><br>
+<br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; Create a new task</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; Create the Task Definition object</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$oTaskDefinition</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_TaskCreate</span><span class="S8">(</span><span class="S9">$oService</span><span class="S8">)</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S5">Then</span><span class="S0"> </span><span class="S5">Exit</span><span class="S0"> </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskCreate"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskCreate returned @error="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<br>
+<span class="S1">; Set all task properties</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$aProperties</span><span class="S8">[]</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> </span><span class="S8">[</span><span class="S0"> </span><span class="S8">_</span><br>
+<span class="S0">&nbsp; &nbsp; &nbsp; &nbsp; </span><span class="S7">"ACTIONS|Path|notepad"</span><span class="S8">,</span><span class="S0"> </span><span class="S8">_</span><br>
+<span class="S0">&nbsp; &nbsp; &nbsp; &nbsp; </span><span class="S7">"TRIGGERS|Enabled|True"</span><span class="S8">,</span><span class="S0"> </span><span class="S8">_</span><br>
+<span class="S0">&nbsp; &nbsp; &nbsp; &nbsp; </span><span class="S7">"TRIGGERS|Type|"</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S9">$TASK_TRIGGER_LOGON</span><span class="S8">,</span><span class="S0"> </span><span class="S8">_</span><br>
+<span class="S0">&nbsp; &nbsp; &nbsp; &nbsp; </span><span class="S7">"TRIGGERS|UserId|"</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@UserName</span><span class="S0"> </span><span class="S8">_</span><br>
+<span class="S0">&nbsp; &nbsp; &nbsp; &nbsp; </span><span class="S8">]</span><br>
+<span class="S0">_TS_TaskPropertiesSet</span><span class="S8">(</span><span class="S9">$oTaskDefinition</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$aProperties</span><span class="S8">)</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S5">Then</span><span class="S0"> </span><span class="S5">Exit</span><span class="S0"> </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskCreate"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskPropertiesSet for the TaskDefinition returned @error="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<br>
+<span class="S1">; Create a Logon trigger</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$oTrigger</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_TriggerCreate</span><span class="S8">(</span><span class="S9">$oTaskDefinition</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$TASK_TRIGGER_LOGON</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Test-Trigger1"</span><span class="S8">)</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S5">Then</span><span class="S0"> </span><span class="S5">Exit</span><span class="S0"> </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskCreate"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Creating the Trigger returned @error="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<span class="S0">_TS_TaskPropertiesSet</span><span class="S8">(</span><span class="S9">$oTrigger</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$aProperties</span><span class="S8">)</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S5">Then</span><span class="S0"> </span><span class="S5">Exit</span><span class="S0"> </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskCreate"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskPropertiesSet for the Trigger returned @error="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<br>
+<span class="S1">; Create an Action</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$oAction</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_ActionCreate</span><span class="S8">(</span><span class="S9">$oTaskDefinition</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$TASK_ACTION_EXEC</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Test-Action1"</span><span class="S8">)</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S5">Then</span><span class="S0"> </span><span class="S5">Exit</span><span class="S0"> </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskCreate"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Creating the Action returned @error="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<span class="S0">_TS_TaskPropertiesSet</span><span class="S8">(</span><span class="S9">$oAction</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$aProperties</span><span class="S8">)</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S5">Then</span><span class="S0"> </span><span class="S5">Exit</span><span class="S0"> </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskCreate"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskPropertiesSet for the Action returned @error="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<br>
+<span class="S1">; List properties of the Task Definition</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$aTaskProperties</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_TaskPropertiesGet</span><span class="S8">(</span><span class="S9">$oService</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$oTaskDefinition</span><span class="S8">,</span><span class="S3">1</span><span class="S0"> </span><span class="S8">,</span><span class="S0"> </span><span class="S5">True</span><span class="S8">)</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S5">Not</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S5">Then</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S15">_ArrayDisplay</span><span class="S8">(</span><span class="S9">$aTaskProperties</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Properties of the task to be created"</span><span class="S8">)</span><br>
+<span class="S5">Else</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskPropertiesGet"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Returned @error="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<span class="S5">EndIf</span><br>
+<br>
+<span class="S1">; Register the task</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$oTask</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_TaskRegister</span><span class="S8">(</span><span class="S9">$oService</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$sFolder</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$sName</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$oTaskDefinition</span><span class="S8">)</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S5">Then</span><span class="S0"> </span><span class="S5">Exit</span><span class="S0"> </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskCreate"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskRegister returned @error="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONINFORMATION</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_TaskCreate"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Task "</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S9">$sName</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">" has been created!"</span><span class="S8">)</span><br>
+<br>
+<span class="S0">_TS_Close</span><span class="S8">()</span></span><br>
+<p>&nbsp;</p>
+
+</body>
+</html>

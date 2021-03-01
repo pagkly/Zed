@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Function _TS_FolderDelete</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <link href="../css/default.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<h1>Function Reference</h1>
+<font size="+1">_TS_FolderDelete</font>
+<hr size="2">
+<p>Deletes a Task Folder.<br></p>
+
+<p class="codeheader">
+#Include &lt;TaskScheduler.au3&gt;<br>
+_TS_FolderDelete($oService, $sFolder)<br>
+</p>
+<p>&nbsp;</p>
+
+<p><b>Parameters</b></p>
+<table border="1" width="100%" cellspacing="0" cellpadding="3" bordercolor="#C0C0C0">
+  <tr>
+    <td width="15%">$oService</td>
+    <td width="85%">Task Scheduler Service object as returned by _TS_Open</td>
+  </tr>
+  <tr>
+   <td>$sFolder</td>
+   <td>The absolute path to the Folder to be deleted</td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<p><b>Return Value</b></p>
+Success: 1<br>
+Failure: Returns 0 and sets @error:<br>
+&nbsp;&nbsp;&nbsp; 701 - Error accessing the TaskFolder collection. @extended is set to the COM error code<br>
+&nbsp;&nbsp;&nbsp; 702 - Specified $sFolder does not exist. @extended is set to the COM error code<br>
+&nbsp;&nbsp;&nbsp; 703 - You can't delete a Folder before all subfolders have been deleted. @extended is set to the COM error code<br>
+&nbsp;&nbsp;&nbsp; 704 - Error deleting the specified TaskFolder. @extended is set to the COM error code<br>
+<p>&nbsp;</p>
+
+<p><b>Remarks</b></p>
+Before you can delete a Folder you have to delete all subfolders<br>
+<br>
+<p>&nbsp;</p>
+
+<p><b>Related</b></p>
+
+<p>&nbsp;</p>
+
+<p><b>Example</b></p>
+<p class="codebox">
+<br>
+<span><span class="S12">#Region</span><span class="S1"> ;**** Directives created by AutoIt3Wrapper_GUI ****</span><br>
+<span class="S12">#AutoIt3Wrapper_Res_requestedExecutionLevel=asInvoker</span><br>
+<span class="S12">#AutoIt3Wrapper_AU3Check_Stop_OnWarning=y</span><br>
+<span class="S12">#AutoIt3Wrapper_AU3Check_Parameters=-d -w 1 -w 2 -w 3 -w 4 -w 5 -w 6 -w 7</span><br>
+<span class="S12">#EndRegion</span><span class="S1"> ;**** Directives created by AutoIt3Wrapper_GUI ****</span><br>
+<br>
+<span class="S11">#include</span><span class="S0"> </span><span class="S7">&lt;TaskScheduler.au3&gt;</span><br>
+<span class="S11">#include</span><span class="S0"> </span><span class="S7">&lt;Array.au3&gt;</span><br>
+<br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; Connect to the Task Scheduler Service</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$oService</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> _TS_Open</span><span class="S8">()</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&lt;&gt;</span><span class="S0"> </span><span class="S3">0</span><span class="S0"> </span><span class="S5">Then</span><span class="S0"> </span><span class="S5">Exit</span><span class="S0"> </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Task Scheduler UDF"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Error connecting to the Task Scheduler Service. @error = "</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended = "</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S1">; Delete a folder</span><br>
+<span class="S1">; $sFolder has always to start at the root folder (means you have to</span><br>
+<span class="S1">; specify all the folders from the root down even when they already exist)</span><br>
+<span class="S1">; *****************************************************************************</span><br>
+<span class="S5">Global</span><span class="S0"> </span><span class="S9">$sFolder</span><span class="S0"> </span><span class="S8">=</span><span class="S0"> </span><span class="S7">"\Test-Level-0\Test-Level-1"</span><br>
+<span class="S0">_TS_FolderDelete</span><span class="S8">(</span><span class="S9">$oService</span><span class="S8">,</span><span class="S0"> </span><span class="S9">$sFolder</span><span class="S8">)</span><br>
+<span class="S5">If</span><span class="S0"> </span><span class="S5">Not</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S5">Then</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONINFORMATION</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_FolderDelete"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Folder: "</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S9">$sFolder</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">" successfully deleted!"</span><span class="S8">)</span><br>
+<span class="S5">Else</span><br>
+<span class="S0">&nbsp; &nbsp; </span><span class="S4">MsgBox</span><span class="S8">(</span><span class="S9">$MB_ICONERROR</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"_TS_FolderDelete"</span><span class="S8">,</span><span class="S0"> </span><span class="S7">"Returned @error="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@error</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S7">", @extended="</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@extended</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> </span><span class="S6">@CRLF</span><span class="S0"> </span><span class="S8">&amp;</span><span class="S0"> _TS_ErrorText</span><span class="S8">(</span><span class="S6">@error</span><span class="S8">))</span><br>
+<span class="S5">EndIf</span><br>
+<span class="S0">_TS_Close</span><span class="S8">()</span></span><br>
+<p>&nbsp;</p>
+
+</body>
+</html>
