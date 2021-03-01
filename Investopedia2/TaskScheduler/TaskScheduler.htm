@@ -1,971 +1,0 @@
-<!--HTMHELP-->
-<html><head><style type="text/css">.funcheader{border: 1px solid black; background-color: #ffffaa; font-family: Courier New; padding: 4px; margin-bottom: 7px;}.gotoheader{float: right; color: black;}.variable{font-family: Courier New; color: #aa0000; font-weight: 800;}.macro{font-family: Courier New; color: #ff00ff; font-weight: 800;}.hex{font-family: Courier New; color: #ac00aa; font-style: italic;}.arrayindex{font-family: Courier New; color: #333333;}.optparam{opacity: 0.67;}body{font-family: Arial; background-color: #eeeeee;}a{text-decoration: none; color: blue;}a:hover{color: black;}hr{border-color: black;}h1{text-align: center;}h4{text-align: center;}</style><title>TaskScheduler.au3</title></head><h1 id="header">Documentation of <i>TaskScheduler.au3</i></h1><h4><i>Created with HTMHelp &copy; Sebastian Walter</i></h4><h3>Function List</h3><ul><li><a href="#_TS_Open">_TS_Open</a></li>
-<li><a href="#_TS_Close">_TS_Close</a></li>
-<li><a href="#_TS_ErrorNotify">_TS_ErrorNotify</a></li>
-<li><a href="#_TS_ErrorText">_TS_ErrorText</a></li>
-<li><a href="#_TS_ActionCreate">_TS_ActionCreate</a></li>
-<li><a href="#_TS_ActionDelete">_TS_ActionDelete</a></li>
-<li><a href="#_TS_FolderCreate">_TS_FolderCreate</a></li>
-<li><a href="#_TS_FolderDelete">_TS_FolderDelete</a></li>
-<li><a href="#_TS_FolderExists">_TS_FolderExists</a></li>
-<li><a href="#_TS_FolderGet">_TS_FolderGet</a></li>
-<li><a href="#_TS_RunningTaskList">_TS_RunningTaskList</a></li>
-<li><a href="#_TS_TaskCopy">_TS_TaskCopy</a></li>
-<li><a href="#_TS_TaskCreate">_TS_TaskCreate</a></li>
-<li><a href="#_TS_TaskDelete">_TS_TaskDelete</a></li>
-<li><a href="#_TS_TaskExists">_TS_TaskExists</a></li>
-<li><a href="#_TS_TaskExportXML">_TS_TaskExportXML</a></li>
-<li><a href="#_TS_TaskGet">_TS_TaskGet</a></li>
-<li><a href="#_TS_TaskImportXML">_TS_TaskImportXML</a></li>
-<li><a href="#_TS_TaskList">_TS_TaskList</a></li>
-<li><a href="#_TS_TaskListHeader">_TS_TaskListHeader</a></li>
-<li><a href="#_TS_TaskPropertiesGet">_TS_TaskPropertiesGet</a></li>
-<li><a href="#_TS_TaskPropertiesSet">_TS_TaskPropertiesSet</a></li>
-<li><a href="#_TS_TaskRegister">_TS_TaskRegister</a></li>
-<li><a href="#_TS_TaskRun">_TS_TaskRun</a></li>
-<li><a href="#_TS_TaskStop">_TS_TaskStop</a></li>
-<li><a href="#_TS_TaskUpdate">_TS_TaskUpdate</a></li>
-<li><a href="#_TS_TaskValidate">_TS_TaskValidate</a></li>
-<li><a href="#_TS_TriggerCreate">_TS_TriggerCreate</a></li>
-<li><a href="#_TS_TriggerDelete">_TS_TriggerDelete</a></li>
-<li><a href="#_TS_VersionInfo">_TS_VersionInfo</a></li>
-<li><a href="#_TS_Wrapper_ActionCreate">_TS_Wrapper_ActionCreate</a></li>
-<li><a href="#_TS_Wrapper_PrincipalSet">_TS_Wrapper_PrincipalSet</a></li>
-<li><a href="#_TS_Wrapper_TaskCreate">_TS_Wrapper_TaskCreate</a></li>
-<li><a href="#_TS_Wrapper_TaskRegister">_TS_Wrapper_TaskRegister</a></li>
-<li><a href="#_TS_Wrapper_TriggerDateTime">_TS_Wrapper_TriggerDateTime</a></li>
-<li><a href="#_TS_Wrapper_TriggerLogon">_TS_Wrapper_TriggerLogon</a></li>
-</ul><a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_Open"/>
-<h3>_TS_Open</h3>
-<div class="funcheader" >_TS_Open($sComputer = Default, $sUser = Default, $sDomain = Default, $sPassword = Default)</div>
-<b>Description:</b> Opens a connection to the Microsoft Task Scheduler Service on the local or a remote computer.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Object of the Task Scheduler Service
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;101 - Error creating the COM error handler. <span class="macro">@extended</span> is set to the error code returned by _TS_ErrorNotify
-
-<br/>&emsp;&emsp;&emsp;&emsp;102 - Error creating the Task Scheduler Service. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;103 - Error connecting to the Task Scheduler Service. <span class="macro">@extended</span> is set to the COM error code:
-
-<br/>&emsp;&emsp;&emsp;&emsp;      <span class="hex">0x80070005</span> - Access is denied to connect to the Task Scheduler service.
-
-<br/>&emsp;&emsp;&emsp;&emsp;      <span class="hex">0x8007000e</span> - The application does not have enough memory to complete the operation or
-
-<br/>&emsp;&emsp;&emsp;&emsp;                   the user, password, or domain has at least one null and one non-null value.
-
-<br/>&emsp;&emsp;&emsp;&emsp;      53         - This error is returned in the following situations:
-
-<br/>&emsp;&emsp;&emsp;&emsp;                   The computer name specified in the serverName parameter does not exist.
-
-<br/>&emsp;&emsp;&emsp;&emsp;                   When you are trying to connect to a Windows Server 2003 or Windows XP computer, and the remote computer does not have the
-
-<br/>&emsp;&emsp;&emsp;&emsp;                       File and Printer Sharing firewall exception enabled or the Remote Registry service is not running.
-
-<br/>&emsp;&emsp;&emsp;&emsp;                   When you are trying to connect to a Windows Vista computer, and the remote computer does not have the
-
-<br/>&emsp;&emsp;&emsp;&emsp;                       Remote Scheduled Tasks Management firewall exception enabled and the File and Printer Sharing firewall exception enabled, or the Remote Registry service is not running.
-
-<br/>&emsp;&emsp;&emsp;&emsp;      50         - The user, password, or domain parameters cannot be specified when connecting to a remote Windows XP or Windows Server 2003 computer from a Windows Vista computer.<br/>
-<b>Parameters:</b> <span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sComputer</span> (Optional) -  The name of the computer that you want to connect to. If this parameter is empty, the function will connect to the local computer.</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sUser</span>     (Optional) -  The user name that is used during the connection to <span class="variable">$sComputer</span>. If the user is not specified, then the current token is used.</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sDomain</span>   (Optional) -  The domain of the user specified in the user parameter.</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sPassword</span> (Optional) -  The password that is used to connect to <span class="variable">$sComputer</span>. If user name and password are not specified, the current token is used.</span><br/>
-<b>Remarks:</b> <span class="variable">$sComputer</span> can be specified as name or IP-Address. Name is network\computername or \\computername<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_Close"/>
-<h3>_TS_Close</h3>
-<div class="funcheader" >_TS_Close()</div>
-<b>Description:</b> Closes the connection to the Microsoft Task Scheduler Service.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - 1<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;None<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_ErrorNotify"/>
-<h3>_TS_ErrorNotify</h3>
-<div class="funcheader" >_TS_ErrorNotify($iDebug, $sDebugFile = "")</div>
-<b>Description:</b> Sets or queries the debug level.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success (for <span class="variable">$iDebug</span> =&gt; 0) - 1, sets <span class="macro">@extended</span> to:
-
-<br/>&emsp;&emsp;&emsp;&emsp;0 - The COM error handler for this UDF was already active
-
-<br/>&emsp;&emsp;&emsp;&emsp;1 - A COM error handler has been initialized for this UDF
-
-<br/>&emsp;&emsp;Success (for <span class="variable">$iDebug</span> = -1) - one based one-dimensional array with the following elements:
-
-<br/>&emsp;&emsp;&emsp;&emsp;1 - Debug level. Value from 0 to 3. Check parameter <span class="variable">$iDebug</span> for details
-
-<br/>&emsp;&emsp;&emsp;&emsp;2 - Debug file. File to write the debugging info to as defined by parameter <span class="variable">$sDebugFile</span>
-
-<br/>&emsp;&emsp;&emsp;&emsp;3 - True if the COM error handler has been defined for this UDF. False if debugging is set off or a COM error handler was already defined
-
-<br/>&emsp;&emsp;Failure - 0, sets <span class="macro">@error</span> to:
-
-<br/>&emsp;&emsp;&emsp;&emsp;201 - <span class="variable">$iDebug</span> is not an integer or &lt; -1 or &gt; 4
-
-<br/>&emsp;&emsp;&emsp;&emsp;202 - Installation of the custom error handler failed. <span class="macro">@extended</span> is set to the error code returned by ObjEvent
-
-<br/>&emsp;&emsp;&emsp;&emsp;203 - COM error handler already set to another function<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$iDebug</span>     - Debug level. Allowed values are:
-
-<br/>&emsp;&emsp;&emsp;&emsp;-1 - Return the current settings
-
-<br/>&emsp;&emsp;&emsp;&emsp;0  - Disable debugging
-
-<br/>&emsp;&emsp;&emsp;&emsp;1  - Enable debugging. Output the debug info to the console
-
-<br/>&emsp;&emsp;&emsp;&emsp;2  - Enable Debugging. Output the debug info to a MsgBox
-
-<br/>&emsp;&emsp;&emsp;&emsp;3  - Enable Debugging. Output the debug info to a file defined by <span class="variable">$sDebugFile</span>
-
-<br/>&emsp;&emsp;&emsp;&emsp;4  - Enable Debugging. The COM errors will be handled (the script no longer crashes) without any output
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sDebugFile</span> (Optional) -  File to write the debugging info to if <span class="variable">$iDebug</span> = 3 (Default = <span class="macro">@ScriptDir</span> & "TaskScheduler_Debug.txt")</span><br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_ErrorText"/>
-<h3>_TS_ErrorText</h3>
-<div class="funcheader" >_TS_ErrorText($iErrorNumber, $bPrefix = True)</div>
-<b>Description:</b> Returns the full error message for an UDF function or the error/success message for the Task Scheduler API.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - If <span class="variable">$bPrefix</span> = True: FunctionName (ErrorNumber): ErrorText, else: ErrorText
-
-<br/>&emsp;&emsp;Failure - Returns "" and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;301 - Specified error number could not be found<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$iErrorNumber</span> - Integer of the error returned by a function of this UDF or the Task Scheduler API
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$bPrefix</span>      (Optional) -  True prefixes the error with functionname/errorname and errornumber (default = True)</span><br/>
-<b>Remarks:</b> The Task Scheduler APIs return error/success as an HRESULT value e.g:
-
-<br/>&emsp;&emsp;<span class="variable">$bPrefix</span> = True: SCHED_S_TASK_NOT_SCHEDULED (0x00041305): One or more of the properties that are needed to run this task on a schedule have not been set.
-
-<br/>&emsp;&emsp;<span class="variable">$bPrefix</span> = False: One or more of the properties that are needed to run this task on a schedule have not been set.
-
-<br/>&emsp;&emsp;"S" as the second token of the APIs errorname denotes a success value, "E" an error value.
-
-<br/>&emsp;&emsp;|
-
-<br/>&emsp;&emsp;<span class="variable">$bPrefix</span> = True: ErrorNumber will be returned in hex notation (e.g. 0x00041305) if <span class="variable">$iErrorNumber</span> &lt; 0<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_ActionCreate"/>
-<h3>_TS_ActionCreate</h3>
-<div class="funcheader" >_TS_ActionCreate($oTaskDefinition, $iActionType, $sID = "")</div>
-<b>Description:</b> Create a new Action object for a new or already Registered Task.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Action object
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;401 - <span class="variable">$oTaskDefinition</span> isn't an object or not a Task Definition object
-
-<br/>&emsp;&emsp;&emsp;&emsp;402 - The Action could not be created. <span class="macro">@extended</span> is set to the COM error code<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oTaskDefinition</span> - Task Definition object to add this Action to.
-
-<br/>&emsp;&emsp;<span class="variable">$iActionType</span>     - The Action type to be created. Can be <span class="variable">$TASK_ACTION_EXEC</span> or <span class="variable">$TASK_ACTION_COM_HANDLER</span>
-
-<br/>&emsp;&emsp;of the TASK_ACTION_TYPE enumeration.All other types are no longer supported by MS.
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sID</span>             (Optional) -  ID for easier access to the object</span><br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_ActionDelete"/>
-<h3>_TS_ActionDelete</h3>
-<div class="funcheader" >_TS_ActionDelete($oTaskDefinition, $iIndex, $sID = "", $bDeleteAll = False)</div>
-<b>Description:</b> Delete a single or all Action objects by ID or index.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - 1
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;502 - The Action could not be deleted. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;503 - The Actions could not be deleted. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;504 - Either <span class="variable">$iIndex</span> or <span class="variable">$sID</span> has to be specified when <span class="variable">$bDeleteAll</span> is set to False<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oTaskDefinition</span> - Task Definition object of a new or Registered Task
-
-<br/>&emsp;&emsp;<span class="variable">$iIndex</span>          - Delete the Action with the specified index (one based)
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sID</span>             (Optional) -  Deletes all Actions with the same ID (default = "")</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$bDeleteAll</span>      (Optional) -  Removes all Actions (default = False)</span><br/>
-<b>Remarks:</b> Set one of this three parameters to delete specific or all Actions: <span class="variable">$iIndex</span>, <span class="variable">$sID</span>, <span class="variable">$bDeleteAll</span>.
-
-<br/>&emsp;&emsp;The parameters will be processed in the following sequence:
-
-<br/>&emsp;&emsp;If <span class="variable">$iIndex</span> &gt; 0 then delete by index, else if <span class="variable">$sID</span> &lt;&gt; "" then delete by ID, else if <span class="variable">$bDeleteAll</span> is True then delete all Actions
-
-<br/>&emsp;&emsp;|
-
-<br/>&emsp;&emsp;When you used <span class="variable">$bDeleteAll</span> = True you have to create at least one Action object as you can't register a Task without Actions.<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_FolderCreate"/>
-<h3>_TS_FolderCreate</h3>
-<div class="funcheader" >_TS_FolderCreate($oService, $sFolder)</div>
-<b>Description:</b> Creates a Task Folder.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Object of the created Task Folder
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;601 - Error accessing the TaskFolder collection. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;602 - Specified <span class="variable">$sFolder</span> already exists
-
-<br/>&emsp;&emsp;&emsp;&emsp;603 - Error creating the specified TaskFolder. <span class="macro">@extended</span> is set to the COM error code<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span> - Task Scheduler Service object as returned by _TS_Open
-
-<br/>&emsp;&emsp;<span class="variable">$sFolder</span>  - The name that is used to identify the Folder. It is created on the root Folder
-
-<br/>&emsp;&emsp;If "FolderName\SubFolder1\SubFolder2" is specified, the entire Folder tree will be created if the Folders do not exist<br/>
-<b>Remarks:</b> <span class="variable">$sFolder</span> has always to start at the root Folder (means you have to specify all the Folders from the root down even when they already exist)<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_FolderDelete"/>
-<h3>_TS_FolderDelete</h3>
-<div class="funcheader" >_TS_FolderDelete($oService, $sFolder)</div>
-<b>Description:</b> Deletes a Task Folder.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - 1
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;701 - Error accessing the TaskFolder collection. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;702 - Specified <span class="variable">$sFolder</span> does not exist. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;703 - You can't delete a Folder before all subfolders have been deleted. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;704 - Error deleting the specified TaskFolder. <span class="macro">@extended</span> is set to the COM error code<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span> - Task Scheduler Service object as returned by _TS_Open
-
-<br/>&emsp;&emsp;<span class="variable">$sFolder</span>  - The absolute path to the Folder to be deleted
-
-<br/>&emsp;&emsp;e.g. \Folder-Level1\Folder-Level2. No trailing backslash allowed.<br/>
-<b>Remarks:</b> Before you can delete a Folder you have to delete all subfolders<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_FolderExists"/>
-<h3>_TS_FolderExists</h3>
-<div class="funcheader" >_TS_FolderExists($oService, $sFolder)</div>
-<b>Description:</b> Checks if a Task Folder exists.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - 1 when Folder was found and 0 when Folder was not found
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;801 - Error accessing the parent Folder of <span class="variable">$sFolder</span> (GetFolder). <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;802 - Error accessing the Taskfolder collection (GetFolders). <span class="macro">@extended</span> is set to the COM error code<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span> - Task Scheduler Service object as returned by _TS_Open
-
-<br/>&emsp;&emsp;<span class="variable">$sFolder</span>  - The absolute path to the Folder to be checked
-
-<br/>&emsp;&emsp;e.g. \Folder-Level1\Folder-Level2. No trailing backslash allowed.<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_FolderGet"/>
-<h3>_TS_FolderGet</h3>
-<div class="funcheader" >_TS_FolderGet($oService, $sFolder)</div>
-<b>Description:</b> Returns the object of the specified Folder.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Object of the specified Folder
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;901 - Error accessing the specified Folder. <span class="macro">@extended</span> is set to the COM error code<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span> - Task Scheduler Service object as returned by _TS_Open
-
-<br/>&emsp;&emsp;<span class="variable">$sFolder</span>  - The absolute path to the Folder to be processed
-
-<br/>&emsp;&emsp;e.g. \Folder-Level1\Folder-Level2. No trailing backslash allowed.<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_RunningTaskList"/>
-<h3>_TS_RunningTaskList</h3>
-<div class="funcheader" >_TS_RunningTaskList($oService, $iShowHidden = 0)</div>
-<b>Description:</b> Returns a list of all currently running Tasks.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - two-dimensional zero based array with the following information:
-
-<br/>&emsp;&emsp;&emsp;&emsp;0 - CurrentAction: Name of the current action that the running task is performing
-
-<br/>&emsp;&emsp;&emsp;&emsp;1 - EnginePID: Process ID for the engine (process) which is running the task
-
-<br/>&emsp;&emsp;&emsp;&emsp;2 - InstanceGuid: GUID identifier for this instance of the task
-
-<br/>&emsp;&emsp;&emsp;&emsp;3 - Name: Name of the task
-
-<br/>&emsp;&emsp;&emsp;&emsp;4 - Path: Path to where the task is stored
-
-<br/>&emsp;&emsp;&emsp;&emsp;5 - State: State of the running task (usually <span class="variable">$TASK_STATE_RUNNING</span>)
-
-<br/>&emsp;&emsp;Failure - Returns "" and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;1001 - Error retrieving the RunningTasks collection. <span class="macro">@extended</span> is set to the COM error code<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span>    - Task Scheduler Service object as returned by _TS_Open
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$iShowHidden</span> (Optional) -  Returns hidden Tasks as well when set to 1 (default = 0)</span><br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TaskCopy"/>
-<h3>_TS_TaskCopy</h3>
-<div class="funcheader" >_TS_TaskCopy($oService, $sSourceTaskPath)</div>
-<b>Description:</b> Copies the definition of an existing Task to a new Task Definition object.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Task Definition object
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;1101 - Error returned when reading the source Task. <span class="macro">@extended</span> is set to the error returned by _TS_TaskExportXML
-
-<br/>&emsp;&emsp;&emsp;&emsp;1102 - Error returned when creating the target Task. <span class="macro">@extended</span> is set to the error code returned by _TS_TaskImportXML<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span>        - Task Scheduler Service object as returned by _TS_Open
-
-<br/>&emsp;&emsp;<span class="variable">$sSourceTaskPath</span> - Task Folder(s) and Task name of the source Task e.g. \folder1\folder1-1\source-task-name<br/>
-<b>Remarks:</b> You can modify the Task Definition as needed before calling _TS_TaskRegister to create a new Task in the same
-
-<br/>&emsp;&emsp;or a different folder.<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TaskCreate"/>
-<h3>_TS_TaskCreate</h3>
-<div class="funcheader" >_TS_TaskCreate($oService)</div>
-<b>Description:</b> Create a Task Definition object so you can then set all needed properties using _TS_TaskPropertiesSet.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Task Definition object
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;1201 - Error creating the Task Definition. <span class="macro">@extended</span> is set to the COM error code<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span> - Task Scheduler Service object as returned by _TS_Open<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TaskDelete"/>
-<h3>_TS_TaskDelete</h3>
-<div class="funcheader" >_TS_TaskDelete($oService, $sTaskPath)</div>
-<b>Description:</b> Delete a Task from the specified Task Folder.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - 1
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;1301 - The specified Task Folder does not exist. <span class="macro">@extended</span> is set to the <span class="macro">@error</span> returned by _TS_FolderExists
-
-<br/>&emsp;&emsp;&emsp;&emsp;1302 - The specified Task does not exist. <span class="macro">@extended</span> is set to the <span class="macro">@error</span> returned by _TS_TaskExists
-
-<br/>&emsp;&emsp;&emsp;&emsp;1303 - Error accessing the Task Folder. <span class="macro">@extended</span> is set to the <span class="macro">@error</span> returned by _TS_FolderGet
-
-<br/>&emsp;&emsp;&emsp;&emsp;1304 - Error deleting the Task. <span class="macro">@extended</span> is set to the COM error code<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span>  - Task Scheduler Service object as returned by _TS_Open
-
-<br/>&emsp;&emsp;<span class="variable">$sTaskPath</span> - Task path (Folder plus Task name) to be deleted e.g. \folder1\folder1-1\task-name<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TaskExists"/>
-<h3>_TS_TaskExists</h3>
-<div class="funcheader" >_TS_TaskExists($oService, $sTaskPath)</div>
-<b>Description:</b> Checks if a Task exists.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Returns 1 when the Task was found and 0 when the Task was not found
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;1401 - Error accessing the specified Taskfolder. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;1402 - Error retrieving the Tasks collection. <span class="macro">@extended</span> is set to the COM error code<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span>  - Task Scheduler Service object as returned by _TS_Open
-
-<br/>&emsp;&emsp;<span class="variable">$sTaskPath</span> - Task path (Folder plus Task name) to process<br/>
-<b>Remarks:</b> This function even checks hidden Tasks<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TaskExportXML"/>
-<h3>_TS_TaskExportXML</h3>
-<div class="funcheader" >_TS_TaskExportXML($oService, $sTask, $sXMLOutput = Default)</div>
-<b>Description:</b> Returns the XML representation of a single Task and writes it to a file or returns it in an array.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - 1 if written to a file, one-dimensional zero based array holding the XML.
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;1501 - Error returned by _TS_TaskGet. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;1502 - Error opening the output file.<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span>   - Task Scheduler Service object as returned by _TS_Open
-
-<br/>&emsp;&emsp;<span class="variable">$sTaskPath</span>  - Task path (Folder plus Task name) to process
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sXMLOutput</span> (Optional) -  Destination to export the XML to. If not specified the XML gets returned as an array (default)</span><br/>
-<b>Remarks:</b> An existing file will be overwritten.<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TaskGet"/>
-<h3>_TS_TaskGet</h3>
-<div class="funcheader" >_TS_TaskGet($oService, $sTaskPath, $bReturnFlag = 0)</div>
-<b>Description:</b> Returns the Task or Task Definition object of the specified Task.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Object of the Task
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;1601 - Error accessing the specified Taskfolder. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;1602 - Error retrieving the Tasks collection. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;1603 - Task with the specified name could not be found in the Task Folder<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span>    - Task Scheduler Service object as returned by _TS_Open
-
-<br/>&emsp;&emsp;<span class="variable">$sTaskPath</span>   - Task path (Folder plus Task name) to process
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$bReturnFlag</span> (Optional) -  Set to 1 if the function should return the Task.Definition object (default = Task object)</span><br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TaskImportXML"/>
-<h3>_TS_TaskImportXML</h3>
-<div class="funcheader" >_TS_TaskImportXML($oService, $iInputType, $vXMLInput)</div>
-<b>Description:</b> Imports a Task from an XML file or an array and returns a Task Definition object.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Object of the created Task Definition
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;1702 - Error creating a new Task Definition. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;1703 - Error creating a XML from the passed array. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;1704 - Error creating a XML from the passed file. <span class="macro">@extended</span> is set to the COM error code<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span>   - Task Scheduler Service object as returned by _TS_Open
-
-<br/>&emsp;&emsp;<span class="variable">$iInputType</span> - 1 = <span class="variable">$vXMLInput</span> is a file to import the XML from, 2 = <span class="variable">$vXMLInput</span> is a XML string or a 1D XML array
-
-<br/>&emsp;&emsp;<span class="variable">$vXMLInput</span>  - Input to import the XML from. Is either a string, an array or a file to import the XML from<br/>
-<b>Remarks:</b> You can modify the Task Definition as needed before calling _TS_TaskRegister to create a new Task.<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TaskList"/>
-<h3>_TS_TaskList</h3>
-<div class="funcheader" >_TS_TaskList($oService, $vFolder = "\", $iShowHidden = 0, $iShowDisabled = 1, $iShowMS = 1, $iProperties = 0, $bReadable = True)</div>
-<b>Description:</b> Returns a list of all Tasks in a given Folder and all subfolders.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - two-dimensional zero based array with the information requested by parameter <span class="variable">$iProperties</span> (see there)
-
-<br/>&emsp;&emsp;Failure - Returns "" and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;1801 - Error accessing the specified Taskfolder. <span class="macro">@extended</span> is set to the COM error code<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span>      - Task Scheduler Service object as returned by _TS_Open
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$vFolder</span>       (Optional) -  Task Folder to process either as string Folderpath (e.g. "\test\test2") or Folder object (default = "\" means: root Folder)</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$iShowHidden</span>   (Optional) -  Returns hidden Tasks as well when set to 1 (default = 0)</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$iShowDisabled</span> (Optional) -  Returns disabled Tasks as well when set to 1 (default = 1)</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$iShowMS</span>       (Optional) -  Returns Tasks in Microsoft Folders as well when set to 1 (default = 1)</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$iProperties</span>   (Optional) -  A bitwise mask that indicates the properties to be returned (default = 0 = all properties) e.g. 5 returns Task name and State.</span>
-
-<br/>&emsp;&emsp;&emsp;&emsp;Possible values (to select all 25 possible columns use the maximum value of 2^25 - 1 or 0 (which gets translated to 2^25 - 1):
-
-<br/>&emsp;&emsp;&emsp;&emsp;        1 (2^0)  - Task name
-
-<br/>&emsp;&emsp;&emsp;&emsp;        2 (2^1)  - Task Folder
-
-<br/>&emsp;&emsp;&emsp;&emsp;        4 (2^2)  - State
-
-<br/>&emsp;&emsp;&emsp;&emsp;        8 (2^3)  - Hidden
-
-<br/>&emsp;&emsp;&emsp;&emsp;       16 (2^4)  - Last Task result
-
-<br/>&emsp;&emsp;&emsp;&emsp;       32 (2^5)  - Last run
-
-<br/>&emsp;&emsp;&emsp;&emsp;       64 (2^6)  - Next run
-
-<br/>&emsp;&emsp;&emsp;&emsp;      128 (2^7)  - Missed runs
-
-<br/>&emsp;&emsp;&emsp;&emsp;      256 (2^8)  - Allow demand start
-
-<br/>&emsp;&emsp;&emsp;&emsp;      512 (2^9)  - AllowHardTerminate
-
-<br/>&emsp;&emsp;&emsp;&emsp;     1024 (2^10) - DeleteExpiredTaskAfter
-
-<br/>&emsp;&emsp;&emsp;&emsp;     2048 (2^11) - DisallowStartIfOnBatteries
-
-<br/>&emsp;&emsp;&emsp;&emsp;     4096 (2^12) - ExecutionTimeLimit
-
-<br/>&emsp;&emsp;&emsp;&emsp;     8192 (2^13) - MultipleInstances
-
-<br/>&emsp;&emsp;&emsp;&emsp;    16384 (2^14) - Priority
-
-<br/>&emsp;&emsp;&emsp;&emsp;    32768 (2^15) - RestartCount
-
-<br/>&emsp;&emsp;&emsp;&emsp;    65536 (2^16) - RestartInterval
-
-<br/>&emsp;&emsp;&emsp;&emsp;   131072 (2^17) - RunOnlyIfIdle
-
-<br/>&emsp;&emsp;&emsp;&emsp;   262144 (2^18) - RunOnlyIfNetworkAvailable
-
-<br/>&emsp;&emsp;&emsp;&emsp;   524288 (2^19) - StartWhenAvailable
-
-<br/>&emsp;&emsp;&emsp;&emsp;  1048576 (2^20) - StopIfGoingOnBatteries
-
-<br/>&emsp;&emsp;&emsp;&emsp;  2097152 (2^21) - WakeToRun
-
-<br/>&emsp;&emsp;&emsp;&emsp;  4194304 (2^22) - Author
-
-<br/>&emsp;&emsp;&emsp;&emsp;  8388608 (2^23) - Date
-
-<br/>&emsp;&emsp;&emsp;&emsp; 16777216 (2^24) - Description
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$bReadable</span>     (Optional) -  True translates some values (e.g. State to text, date/time to readable format and suppresses empty values).</span><br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TaskListHeader"/>
-<h3>_TS_TaskListHeader</h3>
-<div class="funcheader" >_TS_TaskListHeader($iProperties = 0)</div>
-<b>Description:</b> Returns the header line for function _TS_TaskList so you can pass this to _ArrayDisplay as parameter <span class="variable">$sHeader</span>.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Column headers separated by |
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:<br/>
-<b>Parameters:</b> <span class="optparam"><br/>&emsp;&emsp;<span class="variable">$iProperties</span> (Optional) -  A bitwise mask that indicates the properties to be returned.</span><br/>
-<b>Remarks:</b> For possible values for parameter <span class="variable">$iProperties</span> please see function _TS_TaskList<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TaskPropertiesGet"/>
-<h3>_TS_TaskPropertiesGet</h3>
-<div class="funcheader" >_TS_TaskPropertiesGet($oTaskService, $vTask, $iFormat = Default, $bIgnoreNoValues = Default, $sQuerySection = Default, $sQueryProperties = Default)</div>
-<b>Description:</b> Lists all or specified properties of a Task or Task Definition and returns an array or string or writes the properties to the console.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - For <span class="variable">$iFormat</span>=1 or 2: Zero based two-dimensional array with the following information. Please see Remarks as well.
-
-<br/>&emsp;&emsp;&emsp;&emsp; 0 - Section related to a COM object
-
-<br/>&emsp;&emsp;&emsp;&emsp; 1 - Property name
-
-<br/>&emsp;&emsp;&emsp;&emsp; 2 - Property value
-
-<br/>&emsp;&emsp;&emsp;&emsp; 3 - Comment
-
-<br/>&emsp;&emsp;Success - For <span class="variable">$iFormat</span>=3: Writes the AutoIt array definition to the console
-
-<br/>&emsp;&emsp;Failure - Returns "" and sets <span class="macro">@error</span>
-
-<br/>&emsp;&emsp;&emsp;&emsp;1901 - Error returned by _TS_TaskGet. <span class="macro">@extended</span> is set to the COM error code. Most probably the Task could not be found<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span>         - Task Scheduler Service object as returned by _TS_Open
-
-<br/>&emsp;&emsp;<span class="variable">$vTask</span>            - Path and name or object of the Registered Task to process or a Task Definition object
-
-<br/>&emsp;&emsp;<span class="variable">$iFormat</span>          - Format of the output. Can be one of the following values
-
-<br/>&emsp;&emsp;&emsp;&emsp;1 - User friendly format (default). Please see Remarks
-
-<br/>&emsp;&emsp;&emsp;&emsp;2 - Format you can use as input to _TS_TaskPropertiesSet (just the content of the array)
-
-<br/>&emsp;&emsp;&emsp;&emsp;3 - Format you can use as input to _TS_TaskPropertiesSet (full AutoIt syntax to define the array - without XML and written to the console)
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$bIgnoreNoValues</span>  (Optional) -  If set to True properties without a value do not get returned (default = False)</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sQuerySection</span>    (Optional) -  Name of the Scheduler object to retrieve the properties from. If set to "" all objects will be retrieved (default = "")</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sQueryProperties</span> (Optional) -  Comma separated list of properties to retrieve from <span class="variable">$sSection</span>. If set to "" all properties will be retrieved (default = "")</span><br/>
-<b>Remarks:</b> For <span class="variable">$iFormat</span> = 1 if you only request a single property you will get a string holding the value of the property. Else you get an array as described above.
-
-<br/>&emsp;&emsp;All data returned by the function is in the format as retrieved from the Taskscheduler object.
-
-<br/>&emsp;&emsp;e.g. LogonType is of type Integer, UserId is returned as String.<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TaskPropertiesSet"/>
-<h3>_TS_TaskPropertiesSet</h3>
-<div class="funcheader" >_TS_TaskPropertiesSet(ByRef $oObject, $aProperties)</div>
-<b>Description:</b> Sets the properties of a Tasks object (Task Definition, RegisteredTask, Action or Trigger).<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - 1
-
-<br/>&emsp;&emsp;Failure - 0, sets <span class="macro">@error</span> to:
-
-<br/>&emsp;&emsp;&emsp;&emsp;2001 - Unsupported or invalid Task Scheduler COM object
-
-<br/>&emsp;&emsp;&emsp;&emsp;2002 - Unsupported or invalid property name. <span class="macro">@extended</span> is set to the zero based index of the property in error
-
-<br/>&emsp;&emsp;&emsp;&emsp;2003 - The row in <span class="variable">$aProperties</span> does not have the required format: "object name|property name|property value". <span class="macro">@extended</span> is set to the index of the row in error.
-
-<br/>&emsp;&emsp;&emsp;&emsp;2004 - <span class="variable">$oObject</span> is invalid. Must be: TaskDefinition, RegisteredTask, Trigger or Action<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oObject</span>     - Object of a Task Definition, RegisteredTask, Action or Trigger
-
-<br/>&emsp;&emsp;<span class="variable">$aProperties</span> - one-dimensional zero based array in the following format: "object name|property name|property value"
-
-<br/>&emsp;&emsp;&emsp;&emsp;Name of the object to process. Valid are: TASK, DEFINITION, PRINCIPAL, REGISTRATIONINFO, SETTINGS, IDLESETTINGS, NETWORKSETTINGS, TRIGGERS, REPETITION and ACTIONS
-
-<br/>&emsp;&emsp;&emsp;&emsp;Name of the property to set
-
-<br/>&emsp;&emsp;&emsp;&emsp;Value for the property to set<br/>
-<b>Remarks:</b> Sections that are not valid for the passed object are ignored!
-
-<br/>&emsp;&emsp;E.g. The "Task" section and its properties are only valid for a RegisteredTask object<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TaskRegister"/>
-<h3>_TS_TaskRegister</h3>
-<div class="funcheader" >_TS_TaskRegister($oService, $sFolder, $sName, $oTaskDefinition, $sUserId = Default, $sPassword = Default, $iLogonType = Default, $iCreateFlag = Default)</div>
-<b>Description:</b> Register or update a Task.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Task object
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;2101 - Parameter <span class="variable">$oService</span> is not an object or not an ITaskService object
-
-<br/>&emsp;&emsp;&emsp;&emsp;2102 - <span class="variable">$sFolder</span> does not exist or an error occurred in _TS_FolderExists. <span class="macro">@extended</span> is set to the COM error (if any)
-
-<br/>&emsp;&emsp;&emsp;&emsp;2103 - Task exists which is incompatible with flags <span class="variable">$TASK_CREATE</span>, <span class="variable">$TASK_DISABLE</span> and <span class="variable">$TASK_CREATE</span> or
-
-<br/>&emsp;&emsp;&emsp;&emsp;       Task does not exist which is incompatible with flags <span class="variable">$TASK_UPDATE</span> And <span class="variable">$TASK_DONT_ADD_PRINCIPAL_ACE</span>
-
-<br/>&emsp;&emsp;&emsp;&emsp;2104 - Parameter <span class="variable">$oTaskDefinition</span> is not an object or not an ITaskDefinition object
-
-<br/>&emsp;&emsp;&emsp;&emsp;2105 - Error accessing <span class="variable">$sFolder</span> using _TS_FolderGet. <span class="macro">@extended</span> is set to the COM error
-
-<br/>&emsp;&emsp;&emsp;&emsp;2106 - Error creating the Task. <span class="macro">@extended</span> is set to the COM error<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span>        - Task Scheduler Service object as returned by _TS_Open
-
-<br/>&emsp;&emsp;<span class="variable">$sFolder</span>         - Folder where the Task should be created
-
-<br/>&emsp;&emsp;<span class="variable">$sName</span>           - Name of the Task
-
-<br/>&emsp;&emsp;<span class="variable">$oTaskDefinition</span> - Task Definition object as created by _TS_TaskCreate and filled by _TS_TaskPropertiesSet
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sUserId</span>         (Optional) -  The user credentials that are used to register the Task. If present, these credentials</span>
-
-<br/>&emsp;&emsp;take priority over the credentials specified in the Task Definition object pointed to by the definition parameter
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sPassword</span>       (Optional) -  The password for the UserId that is used to register the Task. When the TASK_LOGON_SERVICE_ACCOUNT logon type</span>
-
-<br/>&emsp;&emsp;is used, the password must be an empty value such as NULL or ""
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$iLogonType</span>      (Optional) -  Can be any of the TASK_LOGON_TYPE constants enumeration. For the default please check Remarks</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$iCreateFlag</span>     (Optional) -  Defines if to create or update the task. Can be any of the TASK_CREATE constants enumeration. Default is <span class="variable">$TASK_CREATE</span></span><br/>
-<b>Remarks:</b> If the logon type has been set in the Principal sub-object then <span class="variable">$TASK_LOGON_NONE</span> is the default to not overwrite the existing setting.
-
-<br/>&emsp;&emsp;Else <span class="variable">$TASK_LOGON_INTERACTIVE_TOKEN</span> will be used as default.<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TaskRun"/>
-<h3>_TS_TaskRun</h3>
-<div class="funcheader" >_TS_TaskRun($oService, $vTask)</div>
-<b>Description:</b> Run the Registered Task immediately.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - A RunningTask Object that defines the new instance of the task.
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>
-
-<br/>&emsp;&emsp;&emsp;&emsp;2201 - The Task does not exist. <span class="macro">@extended</span> is set to the COM error code returned by _TS_TaskGet
-
-<br/>&emsp;&emsp;&emsp;&emsp;2202 - Error starting the Task. <span class="macro">@extended</span> is set to the COM error<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span> - Task Scheduler Service object as returned by _TS_Open
-
-<br/>&emsp;&emsp;<span class="variable">$vTask</span>    - Registered Task to run. Can be the object or a string e.g. "\folder\task"<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TaskStop"/>
-<h3>_TS_TaskStop</h3>
-<div class="funcheader" >_TS_TaskStop($oService, $vTask)</div>
-<b>Description:</b> Stops all instances of the Registered Task immediately.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - 1
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>
-
-<br/>&emsp;&emsp;&emsp;&emsp;2301 - The Task does not exist. <span class="macro">@extended</span> is set to the COM error code returned by _TS_TaskGet
-
-<br/>&emsp;&emsp;&emsp;&emsp;2302 - Error stopping the Task. <span class="macro">@extended</span> is set to the COM error<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span> - Task Scheduler Service object as returned by _TS_Open
-
-<br/>&emsp;&emsp;<span class="variable">$vTask</span>    - Registered Task to stop. Can be the object or a string e.g. "\folder\task"<br/>
-<b>Remarks:</b> The function stops all instances of the task.
-
-<br/>&emsp;&emsp;System account users can stop a task, users with Administrator group privileges can stop a task,
-
-<br/>&emsp;&emsp;and if a user has rights to execute and read a task, then the user can stop the task.
-
-<br/>&emsp;&emsp;A user can stop the task instances that are running under the same credentials as the user account.
-
-<br/>&emsp;&emsp;In all other cases, the user is denied access to stop the task.<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TaskUpdate"/>
-<h3>_TS_TaskUpdate</h3>
-<div class="funcheader" >_TS_TaskUpdate($oService, $oTask, $oTaskDefinition)</div>
-<b>Description:</b> Update a Task.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Task object
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;3301 - Parameter <span class="variable">$oService</span> is not an object or not an ITaskService object
-
-<br/>&emsp;&emsp;&emsp;&emsp;3302 - Parameter <span class="variable">$oTask</span> is not an object or not an IRegisteredTask object
-
-<br/>&emsp;&emsp;&emsp;&emsp;3303 - Error accessing <span class="variable">$sFolder</span> using _TS_FolderGet. <span class="macro">@extended</span> is set to the COM error
-
-<br/>&emsp;&emsp;&emsp;&emsp;3304 - Error updating the Task. <span class="macro">@extended</span> is set to the COM error
-
-<br/>&emsp;&emsp;&emsp;&emsp;3305 - Parameter <span class="variable">$oTaskDefinition</span> is not an object or not an ITaskDefinition object<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span>        - Task Scheduler Service object as returned by _TS_Open
-
-<br/>&emsp;&emsp;<span class="variable">$oTask</span>           - Registered Task object
-
-<br/>&emsp;&emsp;<span class="variable">$oTaskDefinition</span> - TaskDefinition object of the Registered Task<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TaskValidate"/>
-<h3>_TS_TaskValidate</h3>
-<div class="funcheader" >_TS_TaskValidate($oService, $vTask)</div>
-<b>Description:</b> Validate the Task Definition.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Returns a zero-based 2D array holding the following information:
-
-<br/>&emsp;&emsp;&emsp;&emsp;0 - Errornumber as described in section Remarks
-
-<br/>&emsp;&emsp;&emsp;&emsp;1 - Severity: I (Information), W (Warning, E (Error)
-
-<br/>&emsp;&emsp;Failure - Returns "" and sets <span class="macro">@error</span>
-
-<br/>&emsp;&emsp;&emsp;&emsp;2401 - The Task does not exist. <span class="macro">@extended</span> is set to the COM error code returned by _TS_TaskGet
-
-<br/>&emsp;&emsp;&emsp;&emsp;240101 - You have to define at least one Action
-
-<br/>&emsp;&emsp;&emsp;&emsp;240102 - Action type is unsupported
-
-<br/>&emsp;&emsp;&emsp;&emsp;240103 - Action ID has to be unique
-
-<br/>&emsp;&emsp;&emsp;&emsp;240501 - You should at least define one Trigger
-
-<br/>&emsp;&emsp;&emsp;&emsp;245001 - Make sure to provide Userid and Password for the selected logon type<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span> - Task Scheduler Service object as returned by _TS_Open
-
-<br/>&emsp;&emsp;<span class="variable">$vTask</span>    - Object to validate. Can be a Task Definition or a Registered Task object
-
-<br/>&emsp;&emsp;The Registered Task can be specified as a string as well e.g. "\folder\task"<br/>
-<b>Remarks:</b> This function is necessary because the validate function of the Registration method does not return any meaningful results.
-
-<br/>&emsp;&emsp;The function first checks the integrity of each object (triggers, actions ...) then the task as a whole.<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TriggerCreate"/>
-<h3>_TS_TriggerCreate</h3>
-<div class="funcheader" >_TS_TriggerCreate($oTaskDefinition, $iTriggerType, $sID = "")</div>
-<b>Description:</b> Create a new Trigger object for a new or already Registered Task.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Object of the created Trigger
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>
-
-<br/>&emsp;&emsp;&emsp;&emsp;2501 - <span class="variable">$oTaskDefinition</span> isn't an object or not a Task Definition object
-
-<br/>&emsp;&emsp;&emsp;&emsp;2502 - The Trigger could not be created. <span class="macro">@extended</span> is set to the COM error code<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oTaskDefinition</span> - Task Definition object to add this Trigger to.
-
-<br/>&emsp;&emsp;<span class="variable">$iTriggerType</span>    - Type of Trigger to use. Can be any of the TASK_TRIGGER_TYPE2 enumeration
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sID</span>             (Optional) -  ID for easier access to the Trigger</span><br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_TriggerDelete"/>
-<h3>_TS_TriggerDelete</h3>
-<div class="funcheader" >_TS_TriggerDelete($oTaskDefinition, $iIndex, $sID = "", $bDeleteAll = False)</div>
-<b>Description:</b> Delete a single or all Trigger objects by ID or index.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - 1
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;2602 - The Trigger could not be deleted. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;2603 - The Triggers could not be deleted. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;2604 - Either <span class="variable">$iIndex</span> or <span class="variable">$sID</span> has to be specified when <span class="variable">$bDeleteAll</span> is set to False<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oTaskDefinition</span> - Task Definition object of a new or Registered Task
-
-<br/>&emsp;&emsp;<span class="variable">$iIndex</span>          - Delete the Trigger with the specified index (one based)
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sID</span>             (Optional) -  Deletes all Triggers with the same ID (default = "")</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$bDeleteAll</span>      (Optional) -  Removes all Triggers (default = False)</span><br/>
-<b>Remarks:</b> Set one of this three parameters to delete specific or all Triggers: <span class="variable">$iIndex</span>, <span class="variable">$sID</span>, <span class="variable">$bDeleteAll</span>.
-
-<br/>&emsp;&emsp;The parameters will be processed in the following sequence:
-
-<br/>&emsp;&emsp;If <span class="variable">$iIndex</span> &gt; 0 then delete by index, else if <span class="variable">$sID</span> &lt;&gt; "" then delete by ID, else if <span class="variable">$bDeleteAll</span> is True then delete all Triggers<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_VersionInfo"/>
-<h3>_TS_VersionInfo</h3>
-<div class="funcheader" >_TS_VersionInfo()</div>
-<b>Description:</b> Returns an array of information about the UDF.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - one-dimensional one based array with the following information:
-
-<br/>&emsp;&emsp;&emsp;&emsp;1 - Release Type (T=Test or V=Production)
-
-<br/>&emsp;&emsp;&emsp;&emsp;2 - Major Version
-
-<br/>&emsp;&emsp;&emsp;&emsp;3 - Minor Version
-
-<br/>&emsp;&emsp;&emsp;&emsp;4 - Sub Version
-
-<br/>&emsp;&emsp;&emsp;&emsp;5 - Release Date (YYYYMMDD)
-
-<br/>&emsp;&emsp;&emsp;&emsp;6 - AutoIt version required
-
-<br/>&emsp;&emsp;&emsp;&emsp;7 - List of authors separated by ","
-
-<br/>&emsp;&emsp;&emsp;&emsp;8 - List of contributors separated by ","<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;None<br/>
-<b>Remarks:</b> Based on function _IE_VersionInfo written bei Dale Hohm<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_Wrapper_ActionCreate"/>
-<h3>_TS_Wrapper_ActionCreate</h3>
-<div class="funcheader" >_TS_Wrapper_ActionCreate($oTaskDefinition, $sPath, $sWorkingDirectory = "", $sArguments = "")</div>
-<b>Description:</b> Create the Actions to be executed when the Task runs.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - 1
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;2701 - Error returned when accessing the Actions collection. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;2702 - Error returned when creating the Action object. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;2703 - Parameter <span class="variable">$oTaskDefinition</span> is not an object or not an ITaskDefinition object<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oTaskDefinition</span>   - Task Definition object as returned by _TS_Wrapper_TaskCreate
-
-<br/>&emsp;&emsp;<span class="variable">$sPath</span>             - Path to an executable file
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sWorkingDirectory</span> (Optional) -  Directory that contains either the executable file or the files that are used by the executable file</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sArguments</span>        (Optional) -  Arguments pased to the executable file</span><br/>
-<b>Remarks:</b> Populates the Action object<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_Wrapper_PrincipalSet"/>
-<h3>_TS_Wrapper_PrincipalSet</h3>
-<div class="funcheader" >_TS_Wrapper_PrincipalSet($oTaskDefinition, $iLogonType, $iRunLevel = $TASK_RUNLEVEL_LUA, $sUserId = "", $sGroupId = "")</div>
-<b>Description:</b> Set the Principal properties of a Task Definition object.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - 1
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;2801 - Error creating the Task Definition. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;2802 - Parameter <span class="variable">$oTaskDefinition</span> is not an object or not an ITaskDefinition object<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oTaskDefinition</span> - Task Definition object as returned by _TS_Wrapper_TaskCreate
-
-<br/>&emsp;&emsp;<span class="variable">$iLogonType</span>      - Sets the security logon method that is required to run the Tasks that are associated with the principal.
-
-<br/>&emsp;&emsp;Can be any of the TASK_LOGON_TYPE constants.
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$iRunLevel</span>       (Optional) -  Sets the identifier that is used to specify the privilege level that is required to run the Tasks that are associated with the principal.</span>
-
-<br/>&emsp;&emsp;Can be any of the TASK_RUNLEVEL_TYPE constants (default = <span class="variable">$TASK_RUNLEVEL_LUA</span> (Tasks will be run with the least privileges (LUA))
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sUserId</span>         (Optional) -  Sets the user identifier that is required to run the Tasks that are associated with the principal.</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sGroupId</span>        (Optional) -  Sets the group identifier that is required to run the Tasks that are associated with the principal.</span><br/>
-<b>Remarks:</b> Populates the RegistrationInfo object.
-
-<br/>&emsp;&emsp;Either set <span class="variable">$sUserId</span> or <span class="variable">$sGroupId</span> - if any<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_Wrapper_TaskCreate"/>
-<h3>_TS_Wrapper_TaskCreate</h3>
-<div class="funcheader" >_TS_Wrapper_TaskCreate($oService, $sDescription = "", $sDocumentation = "", $sAuthor = Default, $sDate = Default)</div>
-<b>Description:</b> Create a Task Definition object so you can then set all needed properties using other Wrapper functions.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Task Definition object
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>:
-
-<br/>&emsp;&emsp;&emsp;&emsp;2901 - Error creating the Task Definition. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;2902 - Error setting property Date. Please check the correct format as described above. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;2903 - Parameter <span class="variable">$oService</span> is not an object or not an ITaskService object<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oService</span> - Task Scheduler Service object as returned by _TS_Open
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sDescription</span>   (Optional) -  Describe the Task in a single line</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sDocumentation</span> (Optional) -  Extended documentation of the Task</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sAuthor</span>        (Optional) -  Author of the Task. If not specified <span class="macro">@UserName</span> is used (default)</span>
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sDate</span>          (Optional) -  Date when the Task was created. If not specified _Now() is usded (default)</span>
-
-<br/>&emsp;&emsp;Format has to be: YYYY-MM-DD-THH:MM:SS<br/>
-<b>Remarks:</b> Creates the Task Definition object and populates the RegistrationInfo object<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_Wrapper_TaskRegister"/>
-<h3>_TS_Wrapper_TaskRegister</h3>
-<div class="funcheader" >_TS_Wrapper_TaskRegister($oService, $sFolder, $sName, $oTaskDefinition, $sUserId = Default, $sPassword = Default, $iLogonType = Default)</div>
-<b>Description:</b> Alias for _TS_TaskRegister: Register a Task in the specified Folder.<br/>
-<b>Remarks:</b> For sections Parameters, Return values and Related please see function _TS_TaskRegister<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_Wrapper_TriggerDateTime"/>
-<h3>_TS_Wrapper_TriggerDateTime</h3>
-<div class="funcheader" >_TS_Wrapper_TriggerDateTime($oTaskDefinition, $iTriggerType, $iDoW, $iInterval, $sStart, $sEnd = "")</div>
-<b>Description:</b> Creates a date/time based Trigger.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Object of the created schedule
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>
-
-<br/>&emsp;&emsp;&emsp;&emsp;3101 - Invalid <span class="variable">$iTriggerType</span> specified. Has to be <span class="variable">$TASK_TRIGGER_TIME</span>, <span class="variable">$TASK_TRIGGER_DAILY</span> or <span class="variable">$TASK_TRIGGER_WEEKLY</span>
-
-<br/>&emsp;&emsp;&emsp;&emsp;3102 - Error returned when creating the Trigger object. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;3103 - Error setting property StartBoundary. Please check the correct format as described above. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;3104 - Error setting property EndBoundary. Please check the correct format as described above. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;3105 - Error setting property ExecutionTimeLimit. Please check the correct format as described above. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;3106 - Error setting property DaysOfWeek. Please check the correct format. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;3107 - Error setting property Weeksinterval. Please check the correct format. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;3108 - Error setting property DaysInterval. Please check the correct format. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;3109 - Parameter <span class="variable">$oTaskDefinition</span> is not an object or not an ITaskDefinition object
-
-<br/>&emsp;&emsp;&emsp;&emsp;3110 - Error returned when accessing the Triggers collection. <span class="macro">@extended</span> is set to the COM error code<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oTaskDefinition</span> - Task Definition object as returned by _TS_Wrapper_TaskCreate
-
-<br/>&emsp;&emsp;<span class="variable">$iTriggerType</span>    - Type of Trigger to use. Only supports <span class="variable">$TASK_TRIGGER_TIME</span>, <span class="variable">$TASK_TRIGGER_DAILY</span> and <span class="variable">$TASK_TRIGGER_WEEKLY</span>
-
-<br/>&emsp;&emsp;<span class="variable">$iDoW</span>            - A bitwise mask that indicates the days of the week on which the Task runs. Possible values:
-
-<br/>&emsp;&emsp;&emsp;&emsp;Sunday - 1, Monday - 2, Tuesday - 4, Wednesday - 8, Thursday - 16, Friday - 32, Saturday - 64. 10 means: Run the schedule on Monday and Wednesday
-
-<br/>&emsp;&emsp;<span class="variable">$iInterval</span>       - The interval between the days (<span class="variable">$TASK_TRIGGER_DAILY</span>) or weeks (<span class="variable">$TASK_TRIGGER_WEEKLY</span>) in the schedule
-
-<br/>&emsp;&emsp;<span class="variable">$sStart</span>          - The date and time when the Trigger is activated. Format: YYYY-MM-DDTHH:MM:SS(+-)HH:MM. See Remarks
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sEnd</span>            (Optional) -  The date and time when the Trigger is deactivated. Format: YYYY-MM-DDTHH:MM:SS(+-)HH:MM. See Remarks</span><br/>
-<b>Remarks:</b> The (+-)HH:MM section describes the time zone as a certain number of hours ahead or behind Coordinated Universal Time (Greenwich Mean Time).<br/>
-<b>Author:</b> water<br/>
-<a href="#header" class="gotoheader">Goto Top</a><br/>
-<hr id="_TS_Wrapper_TriggerLogon"/>
-<h3>_TS_Wrapper_TriggerLogon</h3>
-<div class="funcheader" >_TS_Wrapper_TriggerLogon($oTaskDefinition, $iDelay, $sStart, $sEnd = "")</div>
-<b>Description:</b> Creates a logon Trigger.<br/>
-<b>Return Value:</b> <br/>&emsp;&emsp;Success - Object of the created schedule
-
-<br/>&emsp;&emsp;Failure - Returns 0 and sets <span class="macro">@error</span>
-
-<br/>&emsp;&emsp;&emsp;&emsp;3201 - Error returned when creating the Trigger object. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;3202 - Error setting property StartBoundary. Please check the correct format as described above. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;3203 - Error setting property EndBoundary. Please check the correct format as described above. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;3204 - Error setting property ExecutionTimeLimit. Please check the correct format as described above. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;3205 - Error setting property Delay. Please check the correct format as described above. <span class="macro">@extended</span> is set to the COM error code
-
-<br/>&emsp;&emsp;&emsp;&emsp;3206 - Parameter <span class="variable">$oTaskDefinition</span> is not an object or not an ITaskDefinition object
-
-<br/>&emsp;&emsp;&emsp;&emsp;3207 - Error returned when accessing the Triggers collection. <span class="macro">@extended</span> is set to the COM error code<br/>
-<b>Parameters:</b> <br/>&emsp;&emsp;<span class="variable">$oTaskDefinition</span> - Task Definition object as returned by _TS_Wrapper_TaskCreate
-
-<br/>&emsp;&emsp;<span class="variable">$iDelay</span>          - Value in minutes indicating the time between the users logon and the start of the Task
-
-<br/>&emsp;&emsp;<span class="variable">$sStart</span>          - The date and time when the Trigger is activated. Format: YYYY-MM-DDTHH:MM:SS(+-)HH:MM. See Remarks
-
-<span class="optparam"><br/>&emsp;&emsp;<span class="variable">$sEnd</span>            (Optional) -  The date and time when the Trigger is deactivated. Format: YYYY-MM-DDTHH:MM:SS(+-)HH:MM. See Remarks</span><br/>
-<b>Remarks:</b> The (+-)HH:MM section describes the time zone as a certain number of hours ahead or behind Coordinated Universal Time (Greenwich Mean Time).<br/>
-<b>Author:</b> water<br/>
-</body></html>
