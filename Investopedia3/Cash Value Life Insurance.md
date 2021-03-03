@@ -1,10 +1,9 @@
 ---
 alias: [Cash Value Life Insurance]
 created: 2021-03-02T18:49:09 (UTC +11:00)
-tags: [Cash Value Life Insurance, Cash Value Life Insurance]
+tags: [Cash Value Life Insurance]
 source: https://www.investopedia.com/terms/c/cash-value-life-insurance.asp
-author: 
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Cash Value Life Insurance
