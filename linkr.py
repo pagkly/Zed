@@ -89,6 +89,7 @@ if platform == "win32":
     print(updir)
     exdir=os.path.join(updir, r'AppData\Roaming\Mozilla\Firefox\Profiles\buaivdxq.default-release\extensions')
     downdir=os.path.join(updir, r'Documents\Arthur\Investopedia4')
+    downdir=os.path.join(updir, r'Documents\Arthur\FMI')
     profiledir=os.path.join(updir, r'AppData\Roaming\Mozilla\Firefox\Profiles\buaivdxq.default-release')
     profdirc=r'AppData\Local\Google\Chrome\UD2'
     pdirc=os.path.join(updir, profdirc)
