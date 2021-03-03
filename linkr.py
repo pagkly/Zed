@@ -193,8 +193,4 @@ if paragraph_mode:
 else:
     linked_txt = link_content(clip_txt)
 
-# send the linked text to the clipboard
-pyperclip.copy(linked_txt)
-#print(clip_txt)
-print('----------------------')
-print('linked text copied to clipboard')
+
