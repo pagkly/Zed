@@ -52,4 +52,4 @@ Credit card lenders typically calculate interest based on a daily periodic rate.
 
 ## Special Consideration
 
-Some revolving loans offer a "[[[Investopedia/Investopedia5/A Closer Look at Grace Periods|grace period]]](https://www.fdic.gov/regulations/laws/rules/6500-3200.html)" from accumulating interest, allowing borrowers to pay off their balances by a certain date within the billing cycle without further interest compounding on their balances. The date and duration of your [[Investopedia/Investopedia5/A Closer Look at Grace Periods|grace period]], if any, should be clearly identified in your contract with the lender.
+Some revolving loans offer a "[[Investopedia/Investopedia5/A Closer Look at Grace Periods|grace period]](https://www.fdic.gov/regulations/laws/rules/6500-3200.html)" from accumulating interest, allowing borrowers to pay off their balances by a certain date within the billing cycle without further interest compounding on their balances. The date and duration of your [[Investopedia/Investopedia5/A Closer Look at Grace Periods|grace period]], if any, should be clearly identified in your contract with the lender.

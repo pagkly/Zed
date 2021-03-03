@@ -22,7 +22,7 @@ The equity capital market (ECM) is where financial institutions help companies r
 
 The equity capital market (ECM) is broader than the stock market because it covers a wider range of financial instruments and activities. These include the marketing and distribution and allocation of issues, [[IPOs]](https://www.investopedia.com/terms/i/ipo.asp), private placements, derivatives trading, and [[book building]](https://www.investopedia.com/terms/b/bookbuilding.asp). The main participants in the ECM are investment banks, broker-dealers, retail investors, venture capitalists, private equity firms, angel investors and securities firms.
 
-Together with the [[bond market]](https://www.investopedia.com/terms/b/bondmarket.asp), the ECM channels money provided by savers and depository institutions to investors. As part of the [[[Capital Markets What You Should Know|capital markets]]](https://www.investopedia.com/terms/c/capitalmarkets.asp), the ECM, leads, in theory, to the efficient allocation of resources within a market economy.
+Together with the [[bond market]](https://www.investopedia.com/terms/b/bondmarket.asp), the ECM channels money provided by savers and depository institutions to investors. As part of the [[Capital Markets What You Should Know|capital markets]](https://www.investopedia.com/terms/c/capitalmarkets.asp), the ECM, leads, in theory, to the efficient allocation of resources within a market economy.
 
 ## Primary Equity Market
 

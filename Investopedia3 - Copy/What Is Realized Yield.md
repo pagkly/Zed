@@ -1,0 +1,56 @@
+---
+alias: [What Is Realized Yield?]
+created: 2021-03-02T23:09:59 (UTC +11:00)
+tags: [What Is Realized Yield?, What Is Realized Yield?]
+source: https://www.investopedia.com/terms/r/realizedyield.asp
+author: James Chen
+---
+
+# What Is Realized Yield?
+
+> ## Excerpt
+> Realized yield is the actual amount of return earned on a security investment over a period of time. Discover more about realized yield here.
+
+---
+
+What Is Realized Yield?
+## What Is Realized Yield?
+
+Realized yield is the actual return earned during the [[holding period]](https://www.investopedia.com/terms/h/holdingperiod.asp) for an investment. It may include dividends, interest payments, and other cash distributions. The term "realized yield" can be applied to a bond sold before its [[maturity date]](https://www.investopedia.com/terms/m/maturitydate.asp) or a dividend-paying security. Generally speaking, the realized yield on bonds includes the [[coupon]](https://www.investopedia.com/terms/c/coupon.asp) payments received during the holding period, plus or minus the change in the value of the original investment, calculated on an annual basis.
+
+### Key Takeaways
+
+-   Realized yield is the actual return earned during the holding period for an investment, and it may include dividends, interest payments, and other cash distributions.
+-   The realized yield on investments with maturity dates is likely to differ from the stated yield to maturity under most circumstances.
+-   In the bond market, it is common to use the terms "realized yield" and "realized return" interchangeably.
+-   The term "realized yield" is applied to bonds, CDs, and fixed-income funds, but "realized return" is generally the preferred term for stocks.
+
+## Understanding Realized Yield
+
+The realized yield on investments with maturity dates is likely to differ from the stated yield to maturity ([YTM](https://www.investopedia.com/terms/y/yieldtomaturity.asp)) under most circumstances. One exception occurs when a bond is purchased and sold at [[face value]](https://www.investopedia.com/terms/f/facevalue.asp), which is also the redemption price of the bond at maturity. For example, a bond with a coupon of 5% that is purchased and sold at face value delivers a realized yield of 5% for the holding period. The same bond redeemed at face value when it matures provides a yield to maturity of 5%. In all other circumstances, realized yields are calculated based on payments received and the change in the value of [[principal]](https://www.investopedia.com/terms/p/principal.asp) relative to the amount invested.
+
+The realized yield is what a bond market participant actually gets, which is not necessarily the stated yield to maturity. Given identical [[credit quality]](https://www.investopedia.com/terms/c/creditquality.asp), a one-year bond with a 3% coupon and a principal of $100 selling at $102 is roughly equivalent to a one-year bond with a 1% coupon selling at face value. We express this equivalence by stating that both of these bonds have a yield to maturity of about 1%. However, suppose the market interest rate falls half a percentage point one month later, and one-year bond prices rise about 0.5% in response to lower rates. If the investor sells the bonds after only that one month without collecting any coupon payments, the result is a realized yield of a little over 6% on an annual basis.
+
+Realized yield is also an exceptionally useful concept for evaluating [[high-yield bonds]](https://www.investopedia.com/terms/h/high_yield_bond.asp). Realized yield gives investors a way to deal with the fact that some high-yield bonds almost always default.
+
+The realized yield of a high-yield bond fund is likely to be lower than its yield to maturity because of defaults.
+
+An example will help to illustrate how realized yield works in the high-yield bond market. Suppose that interest rates and overall [[default risk]](https://www.investopedia.com/terms/d/defaultrisk.asp) stay the same for a particular year. In that year, one-year [[Treasuries]](https://www.investopedia.com/articles/investing/073113/introduction-treasury-securities.asp) are offering a yield to maturity of 0.5%. At the same time, a high-yield bond fund has a yield to maturity of 5%, but 3% of the bonds default during the year. The realized yield for the high-yield bond fund was just 2% because of the defaults, compared to the yield to maturity of 5%. On the other hand, the realized yield was 0.5% for the Treasuries, which was identical with their yield to maturity.
+
+## Realized Yield vs. Realized Return
+
+Realized yield, like realized return, is simply how much money the investor actually made. In the bond market, it is common to use the terms "realized yield" and "realized return" interchangeably. However, the term "realized return" is typically used instead of "realized yield" in the stock market. High dividend yield stocks are the major exception.
+
+## Types of Realized Yields
+
+### Bonds
+
+Realized yield is the [[total return]](https://www.investopedia.com/terms/t/totalreturn.asp) when an investor sells a bond before maturity. For example, a bond maturing in three years with a 3% coupon purchased at face value of $1,000 has a yield to maturity of 3%. If the bond is sold precisely one year after purchase at $960, the loss of principal is 4%. The coupon payment of 3% brings the realized yield to a negative 1%. Instead, suppose such a bond is sold after a year at $1,020 for a 2% gain in principal. In this case, the realized yield increases to 5% due to the 3% coupon payment.
+
+### Early CD Withdrawal
+
+Certificate of deposit investors who cash out before the maturity date often have to pay a penalty. On a two-year [[CD]](https://www.investopedia.com/terms/c/certificateofdeposit.asp), the typical charge for early withdrawal is six months of interest. For example, say an investor who cashes out a two-year CD that pays 1% after one year accrues $1,000 of interest. The penalty of six months equates to $500. After paying this fee, the investor gets $500 over one year for a realized yield of 0.5%.
+
+### Fixed-Income Funds
+
+The calculation for realized yield also applies to exchange traded funds ([ETFs](https://www.investopedia.com/terms/e/etf.asp)) and other investment vehicles without maturity dates. For example, an investor who holds an ETF paying 4% interest for exactly two years and sells for a 2% gain, earned 4% per year in interest. The increase in principal is spread out over the two-year holding period for a 1% gain per year, bringing the realized yield to 5% per year.

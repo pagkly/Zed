@@ -1,0 +1,46 @@
+---
+alias: [Robust]
+created: 2021-03-02T23:25:42 (UTC +11:00)
+tags: [Robust, Robust]
+source: https://www.investopedia.com/terms/r/robust.asp
+author: Will Kenton
+---
+
+# Robust
+
+> ## Excerpt
+> Robust is a characteristic describing a model's, test's or system's ability to effectively perform while its variables or assumptions are altered.
+
+---
+
+Robust
+## What Does Robust Mean?
+
+In the world of investing, robust is a characteristic describing a model's, test's, or system's ability to perform effectively while its variables or assumptions are altered. A robust concept will operate without failure and produce positive results under a variety of conditions.
+
+For statistics, a test is robust if it still provides insight into a problem despite having its assumptions altered or violated. In economics, robustness is attributed to [financial markets](https://www.investopedia.com/terms/f/financial-market.asp) that continue to perform despite alterations in market conditions. In general, a system is robust if it can handle [variability](https://www.investopedia.com/terms/v/variability.asp) and remain effective.
+
+## Understanding Robust
+
+[Financial models](https://www.investopedia.com/terms/f/financial-market.asp) are an integral part of running a corporation. From the corporate executives of large [multinational corporations](https://www.investopedia.com/terms/m/multinationalcorporation.asp) to the franchise owner of the local burger restaurant, decision-makers need timely information presented to them in a model form that best reflects the activities of the business. Investors also use financial models to analyze and forecast the value of corporations to determine if they are viable prospective investments.
+
+### Key Takeaways
+
+-   Robust models deliver positive results despite changing market conditions.
+-   In business, models are often used to focus on a company's fundamentals, like revenues and earnings.
+-   Financial models are used in portfolio management, building trading systems, and to calculate the value of derivative contracts.
+-   If a trading system does not deliver positive results over different time frames or during changing market conditions, it is not robust.
+
+## Business Financial Models
+
+Business financial models focus mainly on the fundamentals of a corporation or business, such as revenues, costs, profits, and other [financial ratios](https://www.investopedia.com/terms/p/profitmargin.asp). A model is considered to be robust if its output and forecasts are consistently accurate even if one or more of the input variables or assumptions are drastically changed due to unforeseen circumstances. For example, a specific cost variable may sharply increase due to a severe decrease in supply resulting from a natural disaster.
+
+Another commonly unforeseen circumstance is when war erupts between major countries. Many financial variables can be impacted due to war, which causes models that are not robust to function erratically. A robust model will continue to provide executives and managers with effective decision-making tools, and investors with accurate information on which to base their investment decisions.
+
+## Robust Trading Models
+
+While investors analyze a corporation’s fundamental data in order to find securities that are priced below [market value](https://www.investopedia.com/terms/m/marketvalue.asp) and are therefore perceived to be a good investment, traders analyze a security’s price data using [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp) to forecast price movements that result from disparities in the security’s supply and demand of the moment.
+
+Traders that use computerized [trading systems](https://www.investopedia.com/articles/trading/11/automated-trading-systems.asp) to analyze and trade markets using technical analysis do so by developing, testing, and optimizing statistical models based on the application of [technical indicators](https://www.investopedia.com/terms/t/technicalindicator.asp) to the price data of a security. This is typically done by looking at historical or past price data, along with market indicators, and identifying situations that have high probabilities of success in the future.
+
+A trading model is considered robust if it is consistently profitable regardless of market direction. Very often, a trading model will function well in a specific market condition or time period. However, when market conditions change, or the model is applied to another time period or the future, the model fails horribly, and losses are realized. This is usually a sign that a trading model is not robust.

@@ -28,7 +28,7 @@ The new growth theory is an economic concept, positing that humans' desires and
 
 ## Understanding New Growth Theory
 
-The new growth theory offered a fresh take on what engineers economic prosperity. It emphasizes the importance of entrepreneurship, knowledge, innovation, and technology, challenging the view of [[exogenous growth]](https://www.investopedia.com/terms/e/exogenous-growth.asp) in [[[Define Neoclassical Economics|neoclassical economics]]](https://www.investopedia.com/terms/n/neoclassical.asp) that economic progress is determined by external, uncontrollable forces.
+The new growth theory offered a fresh take on what engineers economic prosperity. It emphasizes the importance of entrepreneurship, knowledge, innovation, and technology, challenging the view of [[exogenous growth]](https://www.investopedia.com/terms/e/exogenous-growth.asp) in [[Define Neoclassical Economics|neoclassical economics]](https://www.investopedia.com/terms/n/neoclassical.asp) that economic progress is determined by external, uncontrollable forces.
 
 Competition squeezes profit, so people have to constantly seek better ways to do things or invent new products in order to maximize profitability. This concept is one of the central tenets of the new growth theory.
 

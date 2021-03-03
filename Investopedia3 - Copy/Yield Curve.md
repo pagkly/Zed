@@ -1,0 +1,54 @@
+---
+alias: [Yield Curve]
+created: 2021-03-03T01:08:28 (UTC +11:00)
+tags: [Yield Curve Definition, Yield Curve]
+source: https://www.investopedia.com/terms/y/yieldcurve.asp
+author: James Chen
+---
+
+# Yield Curve Definition
+
+> ## Excerpt
+> A yield curve is a line that plots the interest rates, at a set point in time, of bonds having equal credit quality but differing maturity dates.
+
+---
+
+Yield Curve
+## What Is a Yield Curve? 
+
+A yield curve is a line that plots yields (interest rates) of bonds having equal credit quality but differing [[maturity dates]](https://www.investopedia.com/terms/m/maturitydate.asp). The slope of the yield curve gives an idea of future interest rate changes and economic activity. There are three main types of yield curve shapes: normal (upward sloping curve), inverted (downward sloping curve) and flat.
+
+### Key Takeaways
+
+-   Yield curves plot interest rates of bonds of equal credit and different maturities. 
+-   The three key types of yield curves include normal, inverted and flat. Upward sloping (also known as normal yield curves) is where longer-term bonds have higher yields than short-term ones. 
+-   While normal curves point to economic expansion, downward sloping (inverted) curves point to economic recession. 
+-   Yield curve rates are published on the Treasury’s website each trading day.
+
+## How a Yield Curve Works
+
+This yield curve is used as a benchmark for other debt in the market, such as mortgage rates or bank lending rates, and it is used to predict changes in economic output and growth. The most frequently reported yield curve compares the three-month, two-year, five-year, 10-year and 30-year U.S. Treasury debt. [[Yield curve rates]](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield) are usually available at the Treasury's interest rate web sites by 6:00 p.m. ET each trading day.1
+
+A normal yield curve is one in which longer maturity bonds have a higher yield compared to shorter-term bonds due to the risks associated with time. An [[inverted yield curve]](https://www.investopedia.com/terms/i/invertedyieldcurve.asp) is one in which the shorter-term yields are higher than the longer-term yields, which can be a sign of an upcoming recession. In a flat or humped yield curve, the shorter- and longer-term yields are very close to each other, which is also a predictor of an economic transition.
+
+## Types of Yield Curve
+
+### Normal Yield Curve
+
+A normal or up-sloped yield curve indicates yields on longer-term bonds may continue to rise, responding to periods of [[economic expansion]](https://www.investopedia.com/terms/e/expansion.asp). When investors expect longer-maturity bond yields to become even higher in the future, many would temporarily park their funds in shorter-term securities in hopes of purchasing longer-term bonds later for higher yields.
+
+In a rising interest rate environment, it is risky to have investments tied up in longer-term bonds when their value has yet to decline as a result of higher yields over time. The increasing temporary demand for shorter-term securities pushes their yields even lower, setting in motion a steeper up-sloped normal yield curve.
+
+Investopedia / Julie Bang
+
+### Inverted Yield Curve
+
+An inverted or down-sloped yield curve suggests yields on longer-term bonds may continue to fall, corresponding to periods of economic recession. When investors expect longer-maturity bond yields to become even lower in the future, many would purchase longer-maturity bonds to lock in yields before they decrease further.
+
+The increasing onset of demand for longer-maturity bonds and the lack of demand for shorter-term securities lead to higher prices but lower yields on longer-maturity bonds, and lower prices but higher yields on shorter-term securities, further inverting a down-sloped yield curve.
+
+### Flat Yield Curve
+
+A flat yield curve may arise from the normal or inverted yield curve, depending on changing economic conditions. When the economy is transitioning from expansion to slower development and even recession, yields on longer-maturity bonds tend to fall and yields on shorter-term securities likely rise, inverting a normal yield curve into a flat yield curve.
+
+When the economy is transitioning from recession to recovery and potential expansion, yields on longer-maturity bonds are set to rise and yields on shorter-maturity securities are sure to fall, tilting an inverted yield curve toward a flat yield curve.

@@ -1,0 +1,55 @@
+---
+alias: [Yuppie]
+created: 2021-03-03T01:10:28 (UTC +11:00)
+tags: [Yuppie Definition, Yuppie Definition]
+source: https://www.investopedia.com/terms/y/yuppie.asp
+author: Clay Halton
+---
+
+# Yuppie Definition
+
+> ## Excerpt
+> Yuppie is a slang term denoting the market segment of young urban professionals, often characterized by youth, affluence, and business success.
+
+---
+
+Yuppie Definition
+## What Is a Yuppie?
+
+Yuppie is a slang term denoting the [market segment](https://www.investopedia.com/terms/m/market-segment.asp) of young urban professionals. A yuppie is often characterized by youth, affluence, and business success. They are often preppy in appearance and like to show off their success by their style and possessions.
+
+### Key Takeaways
+
+-   The term yuppie originated in the 1980s and is used to refer to young urban professionals who are successful in business and considerably affluent.
+-   Some credit writer Joseph Epstein with using the term while others point to journalist Dan Rottenberg's _Chicago_ magazine article.
+-   It is difficult to identify modern yuppies because modern society has doled out wealth to various groups of people rather than a specific set of people with similar characteristics.
+
+## Understanding Yuppies
+
+Coined in the 1980s, the term yuppie was used as a derogatory title for young business people who were considered arrogant, undeservedly wealthy, and obnoxious.1 Yuppies were often associated with wearing high fashion clothing, driving BMWs, and gloating about their successes. The term has become less of a stereotype and now promotes the image of an affluent professional.
+
+Yuppies tend to be educated with high-paying jobs, and they live in or near large cities. Some typical industries associated with yuppies include finance, tech, academia, and many areas in the arts, especially those associated with liberal thinking and style.
+
+## History of the Term Yuppie
+
+There is some debate over who first coined the term yuppie, but many attribute this to Joseph Epstein, writer and former editor of _The American Scholar_.2 Others credit journalist Dan Rottenberg with coining the term in an article titled "[About that urban renaissance](https://www.chicagomag.com/Chicago-Magazine/May-1980/Yuppie/)" for _Chicago_ magazine.3
+
+Linguistically, the term was an evolution, starting from the word "hippie," which 20 years earlier was a label attached to someone considered "hip" to the current culture. That word morphed into "yippie"—counterculture advocates associated with the Youth International Party.
+
+At nearly the same time, a parody of an American stereotype of the "country-club/prep school culture" called "The Preppy Handbook" made the New York Times bestseller list. "Yuppie" was the mash-up of all of these moments in the young adults in America, each a reflection of their time.
+
+In the May 1980 article, entitled "From Yippie to Yuppie," Rottenberg describes the gentrification of Chicago's downtown by upwardly mobile young professionals rebelling against suburbia. "The Yuppies seek neither comfort nor security, but stimulation, and they can find that only in the densest sections of the city," he wrote.
+
+Yippies, in contrast to yuppies, were affiliates of the Youth International Party, a counterculture group that emerged in the late 1960s. The term continued to grow throughout the 1980s as it was used in more newspaper and magazine articles.
+
+After the [1987 stock market crash](https://www.investopedia.com/terms/s/stock-market-crash-1987.asp), the term yuppie became less political and gained more of the social implications it has today. Although its usage declined in the 1990s, it has since come back into the United States lexicon. It has been used and cited in articles, songs, movies, and other pop culture media. To name a few, the term has appeared in the novel and film _Fight Club_, the movie _American Psycho_, the satirical blog "Stuff White People Like" and the Tom Petty song "Yer So Bad."
+
+The term yuppie isn't confined only to the United States—other countries, such as China, Russia, and Mexico, have their variations of yuppies that generally also carry the hallmark connotation of young, higher-class professionals. The term tends to spread and thrive in prospering economies.
+
+## Modern Yuppies
+
+In the 21st century, the term takes on new meaning while retaining the basic tenets of original yuppies. For example, due to the internet and growing reliance on electronic communication, the term yuppie could refer to a [Silicon Valley](https://www.investopedia.com/terms/s/siliconvalley.asp) tech worker that doesn't necessarily have the same social skills as the original yuppie, but still works for a prestigious company and makes a lot of money.
+
+This can make it harder to define yuppies since it might not be obvious at first glance that these people have glamorous careers. Perhaps, as a result, the term yuppie isn't used as widely as it was in the 1980s and early 1990s.4
+
+A [2015 article in the New York Times](https://www.nytimes.com/2015/05/10/fashion/tell-tale-signs-of-the-modern-day-yuppie.html) made the case that the all-encompassing definition of yuppies had fragmented. Micro-yuppies abounded. These yuppies profess allegiance to lifestyles, such as nature-based, or professional communities, such as technology executives, or even online communities, such as gaming. Hipsters, who mock the consumption culture fostered by modern society, have replaced earlier yuppies. However, the irony of the situation is that they participate in society actively through their choices.

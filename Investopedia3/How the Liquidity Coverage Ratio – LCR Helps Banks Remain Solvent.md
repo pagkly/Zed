@@ -56,7 +56,7 @@ The chief takeaway Basel III expects banks to glean from the formula is the expe
 
 ## The LCR vs. Other Liquidity Ratios
 
-[Liquidity ratios](https://www.investopedia.com/terms/l/liquidityratios.asp) are a class of financial metrics used to determine a company's ability to pay off current debt obligations without raising external capital. Liquidity ratios measure a company's ability to pay debt obligations and its margin of safety through the calculation of metrics including the current ratio, quick ratio, and [[[Analyzing a Company's Liquidity Using the Operating Cash Flow Ratio|operating cash flow ratio]]](https://www.investopedia.com/terms/o/ocfratio.asp). Current liabilities are analyzed in relation to liquid assets to evaluate the coverage of short-term debts in an emergency.
+[Liquidity ratios](https://www.investopedia.com/terms/l/liquidityratios.asp) are a class of financial metrics used to determine a company's ability to pay off current debt obligations without raising external capital. Liquidity ratios measure a company's ability to pay debt obligations and its margin of safety through the calculation of metrics including the current ratio, quick ratio, and [[Analyzing a Company's Liquidity Using the Operating Cash Flow Ratio|operating cash flow ratio]](https://www.investopedia.com/terms/o/ocfratio.asp). Current liabilities are analyzed in relation to liquid assets to evaluate the coverage of short-term debts in an emergency.
 
 The liquidity coverage ratio is the requirement whereby banks must hold an amount of high-quality liquid assets that's enough to fund cash outflows for 30 days.1 Liquidity ratios are similar to the LCR in that they measure a company's ability to meet its short-term financial obligations.
 

@@ -27,7 +27,7 @@ Dual listing refers to a listing of any [[security]](https://www.investopedia.co
 
 ## How Dual Listing Works
 
-Dual listing, also known as interlisting or cross-listing, is attractive to many non-U.S. companies because of the depth of the [[[Capital Markets What You Should Know|capital markets]]](https://www.investopedia.com/terms/c/capitalmarkets.asp) in the U.S., the world’s biggest [[economy]](https://www.investopedia.com/terms/e/economy.asp). Data indicate that companies tend to list in countries that have a similar culture or share a common language with their native jurisdiction. For example, most of the biggest Canadian companies are also listed on U.S. exchanges.
+Dual listing, also known as interlisting or cross-listing, is attractive to many non-U.S. companies because of the depth of the [[Capital Markets What You Should Know|capital markets]](https://www.investopedia.com/terms/c/capitalmarkets.asp) in the U.S., the world’s biggest [[economy]](https://www.investopedia.com/terms/e/economy.asp). Data indicate that companies tend to list in countries that have a similar culture or share a common language with their native jurisdiction. For example, most of the biggest Canadian companies are also listed on U.S. exchanges.
 
 A foreign company may seek an ordinary listing, the most prestigious type of listing, on an exchange such as the [NYSE](https://www.investopedia.com/terms/n/nyse.asp) or [NASDAQ](https://www.investopedia.com/terms/n/nasdaq.asp), but the requirements to do so are stringent. In addition to meeting the exchange’s listing criteria, the foreign company also has to satisfy U.S. regulatory requirements, restate its financials, and arrange for clearing and settlement of its trades.
 

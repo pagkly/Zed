@@ -1,0 +1,51 @@
+---
+alias: [Unsecured Creditor]
+created: 2021-03-03T00:25:52 (UTC +11:00)
+tags: [Unsecured Creditor Definition, Understanding Unsecured Creditors]
+source: https://www.investopedia.com/terms/u/unsecuredcreditor.asp
+author: James Chen
+---
+
+# Unsecured Creditor Definition
+
+> ## Excerpt
+> An unsecured creditor is an individual or institution that lends money without obtaining assets as collateral, leading to a higher risk for the creditor.
+
+---
+
+Understanding Unsecured Creditors
+## What Is an Unsecured Creditor?
+
+An unsecured creditor is an individual or institution that lends money without obtaining specified [[assets]](https://www.investopedia.com/ask/answers/12/what-is-an-asset.asp) as [[collateral]](https://www.investopedia.com/terms/c/collateral.asp). This poses a higher risk to the [[creditor]](https://www.investopedia.com/terms/c/creditor.asp) because it will have nothing to fall back on should the borrower default on the loan. If a borrower fails to make a payment on a debt that is unsecured, the creditor cannot take any of the borrower's assets without winning a lawsuit first.
+
+A debenture holder is an unsecured creditor.
+
+Unsecured credit is viewed as a higher risk.
+
+## How an Unsecured Creditor Works
+
+It's uncommon for individuals to be able to [[borrow money without collateral]](https://www.investopedia.com/video/play/collateral/). For example, when you take out a mortgage, a bank will always hold your house as collateral for the loan in case you default. If you take out a loan on an automobile, the lender will secure their debt with your car until it's fully paid off.
+
+One exception wherein money is borrowed without collateral is large corporations, which often issue unsecured commercial paper.
+
+## Differences Between Secured and Unsecured Creditors
+
+[Secured creditors](https://www.investopedia.com/terms/s/secured-creditor.asp) may repossess assets as payment for a debt using the borrower's collateral. Since the borrower has more to lose by defaulting on a secured loan, and the lender has an asset to gain, this type of debt carries less risk for the lender. As a result, secured debt generally comes with lower interest rates when compared to [[unsecured debt]](https://www.investopedia.com/terms/u/unsecureddebt.asp).
+
+Meanwhile, repayment to unsecured creditors is generally dependent on bankruptcy proceedings or successful litigation. An unsecured creditor must first file a legal complaint in court and obtain a judgment before proceeding with collection through wage garnishment and other types of liquidated borrower-owned assets.
+
+Often, a creditor will first attempt to obtain payment through direct contact and report the outstanding debt to the [[major credit bureaus]](https://www.investopedia.com/terms/c/creditbureau.asp)—Equifax, Experian, and TransUnion—before seeking to bring the matter to court. The creditor may also choose to sell the unpaid debt to a collection agency.
+
+### Key Takeaways
+
+-   Secured creditors often require collateral in the event the borrower defaults.
+-   Usually, bankruptcy is the only option for unsecured creditors if the borrower defaults.
+-   Unsecured creditors can range from credit card companies to doctor's offices.
+
+## Types of Unsecured Creditors
+
+Due to the high risk to the lender, unsecured debt often comes with higher interest rates, placing a higher financial burden on the borrower.
+
+Some of the most common types of unsecured creditors include credit card companies, utilities, landlords, hospitals and doctor's offices, and lenders that issue personal or student loans (though education loans carry a special exception that prevents them from being discharged).
+
+Defaulting on unsecured debt can negatively affect the borrower's creditworthiness, making it much less likely that an unsecured creditor will extend them credit in the future.

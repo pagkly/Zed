@@ -1,0 +1,39 @@
+---
+alias: [Knuckle-Buster]
+created: 2021-03-02T21:09:18 (UTC +11:00)
+tags: [Knuckle-Buster, Knuckle-Buster]
+source: https://www.investopedia.com/terms/k/knucklebuster.asp
+author: Julia Kagan
+---
+
+# Knuckle-Buster
+
+> ## Excerpt
+> Knuckle-buster is a nickname for a manual imprint device, used to record credit card transactions.
+
+---
+
+Knuckle-Buster
+## What is a Knuckle-Buster
+
+Knuckle-buster is a slang term for a manual credit card imprinter, a device merchants used to record credit card transactions before the advent of electronic [[point-of-sale terminals]](https://www.investopedia.com/terms/p/point-of-sale-terminal.asp).
+
+## BREAKING DOWN Knuckle-Buster
+
+A knuckle-buster is a colloquial term used to describe early manual credit card imprinting devices. Also sometimes known as zip-zap machines, the imprinters became known as knuckle-busters because frequent users of these devices would often skin their knuckles and develop calluses as a result of repeated use.
+
+Knuckle-busters were ubiquitous for retailers and businesses from the the beginnings of the credit card industry until electronic point-of-sale terminals began to become popular in the 1980’s. 
+
+The device works by placing the customer’s credit card into a bed in the machine, then layering [[carbon paper]](https://www.investopedia.com/terms/c/creditcard.asp) forms over the card. By sliding a bar back and forth over the paper to create an impression from the [[embossed card data]](https://www.investopedia.com/terms/e/embossed-card.asp), multiple copies of the transaction are created. Customers sign these paper forms to authenticate the transactions. Copies of these forms would serve as customer receipts, and the the remaining copies would  then be used by the business and its bank and credit card company to process and record the transactions.
+
+Some manual imprinters would come equipped include a plate with the merchant’s name, address, and other identifying information. Other merchants would purchase carbon transaction forms pre-printed with their business information.
+
+## The Effect of Technological Advancements on Knuckle-Busters
+
+Electronic point-of-sale terminals began to become available in 1979, and provided many advantages over knuckle-busters. For one thing, terminals offered faster verification and approval for [[transactions]](https://www.investopedia.com/terms/t/transaction.asp) on a credit card account. They also tended to be easier on the knuckles of all involved parties.
+
+Carbon copies also tend to be fragile records, and transaction receipts could frequently become illegible, especially over time.
+
+Nevertheless, knuckle-busters remain an advantageous backup plan for businesses that would like to continue to run transactions when electricity or computer networks become unavailable. They also remain useful for merchants, such as fair vendors, who require a portable method of recording transactions.
+
+Even so, the ongoing utility of knuckle-busters is compromised by a number of factors. The availability of carbon forms is diminishing, making forms more expensive and inaccessible, and employees are often not trained in the use of manual imprinters even whey they are available. For merchants, manual entry of credit card transactions is more time-consuming, and each entry is at risk of not being authenticated. Additionally, credit card companies more and more frequently issue cards which are not embossed with customer data, making the knuckle-buster entirely useless in capturing customer data even when running a manual transaction.

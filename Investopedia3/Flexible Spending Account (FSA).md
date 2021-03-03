@@ -58,7 +58,7 @@ The recent $2 trillion CARES (Coronavirus Aid, Relief, and Economic Security) Ac
 ## Special Considerations
 
 All the money set aside in an FSA generally must be used by the end of the plan  
-year. However, [[a plan can offer a [[A Closer Look at Grace Periods|grace period]]]](https://www.investopedia.com/ask/answers/111314/how-does-grace-period-work-my-flexible-spending-account-fsa.asp) of up to two-and-a-half months to finish using that funding.
+year. However, [[a plan can offer a [[A Closer Look at Grace Periods|grace period]](https://www.investopedia.com/ask/answers/111314/how-does-grace-period-work-my-flexible-spending-account-fsa.asp) of up to two-and-a-half months to finish using that funding.
 
 If that option is not taken, [a plan may allow you to roll over](https://www.investopedia.com/ask/answers/111615/does-money-flexible-spending-account-fsa-roll-over.asp) up to $550 per year of unused funds from  
 your account. Neither option is required, but only one may be offered by the plan.

@@ -1,0 +1,72 @@
+---
+alias: [Durbin Watson Statistic]
+created: 2021-03-02T19:29:08 (UTC +11:00)
+tags: [Durbin Watson Statistic Definition, Understanding the Durbin Watson Statistic]
+source: https://www.investopedia.com/terms/d/durbin-watson-statistic.asp
+author: Will Kenton
+---
+
+# Durbin Watson Statistic Definition
+
+> ## Excerpt
+> The Durbin Watson statistic is a number that tests for autocorrelation in the residuals from a statistical regression analysis.
+
+---
+
+Understanding the Durbin Watson Statistic
+## What Is the Durbin Watson Statistic?
+
+The Durbin Watson (DW) statistic is a test for [autocorrelation](https://www.investopedia.com/terms/a/autocorrelation.asp) in the residuals from a statistical [regression analysis](https://www.investopedia.com/terms/r/regression.asp). The Durbin-Watson statistic will always have a value between 0 and 4. A value of 2.0 means that there is no autocorrelation detected in the sample. Values from 0 to less than 2 indicate positive autocorrelation and values from from 2 to 4 indicate negative autocorrelation.
+
+A stock price displaying positive autocorrelation would indicate that the price yesterday has a positive correlation on the price today—so if the stock fell yesterday, it is also likely that it falls today. A security that has a negative autocorrelation, on the other hand, has a negative influence on itself over time—so that if it fell yesterday, there is a greater likelihood it will rise today.
+
+### Key Takeaways
+
+-   The Durbin Watson statistic is a test for autocorrelation in a data set.
+-   The DW statistic always has a value between zero and 4.0.
+-   A value of 2.0 means there is no autocorrelation detected in the sample. Values from zero to 2.0 indicate positive autocorrelation and values from 2.0 to 4.0 indicate negative autocorrelation.
+-   Autocorrelation can be useful in technical analysis, which is most concerned with the trends of security prices using charting techniques in lieu of a company's financial health or management.
+
+## The Basics of the Durbin Watson Statistic
+
+Autocorrelation, also known as [serial correlation](https://www.investopedia.com/terms/s/serial-correlation.asp), can be a significant problem in analyzing historical data if one does not know to look out for it. For instance, since stock prices tend not to change too radically from one day to another, the prices from one day to the next could potentially be highly correlated, even though there is little useful information in this observation. In order to avoid autocorrelation issues, the easiest solution in finance is to simply convert a series of historical prices into a series of percentage-price changes from day to day.
+
+Autocorrelation can be useful for [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp), which is most concerned with the trends of, and relationships between, security prices using charting techniques in lieu of a company's financial health or management. Technical analysts can use autocorrelation to see how much of an impact past prices for a security have on its future price.
+
+The Durbin Watson statistic is named after statisticians James Durbin and Geoffrey Watson.
+
+Autocorrelation can show if there is a momentum factor associated with a stock. For example, if you know that a stock historically has a high positive autocorrelation value and you witnessed the stock making solid gains over the past several days, then you might reasonably expect the movements over the upcoming several days (the leading time series) to match those of the lagging time series and to move upward.
+
+## Example of the Durbin Watson Statistic
+
+The formula for the Durbin Watson statistic is rather complex but involves the residuals from an ordinary [least squares regression](https://www.investopedia.com/terms/l/least-squares-method.asp) on a set of data. The following example illustrates how to calculate this statistic.
+
+Assume the following (x,y) data points:
+
+Pair One\=(10,1,100)Pair Two\=(20,1,200)Pair Three\=(35,985)Pair Four\=(40,750)Pair Five\=(50,1,215)Pair Six\=(45,1,000)\\begin{aligned} &\\text{Pair One}=\\left( {10}, {1,100} \\right )\\\\ &\\text{Pair Two}=\\left( {20}, {1,200} \\right )\\\\ &\\text{Pair Three}=\\left( {35}, {985} \\right )\\\\ &\\text{Pair Four}=\\left( {40}, {750} \\right )\\\\ &\\text{Pair Five}=\\left( {50}, {1,215} \\right )\\\\ &\\text{Pair Six}=\\left( {45}, {1,000} \\right )\\\\ \\end{aligned}
+
+Using the methods of a least squares regression to find the "[line of best fit](https://www.investopedia.com/terms/l/line-of-best-fit.asp)," the equation for the best fit line of this data is:
+
+Y\=−2.6268x+1,129.2Y={-2.6268}x+{1,129.2}
+
+This first step in calculating the Durbin Watson statistic is to calculate the expected "y" values using the line of best fit equation. For this data set, the expected "y" values are:
+
+ExpectedY(1)\=(−2.6268×10)+1,129.2\=1,102.9ExpectedY(2)\=(−2.6268×20)+1,129.2\=1,076.7ExpectedY(3)\=(−2.6268×35)+1,129.2\=1,037.3ExpectedY(4)\=(−2.6268×40)+1,129.2\=1,024.1ExpectedY(5)\=(−2.6268×50)+1,129.2\=997.9ExpectedY(6)\=(−2.6268×45)+1,129.2\=1,011\\begin{aligned} &\\text{Expected}Y\\left({1}\\right)=\\left( -{2.6268}\\times{10} \\right )+{1,129.2}={1,102.9}\\\\ &\\text{Expected}Y\\left({2}\\right)=\\left( -{2.6268}\\times{20} \\right )+{1,129.2}={1,076.7}\\\\ &\\text{Expected}Y\\left({3}\\right)=\\left( -{2.6268}\\times{35} \\right )+{1,129.2}={1,037.3}\\\\ &\\text{Expected}Y\\left({4}\\right)=\\left( -{2.6268}\\times{40} \\right )+{1,129.2}={1,024.1}\\\\ &\\text{Expected}Y\\left({5}\\right)=\\left( -{2.6268}\\times{50} \\right )+{1,129.2}={997.9}\\\\ &\\text{Expected}Y\\left({6}\\right)=\\left( -{2.6268}\\times{45} \\right )+{1,129.2}={1,011}\\\\ \\end{aligned}
+
+Next, the differences of the actual "y" values versus the expected "y" values, the errors, are calculated:
+
+Error(1)\=(1,100−1,102.9)\=−2.9Error(2)\=(1,200−1,076.7)\=123.3Error(3)\=(985−1,037.3)\=−52.3Error(4)\=(750−1,024.1)\=−274.1Error(5)\=(1,215−997.9)\=217.1Error(6)\=(1,000−1,011)\=−11\\begin{aligned} &\\text{Error}\\left({1}\\right)=\\left( {1,100}-{1,102.9} \\right )={-2.9}\\\\ &\\text{Error}\\left({2}\\right)=\\left( {1,200}-{1,076.7} \\right )={123.3}\\\\ &\\text{Error}\\left({3}\\right)=\\left( {985}-{1,037.3} \\right )={-52.3}\\\\ &\\text{Error}\\left({4}\\right)=\\left( {750}-{1,024.1} \\right )={-274.1}\\\\ &\\text{Error}\\left({5}\\right)=\\left( {1,215}-{997.9} \\right )={217.1}\\\\ &\\text{Error}\\left({6}\\right)=\\left( {1,000}-{1,011} \\right )={-11}\\\\ \\end{aligned}
+
+Next these errors must be [squared and summed](https://www.investopedia.com/terms/s/sum-of-squares.asp):
+
+Sum of Errors Squared =(−2.92+123.32+−52.32+−274.12+217.12+−112)\=140,330.81\\begin{aligned} &\\text{Sum of Errors Squared =}\\\\ &\\left({-2.9}^{2}+{123.3}^{2}+{-52.3}^{2}+{-274.1}^{2}+{217.1}^{2}+{-11}^{2}\\right)= \\\\ &{140,330.81}\\\\ &\\text{}\\\\ \\end{aligned}
+
+Next, the value of the error minus the previous error are calculated and squared:
+
+Difference(1)\=(123.3−(−2.9))\=126.2Difference(2)\=(−52.3−123.3)\=−175.6Difference(3)\=(−274.1−(−52.3))\=−221.9Difference(4)\=(217.1−(−274.1))\=491.3Difference(5)\=(−11−217.1)\=−228.1Sum of Differences Square\=389,406.71\\begin{aligned} &\\text{Difference}\\left({1}\\right)=\\left( {123.3}-\\left({-2.9}\\right) \\right )={126.2}\\\\ &\\text{Difference}\\left({2}\\right)=\\left( {-52.3}-{123.3} \\right )={-175.6}\\\\ &\\text{Difference}\\left({3}\\right)=\\left( {-274.1}-\\left({-52.3}\\right) \\right )={-221.9}\\\\ &\\text{Difference}\\left({4}\\right)=\\left( {217.1}-\\left({-274.1}\\right) \\right )={491.3}\\\\ &\\text{Difference}\\left({5}\\right)=\\left( {-11}-{217.1} \\right )={-228.1}\\\\ &\\text{Sum of Differences Square}={389,406.71}\\\\ \\end{aligned}
+
+Finally, the Durbin Watson statistic is the quotient of the squared values:
+
+Durbin Watson\=389,406.71/140,330.81\=2.77\\text{Durbin Watson}={389,406.71}/{140,330.81}={2.77}
+
+A rule of thumb is that test statistic values in the range of 1.5 to 2.5 are relatively normal. Any value outside this range could be a cause for concern. The Durbin–Watson statistic, while displayed by many regression analysis programs, is not applicable in certain situations. For instance, when lagged dependent variables are included in the explanatory variables, then it is inappropriate to use this test.

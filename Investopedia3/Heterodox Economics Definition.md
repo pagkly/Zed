@@ -16,7 +16,7 @@ author: Clay Halton
 Heterodox Economics Definition
 ## What is Heterodox Economics?
 
-Heterodox economics is the analysis and study of economic principles considered outside of [[mainstream or orthodox schools]](https://www.investopedia.com/terms/m/mainstream-economics.asp) of economic thought. Schools of heterodox economics include [[socialism]](https://www.investopedia.com/terms/s/socialism.asp), [[Marxism]](https://www.investopedia.com/terms/m/marxism.asp), post-Keynesian and others. These schools of thought often combine the [[macroeconomic]](https://www.investopedia.com/terms/m/macroeconomics.asp) outlook found in [[Keynesian economics]](https://www.investopedia.com/terms/k/keynesianeconomics.asp) with approaches critical of [[[Define Neoclassical Economics|neoclassical economics]]](https://www.investopedia.com/terms/n/neoclassical.asp).
+Heterodox economics is the analysis and study of economic principles considered outside of [[mainstream or orthodox schools]](https://www.investopedia.com/terms/m/mainstream-economics.asp) of economic thought. Schools of heterodox economics include [[socialism]](https://www.investopedia.com/terms/s/socialism.asp), [[Marxism]](https://www.investopedia.com/terms/m/marxism.asp), post-Keynesian and others. These schools of thought often combine the [[macroeconomic]](https://www.investopedia.com/terms/m/macroeconomics.asp) outlook found in [[Keynesian economics]](https://www.investopedia.com/terms/k/keynesianeconomics.asp) with approaches critical of [[Define Neoclassical Economics|neoclassical economics]](https://www.investopedia.com/terms/n/neoclassical.asp).
 
 ### Key Takeaways
 

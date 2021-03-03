@@ -18,7 +18,7 @@ Unearned Revenue
 
 Unearned revenue is money received by an individual or company for a service or product that has yet to be provided or delivered. It can be thought of as a "prepayment" for goods or services that a person or company is expected to supply to the purchaser at a later date. As a result of this prepayment, the seller has a [[liability]](https://www.investopedia.com/terms/l/liability.asp) equal to the [[revenue]](https://www.investopedia.com/terms/r/revenue.asp) earned until the good or service is delivered. This liability is noted under current liabilities, as it is expected to be settled within a year.
 
-Unearned revenue is also referred to as [[[Deferred Revenue Definition|deferred revenue]]](https://www.investopedia.com/terms/d/deferredrevenue.asp) and [[advance payments]](https://www.investopedia.com/terms/a/advance-payment.asp).
+Unearned revenue is also referred to as [[Deferred Revenue Definition|deferred revenue]](https://www.investopedia.com/terms/d/deferredrevenue.asp) and [[advance payments]](https://www.investopedia.com/terms/a/advance-payment.asp).
 
 ### Key Takeaways
 
@@ -49,7 +49,7 @@ According to the SEC, there must be collection probability, or the ability to ma
 
 ## Example of Unearned Revenue
 
-Morningstar Inc. ([MORN](https://www.investopedia.com/markets/quote?tvwidgetsymbol=morn)) offers a line of products and services for the financial industry, including [financial advisors](https://www.investopedia.com/terms/f/financial-advisor.asp) and [[asset managers]](https://www.investopedia.com/terms/a/assetmanagement.asp). Many of its products are sold through subscriptions. Under this arrangement, many subscribers pay upfront and receive the product over time. This creates a situation in which the amount is recorded as unearned revenue or, as Morningstar calls it, [[[Deferred Revenue Definition|deferred revenue]]](https://www.investopedia.com/terms/d/deferredrevenue.asp).
+Morningstar Inc. ([MORN](https://www.investopedia.com/markets/quote?tvwidgetsymbol=morn)) offers a line of products and services for the financial industry, including [financial advisors](https://www.investopedia.com/terms/f/financial-advisor.asp) and [[asset managers]](https://www.investopedia.com/terms/a/assetmanagement.asp). Many of its products are sold through subscriptions. Under this arrangement, many subscribers pay upfront and receive the product over time. This creates a situation in which the amount is recorded as unearned revenue or, as Morningstar calls it, [[Deferred Revenue Definition|deferred revenue]](https://www.investopedia.com/terms/d/deferredrevenue.asp).
 
 At the end of the second quarter of 2020, Morningstar had $287 million in unearned revenue, up from $250 million from the prior-year end. The company classifies the revenue as a short-term liability, meaning it expects the amount to be paid over one year for services to be provided over the same period.
 

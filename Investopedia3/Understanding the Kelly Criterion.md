@@ -32,7 +32,7 @@ The win/loss ratio is equal to the total positive trade amounts, divided by the 
 
 ## What Does the Kelly Criterion Tell You?
 
-After being published in 1956, the Kelly criterion was picked up quickly by gamblers who were able to apply the formula to horse racing. It was not until later that the formula was applied to investing. More recently, the strategy has seen a renaissance, in response to claims legendary investors [[Warren Buffet]](https://www.investopedia.com/terms/o/oracleofomaha.asp) and [[[Bill Gross]]](https://www.investopedia.com/terms/w/william-h-gross.asp) use a variant of the Kelly criterion.
+After being published in 1956, the Kelly criterion was picked up quickly by gamblers who were able to apply the formula to horse racing. It was not until later that the formula was applied to investing. More recently, the strategy has seen a renaissance, in response to claims legendary investors [[Warren Buffet]](https://www.investopedia.com/terms/o/oracleofomaha.asp) and [[Bill Gross]](https://www.investopedia.com/terms/w/william-h-gross.asp) use a variant of the Kelly criterion.
 
 The formula is used by investors who want to trade with the objective of growing capital, and it assumes that the investor will reinvest profits and put them at risk for future trades. The goal of the formula is to determine the optimal amount to put into any one trade.
 

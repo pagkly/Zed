@@ -1,0 +1,57 @@
+---
+alias: [Skin In The Game]
+created: 2021-03-02T23:39:00 (UTC +11:00)
+tags: [Skin In The Game Definition, Skin In The Game]
+source: https://www.investopedia.com/terms/s/skininthegame.asp
+author: Will Kenton
+---
+
+# Skin In The Game Definition
+
+> ## Excerpt
+> Skin in the game is a phrase that refers to a situation in which high-ranking insiders use their own money to buy stock in the company they are running.
+
+---
+
+Skin In The Game
+## What Is Skin in the Game?
+
+Skin in the game is a phrase made popular by renowned investor [[Warren Buffett]](https://www.investopedia.com/articles/01/071801.asp) referring to a situation in which high-ranking insiders use their own money to buy stock in the company they are running. The aphorism is particularly common in business, finance, and gambling and is also used in politics.
+
+### Key Takeaways
+
+-   Skin in the game refers to owners, executives, or principals having a significant stake in the shares of the company they manage.
+-   Skin in the game is important to investors because it shows executives share a stake in the company's success.
+-   The SEC requires companies to report on insider ownership or trading of a company's securities, which is made available to the public.
+
+## Understanding Skin in the Game
+
+In business and financing, the term skin in the game is used to refer to owners or [[principals]](https://www.investopedia.com/terms/p/principal.asp) having a significant stake in an investment vehicle, such as shares of a company, in which outside investors are solicited to invest. In this phrase, "skin" is a figure of speech for the person or money involved, and "game" is the metaphor for actions on the field of play under discussion.
+
+It is not unheard of for an executive to receive stock as compensation or to exercise [[stock options]](https://www.investopedia.com/terms/s/stockoption.asp) to buy a stock at a discount. What is less common is for an executive to risk their own money in the company that they work in. When an executive puts skin in the game, it is seen as a sign of good faith or a show of confidence in the future of the company, and it is seen as a positive sign by outside investors.
+
+If principals or owners have also invested their own money in the investment vehicle, then prospective and existing investors will translate this move as a vote of confidence. Skin in the game—or insider ownership—also conveys to investors that the company will likely put its best foot forward to generate returns for its investors.
+
+The idea behind executives putting their skin in the game is to ensure that corporations are managed by like-minded individuals who share a stake in the company. Executives can talk all they want, but the best vote of confidence is putting one's own money on the line just like outside investors.
+
+## Limitations of Skin in the Game
+
+However, there are limitations that exist when owners and senior management executives are asked to invest their own money in a security. Many banks and other financial institutions bar employees from having any "skin" where client capital is managed. The restriction addresses the issue of [[front running]](https://www.investopedia.com/terms/f/frontrunning.asp), which is when an executive enters a trade—with inside or non-public information—just before an event or announcement to gain an economic advantage.
+
+There are also restrictions on [[commingled funds]](https://www.investopedia.com/terms/c/commingledfund.asp), which is the pooling of resources or the mixing of both private funds and corporate resources into the company's stock or bonds. There are some instances when it's important that the executives remain objective in their decision making and are barred from investing in the company's they manage.
+
+For example, investment entities, such as [[hedge funds]](https://www.investopedia.com/terms/h/hedgefund.asp), private equity, and [[mutual funds]](https://www.investopedia.com/terms/m/mutualfund.asp) are legally limited to minority investment positions within the range of 0.5% to 2%.
+
+## Disclosure Requirements for Skin in the Game
+
+The [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) requires that funds annually disclose how much money each [[portfolio manager]](https://www.investopedia.com/terms/p/portfoliomanager.asp) has invested in the fund. Using this public information, proponents argue that finding fund managers who put their money where their mouths are can be a reliable way to identify fund managers who could be expected to beat the market over the long run. Proponents of skin in the game argue that capital commitment is the single most important way to align the interests of investors and managers.
+
+The SEC also requires companies to report on insider ownership or trades of a company's securities. The reports are required because trades by executives, directors, and officers can impact the price of the company's stock. There are various types of forms that the executives must file with the SEC. Investors can access and [[use these insider ownership reports]](https://www.investopedia.com/articles/stocks/05/042605.asp) to make a more informed decision as to whether to invest or not invest in the company.
+
+## Real-World Example of Skin in the Game
+
+If investors want to see a CEO that has skin in the game with his company, there are few better examples than [[Elon Musk]](https://www.investopedia.com/articles/personal-finance/061015/how-elon-musk-became-elon-musk.asp). Elon Musk is the chief executive officer ([CEO](https://www.investopedia.com/terms/c/ceo.asp)) of Tesla Inc. ([TSLA](https://www.investopedia.com/markets/quote?tvwidgetsymbol=tsla)). Below is a portion of the SEC filing showing the number of Tesla shares owned by its CEO.
+
+-   Musk owns more than 34 million shares of Tesla (Table 1, section 5) through a trust, according to [[the filing]](https://ir.tesla.com/sec-filings?items_per_page=10&page=1) with the SEC in December 2019.
+
+Example of Tesla Ownership by Elon Musk.  Investopedia

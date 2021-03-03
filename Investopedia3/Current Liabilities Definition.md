@@ -40,7 +40,7 @@ Below is a list of the most common current liabilities that are found on the bal
 -   [[Short-term debt]](https://www.investopedia.com/terms/s/shorttermdebt.asp) such as bank loans or commercial paper issued to fund operations
 -   Dividends payable
 -   Notes payable—the principal portion of outstanding debt
--   Current portion of [[[Deferred Revenue Definition|deferred revenue]]](https://www.investopedia.com/terms/d/deferredrevenue.asp), such as prepayments by customers for work not completed or earned yet
+-   Current portion of [[Deferred Revenue Definition|deferred revenue]](https://www.investopedia.com/terms/d/deferredrevenue.asp), such as prepayments by customers for work not completed or earned yet
 -   [[Current maturities of long-term debt]](https://www.investopedia.com/terms/c/currentportionlongtermdebt.asp)
 -   Interest payable on outstanding debts, including long-term obligations
 -   Income taxes owed within the next year

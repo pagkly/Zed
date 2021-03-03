@@ -1,0 +1,63 @@
+---
+alias: [Total Utility]
+created: 2021-03-03T00:04:43 (UTC +11:00)
+tags: [Total Utility Definition, Total Utility Definition]
+source: https://www.investopedia.com/terms/t/totalutility.asp
+author: Akhilesh Ganti
+---
+
+# Total Utility Definition
+
+> ## Excerpt
+> Total utility is the aggregate summation of satisfaction or fulfillment that a consumer receives through the consumption of goods or services.
+
+---
+
+Total Utility Definition
+## What Is Total Utility?
+
+Total utility is the aggregate summation of satisfaction or fulfillment that a consumer receives through the consumption of goods or services.
+
+## Understanding Total Utility
+
+In economics, [utility](https://www.investopedia.com/terms/u/utility.asp) refers to the satisfaction gained from consuming a good or service. Total utility is usually defined as a quantifiable summation of satisfaction or happiness obtained from consuming multiple units of a particular good or service. Utility and total utility are used in economic analysis of consumer behaviors within a marketplace. Economists seek to quantify total utility using special calculations. Economists may also study several economic metrics in conjunction with total utility when seeking to understand how consumer behaviors align with supply and demand.
+
+In economics, economists typically view changes in behavior and consumption by analyzing marginal increases and marginal decreases. Marginal changes will usually be either scaled increases or scaled decreases. In the case of total utility, marginal refers to the increasing or decreasing level of utility that is obtained with added consumptions.
+
+Total utility is often studied alongside Rational Choice Theory and the Law of Diminishing Marginal Utility. [Rational Choice Theory](https://www.investopedia.com/terms/r/rational-choice-theory.asp) says that consumers seek to maximize their utility with each unit of consumption. Consumer theory and [demand theory](https://www.investopedia.com/terms/d/demand_theory.asp) suggest that consumer actions are driven toward utility maximization by attempting to acquire the most satisfaction possible in the most affordable way. In general, classical economic theories show that most consumers want to get the highest possible level of utility per unit for the money they spend.
+
+Total utility is usually measured in relative units called utils. When measuring total utility, analysis can span from one unit of consumption to multiple units. For example, a cookie provides a level of utility as determined by its singular consumption, while a bag of cookies may provide total utility over the course of time it takes to completely consume all the cookies in the bag.
+
+### Key Takeaways
+
+-   Total utility is the aggregate summation of satisfaction or fulfillment that a consumer receives through the consumption of goods or services.
+-   Economists seek to quantify utility and total utility using utils.
+-   To best understand total utility, one should understand the Law of Diminishing Marginal Utility, which states that as more of a single good or service is consumed, the additional satisfaction, referred to as marginal utility, drops.
+-   Total utility is a core concept studied when seeking to analyze consumer behaviors.
+-   In general, economic theories believe that consumer actions are usually based on the goal of total utility maximization which leads to purchasing units perceived to have the greatest utility satisfaction.
+
+## The Law of Diminishing Marginal Utility
+
+To better understand total utility, one must understand the [Law of Diminishing Marginal Utility](https://www.investopedia.com/terms/l/lawofdiminishingutility.asp), which states that as more of a single good or service is consumed, the additional satisfaction, referred to as marginal utility, drops. The first good consumed provides the highest utility, the second good has a lower marginal utility, and so on. Therefore, total utility grows less rapidly with each additional unit consumed of the same good or service.
+
+## How to Calculate Total Utility
+
+Each individual unit of a good or service has its own utility and each additional unit of consumption will have its own marginal utility. The total utility will be the aggregated sum of utility gained from all units being studied.
+
+A total utility formula will include utils. Utils are typically relative and assigned a base value. Economists usually analyze utils across a spectrum to provide comparable analysis of the amount of util or satisfaction gained from a unit of consumption. An assigned base value for utils is needed because theoretically there is no real value for utility satisfaction in general.
+
+To find total utility economists use the following basic total utility formula:
+
+TU = U1 + MU2 + MU3 …
+
+TU = Total Utility
+
+U = Utility
+
+MU = Marginal Utility
+
+The total utility is equal to the sum of utils gained from each unit of consumption. In the equation, each unit of consumption is expected to have slightly less utility as more units are consumed.
+
+## Total Utility Maximization
+
+Economic theory regarding consumer activities suggests that the primary goal of the consumer is to achieve the largest amount of utility for the least amount of cost. This is partly due to the limited amount of funds a person may possess, as well as a desire to achieve as much satisfaction from the consumption of goods and services as possible. For example, if a consumer is presented with two purchasing options with the same financial cost, and neither option is more necessary or functional than the other, the consumer will choose the good or service that provides the most utility for the money.

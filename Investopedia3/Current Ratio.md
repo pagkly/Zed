@@ -81,7 +81,7 @@ Other similar [[liquidity ratios]](https://www.investopedia.com/terms/l/liquidit
 
 The commonly used [[acid-test ratio]](https://www.investopedia.com/terms/a/acidtest.asp) (or [[quick ratio]](https://www.investopedia.com/terms/q/quickratio.asp)) compares a company’s easily liquidated assets (including cash, accounts receivable, and short-term investments, excluding inventory and prepaid) to its current liabilities. The cash asset ratio (or [[cash ratio]](https://www.investopedia.com/terms/c/cash-ratio.asp)) is also similar to the current ratio, but it compares only a company’s marketable securities and cash to its current liabilities.
 
-Finally, the [[[Analyzing a Company's Liquidity Using the Operating Cash Flow Ratio|operating cash flow ratio]]](https://www.investopedia.com/terms/o/ocfratio.asp) compares a company’s active [[cash flow from operations]](https://www.investopedia.com/terms/c/cash-flow-from-operating-activities.asp) (CFO) to its current liabilities.
+Finally, the [[Analyzing a Company's Liquidity Using the Operating Cash Flow Ratio|operating cash flow ratio]](https://www.investopedia.com/terms/o/ocfratio.asp) compares a company’s active [[cash flow from operations]](https://www.investopedia.com/terms/c/cash-flow-from-operating-activities.asp) (CFO) to its current liabilities.
 
 ## Limitations of Using the Current Ratio
 

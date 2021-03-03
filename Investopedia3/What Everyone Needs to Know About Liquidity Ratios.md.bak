@@ -16,9 +16,9 @@ author: Adam Hayes
 What Everyone Needs to Know About Liquidity Ratios
 ## What Are Liquidity Ratios?
 
-Liquidity ratios are an important class of financial metrics used to determine a debtor's ability to pay off current debt obligations without raising external capital. Liquidity ratios measure a company's ability to pay debt obligations and its margin of safety through the calculation of metrics including the [current ratio](https://www.investopedia.com/terms/c/currentratio.asp), [quick ratio](https://www.investopedia.com/terms/q/quickratio.asp), and [[[Analyzing a Company's Liquidity Using the Operating Cash Flow Ratio|operating cash flow ratio]]](https://www.investopedia.com/terms/o/ocfratio.asp).
+Liquidity ratios are an important class of financial metrics used to determine a debtor's ability to pay off current debt obligations without raising external capital. Liquidity ratios measure a company's ability to pay debt obligations and its margin of safety through the calculation of metrics including the [[current ratio]](https://www.investopedia.com/terms/c/currentratio.asp), [[quick ratio]](https://www.investopedia.com/terms/q/quickratio.asp), and [[Analyzing a Company's Liquidity Using the Operating Cash Flow Ratio|operating cash flow ratio]]](https://www.investopedia.com/terms/o/ocfratio.asp).
 
-With liquidity ratios, [current liabilities](https://www.investopedia.com/terms/c/currentliabilities.asp) are most often analyzed in relation to [liquid assets](https://www.investopedia.com/terms/l/liquidasset.asp) to evaluate the ability to cover short-term debts and obligations in case of an emergency.
+With liquidity ratios, [[current liabilities]](https://www.investopedia.com/terms/c/currentliabilities.asp) are most often analyzed in relation to [[liquid assets]](https://www.investopedia.com/terms/l/liquidasset.asp) to evaluate the ability to cover short-term debts and obligations in case of an emergency.
 
 ### Key Takeaways
 
@@ -32,19 +32,19 @@ With liquidity ratios, [current liabilities](https://www.investopedia.com/terms/
 
 For example, internal analysis regarding liquidity ratios involves using multiple accounting periods that are reported using the same accounting methods. Comparing previous periods to current operations allows analysts to track changes in the business. In general, a higher liquidity ratio shows a company is more liquid and has better coverage of outstanding debts.
 
-Alternatively, external analysis involves comparing the liquidity ratios of one company to another or an entire industry. This information is useful to compare the company's strategic positioning in relation to its competitors when establishing [benchmark](https://www.investopedia.com/terms/b/benchmark.asp) goals. Liquidity ratio analysis may not be as effective when looking across industries as various businesses require different financing structures. Liquidity ratio analysis is less effective for comparing businesses of different sizes in different geographical locations.
+Alternatively, external analysis involves comparing the liquidity ratios of one company to another or an entire industry. This information is useful to compare the company's strategic positioning in relation to its competitors when establishing [[benchmark]](https://www.investopedia.com/terms/b/benchmark.asp) goals. Liquidity ratio analysis may not be as effective when looking across industries as various businesses require different financing structures. Liquidity ratio analysis is less effective for comparing businesses of different sizes in different geographical locations.
 
 ## Common Liquidity Ratios
 
 ### The Current Ratio
 
-The [current ratio](https://www.investopedia.com/terms/c/currentratio.asp) measures a company's ability to pay off its current liabilities (payable within one year) with its total [current assets](https://www.investopedia.com/terms/c/currentassets.asp) such as cash, [accounts receivable](https://www.investopedia.com/terms/a/accountsreceivable.asp), and [inventories](https://www.investopedia.com/terms/i/inventory.asp). The higher the ratio, the better the company's liquidity position:
+The [current ratio](https://www.investopedia.com/terms/c/currentratio.asp) measures a company's ability to pay off its current liabilities (payable within one year) with its total [[current assets]](https://www.investopedia.com/terms/c/currentassets.asp) such as cash, [[accounts receivable]](https://www.investopedia.com/terms/a/accountsreceivable.asp), and [[inventories]](https://www.investopedia.com/terms/i/inventory.asp). The higher the ratio, the better the company's liquidity position:
 
 Current Ratio\=Current AssetsCurrent Liabilities\\text{Current Ratio} = \\frac{\\text{Current Assets}}{\\text{Current Liabilities}}
 
 ### The Quick Ratio
 
-The [quick ratio](https://www.investopedia.com/terms/q/quickratio.asp) measures a company's ability to meet its short-term obligations with its most liquid assets and therefore excludes inventories from its current assets. It is also known as the "[acid-test](https://www.investopedia.com/terms/a/acidtest.asp) ratio":
+The [[quick ratio]](https://www.investopedia.com/terms/q/quickratio.asp) measures a company's ability to meet its short-term obligations with its most liquid assets and therefore excludes inventories from its current assets. It is also known as the "[acid-test](https://www.investopedia.com/terms/a/acidtest.asp) ratio":
 
 Quick ratio\=C+MS+ARCLwhere:C\=cash & cash equivalentsMS\=marketable securitiesAR\=accounts receivableCL\=current liabilities\\begin{aligned} &\\text{Quick ratio} = \\frac{C + MS + AR}{CL} \\\\ &\\textbf{where:}\\\\ &C=\\text{cash \\& cash equivalents}\\\\ &MS=\\text{marketable securities}\\\\ &AR=\\text{accounts receivable}\\\\ &CL=\\text{current liabilities}\\\\ \\end{aligned}
 
@@ -54,21 +54,21 @@ Quick ratio\=(Current assets - inventory - prepaid expenses)Current liab
 
 ### Days Sales Outstanding (DSO)
 
-Days sales outstanding, or [DSO](https://www.investopedia.com/terms/d/dso.asp), refers to the average number of days it takes a company to collect payment after it makes a sale. A high DSO means that a company is taking unduly long to collect payment and is tying up capital in receivables. DSOs are generally calculated on a quarterly or annual basis:
+Days sales outstanding, or [[DSO]](https://www.investopedia.com/terms/d/dso.asp), refers to the average number of days it takes a company to collect payment after it makes a sale. A high DSO means that a company is taking unduly long to collect payment and is tying up capital in receivables. DSOs are generally calculated on a quarterly or annual basis:
 
 DSO\=Average accounts receivableRevenue per day\\text{DSO} = \\frac{\\text{Average accounts receivable}}{\\text{Revenue per day}}
 
 ## Liquidity Crises
 
-A [liquidity crisis](https://www.investopedia.com/terms/l/liquidity-crisis.asp) can arise even at healthy companies if circumstances arise that make it difficult for them to meet short-term obligations such as repaying their loans and paying their employees. The best example of such a far-reaching liquidity catastrophe in recent memory is the global credit crunch of 2007-09. [Commercial paper](https://www.investopedia.com/terms/c/commercialpaper.asp)—short-term debt that is issued by large companies to finance current assets and pay off current liabilities—played a central role in this financial crisis.
+A [liquidity crisis](https://www.investopedia.com/terms/l/liquidity-crisis.asp) can arise even at healthy companies if circumstances arise that make it difficult for them to meet short-term obligations such as repaying their loans and paying their employees. The best example of such a far-reaching liquidity catastrophe in recent memory is the global credit crunch of 2007-09. [[Commercial paper]](https://www.investopedia.com/terms/c/commercialpaper.asp)—short-term debt that is issued by large companies to finance current assets and pay off current liabilities—played a central role in this financial crisis.
 
 A near-total freeze in the $2 trillion U.S. commercial paper market made it exceedingly difficult for even the most solvent companies to raise short-term funds at that time and hastened the demise of giant corporations such as Lehman Brothers and General Motors Company ([GM](https://www.investopedia.com/markets/quote?tvwidgetsymbol=gm)).1
 
-But unless the financial system is in a [credit crunch](https://www.investopedia.com/terms/c/creditcrunch.asp), a company-specific liquidity crisis can be resolved relatively easily with a liquidity injection, as long as the company is solvent. This is because the company can pledge some assets if required to raise cash to tide over the liquidity squeeze. This route may not be available for a company that is technically insolvent since a liquidity crisis would exacerbate its financial situation and force it into bankruptcy.
+But unless the financial system is in a [[credit crunch]](https://www.investopedia.com/terms/c/creditcrunch.asp), a company-specific liquidity crisis can be resolved relatively easily with a liquidity injection, as long as the company is solvent. This is because the company can pledge some assets if required to raise cash to tide over the liquidity squeeze. This route may not be available for a company that is technically insolvent since a liquidity crisis would exacerbate its financial situation and force it into bankruptcy.
 
 ## The Difference Between Solvency Ratios and Liquidity Ratios
 
-In contrast to liquidity ratios, [solvency ratios](https://www.investopedia.com/terms/s/solvencyratio.asp) measure a company's ability to meet its total financial obligations and long-term debts. [Solvency](https://www.investopedia.com/terms/s/solvency.asp) relates to a company's overall ability to pay debt obligations and continue business operations, while liquidity focuses more on current or short-term financial accounts. A company must have more total assets than total liabilities to be solvent and more current assets than current liabilities to be liquid. Although solvency does not relate directly to liquidity, liquidity ratios present a preliminary expectation regarding a company's solvency.
+In contrast to liquidity ratios, [solvency ratios](https://www.investopedia.com/terms/s/solvencyratio.asp) measure a company's ability to meet its total financial obligations and long-term debts. [[Solvency]](https://www.investopedia.com/terms/s/solvency.asp) relates to a company's overall ability to pay debt obligations and continue business operations, while liquidity focuses more on current or short-term financial accounts. A company must have more total assets than total liabilities to be solvent and more current assets than current liabilities to be liquid. Although solvency does not relate directly to liquidity, liquidity ratios present a preliminary expectation regarding a company's solvency.
 
 The solvency ratio is calculated by dividing a company's net income and depreciation by its short-term and long-term liabilities. This indicates whether a company's net income is able to cover its [total liabilities](https://www.investopedia.com/terms/t/total-liabilities.asp). Generally, a company with a higher solvency ratio is considered to be a more favorable investment.
 
@@ -76,7 +76,7 @@ The solvency ratio is calculated by dividing a company's net income and depre
 
 Let's use a couple of these liquidity ratios to demonstrate their effectiveness in assessing a company's financial condition.
 
-Consider two hypothetical companies—Liquids Inc. and Solvents Co.—with the following assets and liabilities on their [balance sheets](https://www.investopedia.com/terms/b/balancesheet.asp) (figures in millions of dollars). We assume that both companies operate in the same manufacturing sector (i.e., industrial glues and solvents).
+Consider two hypothetical companies—Liquids Inc. and Solvents Co.—with the following assets and liabilities on their [[balance sheets]](https://www.investopedia.com/terms/b/balancesheet.asp) (figures in millions of dollars). We assume that both companies operate in the same manufacturing sector (i.e., industrial glues and solvents).
 
 Balance Sheets for Liquids Inc. and Solvents Co.
 
@@ -178,9 +178,9 @@ Note that In our example, we will assume that current liabilities only consist o
 
 We can draw a number of conclusions about the financial condition of these two companies from these ratios.
 
-Liquids Inc. has a high degree of [liquidity](https://www.investopedia.com/terms/l/liquidity.asp). Based on its current ratio, it has $3 of current assets for every dollar of current liabilities. Its quick ratio points to adequate liquidity even after excluding inventories, with $2 in assets that can be converted rapidly to cash for every dollar of current liabilities.
+Liquids Inc. has a high degree of [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp). Based on its current ratio, it has $3 of current assets for every dollar of current liabilities. Its quick ratio points to adequate liquidity even after excluding inventories, with $2 in assets that can be converted rapidly to cash for every dollar of current liabilities.
 
-However, [financial leverage](https://www.investopedia.com/terms/d/dfl.asp) based on its solvency ratios appears quite high. Debt exceeds equity by more than three times, while two-thirds of assets have been financed by debt. Note as well that close to half of non-current assets consist of intangible assets (such as goodwill and patents). As a result, the ratio of debt to tangible assets—calculated as ($50/$55)—is 0.91, which means that over 90% of tangible assets (plant, equipment, and inventories, etc.) have been financed by borrowing. To summarize, Liquids Inc. has a comfortable liquidity position, but it has a dangerously high degree of leverage.
+However, [[financial leverage]](https://www.investopedia.com/terms/d/dfl.asp) based on its solvency ratios appears quite high. Debt exceeds equity by more than three times, while two-thirds of assets have been financed by debt. Note as well that close to half of non-current assets consist of intangible assets (such as goodwill and patents). As a result, the ratio of debt to tangible assets—calculated as ($50/$55)—is 0.91, which means that over 90% of tangible assets (plant, equipment, and inventories, etc.) have been financed by borrowing. To summarize, Liquids Inc. has a comfortable liquidity position, but it has a dangerously high degree of leverage.
 
 Solvents Co. is in a different position. The company's current ratio of 0.4 indicates an [inadequate degree of liquidity](https://www.investopedia.com/articles/trading/11/understanding-liquidity-risk.asp) with only 40 cents of current assets available to cover every $1 of current liabilities. The quick ratio suggests an even more dire liquidity position, with only 20 cents of liquid assets for every $1 of current liabilities.
 
