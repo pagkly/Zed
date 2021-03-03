@@ -192,7 +192,7 @@ import glob
 txtfiles = []
 for file in glob.glob(os.path.join(obsidian_home,"*.md")):
     print(file)
-    f = open(file, "r")
+    f = open(file, "w")
     fc=f.read()
     print(fc)
     #time.sleep(3600)
