@@ -1,22 +1,22 @@
 ---
 alias: [Mill Levy]
 created: 2021-03-02T22:05:23 (UTC +11:00)
-tags: [Mill Levy Definition, How a Mill Levy Works]
+tags: [Mill [[Levy Definition]], How a Mill Levy Works]
 source: https://www.investopedia.com/terms/m/mill-levy.asp
 author: Brian Beers
 ---
 
-# Mill Levy Definition
+# Mill [[Levy Definition]]
 
 > ## Excerpt
 > A mill levy is the assessed property tax rate used by local governments and other jurisdictions to raise revenue to cover annual expenses.
 
 ---
 
-How a Mill Levy Works
+[[How a Mill Levy Works]]
 ## What Is a Mill Levy?
 
-The mill levy is a property tax. It is applied to a property based on its [[assessed value]](https://www.investopedia.com/terms/a/assessedvalue.asp). The rate of the tax is expressed in mills and is equal to one dollar per $1,000 dollars of assessed value. The mill [[levy]](https://www.investopedia.com/terms/l/levy.asp) is calculated by determining how much revenue each tax jurisdiction will need for the upcoming year to fund its budget for public services. For example, funding public schools and maintaining parks and recreation areas. That revenue is then divided by the total value of all property within the area. Finally, the rate from each jurisdiction is added to obtain the mill levy for the entire area.1
+The mill levy is a property tax. It is applied to a property based on its [[assessed value]](https://www.investopedia.com/terms/a/assessedvalue.asp). The rate of the tax is expressed in mills and is equal to one dollar per $1,000 dollars of assessed value. The mill [[levy]](https://www.investopedia.com/terms/l/levy.asp) is calculated by determining how much revenue each tax jurisdiction [[Will|will]] need for the upcoming year to fund its budget for public services. For example, funding public schools and maintaining parks and recreation areas. That revenue is then divided by the total value of all property within the area. Finally, the rate from each jurisdiction is added to obtain the mill levy for the entire area.1
 
 ### Key Takeaways
 
@@ -26,13 +26,13 @@ The mill levy is a property tax. It is applied to a property based on its [[asse
 
 ## How Mill Levies Work
 
-There can be several taxing authorities in one region, which could include school, county, and city districts. When it comes to the mill levy, the rate of taxation is expressed in mills. This mill levy determines how much the taxable value of your property will be charged in real estate taxes.
+There can be several taxing authorities in one region, which could include school, county, and city districts. When it comes to the mill levy, the rate of [[Taxation|taxation]] is expressed in mills. This mill levy determines how much the taxable value of your property [[Will|will]] be charged in real [[Estate|estate]] taxes.
 
 Most jurisdictions use a percentage formula, which is known as an assessment ratio, to determine the property value for the mill levy.
 
 Each year, the official assessed value of a property is usually set by a [[tax assessor]](https://www.investopedia.com/terms/a/assessor.asp) and may be used to set the mill levy. In some cases, a percentage of the market value of the property can be used to set the mill levy instead.
 
-To determine what the mill levy will be, most jurisdictions use a percentage formula, which is known as an assessment ratio, to determine the property value for the mill levy.
+To determine what the mill levy [[Will|will]] be, most jurisdictions use a percentage formula, which is known as an assessment ratio, to determine the property value for the mill levy.
 
 ### Fast Fact
 
@@ -44,4 +44,4 @@ As an example, if the entire property value in the area is $1 billion, and the s
 
 Add all the tax levies up, and you get a mill levy of 0.16 or 160 mills (one mill = 0.001).
 
-In general, mill levies are applied to real estate, land, buildings, and significant personal property such as cars and boats.
+In general, mill levies are applied to real [[Estate|estate]], land, buildings, and significant [[Personal Property|personal property]] such as cars and boats.

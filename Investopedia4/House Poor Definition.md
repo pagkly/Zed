@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/h/housepoor.asp
 author: Daniel Liberto
 ---
 
-# House Poor Definition
+# [[House Poor Definition]]
 
 > ## Excerpt
 > House poor describes a person who spends a large proportion of his or her total income on home ownership.
 
 ---
 
-House Poor Definition
+[[House Poor Definition]]
 ## What is House Poor?
 
 House poor is a term used to describe a person who spends a large proportion of his or her total income on home ownership, including [mortgage](https://www.investopedia.com/terms/m/mortgage.asp) payments, [property taxes](https://www.investopedia.com/terms/p/propertytax.asp), maintenance, and utilities. Individuals in this situation are short of cash for [[discretionary]](https://www.investopedia.com/terms/d/discretionary-expense.asp) items and tend to have trouble meeting other financial obligations, such as vehicle [payments](https://www.investopedia.com/terms/p/payment.asp).
@@ -30,18 +30,18 @@ House poor is sometimes also referred to as house rich, cash poor.
 
 A house poor person can be considered anyone whose housing expenses account for an exorbitant percentage of their monthly budget. People can find themselves in this situation for a number of reasons. In some cases, a consumer may have underestimated their total costs. Alternatively, a change in income may be the reason that housing expenses have become overwhelming.
 
-Buying a home is part of the American dream and many homeowners pursue homeownership because of the many advantages it offers. Making payments toward the ownership of a [real estate](https://www.investopedia.com/terms/r/realestate.asp) property can be a good investment in the long term. That said, it can also quickly turn sour if you run into money trouble and fail to account for the number of unexpected costs that often arise when taking on such a big commitment.  
+Buying a home is part of the American dream and many homeowners pursue homeownership because of the many advantages it offers. Making payments toward the ownership of a [real estate](https://www.investopedia.com/terms/r/realestate.asp) property can be a good investment in the [[Long Term|long term]]. That said, it can also quickly turn sour if you run into money trouble and fail to account for the number of unexpected costs that often arise when taking on such a big commitment.  
 
 To prevent becoming house poor, prospective homeowners should not let their dreams get the better of them. They can start out by considering the following unwritten guidelines:
 
 -   A conservative estimate of how much to spend on a home is 2.5 times your total gross salary. Sure, you might earn more in five years. However, you might also find yourself out of work, as well.
--   Other factors to consider are the amount of the down payment, the mortgage interest rate, the property taxes, etc. Therefore, a more precise way to determine how much you should spend would be to calculate what percent of your monthly gross income will be spent on housing costs. This is referred to as the "debt-to-income" ratio, or [[front-end DTI]](https://www.investopedia.com/terms/f/front-end-debt-to-income-ratio.asp). The rule of thumb is that this number should be no more than 28%.
+-   Other factors to consider are the amount of the down payment, the mortgage interest rate, the property taxes, etc. Therefore, a more precise way to determine how much you should spend would be to calculate what percent of your monthly [[Gross Income|gross income]] [[Will|will]] be spent on housing costs. This is referred to as the "[[Debt|debt]]-to-income" ratio, or [[front-end DTI]](https://www.investopedia.com/terms/f/front-end-debt-to-income-ratio.asp). The [[Rule Of Thumb|rule of thumb]] is that this number should be no more than 28%.
 -   Make sure you choose the right [mortgage](https://www.investopedia.com/terms/m/mortgage.asp). If you don’t want to get caught off guard by unexpected payment increases with a variable rate mortgage, opt for a [fixed interest rate](https://www.investopedia.com/terms/f/fixed-rate_mortgage.asp).
 -   Keep some money aside for unexpected circumstances, such as maintenance costs or sudden changes to your financial position.
 
 ## House Poor Requirements
 
-While experts say consumers should plan to spend no more than 28% of their gross income on housing expenses, it is necessary to consider other debts you may have. When adding these expenses, in experts say that the ratio should not exceed 36% of your gross monthly income. This calculation is referred to as the "[back-end DTI](https://www.investopedia.com/terms/b/back-endratio.asp)."
+While experts say consumers should plan to spend no more than 28% of their [[Gross Income|gross income]] on housing expenses, it is necessary to consider other debts you may have. When adding these expenses, in experts say that the ratio should not exceed 36% of your gross monthly income. This calculation is referred to as the "[back-end DTI](https://www.investopedia.com/terms/b/back-endratio.asp)."
 
 If an individual significantly exceeds the front-end or back-end DTIs, they may very likely qualify as house poor.
 
@@ -57,7 +57,7 @@ First, if expenses on housing seem overwhelming perhaps there are areas of the b
 
 ### Take on Another Job
 
-If it seems that the expense has gone beyond budget, many consumers will be willing to take on a second job or side jobs that can help to pay the housing bills.
+If it seems that the expense has gone beyond budget, many consumers [[Will|will]] be willing to take on a second job or side jobs that can help to pay the housing bills.
 
 ### Dip into Savings
 

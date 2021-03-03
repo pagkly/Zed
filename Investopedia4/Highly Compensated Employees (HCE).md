@@ -9,11 +9,11 @@ author: Adam Barone
 # Highly Compensated Employee (HCE) Definition
 
 > ## Excerpt
-> A highly compensated employee (HCE) is anyone who owns at least 5% of shares in a company and earns more than the federal predetermined compensation limit.
+> A highly compensated employee (HCE) is anyone who owns at least 5% of [[Shares|shares]] in a company and earns more than the federal predetermined compensation limit.
 
 ---
 
-Highly Compensated Employees (HCE)
+[[Highly Compensated Employees (HCE)]]
 ## What Is a Highly Compensated Employee (HCE)?
 
 A highly compensated employee (HCE) is, according to the Internal Revenue Service, anyone who has done one of the following:
@@ -27,19 +27,19 @@ A highly compensated employee (HCE) is, according to the Internal Revenue Servic
 -   By examining the contributions made by HCEs, the federal government compliance test determines whether all employees are treated equally through the company’s 401(k) plan.
 -   How much an HCE can contribute to their own retirement plans depends on the level of non-HCEs participation in the plan.
 
-## Understanding Highly Compensated Employees (HCE)
+## Understanding [[Highly Compensated Employees (HCE)]]
 
-[Tax-deferred](https://www.investopedia.com/terms/t/taxdeferred.asp) retirement plans such as 401(k) plans were implemented by the Internal Revenue Service (IRS) to offer equal benefits to all workers. Initially, all employees could contribute as much as they want, with total contribution matched by the employer up to $19,500 annually for 2020 and 2021.2
+[Tax-deferred](https://www.investopedia.com/terms/t/taxdeferred.asp) retirement plans such as 401(k) plans were implemented by the Internal Revenue Service (IRS) to [[Offer|offer]] equal benefits to all workers. Initially, all employees could contribute as much as they want, with total contribution matched by the employer up to $19,500 annually for 2020 and 2021.2
 
 High earners could contribute much more than other employees and were thus likely to benefit more from the tax-free plan, which allowed them to lower their tax liabilities considerably. Seeing that not all employees were receiving equal benefits from retirement plans, the IRS set rules against high earners contributing over a certain limit based on the average contribution of the other employees.
 
 ### Nondiscrimination Test
 
-The Internal Revenue Service (IRS) requires that all 401(k) plans take a [[nondiscrimination test]](https://www.investopedia.com/terms/n/nondiscrimination_rule.asp) every year.3 The test separates employees into two groups—non-highly compensated and highly compensated employees (HCE). By examining the contributions made by HCEs, the compliance test determines whether all employees are treated equally through the company’s 401(k) plan.
+The Internal Revenue Service (IRS) requires that all 401(k) plans take a [[nondiscrimination test]](https://www.investopedia.com/terms/n/nondiscrimination_rule.asp) every year.3 The test separates employees into two groups—non-highly compensated and [[Highly Compensated Employees (HCE)|highly compensated employees (HCE)]]. By examining the contributions made by HCEs, the compliance test determines whether all employees are treated equally through the company’s 401(k) plan.
 
 The non-discrimination stipulations are set in place so that employee retirement plans do not discriminate in favor of highly compensated employees. Defining highly compensated employees provided a way for the IRS to regulate deferred plans and ensure that companies were not just setting up retirement plans to benefit their executives.
 
-The 5% threshold is based on voting power or the [[value of company shares]](https://www.investopedia.com/articles/stocks/08/stock-prices-fool.asp). The interest owned by an individual also includes the interest attributed to his or her relatives such as spouse, parents, children, grandchildren, but not grandparents or siblings.4 An employee with exactly 5% ownership in the company is not considered a highly compensated employee, whereas one with a 5.01% interest in the company has the HCE status. For example, an employee with 3% holdings in the company will be considered an HCE if his spouse owns 2.2% interest in the same company (total interest is 5.2%).
+The 5% threshold is based on voting power or the [[value of company shares]](https://www.investopedia.com/articles/[[Stocks|stocks]]/08/[[Stock|stock]]-prices-fool.asp). The interest owned by an individual also includes the interest attributed to his or her relatives such as spouse, parents, children, grandchildren, but not grandparents or siblings.4 An employee with exactly 5% ownership in the company is not considered a highly compensated employee, whereas one with a 5.01% interest in the company has the HCE status. For example, an employee with 3% [[Holdings|holdings]] in the company [[Will|will]] be considered an HCE if his spouse owns 2.2% interest in the same company (total interest is 5.2%).
 
 ## Special Considerations
 
@@ -49,6 +49,6 @@ How much an HCE can contribute to their own retirement plans depends on the leve
 
 In simpler terms, when a company contributes to a defined-benefit or [[defined-contribution plan]](https://www.investopedia.com/terms/d/definedcontributionplan.asp) for its employees and those contributions are based on the employee's compensation, the IRS requires that the company minimize the discrepancy between the retirement benefits received by highly compensated and lower compensated employees.
 
-If the employer fails to correct the discrimination, the plan could lose its tax-qualified status and all contributions will have to be re-distributed to the plan’s participants.5 The employer could also face severe financial and tax consequences as a result of distributing the contributions and earnings.
+If the employer fails to correct the discrimination, the plan could lose its tax-qualified status and all contributions [[Will|will]] have to be re-distributed to the plan’s participants.5 The employer could also face severe financial and tax consequences as a result of distributing the contributions and earnings.
 
-A company can correct any imbalance in its retirement plans by making additional contributions for the non-highly compensated group of employees. Alternatively, the firm could make distributions to the HCE group, which will have to make withdrawals from the plan and pay taxes on the withdrawals.
+A company can correct any imbalance in its retirement plans by making additional contributions for the non-highly compensated group of employees. Alternatively, the firm could make distributions to the HCE group, which [[Will|will]] have to make withdrawals from the plan and pay taxes on the withdrawals.

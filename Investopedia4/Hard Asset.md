@@ -3,24 +3,24 @@ alias: [Hard Asset]
 created: 2021-03-02T20:34:42 (UTC +11:00)
 tags: [Hard Asset Definition, Hard Asset]
 source: https://www.investopedia.com/terms/h/hard_asset.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Hard Asset Definition
+# [[Hard Asset]] Definition
 
 > ## Excerpt
-> A hard asset is a physical object or resource owned by an individual or business.
+> A [[Hard Asset|hard asset]] is a physical object or resource owned by an individual or business.
 
 ---
 
-Hard Asset
-## What Is a Hard Asset?
+[[Hard Asset]]
+## What Is a [[Hard Asset]]?
 
-A hard asset refers to a tangible asset or resource with fundamental value. Examples of hard assets include a fleet of trucks for the delivery of consumer goods, land, real estate, and commodities. Businesses purchase hard assets to help improve production, increase revenues, and act as a buffer against soft asset losses. However, sometimes the value of hard assets decreases in tandem with the value of soft assets.
+A [[Hard Asset|hard asset]] refers to a [[Tangible Asset|tangible asset]] or resource with fundamental value. Examples of hard assets include a fleet of trucks for the delivery of consumer goods, land, real [[Estate|estate]], and commodities. Businesses purchase hard assets to help improve production, increase revenues, and act as a buffer against soft asset losses. However, sometimes the value of hard assets decreases in tandem with the value of soft assets.
 
 ### Key Takeaways
 
--   A hard asset is a tangible or physical item or resource that an individual or company owns.
+-   A [[Hard Asset|hard asset]] is a tangible or physical item or resource that an individual or company owns.
 -   Often, the value of hard assets moves in the opposite direction of the value of soft assets, creating a buffer against losses.
 -   Hard assets can be long-term assets, such as machinery or short-term assets, such as raw materials or inventory.
 
@@ -36,17 +36,17 @@ Some examples of hard assets include:
 -   Office furniture
 -   Machinery
 
-However, hard assets can also be short-term assets, called [[current assets]](https://www.investopedia.com/terms/c/currentassets.asp), which are typically used up within one year. Inventory, for example, could be a hard asset for a company. If a company manufactures machinery, the raw materials or inventory, such as the machine parts, would be hard assets.
+However, hard assets can also be short-term assets, called [[current assets]](https://www.investopedia.com/terms/c/currentassets.asp), which are typically used up within one year. Inventory, for example, could be a [[Hard Asset|hard asset]] for a company. If a company manufactures machinery, the raw materials or inventory, such as the machine parts, would be hard assets.
 
 ### Paying for Hard Assets
 
-Hard assets that are fixed assets usually involve capital investment decisions for a company's executive management team. These assets usually involve a large outlay of cash or capital and as a result, are considered long-term funding decisions. The funding for bid-ticket hard assets can come from banks, venture capital firms, issuance of corporate bonds or debt, as well as issuing new shares of stock. The capital investment of hard assets, such as a new manufacturing plant means the company plans to use the facility for many years to generate revenue.
+Hard assets that are fixed assets usually involve capital investment decisions for a company's executive management team. These assets usually involve a large outlay of cash or capital and as a result, are considered long-term funding decisions. The funding for bid-ticket hard assets can come from banks, venture capital firms, issuance of corporate bonds or [[Debt|debt]], as well as issuing new [[Shares|shares]] of [[Stock|stock]]. The capital investment of hard assets, such as a new [[Manufacturing|manufacturing]] plant means the company plans to use the facility for many years to generate revenue.
 
 ### The Value of Hard Assets
 
-Hard assets are considered particularly valuable because they can be used to produce or purchase other goods or services. They can also be sold to generate cash in the event the company has financial difficulties. When analysts calculate a company's intrinsic value, a portion of this underlying value is derived from the value of its hard assets.
+Hard assets are considered particularly valuable because they can be used to produce or purchase other goods or services. They can also be sold to generate cash in the event the company has financial difficulties. When analysts calculate a company's intrinsic value, a portion of this [[Underlying|underlying]] value is derived from the value of its hard assets.
 
-The intrinsic value of a company is a calculation of a company's value using various models that include analyzing a company's cash flow, assets, future revenue streams, and its cost structure. Hard assets come into play when valuing a company since they can be sold for cash to pay off debts, bondholders, and shareholders in the event of financial distress or liquidation.
+The intrinsic value of a company is a calculation of a company's value using various models that include analyzing a company's [[Cash Flow|cash flow]], assets, future revenue streams, and its cost structure. Hard assets come into play when valuing a company since they can be sold for cash to pay off debts, bondholders, and shareholders in the event of financial distress or liquidation.
 
 ## Hard Assets vs. Intangible Assets
 
@@ -63,6 +63,6 @@ Technology companies tend to have many intangible assets since they have patents
 
 ## Example of Hard Assets
 
-Ford Motor Company (NYSE: [F](https://www.investopedia.com/markets/quote?tvwidgetsymbol=f)) is a US automotive company that produces various cars and trucks. The company's executive management team is looking to buy new machinery for their assembly line. The company will also purchase steel and aluminum for the rivets. All of the assets, the machinery, steel, and aluminum are considered hard assets.
+Ford Motor Company (NYSE: [F](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=f)) is a US automotive company that produces various cars and trucks. The company's executive management team is looking to buy new machinery for their assembly line. The company [[Will|will]] also purchase steel and aluminum for the rivets. All of the assets, the machinery, steel, and aluminum are considered hard assets.
 
-The assembly machinery is a long-term hard asset. On the other hand, the steel and aluminum raw materials are current assets since their inventory will likely be used up within one year. Also, any patents on the equipment are considered intangible assets.
+The assembly machinery is a long-term [[Hard Asset|hard asset]]. On the other hand, the steel and aluminum raw materials are [[Current Assets|current assets]] since their inventory [[Will|will]] likely be used up within one year. Also, any patents on the equipment are considered intangible assets.

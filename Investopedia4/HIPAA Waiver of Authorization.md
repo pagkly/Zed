@@ -6,33 +6,33 @@ source: https://www.investopedia.com/terms/h/hipaa-waiver-authorization.asp
 author: Julia Kagan
 ---
 
-# HIPAA Waiver of Authorization
+# [[HIPAA Waiver of Authorization]]
 
 > ## Excerpt
-> A HIPAA waiver of authorization is a legal document that allows an individual’s health information to be used or disclosed to a third party.
+> A [[HIPAA Waiver of Authorization|HIPAA waiver of authorization]] is a legal document that allows an individual’s health information to be used or disclosed to a [[Third Party|third party]].
 
 ---
 
-HIPAA Waiver of Authorization
-## What is HIPAA Waiver of Authorization
+[[HIPAA Waiver of Authorization]]
+## What is [[HIPAA Waiver of Authorization]]
 
-A legal document that allows an [[individual’s health information]](https://www.investopedia.com/terms/p/personally-identifiable-information-pii.asp) to be used or disclosed to a third party. The waiver is part of a series of patient-privacy measures set forth in the [[Health Insurance Portability and Accountability Act (HIPAA) of 1996]](https://www.investopedia.com/terms/h/hipaa.asp).
+A legal document that allows an [[individual’s health information]](https://www.investopedia.com/terms/p/personally-identifiable-information-pii.asp) to be used or disclosed to a [[Third Party|third party]]. The waiver is part of a series of patient-privacy measures set forth in the [[Health Insurance Portability and Accountability Act (HIPAA) of 1996]](https://www.investopedia.com/terms/h/hipaa.asp).
 
-## BREAKING DOWN HIPAA Waiver of Authorization
+## BREAKING DOWN [[HIPAA Waiver of Authorization]]
 
-The HIPAA waiver of authorization allows doctors to provide information on a patient’s health to third parties, such as researchers, attorneys, other doctors or family members. It became necessary because healthcare privacy has come into increased focus in the digital age; it is much easier for doctors to transmit patient health information via the Internet than it was when records had to be mailed or faxed.
+The [[HIPAA Waiver of Authorization|HIPAA waiver of authorization]] allows doctors to provide information on a patient’s health to third parties, such as researchers, attorneys, other doctors or family members. It became necessary because healthcare privacy has come into increased focus in the digital age; it is much easier for doctors to transmit patient health information via the Internet than it was when records had to be mailed or faxed.
 
 Patient information covered under HIPAA, called protected health information (PHI), is information that can be linked to a specific individual and is held by a covered entity, such as a health insurer, healthcare provider or healthcare clearinghouse. HIPAA defines 18 specific identifiers that create PHI when linked to health information. HIPAA regulations allow researchers to obtain approval to access and use PHI when necessary to conduct research.
 
 Examples of studies that involve the use of PHI include:
 
 -   Studies that involve the review of existing health records, such as retrospective chart review or other studies that involve the abstraction of data from the subject’s health record for research purposes.
--   Studies that create new medical information because a healthcare service is being performed as part of the research. For example, most studies that diagnose a health condition or involve new drugs or devices create PHI that will be entered into the medical record.
+-   Studies that create new medical information because a healthcare service is being performed as part of the research. For example, most studies that diagnose a health condition or involve new drugs or devices create PHI that [[Will|will]] be entered into the medical record.
 
 There are some additional standards and criteria designed to protect an individual's privacy from re-identification. For example, any code used to replace the identifiers in datasets cannot be derived from any information related to the individual and the master codes, nor can the method for deriving the codes be disclosed. 
 
-## Getting a HIPAA Waiver of Authorization Approved
+## Getting a [[HIPAA Waiver of Authorization]] Approved
 
-In order for a HIPAA waiver to be approved for research purposes, three criteria for the use of private health information must be met: the health information to be disclosed must present a minimal risk to the privacy of the disclosing party; the researchers must ensure that research activities could not be undertaken without the information; and the research could not be practicably conducted without the waiver.1
+In order for a HIPAA waiver to be approved for research purposes, three criteria for the use of private health information must be met: the health information to be disclosed must present a minimal [[Risk|risk]] to the privacy of the disclosing party; the researchers must ensure that research activities could not be undertaken without the information; and the research could not be practicably conducted without the waiver.1
 
 Should a family member attempt to bypass HIPAA rules through the use of an attorney, usually in the event of a medical emergency, the patient must have already outlined in his/her [[power of attorney for healthcare]](https://www.investopedia.com/terms/h/hcpa.asp) that he/she expressly waives the protection offered by HIPAA and allows the specifically designated "personal representative" to know his/her otherwise private health information.

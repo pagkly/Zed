@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/h/historical-cost.asp
 author: Alicia Tuovila
 ---
 
-# Historical Cost Definition
+# [[Historical Cost Definition]]
 
 > ## Excerpt
-> Historical cost is a measure of value used in accounting in which an asset on the balance sheet is recorded at its original cost when acquired by the company.
+> Historical cost is a measure of value used in accounting in which an asset on the balance sheet is recorded at its [[Original Cost|original cost]] when acquired by the company.
 
 ---
 
-Historical Cost Definition
+[[Historical Cost Definition]]
 ## What Is a Historical Cost?
 
 A historical cost is a measure of value used in accounting in which the value of an asset on the balance sheet is recorded at its [[original cost]](https://www.investopedia.com/terms/o/originalcost.asp) when acquired by the company. The historical cost method is used for fixed assets in the United States under [[generally accepted accounting principles]](https://www.investopedia.com/terms/g/gaap.asp) (GAAP).
@@ -21,7 +21,7 @@ A historical cost is a measure of value used in accounting in which the value of
 ### Key Takeaways
 
 -   Most long-term assets are recorded at their historical cost on a company's balance sheet.
--   Historical cost is one of the basic accounting principles laid out under generally accepted accounting principles (GAAP).
+-   Historical cost is one of the basic accounting principles laid out under [[Generally Accepted Accounting Principles (GAAP)|generally accepted accounting principles (GAAP)]].
 -   Historical cost is in line with conservative accounting, as it prevents overstating the value of an asset.
 -   Highly liquid assets may be recorded at fair market value, and impaired assets may be written down to fair market value.
 
@@ -33,11 +33,11 @@ Valuing assets at historical cost prevents overstating an asset's value when ass
 
 ### Asset Depreciation
 
-Furthermore, in accordance with [[accounting conservatism]](https://www.investopedia.com/terms/a/accounting-conservatism.asp), asset [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) must be recorded to account for wear and tear on long-lived assets. [[Fixed assets]](https://www.investopedia.com/terms/f/fixedasset.asp), such as buildings and machinery, will have depreciation recorded on a regular basis over the asset's [[useful life]](https://www.investopedia.com/terms/u/usefullife.asp). On the balance sheet, annual depreciation is accumulated over time and recorded below an asset's historical cost. The subtraction of [[accumulated depreciation]](https://www.investopedia.com/terms/a/accumulated-depreciation.asp) from the historical cost results in a lower net asset value, ensuring no overstatement of an asset's true value.
+Furthermore, in accordance with [[accounting conservatism]](https://www.investopedia.com/terms/a/accounting-conservatism.asp), asset [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) must be recorded to account for wear and tear on long-lived assets. [[Fixed assets]](https://www.investopedia.com/terms/f/fixedasset.asp), such as buildings and machinery, [[Will|will]] have depreciation recorded on a regular basis over the asset's [[useful life]](https://www.investopedia.com/terms/u/usefullife.asp). On the balance sheet, annual depreciation is accumulated over time and recorded below an asset's historical cost. The subtraction of [[accumulated depreciation]](https://www.investopedia.com/terms/a/accumulated-depreciation.asp) from the historical cost results in a lower net asset value, ensuring no overstatement of an asset's true value.
 
 ## Asset Impairment vs. Historical Cost
 
-Independent of [[asset depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) from physical wear and tear over long periods of use, impairment may occur to certain assets, including intangibles such as [[goodwill]](https://www.investopedia.com/terms/g/goodwill-impairment.asp). With asset impairment, an asset's fair market value has dropped below what is originally listed on the balance sheet. An asset impairment charge is a typical restructuring cost as companies reevaluate the value of certain assets and make business changes.
+Independent of [[asset depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) from physical wear and tear over long periods of use, impairment may occur to certain assets, including intangibles such as [[goodwill]](https://www.investopedia.com/terms/g/goodwill-impairment.asp). With asset impairment, an asset's fair market value has dropped below what is originally [[Listed|listed]] on the balance sheet. An asset impairment charge is a typical restructuring cost as companies reevaluate the value of certain assets and make business changes.
 
 For example, goodwill must be tested and reviewed at least annually for any impairment. If it is worth less than carrying value on the books, the asset is considered impaired. If it has risen in value, no change is made to historical cost. In the case of impairment, the devaluation of an asset based on present market conditions would be a more conservative accounting practice than keeping the historical cost intact. When an asset is written off due to asset impairment, the loss directly reduces a company's profits.
 
@@ -45,4 +45,4 @@ For example, goodwill must be tested and reviewed at least annually for any impa
 
 The [[mark-to-market]](https://www.investopedia.com/terms/m/marktomarket.asp) practice is known as [[fair value]](https://www.investopedia.com/terms/f/fairvalue.asp) accounting, whereby certain assets are recorded at their market value. This means that when the market moves, the value of an asset as reported in the balance sheet may go up or down. The deviation of the mark-to-market accounting from the historical cost principle is actually helpful to report on held-for-sale assets.
 
-An asset's market value can be used to predict future cash flow from potential sales. A common example of mark-to-market assets includes marketable securities held for trading purposes. As the market swings, securities are marked upward or downward to reflect their true value under a given market condition. This allows for a more accurate representation of what the company would receive if the assets were sold immediately, and it is useful for highly [[liquid]](https://www.investopedia.com/terms/l/liquidity.asp) assets.
+An asset's market value can be used to predict future [[Cash Flow|cash flow]] from potential sales. A common example of mark-to-market assets includes [[Marketable Securities|marketable securities]] held for trading purposes. As the market swings, securities are marked upward or downward to reflect their true value under a given market condition. This allows for a more accurate representation of what the company would receive if the assets were sold immediately, and it is useful for highly [[liquid]](https://www.investopedia.com/terms/l/[[Liquidity|liquidity]].asp) assets.

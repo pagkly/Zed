@@ -13,7 +13,7 @@ author: Adam Hayes
 
 ---
 
-How a Negative Confirmation Is Used in Business
+[[How a Negative Confirmation Is Used in Business]]
 ## What Is a Negative Confirmation?
 
 Negative confirmation is a letter or document requesting that the recipient should only respond to the sender if there were an issue with the contents of the message or the recipient wanted to opt out of the event that the letter had addressed.
@@ -43,7 +43,7 @@ Negative confirmations have many applications that include both accountants and 
 
 Negative confirmation letters are often sent out with [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) plans that have an auto-escalation feature. With auto-escalation, the percentage of an employee's paycheck contributed each pay period is automatically increased every year.
 
-The intent of this automatically increasing savings rate is to help people save more money for [[retirement]](https://www.investopedia.com/terms/r/retirement-planning.asp). A month or so before the escalation occurs, the recordkeeper sends out a negative confirmation or negative consent letter. The letter informs the participant that the contribution escalation will occur unless the participant contacts the 401(k) recordkeeper and opts out of the increase to maintain their current contribution rate.
+The intent of this automatically increasing savings rate is to help people save more money for [[retirement]](https://www.investopedia.com/terms/r/retirement-planning.asp). A month or so before the escalation occurs, the recordkeeper sends out a negative confirmation or negative consent letter. The letter informs the participant that the contribution escalation [[Will|will]] occur unless the participant contacts the 401(k) recordkeeper and opts out of the increase to maintain their current contribution rate.
 
 ### Accounting for Revenue
 

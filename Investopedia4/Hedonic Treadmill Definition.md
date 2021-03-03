@@ -6,25 +6,25 @@ source: https://www.investopedia.com/terms/h/hedonic-treadmill.asp
 author: James Chen
 ---
 
-# Hedonic Treadmill Definition
+# [[Hedonic Treadmill Definition]]
 
 > ## Excerpt
 > A hedonic treadmill is the tendency of a person to sustain relative levels of happiness despite a change in fortune or the achievement of major goals.
 
 ---
 
-Hedonic Treadmill Definition
+[[Hedonic Treadmill Definition]]
 ## What is a Hedonic Treadmill?
 
-A hedonic treadmill is the tendency of a person to remain at a relatively stable level of happiness despite a change in fortune or the achievement of major goals. According to the hedonic treadmill model, as a person makes more money, their expectations and desires rise in tandem. So the rise in income results in no permanent gain in happiness. The hedonic treadmill is also referred to as the hedonistic treadmill or hedonic adaptation.
+A hedonic treadmill is the tendency of a person to remain at a relatively stable level of happiness despite a change in fortune or the achievement of major goals. According to the hedonic treadmill model, as a person makes more money, their expectations and desires rise in tandem. So the rise in income results in no permanent [[Gain|gain]] in happiness. The hedonic treadmill is also referred to as the hedonistic treadmill or hedonic adaptation.
 
 ## Understanding the Hedonic Treadmill
 
-The hedonic treadmill theory explains the often-held observation that [[rich people]](https://www.investopedia.com/terms/h/hnwi.asp) are no happier than poor people, and that those with severe money problems are sometimes quite happy. The theory supports the argument that money does not buy happiness and that the pursuit of money as a way to reach this goal is futile. Good and bad fortunes may temporarily affect how happy a person is, but most people will end up back at their normal level of happiness.
+The hedonic treadmill theory explains the often-held observation that [[rich people]](https://www.investopedia.com/terms/h/hnwi.asp) are no happier than poor people, and that those with severe money problems are sometimes quite happy. The theory supports the argument that money does not buy happiness and that the pursuit of money as a way to reach this goal is futile. Good and bad fortunes may temporarily affect how happy a person is, but most people [[Will|will]] end up back at their normal level of happiness.
 
 ## What is a Hedonic Set Point?
 
-In psychology, a hedonic set point is the general baseline level of happiness a person experiences over their lifetimes, despite any temporary changes in the level from positive or negative life events. The theory argues that although events and environmental factors can affect happiness in the short term, people will naturally adapt back to their hedonic set point in the long term.
+In psychology, a hedonic set point is the general baseline level of happiness a person experiences over their lifetimes, despite any temporary changes in the level from positive or negative life events. The theory argues that although events and environmental factors can affect happiness in the short term, people [[Will|will]] naturally adapt back to their hedonic set point in the [[Long Term|long term]].
 
 ## Studying the Effects of the Hedonic Treadmill
 

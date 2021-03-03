@@ -13,12 +13,12 @@ author: Adam Barone
 
 ---
 
-How a Free Trade Agreement (FTA) Works
+[[How a Free Trade Agreement (FTA) Works]]
 ## What Is a Free Trade Agreement (FTA)?
 
 A free trade agreement is a pact between two or more nations to reduce barriers to imports and exports among them. Under a free trade policy, goods and services can be bought and sold across international borders with little or no government tariffs, quotas, subsidies, or prohibitions to inhibit their exchange.
 
-The concept of free trade is the opposite of trade [[protectionism]](https://www.investopedia.com/terms/p/protectionism.asp) or economic isolationism.
+The concept of free trade is the opposite of trade [[protectionism]](https://www.investopedia.com/terms/p/[[Protectionism|protectionism]].asp) or economic isolationism.
 
 ## How a Free Trade Agreement Works
 
@@ -31,24 +31,24 @@ Governments with free-trade policies or agreements in place do not necessarily a
 ### Key Takeaways
 
 -   _Free trade agreements reduce or eliminate barriers to trade across international borders._
--   _Free trade is the opposite of trade protectionism._
+-   _Free trade is the opposite of trade [[Protectionism|protectionism]]._
 -   _In the U.S. and the E.U., free trade agreements do not come without regulations and oversight._
 
 For example, a nation might allow free trade with another nation, with exceptions that forbid the import of specific drugs not approved by its regulators, or animals that have not been vaccinated, or processed foods that do not meet its standards.
 
-The benefits of free trade were outlined in _On the Principles of Political Economy and Taxation,_ published by economist David Ricardo in 1817.
+The benefits of free trade were outlined in _On the Principles of Political Economy and [[Taxation]],_ published by economist [[David Ricardo]] in 1817.
 
-Or, it might have policies in place that exempt specific products from tariff-free status in order to protect home producers from foreign competition in their industries.
+Or, it might have policies in place that exempt specific products from [[Tariff|tariff]]-free status in order to protect home producers from foreign competition in their industries.
 
-### The Economics of Free Trade
+### The [[Economics]] of Free Trade
 
 In principle, free trade on the international level is no different from trade between neighbors, towns, or states. However, it allows businesses in each country to focus on producing and selling the goods that best use their resources while other businesses import goods that are scarce or unavailable domestically. That mix of local production and foreign trade allows economies to experience faster growth while better meeting the needs of its consumers.
 
-This view was first popularized in 1817 by economist David Ricardo in his book, _On the Principles of Political Economy and Taxation_. He argued that free trade expands the diversity and lowers the prices of goods available in a nation while better exploiting its homegrown resources, knowledge, and specialized skills.1
+This view was first popularized in 1817 by economist [[David Ricardo]] in his book, _On the Principles of Political Economy and Taxation_. He argued that free trade expands the diversity and lowers the prices of goods available in a nation while better exploiting its homegrown resources, knowledge, and specialized skills.1
 
 ### Public Opinion on Free Trade
 
-Few issues divide economists and the general public as much as free trade. Research suggests that faculty economists at American universities are seven times more likely to support free-trade policies than the general public. In fact, the American economist [[Milton Friedman]](https://www.investopedia.com/terms/m/milton-friedman.asp) said: “The economics profession has been almost unanimous on the subject of the desirability of free trade.”2
+Few issues divide economists and the general public as much as free trade. Research suggests that faculty economists at American universities are seven times more likely to support free-trade policies than the general public. In fact, the American economist [[Milton Friedman]](https://www.investopedia.com/terms/m/milton-friedman.asp) said: “The [[Economics|economics]] profession has been almost unanimous on the subject of the desirability of free trade.”2
 
 Free-trade policies have not been as popular with the general public. The key issues include unfair competition from countries where lower labor costs allow price-cutting and a loss of good-paying jobs to manufacturers abroad.
 
@@ -68,8 +68,8 @@ The European Union is a notable example of free trade today. The member nations 
 
 ### U.S. Free Trade Agreements
 
-The United States currently has a number of free trade agreements in place. These include multi-nation agreements such as the North American Free Trade Agreement (NAFTA), which covers the U.S., Canada, and Mexico,3 and the Central American Free Trade Agreement (CAFTA), which includes most of the nations of Central America. There are also separate trade agreements with nations from Australia to Peru.4
+The United States currently has a number of free trade agreements in place. These include multi-nation agreements such as the [[North American Free Trade Agreement (NAFTA)]], which covers the U.S., Canada, and Mexico,3 and the Central American Free Trade Agreement (CAFTA), which includes most of the nations of Central America. There are also separate trade agreements with nations from Australia to Peru.4
 
-Collectively, these agreements mean that about half of all goods entering the U.S. come in free of tariffs, according to government figures. The average import tariff on industrial goods is 2%.5
+Collectively, these agreements mean that about half of all goods entering the U.S. come in free of tariffs, according to government figures. The average import [[Tariff|tariff]] on industrial goods is 2%.5
 
-All these agreements collectively still do not add up to free trade in its most laissez-faire form. Amerian special interest groups have successfully lobbied to impose trade restrictions on hundreds of imports including steel, sugar, automobiles, milk, tuna, beef, and denim.
+All these agreements collectively still do not add up to free trade in its most [[Laissez-Faire|laissez-faire]] form. Amerian special interest groups have successfully lobbied to impose trade restrictions on hundreds of imports including steel, sugar, automobiles, milk, tuna, beef, and denim.

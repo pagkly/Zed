@@ -13,10 +13,10 @@ author: Adam Hayes
 
 ---
 
-Hiccup Definition
+[[Hiccup Definition]]
 ## What Is a Hiccup?
 
-Hiccup is a slang term for a short-term disruption within a longer-term plan, goal, or trend. A hiccup can be used to describe the near-term business outlook of a particular company, a stock price downturn, or a blip in the [[stock market]](https://www.investopedia.com/terms/s/stockmarket.asp) as a whole.
+Hiccup is a slang term for a short-term disruption within a longer-term plan, goal, or trend. A hiccup can be used to describe the near-term business outlook of a particular company, a [[Stock|stock]] price downturn, or a blip in the [[stock market]](https://www.investopedia.com/terms/s/stockmarket.asp) as a whole.
 
 Generally, a hiccup is not indicative of a larger trend but is considered an aberration.
 
@@ -24,7 +24,7 @@ Generally, a hiccup is not indicative of a larger trend but is considered an abe
 
 -   A hiccup refers to a temporary disruption that should not be considered symptomatic of something more permanently negative.
 -   A hiccup for a business can be caused by over- or under-estimating the costs or demand for a product or service, or missteps made in marketing efforts.
--   While a hiccup is defined as an aberration, investors and analysts often will not know if a downturn is merely a hiccup or a more serious reversal until some time has passed.
+-   While a hiccup is defined as an aberration, investors and analysts often [[Will|will]] not know if a downturn is merely a hiccup or a more serious [[Reversal|reversal]] until some time has passed.
 
 ## Understanding Hiccups
 
@@ -36,7 +36,7 @@ One of the biggest challenges for investors is determining what is merely a hicc
 
 Greed, poor technology, poor understanding of the market, low or no [[social media]](https://www.investopedia.com/terms/s/social-media.asp) presence, and over-hiring are some factors that can cause hiccups for a business. Hiccups can occur when a business startup overspends on expensive office items and other luxuries rather than focusing on products and marketing. This can cause a startup to blow the budget early in the game.
 
-Because so many businesses feed off technology, having reliable internet and phone systems are key to moving a business along. Quality internet enables [[conference calls]](https://www.investopedia.com/terms/c/conferencecall.asp) and other technological feats that can help financial growth. Social media presence is also key, and the business that fails to expose itself on social media may not attract the attention given to competitors.
+Because so many businesses feed off technology, having reliable internet and phone systems are key to moving a business along. Quality internet enables [[conference calls]](https://www.investopedia.com/terms/c/conferencecall.asp) and other technological feats that can help financial growth. [[Social Media|Social media]] presence is also key, and the business that fails to expose itself on social media may not attract the attention given to competitors.
 
 Understanding the market is an important part of a company's success. Failure in this regard can make a business irrelevant and so cause a financial downturn. Hiring too many employees can drain a company's finances.
 

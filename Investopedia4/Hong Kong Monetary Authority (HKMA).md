@@ -6,23 +6,23 @@ source: https://www.investopedia.com/terms/h/hong-kong-monetary-authority-hkma.a
 author: James Chen
 ---
 
-# Hong Kong Monetary Authority (HKMA)
+# [[Hong Kong Monetary Authority (HKMA)]]
 
 > ## Excerpt
 > The Hong Kong Monetary Authority acts as the central bank of Hong Kong to control inflation and maintain currency stability.
 
 ---
 
-Hong Kong Monetary Authority (HKMA)
-## What is the Hong Kong Monetary Authority (HKMA)
+[[Hong Kong Monetary Authority (HKMA)]]
+## What is the [[Hong Kong Monetary Authority (HKMA)]]
 
 Established in 1993, the Hong Kong Monetary Authority (HKMA) acts to control [[inflation]](https://www.investopedia.com/terms/i/inflation.asp) and maintain the stability of the Hong Kong dollar (HKD) and of the banking sector through its [[monetary policy]](https://www.investopedia.com/terms/m/monetarypolicy.asp). The HKMA links the HKD to the U.S. dollar to help the HKD maintain a stable value.
 
-## Understanding the Hong Kong Monetary Authority (HKMA)
+## Understanding the [[Hong Kong Monetary Authority (HKMA)]]
 
-Hong Kong is a key finance capital for the People's Republic of China, and it's a place for multinational companies to set up operations. As a [[Special Administrative Region]](https://www.investopedia.com/terms/s/special-administrative-region.asp) of the People's Republic of China, Hong Kong is an autonomous territory with its own currency and an annual [[nominal GDP]](https://www.investopedia.com/terms/n/nominalgdp.asp) of more than $335 billion as of 2017. The HKMA acts as a de facto [[central bank]](https://www.investopedia.com/terms/c/centralbank.asp) for the region. 
+Hong Kong is a key [[Finance|finance]] capital for the People's Republic of China, and it's a place for multinational companies to set up operations. As a [[Special Administrative Region]](https://www.investopedia.com/terms/s/special-administrative-region.asp) of the People's Republic of China, Hong Kong is an autonomous territory with its own currency and an annual [[nominal GDP]](https://www.investopedia.com/terms/n/nominalgdp.asp) of more than $335 billion as of 2017. The HKMA acts as a de facto [[central bank]](https://www.investopedia.com/terms/c/centralbank.asp) for the region. 
 
-The HKMA maintains a [[sovereign wealth fund]](https://www.investopedia.com/terms/s/sovereign_wealth_fund.asp) called the Hong Kong Monetary Authority Investment Portfolio. The HKMA is a member of the East Asia and Pacific Central Banks along with the [[Reserve Bank of Australia]](https://www.investopedia.com/terms/r/reserve-bank-of-australia.asp), the [[People's Bank of China]](https://www.investopedia.com/terms/p/peoples-bank-china-pboc.asp), the [[Bank of Japan]](https://www.investopedia.com/terms/b/bankofjapan.asp), and seven other central banks.
+The HKMA maintains a [[sovereign wealth fund]](https://www.investopedia.com/terms/s/sovereign_wealth_fund.asp) called the Hong Kong Monetary Authority Investment [[Portfolio]]. The HKMA is a member of the East Asia and Pacific Central Banks along with the [[Reserve Bank of Australia]](https://www.investopedia.com/terms/r/reserve-bank-of-australia.asp), the [[People's Bank of China]](https://www.investopedia.com/terms/p/peoples-bank-china-pboc.asp), the [[Bank of Japan]](https://www.investopedia.com/terms/b/bankofjapan.asp), and seven other central banks.
 
 ## HKMA Responsibilities
 

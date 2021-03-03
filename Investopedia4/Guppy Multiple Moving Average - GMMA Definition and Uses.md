@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/g/guppy-multiple-moving-average.asp
 author: Cory Mitchell
 ---
 
-# Guppy Multiple Moving Average - GMMA Definition and Uses
+# [[Guppy Multiple Moving Average - GMMA Definition and Uses]]
 
 > ## Excerpt
 > The Guppy Multiple Moving Average (GMMA) identifies changing trends by combining two sets of moving averages (MA) with multiple time periods. Each set contains up to six moving averages, for a total of 12 MAs in the indicator.
 
 ---
 
-Guppy Multiple Moving Average - GMMA Definition and Uses
+[[Guppy Multiple Moving Average - GMMA Definition and Uses]]
 ## What Is the Guppy Multiple Moving Average (GMMA)?
 
 The Guppy Multiple Moving Average (GMMA) is a [[technical indicator]](https://www.investopedia.com/terms/t/technicalindicator.asp) that identifies changing trends, breakouts, and trading opportunities in the price of an asset by combining two groups of [[moving averages]](https://www.investopedia.com/terms/m/movingaverage.asp) (MA) with different time periods. There is a short-term group of MAs, and a long-term group of MA. Both contain six MAs, for a total of 12. The term gets its name from Daryl Guppy, an Australian [[trader]](https://www.investopedia.com/terms/t/trader.asp) who is credited with its development.
@@ -27,7 +27,7 @@ TradingView.
 -   When the short-term group of averages moves above the longer-term group, it indicates a price [[uptrend]](https://www.investopedia.com/terms/u/uptrend.asp) in the asset could be emerging.
 -   When the short-term group falls below the longer-term group of MAs, a price [[downtrend]](https://www.investopedia.com/terms/d/downtrend.asp) in the asset could be starting.
 -   When there is lots of separation between the MAs, this helps confirm the price trend in the current direction.
--   If both groups become compressed with each other, or crisscross, it indicates the price has paused and a price trend reversal is possible.
+-   If both groups become compressed with each other, or crisscross, it indicates the price has paused and a price trend [[Reversal|reversal]] is possible.
 -   Traders often trade in the direction the longer-term MA group is moving, and use the short-term group for [[trade signals]](https://www.investopedia.com/terms/t/trade-signal.asp) to enter or exit.
 
 ## The Formulas for the Guppy Multiple Moving Average (GMMA) are
@@ -51,15 +51,15 @@ The Guppy Multiple Moving Average can be used to identify changes in trends or g
 
 The degree of separation between the short- and long-term moving averages can be used as an [[indicator]](https://www.investopedia.com/terms/i/indicator.asp) of trend strength. If there's a wide separation, then the prevailing trend is strong. Narrow separation, or lines that are crisscrossings, indicates a weakening trend or a period of consolidation.
 
-The [[crossover]](https://www.investopedia.com/terms/c/crossover.asp) of the short- and long-term moving averages represent trend reversals. If the short-term crosses above the long-term moving averages, then a [[bullish]](https://www.investopedia.com/terms/b/bullmarket.asp) reversal has occurred. If the short-term MAs cross below the longer-term ones, then a [[bearish]](https://www.investopedia.com/terms/b/bearmarket.asp) reversal is occurring.
+The [[crossover]](https://www.investopedia.com/terms/c/crossover.asp) of the short- and long-term moving averages represent trend reversals. If the short-term crosses above the long-term moving averages, then a [[bullish]](https://www.investopedia.com/terms/b/bullmarket.asp) [[Reversal|reversal]] has occurred. If the short-term MAs cross below the longer-term ones, then a [[bearish]](https://www.investopedia.com/terms/b/bearmarket.asp) reversal is occurring.
 
 When both groups of MAs are moving horizontally, or mostly moving sideways and heavily intertwined, it means the asset lacks a price trend, and therefore may not be a good candidate for trend trades. These periods may be good for [[range trading]](https://www.investopedia.com/terms/t/tradingrange.asp), though.
 
-The indicator can also be used for trade signals. When the short-term group passes above the long-term group of MAs, buy. When the short-term group passes below the longer-term group, sell. These signals should be avoided when the price and the MAs are moving sideways. Following a consolidation period, watch for a crossover and separation. When the lines start to separate this often means a breakout from the consolidation has occurred and a new trend could be underway. During a strong uptrend, when the short-term MAs move back toward the longer-term MAs (but don't cross) and then start to move back the upside, this is another opportunity to enter into [[long]](https://www.investopedia.com/terms/l/long.asp) trades in the trending direction. The same concept applies to downtrends for entering [[short]](https://www.investopedia.com/terms/s/shortselling.asp) trades.
+The indicator can also be used for trade signals. When the short-term group passes above the long-term group of MAs, buy. When the short-term group passes below the longer-term group, sell. These signals should be avoided when the price and the MAs are moving sideways. Following a consolidation period, watch for a crossover and separation. When the lines start to separate this often means a breakout from the consolidation has occurred and a new trend could be underway. During a strong uptrend, when the short-term MAs move back toward the longer-term MAs (but don't cross) and then start to move back the [[Upside|upside]], this is another opportunity to enter into [[long]](https://www.investopedia.com/terms/l/long.asp) trades in the trending direction. The same concept applies to downtrends for entering [[short]](https://www.investopedia.com/terms/s/shortselling.asp) trades.
 
-Traders should use the Guppy Multiple Moving Average in conjunction with other technical indicators to maximize their odds of success. For example, traders might look at the [[Relative Strength Index (RSI)]](https://www.investopedia.com/terms/r/rsi.asp) to confirm whether a trend is getting top-heavy and poised for a [[reversal]](https://www.investopedia.com/terms/r/reversal.asp), or look at various chart patterns to determine other entry or exit points after a GMMA crossover.
+Traders should use the Guppy Multiple Moving Average in conjunction with other technical indicators to maximize their odds of success. For example, traders might look at the [[Relative Strength Index (RSI)]](https://www.investopedia.com/terms/r/rsi.asp) to confirm whether a trend is getting top-heavy and poised for a [[reversal]](https://www.investopedia.com/terms/r/[[Reversal|reversal]].asp), or look at various chart patterns to determine other entry or exit points after a GMMA crossover.
 
-## The Difference Between the Guppy Multiple Moving Average (GMMA) and an Exponential Moving Average (EMA)
+## The Difference Between the Guppy Multiple Moving Average (GMMA) and an [[Exponential Moving Average (EMA)]]
 
 The Guppy is composed of 12 EMAs, so essentially the Guppy and an EMA are the same thing. The Guppy is a collection of EMAs that the creator believed helped isolate trades, spot opportunities, and warn about price reversals. The multiple lines of the Guppy help some traders see the strength or weakness in a trend better than if only using one or two EMAs.
 

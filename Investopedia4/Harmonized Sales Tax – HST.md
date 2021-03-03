@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/h/harmonized-sales-tax.asp
 author: Julia Kagan
 ---
 
-# Harmonized Sales Tax – HST Definition
+# [[Harmonized Sales Tax – HST]] Definition
 
 > ## Excerpt
 > The harmonized sales tax is a hybrid of the Canadian goods and services tax and provincial sales tax applied to goods and services.
 
 ---
 
-Harmonized Sales Tax – HST
+[[Harmonized Sales Tax – HST]]
 ## What Is the Harmonized Sales Tax?
 
-The harmonized sales tax (HST) is a combination of the federal Canadian goods and services tax (GST) and provincial sales taxes (PST).
+The harmonized sales tax (HST) is a combination of the federal Canadian [[Goods and Services Tax (GST)|goods and services tax (GST)]] and provincial sales taxes (PST).
 
 ## Harmonized Sales Tax Explained
 
@@ -28,7 +28,7 @@ Proponents of the HST argue it improves the competitiveness of Canadian business
 
 -   The harmonized sales tax is a combination of federal and provincial taxes on goods and services in five Canadian provinces.
 -   The tax rate is 15% in all participating provinces except Ontario, where it is 13%.
--   Critics argue the HST shifts the burden of taxation to consumers, but proponents of the tax say it ultimately benefits consumers by lowering costs.
+-   Critics argue the HST shifts the burden of [[Taxation|taxation]] to consumers, but proponents of the tax say it ultimately benefits consumers by lowering costs.
 
 ## Canadian Provinces Applying the HST
 
@@ -46,9 +46,9 @@ It is the responsibility of Canadian business owners to collect and remit HST. T
 
 ## Exempted Goods and Services
 
-While many goods and services are subject to HST, some are [[zero-rated]](https://www.investopedia.com/terms/z/zero-rated-goods.asp) or tax-exempt. A zero-rated commodity or service is one that has an HST tax rate of 0%. These include products like basic groceries, books, and many agricultural and fishery goods.
+While many goods and services are subject to HST, some are [[zero-rated]](https://www.investopedia.com/terms/[[Z|z]]/zero-rated-goods.asp) or tax-exempt. A zero-rated commodity or service is one that has an HST tax rate of 0%. These include products like basic groceries, books, and many agricultural and fishery goods.
 
-Customers outside of Canada purchasing products from Canada do not have to pay HST provided that the goods or services purchased will be solely used outside of the country. However, [[non-residents]](https://www.investopedia.com/terms/r/nonresident.asp) in Canada, such as tourists, are required to pay HST but in some cases may qualify for an HST [[rebate]](https://www.investopedia.com/terms/r/rebate.asp).
+Customers outside of Canada purchasing products from Canada do not have to pay HST provided that the goods or services purchased [[Will|will]] be solely used outside of the country. However, [[non-residents]](https://www.investopedia.com/terms/r/nonresident.asp) in Canada, such as tourists, are required to pay HST but in some cases may qualify for an HST [[rebate]](https://www.investopedia.com/terms/r/[[Rebate|rebate]].asp).
 
 ## Effect on Taxpayers
 

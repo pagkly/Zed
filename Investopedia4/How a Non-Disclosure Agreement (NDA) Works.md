@@ -13,23 +13,23 @@ author: Alexandra Twin
 
 ---
 
-How a Non-Disclosure Agreement (NDA) Works
+[[How a Non-Disclosure Agreement (NDA) Works]]
 ## What Is a Non-Disclosure Agreement (NDA)?
 
-A non-disclosure agreement is a legally binding contract that establishes a confidential relationship. The party or parties signing the agreement agree that sensitive information they may obtain will not be made available to any others. An NDA may also be referred to as a confidentiality agreement.
+A non-disclosure agreement is a legally binding contract that establishes a confidential relationship. The party or parties signing the agreement agree that sensitive information they may obtain [[Will|will]] not be made available to any others. An NDA may also be referred to as a confidentiality agreement.
 
-[Non-disclosure agreements](https://www.investopedia.com/articles/investing/041315/how-ndas-work-and-why-theyre-important.asp) are common for businesses entering into negotiations with other businesses. They allow the parties to share sensitive information without fear that it will end up in the hands of competitors. In this case, it may be called a mutual non-disclosure agreement.
+[Non-disclosure agreements](https://www.investopedia.com/articles/investing/041315/how-ndas-work-and-why-theyre-important.asp) are common for businesses entering into negotiations with other businesses. They allow the parties to share sensitive information without fear that it [[Will|will]] end up in the hands of competitors. In this case, it may be called a mutual non-disclosure agreement.
 
 ### Key Takeaways
 
 -   An NDA acknowledges a confidential relationship between two or more parties and protects the information they share from disclosure to outsiders.
--   The NDA is common before discussions between businesses about potential joint ventures.
+-   The NDA is common before discussions between businesses about potential [[Joint|joint]] ventures.
 -   Employees are often required to sign NDAs to protect an employer's confidential business information.
 -   An NDA may also be referred to as a confidentiality agreement.
 
 ## Understanding the NDA
 
-The NDA serves a purpose in a variety of situations. NDAs are generally required when two companies enter into discussions about [[doing business together]](https://www.investopedia.com/articles/personal-finance/090815/basics-business-development.asp) but want to protect their own interests and the details of any potential deal. In this case, the language of the NDA forbids all involved from releasing information regarding any business processes or plans of the other party or parties.
+The NDA serves a purpose in a variety of situations. NDAs are generally required when two companies enter into discussions about [[doing business together]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/090815/basics-business-development.asp) but want to protect their own interests and the details of any potential deal. In this case, the language of the NDA forbids all involved from releasing information regarding any business processes or plans of the other party or parties.
 
 Some companies also require that new employees sign an NDA If the employee has access to sensitive information about the company.
 
@@ -37,7 +37,7 @@ NDAs are also commonly used before discussions between a company seeking funding
 
 ### Keeping Plans Secret
 
-In all of the above, the information that is being protected may include a [[marketing strategy]](https://www.investopedia.com/terms/m/marketing-strategy.asp) and sales plan, potential customers, a manufacturing process, or proprietary software.
+In all of the above, the information that is being protected may include a [[marketing strategy]](https://www.investopedia.com/terms/m/marketing-strategy.asp) and sales plan, potential customers, a [[Manufacturing|manufacturing]] process, or proprietary software.
 
 If an NDA is breached by one party, the other party may seek court action to prevent any further disclosures and may sue the offending party for monetary damages.
 

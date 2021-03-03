@@ -6,23 +6,23 @@ source: https://www.investopedia.com/terms/h/housingunits.asp
 author: Lucas Downey
 ---
 
-# Housing Unit Definition
+# [[Housing Unit]] Definition
 
 > ## Excerpt
-> A housing unit is a single residential unit in a larger structure that is occupied or intended as a separate living quarter.
+> A [[Housing Unit|housing unit]] is a single residential unit in a larger structure that is occupied or intended as a separate living quarter.
 
 ---
 
-Housing Unit
-## What Is a Housing Unit?
+[[Housing Unit]]
+## What Is a [[Housing Unit]]?
 
-A housing unit is a single unit within a larger structure that can be used by an individual or household to eat, sleep, and live. The unit can be in any type of residence, such as a house, apartment, or mobile home, and may also be a single unit in a group of rooms.
+A [[Housing Unit|housing unit]] is a single unit within a larger structure that can be used by an individual or household to eat, sleep, and live. The unit can be in any type of residence, such as a house, apartment, or mobile home, and may also be a single unit in a group of rooms.
 
-Essentially, a housing unit is deemed to be a separate living quarter where the occupants live and eat separately from other residents of the structure or building. They also have direct access from the building's exterior or through a common hallway.
+Essentially, a [[Housing Unit|housing unit]] is deemed to be a separate living quarter where the occupants live and eat separately from other residents of the structure or building. They also have direct access from the building's exterior or through a common hallway.
 
 ### Key Takeaways
 
--   A housing unit is one unit within a larger structure, such as a house, apartment, mobile home, or group of rooms, where a person or family eat, live, and sleep.
+-   A [[Housing Unit|housing unit]] is one unit within a larger structure, such as a house, apartment, mobile home, or group of rooms, where a person or family eat, live, and sleep.
 -   Housing units are separate living quarters where the occupants live separately from other residents of the structure.
 -   Residential construction is the largest component of change in housing units.
 
@@ -40,13 +40,13 @@ The following living quarters are generally not considered housing units and are
 
 ## Recording Housing Units
 
-Each year, the U.S. Census Bureau provides housing unit estimates for all counties and states. These estimates are used as controls for the tracking of population growth or loss for cities and towns.
+Each year, the U.S. Census Bureau provides [[Housing Unit|housing unit]] estimates for all counties and states. These estimates are used as controls for the tracking of population growth or loss for cities and towns.
 
 Estimates start with the most recent census data, then add in the estimated amount of new residential construction and mobile homes. Next, the estimated housing units lost is subtracted and results in the annual estimate figure.
 
 There were 139.7 million housing units in the U.S. in 2019, according to the [[U.S. Census Bureau]](https://www.census.gov/quickfacts/fact/table/US/VET605219), up from an estimated 138.5 million units in 2018.
 
-There are three types of situations that determine the loss of a housing unit:
+There are three types of situations that determine the loss of a [[Housing Unit|housing unit]]:
 
 -   An interior exposed to the elements
 -   Demolished unit
@@ -58,6 +58,6 @@ The loss rate of homes in certain states is [[accelerating due to natural disa
 
 As noted above, there are many different types of housing units. For instance, single families can be converted into multiple units as illustrated by the following example:
 
-A homeowner may decide to renovate their basement to accommodate a secondary suite. Once complete, the owner may rent out the unit to another individual or family, or offer the unit to members of their family. This dwelling becomes a separate housing unit.
+A homeowner may decide to renovate their basement to accommodate a secondary suite. Once complete, the owner may rent out the unit to another individual or family, or [[Offer|offer]] the unit to members of their family. This dwelling becomes a separate [[Housing Unit|housing unit]].
 
 Similarly, a developer may seek permits to construct an apartment complex on an empty piece of land. The apartments that are constructed are counted as separate housing units.

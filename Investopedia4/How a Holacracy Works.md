@@ -13,12 +13,12 @@ author: Marshall Hargrave
 
 ---
 
-How a Holacracy Works
+[[How a Holacracy Works]]
 ## What Is a Holacracy?
 
 A holacracy is a system of [[corporate governance]](https://www.investopedia.com/terms/c/corporategovernance.asp) whereby members of a team or business form distinct, autonomous, yet symbiotic, teams to accomplish tasks and company goals. The concept of a [[corporate hierarchy]](https://www.investopedia.com/terms/c/corporate-hierarchy.asp) is discarded in favor of a flat [[organizational structure]](https://www.investopedia.com/terms/o/organizational-structure.asp) where all workers have an equal voice while simultaneously answering to the direction of shared authority.
 
-## How a Holacracy Works
+## [[How a Holacracy Works]]
 
 In a holacracy, instead of hiring a person to fill a pre-defined role (such as that outlined in a job description), people opt to take on one or more roles at any given time and have flexibility to move between teams and roles if they have skills or insights that would prove beneficial to the organization.
 

@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/h/hawk.asp
 author: James Chen
 ---
 
-# Hawk Definition
+# [[Hawk Definition]]
 
 > ## Excerpt
-> A hawk is a policymaker or advisor who focuses on interest rates as they relate to fiscal policy.
+> A hawk is a policymaker or advisor who focuses on interest rates as they relate to [[Fiscal Policy|fiscal policy]].
 
 ---
 
-Hawk Definition
+[[Hawk Definition]]
 ## What is a Hawk?
 
 A hawk, also known as an inflation hawk, is a policymaker or advisor who is predominantly concerned with interest rates as they relate to [[fiscal policy]](https://www.investopedia.com/terms/f/fiscalpolicy.asp). A hawk generally favors relatively high interest rates in order to keep inflation in check. In other words, hawks are less concerned with [[economic growth]](https://www.investopedia.com/terms/e/economicgrowth.asp) than they are with recessionary pressure brought to bear by high inflation rates.
@@ -22,9 +22,9 @@ A hawk, also known as an inflation hawk, is a policymaker or advisor who is pred
 
 Although the most common use of the term "hawk" is described above, it can be used in a variety of contexts. In each case, it refers to someone who is intently focused on a particular aspect of a larger pursuit or endeavor. A budget hawk, for example, is one that believes the federal budget is of the utmost importance — just like a generic hawk (or inflation hawk) is focused on [[interest rates]](https://www.investopedia.com/terms/i/interestrate.asp).
 
-The opposite of a hawk is a [[dove]](https://www.investopedia.com/terms/d/dove.asp), or an economic policy advisor who prefers monetary policies that involve low interest rates. Doves typically believe that lower rates will lead to a hike in employment. 
+The opposite of a hawk is a [[dove]](https://www.investopedia.com/terms/d/dove.asp), or an economic policy advisor who prefers monetary policies that involve low interest rates. Doves typically believe that lower rates [[Will|will]] lead to a hike in employment. 
 
-This isn't the only instance in economics where animals are used as descriptors. [[Bull]](https://www.investopedia.com/terms/b/bullmarket.asp) and [[bear]](https://www.investopedia.com/terms/b/bearmarket.asp) are also used, where the former refers to a market affected by rising prices, while the latter is typically one where prices are falling.
+This isn't the only instance in [[Economics|economics]] where animals are used as descriptors. [[Bull]](https://www.investopedia.com/terms/b/bullmarket.asp) and [[bear]](https://www.investopedia.com/terms/b/bearmarket.asp) are also used, where the former refers to a market affected by rising prices, while the latter is typically one where prices are falling.
 
 ### Key Takeaways
 
@@ -48,8 +48,8 @@ At eight annual meetings, a group from the [[Federal Reserve]](https://www.inves
 
 High interest rates (remember, hawks tend to favor these over lower interest rates) make [[borrowing]](https://www.investopedia.com/articles/basics/07/financing-options.asp) less attractive. As a result, consumers become less likely to make large purchases or take out credit. The lack of spending equates with lowered demand, which helps to keep prices stable and prevent inflation.
 
-In contrast, low interest rates entice consumers into taking out [[loans]](https://www.investopedia.com/terms/l/loan.asp) for cars, houses and other goods. As a result, consumers spend more, and ultimately, inflation occurs. It is the Fed's responsibility to balance economic growth and inflation, and it does this by playing with interest rates.
+In contrast, low interest rates entice consumers into taking out [[loans]](https://www.investopedia.com/terms/l/[[Loan|loan]].asp) for cars, houses and other goods. As a result, consumers spend more, and ultimately, inflation occurs. It is the Fed's responsibility to balance economic growth and inflation, and it does this by playing with interest rates.
 
 ## What Are the Benefits of High Interest Rates?
 
-Although the word hawk is often levied as an insult, high interest rates carry a great deal of economic advantages. While they make it less likely for people to borrow funds, they make it more likely for them to save money. Surprisingly, in some cases, banks also end up lending money more freely when interest rates as high. High rates dissipate [[risk]](https://www.investopedia.com/terms/r/risk.asp), making banks potentially more likely to approve borrowers with less than perfect credit histories. Similarly, if a country increases interest rates but its trading partners do not, that can result in a fall in the prices of imported goods.
+Although the word hawk is often levied as an insult, high interest rates carry a great deal of economic advantages. While they make it less likely for people to borrow funds, they make it more likely for them to save money. Surprisingly, in some cases, banks also end up lending money more freely when interest rates as high. High rates dissipate [[risk]](https://www.investopedia.com/terms/r/[[Risk|risk]].asp), making banks potentially more likely to approve borrowers with less than perfect credit histories. Similarly, if a country increases interest rates but its trading partners do not, that can result in a fall in the prices of imported goods.

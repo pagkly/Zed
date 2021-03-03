@@ -28,7 +28,7 @@ As a business term, "heads of agreement" is most commonly used in Australia, New
 
 ## Understanding a Heads of Agreements
 
-A heads of agreement document is only meant to serve as an introductory agreement to the basic terms of a transaction or partnership. It happens during the pre-contractual stage of negotiations. By design, a heads of agreement will not be comprehensive enough to cover all the necessary details involved in a binding formal agreement. But its lack of detail is also its strength; the parties are less likely to find something they do not agree on.
+A heads of agreement document is only meant to serve as an introductory agreement to the basic terms of a transaction or partnership. It happens during the pre-contractual stage of negotiations. By design, a heads of agreement [[Will|will]] not be comprehensive enough to cover all the necessary details involved in a binding formal agreement. But its lack of detail is also its strength; the parties are less likely to find something they do not agree on.
 
 Once both parties come to a broad consensus on a partnership or transaction and have signed a heads of agreement document, the next step entails involving attorneys and accountants to iron out the details. Such details may include a number of pre-conditions that must be satisfied before a final agreement is made. The step after that is the signing of a binding contract, though a heads of agreement may be terminated at any time by either party with some caveats.
 
@@ -46,4 +46,4 @@ A heads of agreement can provide both parties in a transaction or partnership th
 
 Heads of agreement can be binding or non-binding, depending on the language used, though they are not generally binding. That said, some aspects, such as intellectual property, exclusivity, confidentiality, and non-solicitation provisions, tend to be binding, though only if the time-frames are reasonable. If a heads of agreement document is written so that it is binding it can present problems.
 
-Since most aspects of a heads of agreement are not binding, the remedies for non-compliance by either party are few. In fact, they only apply to the legally binding terms listed above. If there is a breach of those binding terms by one party, the other may file for an injunction, equitable relief, damages or specific performance.
+Since most aspects of a heads of agreement are not binding, the remedies for non-compliance by either party are few. In fact, they only apply to the legally binding terms [[Listed|listed]] above. If there is a breach of those binding terms by one party, the other may file for an injunction, equitable relief, damages or specific performance.
