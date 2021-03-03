@@ -9,56 +9,56 @@ author: Chris B. Murphy
 # Financial Statements Definition
 
 > ## Excerpt
-> Financial statements are written records that convey the business activities and the financial performance of a company. Financial statements include the balance sheet, income statement, and cash flow statement.
+> Financial statements are written records that convey the business activities and the financial performance of a company. Financial statements include the balance sheet, income statement, and [[Cash Flow Statement|cash flow statement]].
 
 ---
 
-How to Interpret Financial Statements
+[[How to Interpret Financial Statements]]
 ## What Are Financial Statements?
 
 Financial statements are written records that convey the business activities and the financial performance of a company. Financial statements are often audited by government agencies, accountants, firms, etc. to ensure accuracy and for tax, financing, or investing purposes. Financial statements include:
 
 -   Balance sheet
 -   Income statement
--   Cash flow statement.
+-   [[Cash Flow Statement|Cash flow statement]].
 
 ### Key Takeaways
 
 -   Financial statements are written records that convey the business activities and the financial performance of a company.
--   The balance sheet provides an overview of assets, liabilities, and stockholders' equity as a snapshot in time.
+-   The balance sheet provides an overview of assets, liabilities, and stockholders' [[Equity|equity]] as a snapshot in time.
 -   The income statement primarily focuses on a company’s revenues and expenses during a particular period. Once expenses are subtracted from revenues, the statement produces a company's profit figure called net income.
--   The cash flow statement (CFS) measures how well a company generates cash to pay its debt obligations, fund its operating expenses, and fund investments.
+-   The [[Cash Flow Statement|cash flow statement]] (CFS) measures how well a company generates cash to pay its [[Debt|debt]] obligations, fund its operating expenses, and fund investments.
 
 ## Using Financial Statement Information
 
-Investors and financial analysts rely on financial data to analyze the performance of a company and make predictions about its future direction of the company's stock price. One of the most important resources of [[reliable and audited financial data is the annual report,]](https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp) which contains the firm's financial statements.
+Investors and financial analysts rely on financial data to analyze the performance of a company and make predictions about its future direction of the company's [[Stock|stock]] price. One of the most important resources of [[reliable and audited financial data is the annual report,]](https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp) which contains the firm's financial statements.
 
 The [[financial statements]](https://www.investopedia.com/ask/answers/06/compiledandcertifiedfinancialstatements.asp) are used by investors, market analysts, and creditors to evaluate a company's financial health and earnings potential. The three major financial statement reports are the balance sheet, income statement, and statement of cash flows.
 
 ## Understanding Balance Sheets
 
-The [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp) provides an [[overview]](https://www.investopedia.com/ask/answers/032615/why-do-shareholders-need-financial-statements.asp) of a company's assets, liabilities, and stockholders' equity as a snapshot in time. The date at the top of the balance sheet tells you when the snapshot was taken, which is generally the end of the fiscal year.
+The [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp) provides an [[overview]](https://www.investopedia.com/ask/answers/032615/why-do-shareholders-need-financial-statements.asp) of a company's assets, liabilities, and stockholders' [[Equity|equity]] as a snapshot in time. The date at the top of the balance sheet tells you when the snapshot was taken, which is generally the end of the fiscal year.
 
 ## The Balance Sheet Formula
 
-Assets\=(Liabilities+Owner’s Equity)\\displaystyle \\text{Assets}=(\\text{Liabilities}+\\text{Owner's Equity})
+Assets\=(Liabilities+Owner’s [[Equity]])\\displaystyle \\text{Assets}=(\\text{Liabilities}+\\text{Owner's Equity})
 
-The [[balance sheet]](https://www.investopedia.com/terms/c/commonsizebalancesheet.asp) totals will be calculated already, but here's how you identify them.
+The [[balance sheet]](https://www.investopedia.com/terms/c/commonsizebalancesheet.asp) totals [[Will|will]] be calculated already, but here's how you identify them.
 
 1.  Locate total assets on the balance sheet for the period.
 2.  Total all liabilities, which should be a separate listing on the balance sheet. It may not include [[contingent liabilities]](https://www.investopedia.com/terms/c/contingentliability.asp).
-3.  Locate total shareholder's equity and add the number to total liabilities.
-4.  Total assets should equal the total of liabilities and total equity.
+3.  Locate total shareholder's [[Equity|equity]] and add the number to total liabilities.
+4.  Total assets should equal the total of liabilities and total [[Equity|equity]].
 
 ## Data From the Balance Sheet
 
-The balance sheet identifies how assets are funded, either with liabilities, such as debt, or stockholders' equity, such as retained earnings and additional paid-in capital. Assets are listed on the balance sheet in order of liquidity.
+The balance sheet identifies how assets are funded, either with liabilities, such as [[Debt|debt]], or stockholders' [[Equity|equity]], such as [[Retained Earnings|retained earnings]] and additional paid-in capital. Assets are [[Listed|listed]] on the balance sheet in order of [[Liquidity|liquidity]].
 
-Liabilities are listed in the order in which they will be paid. Short-term or current liabilities are expected to be paid within the year, while long-term or non-current liabilities are debts expected to be paid in over one year.
+Liabilities are [[Listed|listed]] in the order in which they [[Will|will]] be paid. Short-term or current liabilities are expected to be paid within the year, while long-term or non-current liabilities are debts expected to be paid in over one year.
 
 ## Items Included in the Balance Sheet
 
-Below are examples of items listed on the balance sheet.
+Below are examples of items [[Listed|listed]] on the balance sheet.
 
 ### Assets
 
@@ -72,19 +72,19 @@ Below are examples of items listed on the balance sheet.
 -   Wages payable
 -   [[Dividends]](https://www.investopedia.com/terms/d/dividend.asp) payable
 
-### Shareholders' Equity
+### Shareholders' [[Equity]]
 
--   Shareholders' equity is a company's total assets minus its total liabilities. Shareholders' equity represents the amount of money that would be returned to shareholders if all of the assets were liquidated and all of the company's debt was paid off.
--   [[Retained earnings]](https://www.investopedia.com/terms/r/retainedearnings.asp) are part of shareholders' equity and are the amount of net earnings that were not paid to shareholders as dividends. 
+-   Shareholders' [[Equity|equity]] is a company's total assets minus its total liabilities. Shareholders' equity represents the amount of money that would be returned to shareholders if all of the assets were liquidated and all of the company's [[Debt|debt]] was paid off.
+-   [[Retained earnings]](https://www.investopedia.com/terms/r/retainedearnings.asp) are part of shareholders' [[Equity|equity]] and are the amount of net earnings that were not paid to shareholders as dividends. 
 
 ## Example of a Balance Sheet 
 
-Below is a portion of Exxon Mobil Corporation's [(XOM)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=xom) [balance sheet](https://ir.exxonmobil.com/sec-filings?c=115024&p=irol-sec) as of September 30, 2018. 
+Below is a portion of Exxon Mobil Corporation's [(XOM)](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=xom) [balance sheet](https://ir.exxonmobil.com/sec-filings?c=115024&p=irol-sec) as of September 30, 2018. 
 
 -   Total assets were $354,628.
 -   Total liabilities were $157,797.
--   Total equity was $196,831.
--   Total liabilities and equity were $354,628, which equals the total assets for the period.1
+-   Total [[Equity|equity]] was $196,831.
+-   Total liabilities and [[Equity|equity]] were $354,628, which equals the total assets for the period.1
 
 Image by Sabrina Jiang © Investopedia 2020
 
@@ -123,7 +123,7 @@ Other income is the revenue earned from other activities. Other income could inc
 
 Primary expenses are incurred during the process of earning revenue from the primary activity of the business. Expenses include the [[cost of goods sold (COGS)]](https://www.investopedia.com/terms/c/cogs.asp), selling, general and administrative expenses (SG&A), depreciation or amortization, and research and development (R&D). Typical expenses include employee wages, sales commissions, and utilities such as electricity and transportation.
 
-Expenses that are linked to secondary activities include interest paid on loans or debt. Losses from the sale of an asset are also recorded as expenses.
+Expenses that are linked to secondary activities include interest paid on loans or [[Debt|debt]]. Losses from the sale of an asset are also recorded as expenses.
 
 The main purpose of the income statement is to convey details of profitability and the financial results of business activities. However, it can be very effective in showing whether sales or revenue is increasing when compared over multiple periods. Investors can also see how well a company's management is controlling expenses to determine whether a company's efforts in reducing the cost of sales might boost profits over time.
 
@@ -137,15 +137,15 @@ Below is a portion of Exxon Mobil Corporation's (XOM) income statement as of S
 
 Image by Sabrina Jiang © Investopedia 2020
 
-## The Cash Flow Statement
+## The [[Cash Flow Statement]]
 
-The cash flow statement (CFS) measures how well a company generates cash to pay its debt obligations, fund its operating expenses, and fund investments. The cash flow statement complements the [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) and [income statement](https://www.investopedia.com/terms/i/incomestatement.asp).
+The [[Cash Flow Statement|cash flow statement]] (CFS) measures how well a company generates cash to pay its [[Debt|debt]] obligations, fund its operating expenses, and fund investments. The [[Cash Flow|cash flow]] statement complements the [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) and [income statement](https://www.investopedia.com/terms/i/incomestatement.asp).
 
-## Data From the Cash Flow Statement
+## Data From the [[Cash Flow Statement]]
 
 The CFS allows investors to understand how a company's operations are running, where its money is coming from, and how money is being spent. The CFS also provides insight as to whether a company is on a solid financial footing.
 
-There is no formula, per se, for calculating a cash flow statement. Instead, it contains three sections that report cash flow for the various activities for which a company uses its cash. Those three components of the CFS are listed below.
+There is no formula, per se, for calculating a [[Cash Flow Statement|cash flow statement]]. Instead, it contains three sections that report [[Cash Flow|cash flow]] for the various activities for which a company uses its cash. Those three components of the CFS are [[Listed|listed]] below.
 
 ### Operating Activities 
 
@@ -159,17 +159,17 @@ Also, purchases of fixed assets such as property, plant, and equipment (PPE) ar
 
 ### Financing Activities
 
-Cash from [[financing activities]](https://www.investopedia.com/terms/c/cashflowfromfinancing.asp) include the sources of cash from investors or banks, as well as the uses of cash paid to shareholders. Financing activities include debt issuance, equity issuance, stock repurchases, loans, dividends paid, and repayments of debt.
+Cash from [[financing activities]](https://www.investopedia.com/terms/c/cashflowfromfinancing.asp) include the sources of cash from investors or banks, as well as the uses of cash paid to shareholders. Financing activities include [[Debt|debt]] issuance, [[Equity|equity]] issuance, [[Stock|stock]] repurchases, loans, dividends paid, and repayments of debt.
 
-The cash flow statement reconciles the income statement with the balance sheet in three major business activities.
+The [[Cash Flow Statement|cash flow statement]] reconciles the income statement with the balance sheet in three major business activities.
 
-## Example of a Cash Flow Statement
+## Example of a [[Cash Flow Statement]]
 
-Below is a portion of Exxon Mobil Corporation's [(XOM)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=xom) cash flow statement as of September 30, 2018. We can see the three areas of the cash flow statement and their results.
+Below is a portion of Exxon Mobil Corporation's [(XOM)](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=xom) [[Cash Flow Statement|cash flow statement]] as of September 30, 2018. We can see the three areas of the [[Cash Flow|cash flow]] statement and their results.
 
--   Operating activities generated a positive cash flow of $27,407 for the period.
--   Investing activities generated negative cash flow or cash outflows of -$10,862 for the period. Additions to property, plant, and equipment made up the majority of cash outflows, which means the company invested in new fixed assets.
--   Financing activities generated negative cash flow or cash outflows of -$13,945 for the period. Reductions in short-term debt and dividends paid out made up the majority of the cash outflows.1
+-   Operating activities generated a positive [[Cash Flow|cash flow]] of $27,407 for the period.
+-   Investing activities generated negative [[Cash Flow|cash flow]] or cash outflows of -$10,862 for the period. Additions to property, plant, and equipment made up the majority of cash outflows, which means the company invested in new fixed assets.
+-   Financing activities generated negative [[Cash Flow|cash flow]] or cash outflows of -$13,945 for the period. Reductions in short-term [[Debt|debt]] and dividends paid out made up the majority of the cash outflows.1
 
 Image by Sabrina Jiang © Investopedia 2020
 
@@ -177,4 +177,4 @@ Image by Sabrina Jiang © Investopedia 2020
 
 Although financial statements provide a wealth of information on a company, they do have limitations. The statements are open to interpretation, and as a result, investors often draw vastly different conclusions about a company's financial performance.
 
-For example, some investors might want stock repurchases while other investors might prefer to see that money invested in long-term assets. A company's debt level might be fine for one investor while another might have concerns about the level of debt for the company. When analyzing financial statements, it's important to compare multiple periods to determine if there are any trends as well as compare the company's results its peers in the same industry.
+For example, some investors might want [[Stock|stock]] repurchases while other investors might prefer to see that money invested in long-term assets. A company's [[Debt|debt]] level might be fine for one investor while another might have concerns about the level of debt for the company. When analyzing financial statements, it's important to compare multiple periods to determine if there are any trends as well as compare the company's results its peers in the same industry.

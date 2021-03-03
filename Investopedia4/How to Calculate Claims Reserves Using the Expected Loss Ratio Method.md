@@ -13,7 +13,7 @@ author: Marshall Hargrave
 
 ---
 
-How to Calculate Claims Reserves Using the Expected Loss Ratio Method
+[[How to Calculate Claims Reserves Using the Expected Loss Ratio Method]]
 ## What Is the Expected Loss Ratio – ELR Method?
 
 Expected loss ratio (ELR) method is a technique used to determine the projected amount of claims, relative to [[earned premiums]](https://www.investopedia.com/terms/e/earnedpremium.asp). The expected [[loss ratio]](https://www.investopedia.com/terms/l/loss-ratio.asp) (ELR) method is used when an insurer lacks the appropriate past claims occurrence data to provide because of changes to its product offerings and when it lacks a large enough sample of data for long-tail product lines.
@@ -30,7 +30,7 @@ To calculate the expected loss ratio method multiply earned premiums by the expe
 
 Insurers set aside a portion of their premiums from [[underwriting]](https://www.investopedia.com/terms/u/underwriting.asp) new policies in order to pay for future claims. The expected loss ratio is used to determine how much they set aside. It's also important to note that the frequency and severity of the claims they expect to experience also plays a role. Insurers use a variety of [[forecasting]](https://www.investopedia.com/terms/f/forecasting.asp) methods in order to determine claims reserves.
 
-In certain instances, such as new lines of business, the ELR method may be the only possible way to figure out the appropriate level of loss reserves required. The ELR method can also be used to set the loss reserve for particular business lines and policy periods. The expected loss ratio, multiplied by the appropriate earned premium figure, will produce the estimated ultimate losses (paid or incurred). However, for certain lines of business, government regulations may dictate the minimum levels of [[loss reserves]](https://www.investopedia.com/terms/l/loss-reserve.asp) required.
+In certain instances, such as new lines of business, the ELR method may be the only possible way to figure out the appropriate level of loss reserves required. The ELR method can also be used to set the [[Loss Reserve|loss reserve]] for particular business lines and policy periods. The expected loss ratio, multiplied by the appropriate earned [[Premium|premium]] figure, [[Will|will]] produce the estimated ultimate losses (paid or incurred). However, for certain lines of business, government regulations may dictate the minimum levels of [[loss reserves]](https://www.investopedia.com/terms/l/loss-reserve.asp) required.
 
 -   Used to determine the projected amount of claims, relative to earned premiums.
 -   Insurers set aside a portion of premiums from policies to pay for future claims—the expected loss ratio determines how much they set aside.

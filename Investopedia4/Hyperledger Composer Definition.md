@@ -13,7 +13,7 @@ author: Jake Frankenfield
 
 ---
 
-Hyperledger Composer Definition
+[[Hyperledger Composer Definition]]
 ## What Is Hyperledger Composer?
 
 Hyperledger Composer is a set of [[open source tools]](https://www.investopedia.com/terms/o/open-source.asp) that allows business owners, operators, and developers a way to create [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp) applications and [[smart contracts]](https://www.investopedia.com/terms/s/smart-contracts.asp) aimed at solving business problems and/or improving operational efficiencies. It is an example of a commercial application of [[blockchain-as-a-service]](https://www.investopedia.com/terms/b/blockchainasaservice-baas.asp) (BaaS). Hyperledger Composer is one of the several [[Hyperledger]](https://www.investopedia.com/terms/h/hyperledger.asp) projects hosted by The Linux Foundation in collaboration with corporate members.1
@@ -24,17 +24,17 @@ As of August 2019, the Hyperledger Composer project is in deprecated status, mea
 
 -   Hyperledger composer is a business-oriented set of tools for creating enterprise blockchain applications, under the umbrella of the Hyperledger project.
 -   Composer was meant to facilitate creation of open-source blockchain application that fostered collaboration between within organizations and business networks.1
--   Work on composer was halted in summer 2019, and is now part of the more comprehensive Hyperledger Fabric platform.2
+-   Work on composer was halted in summer 2019, and is now part of the more comprehensive [[Hyperledger Fabric]] platform.2
 
 ## Understanding Hyperledger Composer
 
 Hyperledger Composer is built in Javascript, a platform-independent programming language that also supports the use of built-in libraries and uses available functions and scripts to make the utilities more scalable and reusable. Composer is an application development framework which simplifies and expedites the creation of [Hyperledger fabric](https://hyperledger-fabric.readthedocs.io/en/latest/) blockchain applications.
 
-Using Hyperledger Composer, a business person with no technical knowledge can easily collaborate with a developer to build specific features. They include defining the business rules based on which blockchain transactions will be processed, defining the assets that are exchanged in blockchain-based use cases, and define controls for participants, their identities, roles and access levels for performing the various kinds of transactions.
+Using Hyperledger Composer, a business person with no technical knowledge can easily collaborate with a developer to build specific features. They include defining the business rules based on which blockchain transactions [[Will|will]] be processed, defining the assets that are exchanged in blockchain-based use cases, and define controls for participants, their identities, roles and access levels for performing the various kinds of transactions.
 
 Similarly, a developer using Hyperledger Composer can easily build and configure core components of the blockchain which include the network’s digital assets, transaction logic, participants and access controls. Composer supports sharing, reusability and scalability of components across various organizations. One can easily generate the required scripts and APIs necessary for business implementation using Hyperledger Composer. It also supports use cases and real-time testing, which can even be performed through the web-based Composer playground without the need for local installations. 
 
-Using Hyperledger Composer, it is possible for an individual to create and run a sample blockchain, and grant restricted permission to various participants. For instance, one can easily build a “Perishable Goods Network” that facilitates trading of items like fruits and vegetables, include participants like farmers, shippers and importers, define individual roles for each participant, define and execute terms of agreement between the participants, track shipments, acknowledge, monitor and report status of goods at various stage in the supply chain, and payments management.
+Using Hyperledger Composer, it is possible for an individual to create and run a sample blockchain, and [[Grant|grant]] restricted permission to various participants. For instance, one can easily build a “Perishable Goods Network” that facilitates trading of items like fruits and vegetables, include participants like farmers, shippers and importers, define individual roles for each participant, define and execute terms of agreement between the participants, track shipments, acknowledge, monitor and report status of goods at various stage in the [[Supply|supply]] chain, and payments management.
 
 ## Special Considerations
 

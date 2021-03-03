@@ -1,22 +1,22 @@
 ---
 alias: [Investing in International Markets]
 created: 2021-03-03T00:40:26 (UTC +11:00)
-tags: [Investing in International Markets, International Markets]
+tags: [Investing in [[International Markets]], International Markets]
 source: https://www.investopedia.com/international-markets-4689750
 author: 
 ---
 
-# Investing in International Markets
+# Investing in [[International Markets]]
 
 > ## Excerpt
-> International Markets refers to the financial markets operating outside of the United States.
+> [[International Markets]] refers to the financial markets operating outside of the United States.
 
 ---
 
-International Markets
+[[International Markets]]
 [Markets](https://www.investopedia.com/markets-4689752)
 
--   [[Stock Markets]](https://www.investopedia.com/stock-markets-4689749)
+-   [[Stock Markets]](https://www.investopedia.com/[[Stock|stock]]-markets-4689749)
 -   [[US Markets]](https://www.investopedia.com/us-markets-4689748)
 -   [[International Markets]](https://www.investopedia.com/international-markets-4689750)
 -   [[Emerging Markets]](https://www.investopedia.com/emerging-markets-4689751)
@@ -29,7 +29,7 @@ International Markets
 
 [Markets](https://www.investopedia.com/markets-4689752)
 
--   [[Stock Markets]](https://www.investopedia.com/stock-markets-4689749)
+-   [[Stock Markets]](https://www.investopedia.com/[[Stock|stock]]-markets-4689749)
 -   [[US Markets]](https://www.investopedia.com/us-markets-4689748)
 -   [[International Markets]](https://www.investopedia.com/international-markets-4689750)
 -   [[Emerging Markets]](https://www.investopedia.com/emerging-markets-4689751)
@@ -40,7 +40,7 @@ International Markets
 
 American Depositary Receipt – ADR Definition
 
-An American depositary receipt (ADR) is a U.S. bank-issued certificate representing shares in a foreign company for trade on American stock ...
+An American depositary receipt (ADR) is a U.S. bank-issued certificate representing [[Shares|shares]] in a foreign company for trade on American [[Stock|stock]] ...
 
 
 
@@ -78,7 +78,7 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/euro-sign-at-european-central-bank-headquarters-in-frankfurt--germany-with-dark-dramatic-clouds-symbolizing-a-financial-crisis-912146250-abd284d556264519915497fae24bc701.jpg]]
     
-    European Union (EU)
+    [[European Union (EU)]]
     
     
     
@@ -96,7 +96,7 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/two-shot-and-killed-at-an-oklahoma-walmart-1183269474-75bf9a747fa5411bbe2634fedec799bc.jpg]]
     
-    Multinational Corporation (MNC) Definition
+    [[Multinational Corporation (MNC)]] Definition
     
     
     
@@ -105,11 +105,11 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/investing8-5bfc2b8d46e0fb005144dbe3.jpg]]
     
-    China A-Shares Definition
+    China A-[[Shares]] Definition
     
     
     
-    ](https://www.investopedia.com/terms/a/a-shares.asp)
+    ](https://www.investopedia.com/terms/a/a-[[Shares|shares]].asp)
 -   [
     
     ![[International Markets/investing16-5bfc2b8fc9e77c00519aa657.jpg]]
@@ -123,7 +123,7 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/investing13-5bfc2b8f46e0fb0026016f4d.jpg]]
     
-    Country Risk Definition
+    Country [[Risk]] Definition
     
     
     
@@ -132,7 +132,7 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/investing9-5bfc2b8d46e0fb0051bddfee.jpg]]
     
-    Emerging Market Economy Definition
+    [[Emerging Market Economy Definition]]
     
     
     
@@ -141,11 +141,11 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/GettyImages-1160837097-de9826cc66a743ce88f6803e721fa14a.jpg]]
     
-    European Sovereign Debt Crisis Definition
+    European Sovereign [[Debt]] Crisis Definition
     
     
     
-    ](https://www.investopedia.com/terms/e/european-sovereign-debt-crisis.asp)
+    ](https://www.investopedia.com/terms/e/european-sovereign-[[Debt|debt]]-crisis.asp)
 -   [
     
     ![[International Markets/GettyImages-1068683092-85c874da02794f438b334d75a388896d.jpg]]
@@ -159,7 +159,7 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/improvement-in-line-graph-on-stock-market-trading-screen-598776119-d2ec7102930d40c580ba782e4056643b.jpg]]
     
-    Stock Exchange Daily Official List (SEDOL) Definition
+    [[Stock Exchange Daily Official List (SEDOL) Definition]]
     
     
     
@@ -204,11 +204,11 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/Shanghaistockexchange-617491cae2cc4387b620d399de6717d6.jpg]]
     
-    H-Shares vs. A-Shares: What's the Difference?
+    [[H-Shares]] vs. A-[[Shares]]: What's the Difference?
     
     
     
-    ](https://www.investopedia.com/ask/answers/062315/what-are-differences-between-hshares-and-ashares-chinese-and-hong-kong-stock-exchanges.asp)
+    ](https://www.investopedia.com/ask/answers/062315/what-are-differences-between-hshares-and-ashares-chinese-and-hong-kong-[[Stock|stock]]-exchanges.asp)
 -   [
     
     ![[International Markets/GettyImages-642418294-64786dfaa7e142eaadc2c97e75811b48.jpg]]
@@ -222,11 +222,11 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/investing17-5bfc2b8fc9e77c00519aa64c.jpg]]
     
-    MSCI All Country World Index (ACWI) Definition
+    [[MSCI All Country World Index (ACWI) Definition]]
     
     
     
-    ](https://www.investopedia.com/terms/m/msci-acwi.asp)
+    ](https://www.investopedia.com/terms/m/[[MSCI|msci]]-acwi.asp)
 -   [
     
     ![[International Markets/aerial-view-of-buildings-in-city-965094550-3759b2a498cb478bbb124dbb70f81824-5501cbe99c094cecb11fdd058d01fb73.jpg]]
@@ -258,7 +258,7 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/utzonSOH-103635483-56aadd213df78cf772b4982e.jpg]]
     
-    Bank Bill Swap Bid Rate (BBSY) Definition
+    Bank Bill [[Swap]] Bid Rate (BBSY) Definition
     
     
     
@@ -283,29 +283,29 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/shutterstock_112522391-5bfc2b9846e0fb0051bde2d3.jpg]]
     
-    6 Ways to Invest in Foreign Stocks
+    6 Ways to Invest in Foreign [[Stocks]]
     
     
     
-    ](https://www.investopedia.com/articles/investing/032615/how-trade-foreign-stocks.asp)
+    ](https://www.investopedia.com/articles/investing/032615/how-trade-foreign-[[Stocks|stocks]].asp)
 -   [
     
     ![[International Markets/138011708-5bfc3950c9e77c00519e749a.jpg]]
     
-    How to Get Started Investing in Foreign Stocks
+    How to Get Started Investing in Foreign [[Stocks]]
     
     
     
-    ](https://www.investopedia.com/articles/investing/111913/investing-foreign-stocks-adrs-and-gdrs.asp)
+    ](https://www.investopedia.com/articles/investing/111913/investing-foreign-[[Stocks|stocks]]-adrs-and-gdrs.asp)
 -   [
     
     ![[International Markets/Hong_Kong_Exchange_Trade_Lobby_2007-964faff7810845dbbdf5fff513333809.jpg]]
     
-    How to Trade on the Hong Kong Stock Exchange
+    How to Trade on the Hong Kong [[Stock]] Exchange
     
     
     
-    ](https://www.investopedia.com/articles/active-trading/052715/how-trade-hong-kong-stock-exchange.asp)
+    ](https://www.investopedia.com/articles/active-trading/052715/how-trade-hong-kong-[[Stock|stock]]-exchange.asp)
 -   [
     
     ![[International Markets/GettyImages-117547644-6fe7802db15c462fab771988a10377df.jpg]]
@@ -314,7 +314,7 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     
     
-    ](https://www.investopedia.com/financial-edge/0911/7-things-you-didnt-know-about-sovereign-debt-defaults.aspx)
+    ](https://www.investopedia.com/financial-edge/0911/7-things-you-didnt-know-about-sovereign-[[Debt|debt]]-defaults.aspx)
 -   [
     
     ![[International Markets/italy_crisis_shutterstock_262508666-5bfc306bc9e77c005144d5d5.jpg]]
@@ -326,7 +326,7 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     ](https://www.investopedia.com/news/all-about-italian-economic-crisis-2018/)
 -   [
     
-    Sensex Definition
+    [[Sensex Definition]]
     
     
     
@@ -360,7 +360,7 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/foreign-direct-investment--fdi--1013850554-479c4b4084cd44d3983117c324e5007f.jpg]]
     
-    Foreign Direct Investment (FDI) Definition
+    [[Foreign Direct Investment (FDI)]] Definition
     
     
     
@@ -373,7 +373,7 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     
     
-    ](https://www.investopedia.com/articles/economics/09/subprime-market-2008.asp)
+    ](https://www.investopedia.com/articles/[[Economics|economics]]/09/subprime-market-2008.asp)
 -   [
     
     ![[International Markets/shutterstock_112522391-5bfc2b9846e0fb0051bde2d3.jpg]]
@@ -382,7 +382,7 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     
     
-    ](https://www.investopedia.com/ask/answers/042115/what-caused-black-monday-stock-market-crash-1987.asp)
+    ](https://www.investopedia.com/ask/answers/042115/what-caused-black-monday-[[Stock|stock]]-market-crash-1987.asp)
 -   [
     
     ![[International Markets/GettyImages-748344213-e50a8b970a57446fb19beed9757f65f8.jpg]]
@@ -396,25 +396,25 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/141251781-5bfc2b9646e0fb00517be167.jpg]]
     
-    An Introduction to the Indian Stock Market
+    An Introduction to the Indian [[Stock]] Market
     
     
     
-    ](https://www.investopedia.com/articles/stocks/09/indian-stock-market.asp)
+    ](https://www.investopedia.com/articles/[[Stocks|stocks]]/09/indian-[[Stock|stock]]-market.asp)
 -   [
     
     ![[International Markets/globe-868846_1920-f5b05aa505e842efbad93d4d9afb8be9.jpg]]
     
-    Foreign Portfolio vs. Foreign Direct Investment: What's the Difference?
+    Foreign [[Portfolio]] vs. Foreign [[Direct Investment]]: What's the Difference?
     
     
     
-    ](https://www.investopedia.com/ask/answers/060115/what-difference-between-foreign-portfolio-investment-and-foreign-direct-investment.asp)
+    ](https://www.investopedia.com/ask/answers/060115/what-difference-between-foreign-[[Portfolio|portfolio]]-investment-and-foreign-direct-investment.asp)
 -   [
     
     ![[International Markets/141251781-5bfc2b9646e0fb00517be167.jpg]]
     
-    Foreign Institutional Investor (FII)
+    [[Foreign Institutional Investor (FII)]]
     
     
     
@@ -423,16 +423,16 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/GettyImages-958697508-f904540f56bc4fa1b0e2499af69f8c98.jpg]]
     
-    5G Technology: Which Country Will Be the First to Adapt?
+    5G Technology: Which Country [[Will]] Be the First to Adapt?
     
     
     
-    ](https://www.investopedia.com/articles/markets-economy/090916/5g-technology-which-country-will-be-first-adapt.asp)
+    ](https://www.investopedia.com/articles/markets-economy/090916/5g-technology-which-country-[[Will|will]]-be-first-adapt.asp)
 -   [
     
     ![[International Markets/138014825-5bfc2b9c46e0fb00260b2621.jpg]]
     
-    Asian Financial Crisis Definition
+    Asian [[Financial Crisis]] Definition
     
     
     
@@ -441,7 +441,7 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/maps-of-countries-in-middle-east-121043151-7ea63697f0a048c4b8d8d904365e7706.jpg]]
     
-    Middle East and North Africa (MENA)
+    [[Middle East and North Africa (MENA)]]
     
     
     
@@ -477,7 +477,7 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/investing10-5bfc2b90c9e77c00517fd2ef.jpg]]
     
-    Guilder Share (New York Share)
+    [[Guilder Share (New York Share)]]
     
     
     
@@ -486,7 +486,7 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/investing19-5bfc2b8f4cedfd0026c1194c.jpg]]
     
-    The Great Recession Definition
+    [[The Great Recession Definition]]
     
     
     
@@ -495,7 +495,7 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/GettyImages-485338515-bbc281a573a64bc2b722fd3dbbc72673.jpg]]
     
-    Europe, Middle East, and Africa (EMEA) Definition
+    [[Europe, Middle East, and Africa (EMEA) Definition]]
     
     
     
@@ -504,16 +504,16 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/GettyImages-89018275-04bbc30e8a4e41479845170080b641cd.jpg]]
     
-    Foreign Portfolio Investment (FPI) Definition
+    Foreign [[Portfolio]] Investment (FPI) Definition
     
     
     
-    ](https://www.investopedia.com/terms/f/foreign-portfolio-investment-fpi.asp)
+    ](https://www.investopedia.com/terms/f/foreign-[[Portfolio|portfolio]]-investment-fpi.asp)
 -   [
     
     ![[International Markets/multicurrency-background-of-us-dollars--russian-rubles--belarusian-rubles--egyptian-pounds-and-ukrainian-hryvnias-1138544748-8de6fd3e8b5e40caad15839f633f86a2.jpg]]
     
-    Global Depositary Receipt (GDR)
+    [[Global Depositary Receipt (GDR)]]
     
     
     
@@ -589,22 +589,22 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     
     
-    ](https://www.investopedia.com/articles/economics/09/factors-drive-investment-in-china.asp)
+    ](https://www.investopedia.com/articles/[[Economics|economics]]/09/factors-drive-investment-in-china.asp)
 -   [
     
     ![[International Markets/stockboard489973643-5bfc2b5bc9e77c0026b4f0cd.jpg]]
     
-    BATX Stocks Definition
+    BATX [[Stocks]] Definition
     
     
     
-    ](https://www.investopedia.com/terms/b/batx-stocks.asp)
+    ](https://www.investopedia.com/terms/b/batx-[[Stocks|stocks]].asp)
 -   [
     
     ![[International Markets/bonds-lrg-5bfc2b234cedfd0026c104e7.jpg]]
     
-    The Birth of Stock Exchanges
+    The Birth of [[Stock]] Exchanges
     
     
     
-    ](https://www.investopedia.com/articles/07/stock-exchange-history.asp)
+    ](https://www.investopedia.com/articles/07/[[Stock|stock]]-exchange-history.asp)

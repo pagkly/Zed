@@ -13,7 +13,7 @@ author: Jake Frankenfield
 
 ---
 
-Hyperledger Explorer Definition
+[[Hyperledger Explorer Definition]]
 ## What Is Hyperledger Explorer?
 
 Hyperledger Explorer is an open source [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp) utility module that allows users to create a user-friendly web-based application, with which a user can view, initiate, organize or query various artifacts and developments that form an integral part of the blockchain network. It is to be used specifically on deployments of blockchains created using the Hyperledger umbrella.
@@ -34,7 +34,7 @@ Since all such raw blockchain data is usually in a format that is difficult to r
 
 ## How Hyperledger Explorer Works
 
-Its architecture includes a web server that runs in the backend and is responsible for interacting with all other components and maintaining the necessary query-server response. The web sockets are used to communicate between the server and the various client components of Hyperledger Explorer. A RethinkDB database is used to store the necessary details about blockchain components like information about blocks, transactions, and smart contracts, and this can be queried for any necessary information. A security repository takes care of ensuring only secure and authorized access is maintained for accessing the Hyperledger Explorer.
+Its architecture includes a web server that runs in the backend and is responsible for interacting with all other components and maintaining the necessary query-server response. The web sockets are used to communicate between the server and the various client components of Hyperledger Explorer. A RethinkDB database is used to store the necessary details about blockchain components like information about blocks, transactions, and smart contracts, and this can be queried for any necessary information. A [[Security|security]] repository takes care of ensuring only secure and authorized access is maintained for accessing the Hyperledger Explorer.
 
 Hyperledger Explorer allows for a unified enterprise-level visualization, which may be needed in real-time by a blockchain developer developing a particular feature or component on the blockchain, or by a researcher seeking to study historical developments, or by blockchain operators who are responsible for managing the blockchain, or by top management.
 

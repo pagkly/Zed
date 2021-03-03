@@ -13,7 +13,7 @@ author: Jake Frankenfield
 
 ---
 
-Hyperledger Definition
+[[Hyperledger Definition]]
 ## What Is Hyperledger?
 
 Hyperledger is a global enterprise blockchain project that offers the necessary framework, standards, guidelines, and tools to build [[open source]](https://www.investopedia.com/terms/o/open-source.asp) [[blockchains]](https://www.investopedia.com/terms/b/blockchain.asp) and related applications for use across various industries. Hyperledger's projects include a variety of enterprise-ready permissioned blockchain platforms, where network participants are known to one another and therefore have an intrinsic interest in participating in the consensus-making process.
@@ -23,8 +23,8 @@ Using the available components under the Hyperledger umbrella, a business can ap
 ### Key Takeaways
 
 -   Hyperledger is an open source community focused on developing a suite of stable frameworks, tools, and libraries for permissioned, enterprise-grade blockchain deployments.
--   It is a global collaboration, hosted by The Linux Foundation, and includes member organizations that are leaders in finance, banking, Internet of Things, supply chains, manufacturing, and technology.
--   Several sub-projects exist, including Hyperledger Fabric, Sawtooth, Composer, and Cello.
+-   It is a global collaboration, hosted by The Linux Foundation, and includes member organizations that are leaders in [[Finance|finance]], banking, Internet of Things, [[Supply|supply]] chains, [[Manufacturing|manufacturing]], and technology.
+-   Several sub-projects exist, including [[Hyperledger Fabric]], Sawtooth, Composer, and Cello.
 
 ## Understanding Hyperledger
 
@@ -32,22 +32,22 @@ The Hyperledger project was created in December 2015 by the San Francisco, Calif
 
 Hyperledger was set up with the aim of accelerating industry-wide collaboration for developing high-performance and reliable blockchain and distributed ledger-based technology framework that could be used across the various industry sectors to enhance the efficiency, performance, and transactions of the various business processes.
 
-Hyperledger is a global collaboration that includes leading businesses from the fields of finance, banking, [[Internet of Things (IoT)]](https://www.investopedia.com/terms/i/internet-things.asp), [[supply chain management]](https://www.investopedia.com/terms/s/scm.asp), manufacturing and production, and technology. They include big names like Bosch, Daimler, IBM, Samsung, Microsoft, Hitachi, American Express, JP Morgan, and Visa, in addition to a host of blockchain-based startups like Blockforce and ConsenSys.2
+Hyperledger is a global collaboration that includes leading businesses from the fields of [[Finance|finance]], banking, [[Internet of Things (IoT)]](https://www.investopedia.com/terms/i/internet-things.asp), [[supply chain management]](https://www.investopedia.com/terms/s/scm.asp), [[Manufacturing|manufacturing]] and production, and technology. They include big names like Bosch, Daimler, IBM, Samsung, Microsoft, Hitachi, American Express, JP Morgan, and Visa, in addition to a host of blockchain-based startups like Blockforce and ConsenSys.2
 
 ## Hyperledger's Organizational Structure
 
-Essentially, Hyperledger is not an organization, a cryptocurrency network, or a blockchain system. It does not support a cryptocurrency like bitcoin, but it works by providing the necessary infrastructure and standards for developing various blockchain-based systems and applications for industrial use. Think of Hyperledger as a hub, where various individual blockchain-based projects and tools that adhere to its defined design philosophy operate under its umbrella.
+Essentially, Hyperledger is not an organization, a [[Cryptocurrency|cryptocurrency]] network, or a blockchain system. It does not support a cryptocurrency like bitcoin, but it works by providing the necessary infrastructure and standards for developing various blockchain-based systems and applications for industrial use. Think of Hyperledger as a hub, where various individual blockchain-based projects and tools that adhere to its defined design philosophy operate under its umbrella.
 
 The various projects include the following:
 
 -   [[Hyperledger Fabric]](https://www.investopedia.com/terms/h/hyperledger-fabric.asp) is a platform for building various blockchain-based products, solutions, and applications for business use.3
 -   Hyperledger Cello allows blockchain to be used through an on-demand “as-a-service” deployment model (Blockchain-as-a-Service).4
 -   [[Hyperledger Explorer]](https://www.investopedia.com/terms/h/hyperledger-explorer.asp) is a dashboard utility that allows for the monitoring, searching, and maintenance of blockchain developments and related data.5
--   [[Hyperledger Burrow]](https://www.investopedia.com/terms/h/hyperledger-burrow.asp) is a permissioned [[Ethereum]](https://www.investopedia.com/terms/e/ethereum.asp) [[smart contract]](https://www.investopedia.com/terms/s/smart-contracts.asp) blockchain node that handles transactions and executes smart contract code on the Ethereum Virtual Machine (EVM).6
--   [[Hyperledger Sawtooth]](https://www.investopedia.com/terms/h/hyperledger-sawtooth.asp) is an enterprise-level, permissioned, modular blockchain platform that uses an innovative [[Proof of Elapsed Time]](https://www.investopedia.com/terms/p/proof-elapsed-time-cryptocurrency.asp) [[consensus algorithm]](https://www.investopedia.com/terms/c/consensus-mechanism-cryptocurrency.asp).7
+-   [[Hyperledger Burrow]](https://www.investopedia.com/terms/h/hyperledger-burrow.asp) is a permissioned [[Ethereum]](https://www.investopedia.com/terms/e/[[Ethereum|ethereum]].asp) [[smart contract]](https://www.investopedia.com/terms/s/smart-contracts.asp) blockchain node that handles transactions and executes smart contract code on the Ethereum Virtual Machine (EVM).6
+-   [[Hyperledger Sawtooth]](https://www.investopedia.com/terms/h/hyperledger-sawtooth.asp) is an enterprise-level, permissioned, modular blockchain platform that uses an innovative [[Proof of Elapsed Time]](https://www.investopedia.com/terms/p/proof-elapsed-time-[[Cryptocurrency|cryptocurrency]].asp) [[consensus algorithm]](https://www.investopedia.com/terms/c/consensus-mechanism-cryptocurrency.asp).7
 -   Hyperledger Caliper is a blockchain benchmark tool that is used to evaluate the performance of a specific blockchain implementation.8
 
-All such projects under the Hyperledger umbrella follow the design methodology that supports a modular and extensible approach, interoperability, and security features. The projects remain agnostic to a particular token or cryptocurrency, though a user can create one as required.
+All such projects under the Hyperledger umbrella follow the design methodology that supports a modular and extensible approach, interoperability, and [[Security|security]] features. The projects remain agnostic to a particular token or [[Cryptocurrency|cryptocurrency]], though a user can create one as required.
 
 ## Hyperledger Technology Layers
 

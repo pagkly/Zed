@@ -13,7 +13,7 @@ author: Adam Hayes
 
 ---
 
-How the Wilcoxon Test Is Used
+[[How the Wilcoxon Test Is Used]]
 ## What Is the Wilcoxon Test?
 
 The Wilcoxon test, which can refer to either the Rank Sum test or the Signed Rank test version, is a nonparametric statistical test that compares two paired groups. The tests essentially calculate the difference between sets of pairs and analyzes these differences to establish if they are [[statistically significantly]](https://www.investopedia.com/terms/s/statistical-significance.asp) different from one another.
@@ -33,7 +33,7 @@ The types of questions that the Wilcoxon Test can help us answer include things 
 -   Are test scores different from 5th grade to 5th grade for the same students?
 -   Does a particular drug have an effect on health when tested on the same individuals?
 
-These models assume that the data comes from two matched, or dependent, populations, following the same person or stock through time or place. The data is also assumed to be continuous as opposed to discrete. Because it is a non-parametric test it does not require a particular probability distribution of the dependent variable in the analysis.
+These models assume that the data comes from two matched, or dependent, populations, following the same person or [[Stock|stock]] through time or place. The data is also assumed to be continuous as opposed to discrete. Because it is a non-parametric test it does not require a particular probability distribution of the dependent variable in the analysis.
 
 ## Versions of the Wilcoxon Test
 

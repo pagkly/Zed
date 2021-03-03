@@ -13,7 +13,7 @@ author: Marshall Hargrave
 
 ---
 
-How to Use the Winsorized Mean
+[[How to Use the Winsorized Mean]]
 ## What Is the Winsorized Mean?
 
 Winsorized mean is a method of averaging that initially replaces the smallest and largest values with the observations closest to them. This is done to limit the effect of abnormal extreme values, or outliers, on the calculation. After replacing the values, [[arithmetic mean]](https://www.investopedia.com/terms/a/arithmeticmean.asp) formula is then used to calculate the winsorized mean.
@@ -30,7 +30,7 @@ The winsorized mean is calculated by replacing the smallest and largest data poi
 
 ## What Does the Winsorized Mean Tell You?
 
-The winsorized mean is less sensitive to outliers because it can replace them with less extreme values. That is, it is less susceptible to outlines versus the [[mean]](https://www.investopedia.com/terms/m/mean.asp). However, if a distribution has fat tails, the effect of removing the highest and lowest values in the distribution will have little influence because of the high number of variability in the [[distribution]](https://www.investopedia.com/terms/d/distribution.asp) figures.
+The winsorized mean is less sensitive to outliers because it can replace them with less extreme values. That is, it is less susceptible to outlines versus the [[mean]](https://www.investopedia.com/terms/m/mean.asp). However, if a distribution has fat tails, the effect of removing the highest and lowest values in the distribution [[Will|will]] have little influence because of the high number of variability in the [[distribution]](https://www.investopedia.com/terms/d/distribution.asp) figures.
 
 ### Key Takeaways
 
@@ -44,7 +44,7 @@ One can calculate the winsorized mean for the following data set: 1, 5, 7, 8, 9,
 
 The dataset now appears as follows: 5, 5, 7, 8, 9, 10, 10. Taking an arithmetic average of the new set produces a winsorized mean of 7.7, or (5 + 5 + 7 + 8 + 9 + 10 + 10) divided by 7.
 
-Or consider a 20% winsorized mean that takes the top 10% and bottom 10% and replaces them with their next closest value. We will winsorize the following data set: 2, 4, 7, 8, 11, 14, 18, 23, 23, 27, 35, 40, 49, 50, 55, 60, 61, 61, 62, 75. The two smallest and largest data points, or 10%, will be replaced with their next closest value. Thus, the new data set is: 7, 7, 7, 8, 11, 14, 18, 23, 23, 27, 35, 40, 49, 50, 55, 60, 61, 61, 61, 61. The winsorized mean is 33.9, or the total of the data (678) divided by the total number of data points (20).
+Or consider a 20% winsorized mean that takes the top 10% and bottom 10% and replaces them with their next closest value. We [[Will|will]] winsorize the following data set: 2, 4, 7, 8, 11, 14, 18, 23, 23, 27, 35, 40, 49, 50, 55, 60, 61, 61, 62, 75. The two smallest and largest data points, or 10%, will be replaced with their next closest value. Thus, the new data set is: 7, 7, 7, 8, 11, 14, 18, 23, 23, 27, 35, 40, 49, 50, 55, 60, 61, 61, 61, 61. The winsorized mean is 33.9, or the total of the data (678) divided by the total number of data points (20).
 
 ## The Difference Between Winsorized Mean and Trimmed Mean
 

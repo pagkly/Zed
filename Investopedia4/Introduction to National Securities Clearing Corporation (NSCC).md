@@ -6,31 +6,31 @@ source: https://www.investopedia.com/terms/n/nscc.asp
 author: James Chen
 ---
 
-# Introduction to National Securities Clearing Corporation (NSCC) Definition
+# [[Introduction to National Securities Clearing Corporation (NSCC)]] Definition
 
 > ## Excerpt
 > National Securities Clearing Corporation provides many services to the financial industry.
 
 ---
 
-Introduction to National Securities Clearing Corporation (NSCC)
+[[Introduction to National Securities Clearing Corporation (NSCC)]]
 ## What Is a National Securities Clearing Corporation?
 
-National Securities Clearing Corporation (NSCC) is a subsidiary of Depository Trust & Clearing Corporation (DTCC) that provides centralized clearing, risk management, information, and settlement services to the financial industry.
+National Securities Clearing Corporation (NSCC) is a subsidiary of Depository Trust & Clearing Corporation (DTCC) that provides centralized clearing, [[Risk|risk]] management, information, and settlement services to the financial industry.
 
 The NSCC offers multilateral netting so that brokers can offset buy and sell positions into a single payment obligation. This reduces their financial exposure and [[capital requirements]](https://www.investopedia.com/terms/c/capitalrequirement.asp).
 
 ## How the National Securities Clearing Corporation (NSCC) Works
 
-The National Securities Clearing Corporation was established in 1976 and is a registered clearing corporation, regulated by the U.S. Securities and Exchange Commission (SEC).
+The National Securities Clearing Corporation was established in 1976 and is a registered clearing corporation, regulated by the U.S. [[Securities and Exchange Commission (SEC)]].
 
-Before its inception, strong demand for paper stock certificates had become nearly overwhelming for many [[stock brokerages]](https://www.investopedia.com/terms/s/stockbroker.asp), causing the stock exchanges to close once a week.
+Before its inception, strong demand for paper [[Stock|stock]] certificates had become nearly overwhelming for many [[stock brokerages]](https://www.investopedia.com/terms/s/stockbroker.asp), causing the stock exchanges to close once a week.
 
 ### Key Takeaways
 
 -   National Securities Clearing Corporation (NSCC) founded in 1976 is a subsidiary of Depository Trust & Clearing Corporation (DTCC).
 -   The NSCC operates as a seller for every buyer, and buyer for every seller in the financial industry for trades that settle in U.S. markets.
--   The organization provides settlement services to the financial industry, along with risk management, information, and centralized clearing.
+-   The organization provides settlement services to the financial industry, along with [[Risk|risk]] management, information, and centralized clearing.
 -   The NSCC offers multilateral netting allowing brokers to offset buy and sell positions into a single payment obligation.
 
 To overcome this problem, multilateral netting was proposed. This is an arrangement among multiple parties to sum transactions in a centralized area, rather than settle them individually. This helps avoid the need for multiple invoicing and payment settlements among various parties.

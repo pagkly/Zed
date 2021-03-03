@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/h/html.asp
 author: Adam Hayes
 ---
 
-# HyperText Markup Language – HTML Definition
+# [[HyperText Markup Language – HTML]] Definition
 
 > ## Excerpt
 > Hypertext Markup Language (HTML) is the set of markup symbols or codes used to display on the Internet. The markup tells web browsers how to display a web page's words and images.
 
 ---
 
-HyperText Markup Language – HTML
+[[HyperText Markup Language – HTML]]
 ## What Is HyperText Markup Language (HTML)?
 
 HyperText Markup Language (HTML) is the set of markup symbols or codes inserted into a file intended for display on the Internet. The markup tells web browsers how to display a web page's words and images.
@@ -24,7 +24,7 @@ Each individual piece markup code (which would fall between "<" and ">" characte
 
 -   HyperText Markup Language (HTML) is the basic scripting language used by web browsers to render pages on the world wide web.
 -   HyperText allows a user to click a link and be redirected to a new page referenced by that link.
--   Early versions of HTML were static (Web 1.0), while newer iterations feature a great deal of dynamic flexibility (Web 2.0, 3.0).
+-   Early versions of HTML were static (Web 1.0), while newer iterations feature a great deal of dynamic flexibility ([[Web 2.0]], 3.0).
 -   Markup is the text that appears between two pointed brackets (e.g., <footnote>), and content is everything else.
 
 ## HTML Explained

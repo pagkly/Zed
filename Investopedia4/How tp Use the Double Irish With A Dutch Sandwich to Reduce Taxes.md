@@ -13,15 +13,15 @@ author: Chris B. Murphy
 
 ---
 
-How tp Use the Double Irish With A Dutch Sandwich to Reduce Taxes
+[[How tp Use the Double Irish With A Dutch Sandwich to Reduce Taxes]]
 ## What Is the Double Irish With a Dutch Sandwich?
 
-The double Irish with a Dutch sandwich is a tax avoidance technique employed by certain large corporations, involving the use of a combination of Irish and Dutch subsidiary companies to shift profits to low or no-tax jurisdictions. The technique has made it possible for certain corporations to reduce their overall corporate tax rates dramatically.
+The double Irish with a Dutch sandwich is a tax avoidance technique employed by certain large corporations, involving the use of a combination of Irish and Dutch subsidiary companies to shift profits to low or no-tax jurisdictions. The technique has made it possible for certain corporations to reduce their overall [[Corporate Tax|corporate tax]] rates dramatically.
 
 ### Key Takeaways
 
 -   The double Irish with a Dutch sandwich is a tax avoidance technique employed by certain large corporations.
--   The scheme involves sending profits first through one Irish company, then to a Dutch company and finally to a second Irish company headquartered in a tax haven.
+-   The scheme involves sending profits first through one Irish company, then to a Dutch company and finally to a second Irish company headquartered in a [[Tax Haven|tax haven]].
 -   The legislation passed in Ireland in 2015 ends the use of the tax scheme for new tax plans. Companies with established structures were able to benefit from the old system until 2020.
 
 ## Understanding Double Irish With a Dutch Sandwich
@@ -30,17 +30,17 @@ The double Irish with a Dutch sandwich is just one of a class of similar interna
 
 These techniques are most prominently used by tech companies because these firms can easily shift large portions of profits to other countries by assigning intellectual property rights to subsidiaries abroad.
 
-The double Irish with a Dutch sandwich is generally considered to be an aggressive tax planning strategy used by some of the world's largest corporations. In 2014, it came under heavy scrutiny, especially from the U.S. and the European Union, when it was discovered that this technique facilitated the transfer of several billion dollars annually tax-free to [[tax havens]](https://www.investopedia.com/terms/t/taxhaven.asp).
+The double Irish with a Dutch sandwich is generally considered to be an aggressive [[Tax Planning|tax planning]] strategy used by some of the world's largest corporations. In 2014, it came under heavy scrutiny, especially from the U.S. and the European Union, when it was discovered that this technique facilitated the transfer of several billion dollars annually tax-free to [[tax havens]](https://www.investopedia.com/terms/t/taxhaven.asp).
 
 ## Special Considerations
 
-Due largely to international pressure and the publicity surrounding the use of double Irish with a Dutch sandwich, the Irish finance minister passed measures to close the loopholes in the 2015 budget. The legislation effectively ends the use of the tax scheme for new tax plans. Companies with established structures were able to benefit from the old system until 2020.
+Due largely to international pressure and the publicity surrounding the use of double Irish with a Dutch sandwich, the Irish [[Finance|finance]] minister passed measures to close the loopholes in the 2015 budget. The legislation effectively ends the use of the tax scheme for new tax plans. Companies with established structures were able to benefit from the old system until 2020.
 
 ## Requirements for Double Irish With a Dutch Sandwich
 
-The first Irish company would receive large royalties from sales sold to U.S. consumers. The U.S. profits and therefore taxes are dramatically lowered and the Irish taxes on the royalties are very low. Due to a loophole in Irish laws, the company can then transfer its profits tax-free to the [[offshore company]](https://www.investopedia.com/terms/o/offshore.asp), where they can remain untaxed for years.
+The first Irish company would receive large royalties from sales sold to U.S. consumers. The U.S. profits and therefore taxes are dramatically lowered and the Irish taxes on the royalties are very low. Due to a [[Loophole|loophole]] in Irish laws, the company can then transfer its profits tax-free to the [[offshore company]](https://www.investopedia.com/terms/o/offshore.asp), where they can remain untaxed for years.
 
-The second Irish company is used for sales to European customers. It is also taxed at a low rate and can send its profits to the first Irish company using a Dutch company as an intermediary. If done right, there is no tax paid anywhere. The first Irish company now has all the money and can again send it onward to the company in the tax haven.
+The second Irish company is used for sales to European customers. It is also taxed at a low rate and can send its profits to the first Irish company using a Dutch company as an intermediary. If done right, there is no tax paid anywhere. The first Irish company now has all the money and can again send it onward to the company in the [[Tax Haven|tax haven]].
 
 ## Example of the Double Irish With a Dutch Sandwich
 

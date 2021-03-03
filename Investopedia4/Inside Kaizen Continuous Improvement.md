@@ -16,13 +16,13 @@ author: Marshall Hargrave
 Inside Kaizen: Continuous Improvement
 ## What Is Kaizen?
 
-Kaizen is a Japanese term meaning "change for the better" or "continuous improvement." It is a Japanese business philosophy regarding the processes that continuously [[improve operations]](https://www.investopedia.com/terms/o/operations-management.asp) and involve all employees. Kaizen sees improvement in productivity as a gradual and methodical process.
+Kaizen is a Japanese term meaning "change for the better" or "continuous improvement." It is a Japanese business philosophy regarding the processes that continuously [[improve operations]](https://www.investopedia.com/terms/o/operations-management.asp) and involve all employees. Kaizen sees improvement in [[Productivity|productivity]] as a gradual and methodical process.
 
 The concept of kaizen encompasses a wide range of ideas. It involves making the work environment more efficient and effective by creating a team atmosphere, improving everyday procedures, ensuring [[employee engagement]](https://www.investopedia.com/terms/e/employee-engagement.asp), and making a job more fulfilling, less tiring, and safer.
 
 ### Key Takeaways
 
--   Kaizen is a Japanese business philosophy that focuses on gradually improving productivity by involving all employees and by making the work environment more efficient.
+-   Kaizen is a Japanese business philosophy that focuses on gradually improving [[Productivity|productivity]] by involving all employees and by making the work environment more efficient.
 -   Kaizen translates to "change for the better" or "continuous improvement."
 -   The small changes used in kaizen can involve quality control, just-in-time delivery, standardized work, the use of efficient equipment, and the elimination of waste.
 -   Changes can come from any employee anytime and don’t have to happen slowly, although kaizen recognizes that small changes now can have big future impacts.

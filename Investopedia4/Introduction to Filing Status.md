@@ -6,27 +6,27 @@ source: https://www.investopedia.com/terms/f/filingstatus.asp
 author: Julia Kagan
 ---
 
-# Introduction to Filing Status
+# [[Introduction to Filing Status]]
 
 > ## Excerpt
-> Filing status is a category that defines the type of tax return form a taxpayer must use when filing his or her taxes. Filing status is tied to marital status.
+> Filing status is a category that defines the type of [[Tax Return|tax return]] form a [[Taxpayer|taxpayer]] must use when filing his or her taxes. Filing status is tied to marital status.
 
 ---
 
-Introduction to Filing Status
+[[Introduction to Filing Status]]
 ## What Does Filing Status Mean?
 
-Filing status is a category that defines the type of tax return form a taxpayer must use when filing his or her taxes. Filing status is closely tied to marital status.1
+Filing status is a category that defines the type of [[Tax Return|tax return]] form a [[Taxpayer|taxpayer]] must use when filing his or her taxes. Filing status is closely tied to marital status.1
 
 ## Understanding Filing Status
 
-The filing status is important because an individual's tax bracket (and, therefore, the amount they must pay) is determined by marital status, the number of children, occupation, and several other factors. You must file your status honestly, or it will be considered fraudulent and penalties will be assessed.
+The filing status is important because an individual's tax bracket (and, therefore, the amount they must pay) is determined by marital status, the number of children, occupation, and several other factors. You must file your status honestly, or it [[Will|will]] be considered fraudulent and penalties will be assessed.
 
-For federal income tax purposes, a [[taxpayer]](https://www.investopedia.com/terms/t/taxpayer.asp) falls into one of five categories: single, [[married filing jointly]](https://www.investopedia.com/terms/m/mfj.asp), married filing separately, head of household, and qualifying widow(er) with dependent children.2
+For federal income tax purposes, a [[taxpayer]](https://www.investopedia.com/terms/t/[[Taxpayer|taxpayer]].asp) falls into one of five categories: single, [[married filing jointly]](https://www.investopedia.com/terms/m/mfj.asp), [[Married Filing Separately|married filing separately]], head of household, and qualifying widow(er) with dependent children.2
 
 ## Single Filer
 
-A [[single filer]](https://www.investopedia.com/terms/s/single.asp) is a taxpayer that is unmarried, divorced, a registered domestic partner, or legally separated according to state law as of the last day of the tax year.3 4 The head of a household or a person who is widowed does not fall under the "single" category for tax purposes.5 Single filers have lower income limits for most exemptions.6
+A [[single filer]](https://www.investopedia.com/terms/s/single.asp) is a [[Taxpayer|taxpayer]] that is unmarried, divorced, a registered domestic partner, or legally separated according to state law as of the last day of the tax year.3 4 The head of a household or a person who is widowed does not fall under the "single" category for tax purposes.5 Single filers have lower income limits for most exemptions.6
 
 For Tax Year 2020 (Tax Year 2021)
 
@@ -36,7 +36,7 @@ For Tax Year 2020 (Tax Year 2021)
 
  
 
-**Income Range for Single Taxpayer**
+**Income Range for Single [[Taxpayer]]**
 
  
 
@@ -96,7 +96,7 @@ Over $518,400 (Over $523,600)
 
  
 
-Standard Deduction
+[[Standard Deduction]]
 
  
 
@@ -104,7 +104,7 @@ $12,400 ($12,550)
 
 ## Married Person Filing Jointly or Surviving Spouse
 
-An individual that is married by the end of the tax year can file his or her tax returns jointly with his or her spouse. When filing under married filing jointly status, couples can record their respective incomes, [[exemptions]](https://www.investopedia.com/terms/p/personal-exemption.asp), and [[deductions]](https://www.investopedia.com/terms/t/tax-deduction.asp) on the same tax return. A joint tax return will often provide a bigger tax refund or a lower [[tax liability]](https://www.investopedia.com/terms/t/taxliability.asp).7
+An individual that is married by the end of the tax year can file his or her tax returns jointly with his or her spouse. When filing under married filing jointly status, couples can record their respective incomes, [[exemptions]](https://www.investopedia.com/terms/p/personal-exemption.asp), and [[deductions]](https://www.investopedia.com/terms/t/tax-deduction.asp) on the same [[Tax Return|tax return]]. A [[Joint|joint]] tax [[Return|return]] [[Will|will]] often provide a bigger tax refund or a lower [[tax liability]](https://www.investopedia.com/terms/t/taxliability.asp).7
 
 For Tax Year 2020 (Tax Year 2021)
 
@@ -114,7 +114,7 @@ For Tax Year 2020 (Tax Year 2021)
 
  
 
-**Income Range for Taxpayer who is Married Filing Jointly**
+**Income Range for [[Taxpayer]] who is Married Filing Jointly**
 
  
 
@@ -174,7 +174,7 @@ Over $622,050 (Over $628,300)
 
  
 
-Standard Deduction
+[[Standard Deduction]]
 
  
 
@@ -184,7 +184,7 @@ Married filing jointly is best if only one spouse has a significant income. If b
 
 ## Head of Household
 
-A [[head of household]](https://www.investopedia.com/terms/h/head_of_household.asp) is a single or unmarried taxpayer who pays at least 50% of the costs of supporting their household and lives with other [[qualifying family members]](https://www.investopedia.com/terms/m/memberofhousehold.asp) for whom they provide support for more than half of the year. This means that the taxpayer must have paid more than half of the total household bills, including rent or mortgage, utility bills, insurance, property taxes, groceries, repairs, and other common household expenses. Some examples of qualifying family members include a dependent child, grandchild, brother, sister, grandparent, or anyone else you can claim as an exemption.5
+A [[head of household]](https://www.investopedia.com/terms/h/head_of_household.asp) is a single or unmarried [[Taxpayer|taxpayer]] who pays at least 50% of the costs of supporting their household and lives with other [[qualifying family members]](https://www.investopedia.com/terms/m/memberofhousehold.asp) for whom they provide support for more than half of the year. This means that the taxpayer must have paid more than half of the total household bills, including rent or mortgage, utility bills, insurance, property taxes, groceries, repairs, and other common [[Household Expenses|household expenses]]. Some examples of qualifying family members include a dependent child, grandchild, brother, sister, grandparent, or anyone else you can claim as an exemption.5
 
 Head of households benefits from a lower tax rate.8
 
@@ -196,7 +196,7 @@ For Tax Year 2020 (Tax Year 2021)
 
  
 
-**Income Range for Taxpayer filing as the Head of Household**
+**Income Range for [[Taxpayer]] filing as the Head of Household**
 
  
 
@@ -256,7 +256,7 @@ Over $518,401 (Over $523,600)
 
  
 
-Standard Deduction
+[[Standard Deduction]]
 
  
 
@@ -264,6 +264,6 @@ $18,650 ($18,800)
 
 ## Qualifying Widow(er) With Dependent Child
 
-During the year in which a spouse dies, the surviving spouse can typically use the joint filing status. For the two tax years following the year of a spouse's death, the surviving spouse can file as a [[qualifying widow or widower]](https://www.investopedia.com/terms/q/qualifying-widow.asp). While the surviving spouse cannot continue to claim an exemption for the deceased spouse, s/he may claim the standard deduction for a married couple filing jointly.9
+During the year in which a spouse dies, the surviving spouse can typically use the [[Joint|joint]] filing status. For the two tax years following the year of a spouse's death, the surviving spouse can file as a [[qualifying widow or widower]](https://www.investopedia.com/terms/q/qualifying-widow.asp). While the surviving spouse cannot continue to claim an exemption for the deceased spouse, s/he may claim the [[Standard Deduction|standard deduction]] for a married couple filing jointly.9
 
 The tax bracket and income range for widow(ers) is the same as that for married filing jointly.10

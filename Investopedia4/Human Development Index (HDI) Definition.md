@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/h/human-development-index-hdi.asp
 author: Investopedia Staff
 ---
 
-# Human Development Index (HDI) Definition
+# [[Human Development Index (HDI) Definition]]
 
 > ## Excerpt
 > The Human Development Index (HDI) is a tool developed by the United Nations to measure and rank countries' levels of social and economic development.
 
 ---
 
-Human Development Index (HDI) Definition
+[[Human Development Index (HDI) Definition]]
 ## What Is the Human Development Index (HDI)
 
-The Human Development Index (HDI) is a statistic developed and compiled by the United Nations to measure and various countries' levels of social and economic development. It is composed of four principal areas of interest: mean years of schooling expected years of schooling, [[life expectancy]](https://www.investopedia.com/terms/l/lifeexpectancy.asp) at birth, and gross national [[income per capita]](https://www.investopedia.com/terms/i/income-per-capita.asp). This index is a tool used to follow changes in development levels over time and to compare the development levels of different countries.1
+The Human Development Index (HDI) is a statistic developed and compiled by the United Nations to measure and various countries' levels of social and economic development. It is composed of four [[Principal|principal]] areas of interest: mean years of schooling expected years of schooling, [[life expectancy]](https://www.investopedia.com/terms/l/lifeexpectancy.asp) at birth, and gross national [[income per capita]](https://www.investopedia.com/terms/i/income-per-capita.asp). This index is a tool used to follow changes in development levels over time and to compare the development levels of different countries.1
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ This index can also be used to examine the various policy choices of nations; if
 
 The HDI is a summary measurement of basic achievement levels in human development. The computed HDI of a country is an average of indexes of each of the life aspects that are examined: knowledge and understanding, a long and healthy life, and an acceptable standard of living. Each of the four components is normalized to scale between 0 and 1, and then the geometric mean of the three components is calculated.2
 
-The health aspect of the HDI is measured by the life expectancy, as calculated at the time of birth, in each country, normalized so that this component is equal to 0 when life expectancy is 20 and equal to 1 when life expectancy is 85.2
+The health aspect of the HDI is measured by the [[Life Expectancy|life expectancy]], as calculated at the time of birth, in each country, normalized so that this component is equal to 0 when life expectancy is 20 and equal to 1 when life expectancy is 85.2
 
 Education is measured on two levels: the mean years of schooling for residents of a country and the expected years of schooling that a child has at the average age for starting school. These are each separately normalized so that 15 mean years of schooling equals one, and 18 years of expected schooling equals one, and a simple mean of the two is calculated.2
 
@@ -44,10 +44,10 @@ The metric chosen to represent the standard of living is GNI per capita based on
 
 ## Limitations of the Index
 
-The HDI is a simplification and an admittedly limited evaluation of human development. The HDI does not specifically reflect quality-of-life factors, such as empowerment movements or overall feelings of security. In recognition of these facts, the Human Development Report Office (HDRO) provides additional composite indices to evaluate other life aspects, including inequality issues such as gender disparity or racial inequality.3 Examination and evaluation of a country's HDI are best done in concert with examining these and other factors, such as the country's rate of economic growth, expansion of employment opportunities, and the success of initiatives undertaken to improve the overall quality of life within a country.
+The HDI is a simplification and an admittedly limited evaluation of human development. The HDI does not specifically reflect quality-of-life factors, such as empowerment movements or overall feelings of [[Security|security]]. In recognition of these facts, the Human Development Report Office (HDRO) provides additional composite indices to evaluate other life aspects, including inequality issues such as gender disparity or racial inequality.3 Examination and evaluation of a country's HDI are best done in concert with examining these and other factors, such as the country's rate of economic growth, expansion of employment opportunities, and the success of initiatives undertaken to improve the overall quality of life within a country.
 
 Several economists have raised the criticism of the HDI that it is essentially redundant as a result of the high correlations between the HDI, its components, and simpler measures of income per capita. GNI per capita (or even GDP per capita) correlates very highly with both the overall HDI and the other two components in both values and rankings. Given these strong and consistent correlations, it would be simpler and clearer to just compare per capita GNI across countries than to spend time and resources collecting data for the additional components that provide little or no additional information to the overall index. 
 
-Indeed, a fundamental principle of the composite index design is to not include multiple additional components that are strongly correlated in a way that suggests that they might reflect the same underlying phenomenon. This is to prevent inefficient double counting and to avoid introducing additional sources of potential errors in the data.
+Indeed, a fundamental principle of the composite index design is to not include multiple additional components that are strongly correlated in a way that suggests that they might reflect the same [[Underlying|underlying]] phenomenon. This is to prevent inefficient double counting and to avoid introducing additional sources of potential errors in the data.
 
-In the case of HDI, the inclusion of the components is problematic because it is easily plausible that higher average incomes directly lead to both more investment in formal education and better health and longevity, and definitions and measurement of years of schooling and life expectancy can vary widely from country to country.
+In the case of HDI, the inclusion of the components is problematic because it is easily plausible that higher average incomes directly lead to both more investment in formal education and better health and longevity, and definitions and measurement of years of schooling and [[Life Expectancy|life expectancy]] can vary widely from country to country.

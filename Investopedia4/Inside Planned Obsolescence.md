@@ -3,27 +3,27 @@ alias: [Planned Obsolescence]
 created: 2021-03-02T22:44:55 (UTC +11:00)
 tags: [Planned Obsolescence Definition, Inside Planned Obsolescence]
 source: https://www.investopedia.com/terms/p/planned_obsolescence.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Planned Obsolescence Definition
 
 > ## Excerpt
-> Planned obsolescence is a purposeful strategy to ensure the current version of a product will become out of date or useless within a known time period.
+> Planned obsolescence is a purposeful strategy to ensure the current version of a product [[Will|will]] become out of date or useless within a known time period.
 
 ---
 
-Inside Planned Obsolescence
+[[Inside Planned Obsolescence]]
 ## What Is Planned Obsolescence?
 
-[Planned obsolescence](https://www.investopedia.com/articles/pf/07/disposablesociety.asp) describes a strategy of deliberately ensuring that the current version of a given product will become out of date or useless within a known time period. This proactive move guarantees that consumers will seek replacements in the future, thus bolstering demand.
+[Planned obsolescence](https://www.investopedia.com/articles/pf/07/disposablesociety.asp) describes a strategy of deliberately ensuring that the current version of a given product [[Will|will]] become out of date or useless within a known time period. This proactive move guarantees that consumers will seek replacements in the future, thus bolstering demand.
 
-Obsolescence can be achieved through introducing a superior replacement model, or by intentionally designing a product to cease proper function within a specific window. In either case, consumers will theoretically favor the next generational products over the old ones.
+Obsolescence can be achieved through introducing a superior replacement model, or by intentionally designing a product to cease proper function within a specific window. In either case, consumers [[Will|will]] theoretically favor the next generational products over the old ones.
 
 ### Key Takeaways
 
--   Planned obsolescence is the calculated act of making sure the existing version of a product will become dated or useless within a given time frame.
--   In technology circles, the replacement cycle for smartphones has historically been two to three years, as their underlying components wear down.
+-   Planned obsolescence is the calculated act of making sure the existing version of a product [[Will|will]] become dated or useless within a given time frame.
+-   In technology circles, the replacement cycle for smartphones has historically been two to three years, as their [[Underlying|underlying]] components wear down.
 -   In the clothing space, nylon stockings are likely to snag, snare, or run, thereby demanding replacement on a regular basis.
 
 ## Understanding Planned Obsolescence
@@ -42,7 +42,7 @@ Finally, planned obsolescence also affects automobile manufacturers, who annuall
 
 ### Consumer Reaction
 
-Consumers often react negatively to planned obsolescence, especially if new generations of products offer insufficient improvements over the prior versions. [[Brands]](https://www.investopedia.com/terms/b/brand.asp) can be tarnished by artificially stoking demand through this method, ultimately driving customers away.
+Consumers often react negatively to planned obsolescence, especially if new generations of products [[Offer|offer]] insufficient improvements over the prior versions. [[Brands]](https://www.investopedia.com/terms/b/brand.asp) can be tarnished by artificially stoking demand through this method, ultimately driving customers away.
 
 However, planned obsolescence doesn't always receive negative attention. Companies can engage in this activity solely as a means of controlling costs. For example, a cellphone manufacturer may decide to use parts in its phones that have a maximum lifespan of five years, instead of parts that could last 20 years.
 

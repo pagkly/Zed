@@ -9,14 +9,14 @@ author: Jake Frankenfield
 # Technology Sector Definition
 
 > ## Excerpt
-> The technology sector is a category of stocks relating to the research, development, and/or distribution of technologically based goods and services.
+> The technology sector is a category of [[Stocks|stocks]] relating to the research, development, and/or distribution of technologically based goods and services.
 
 ---
 
-Inside the Technology Sector
+[[Inside the Technology Sector]]
 ## What Is the Technology Sector?
 
-The technology sector is the category of stocks relating to the research, development, or distribution of technologically based goods and services. This sector contains businesses revolving around the manufacturing of electronics, creation of software, computers, or products and services relating to information technology.
+The technology sector is the category of [[Stocks|stocks]] relating to the research, development, or distribution of technologically based goods and services. This sector contains businesses revolving around the [[Manufacturing|manufacturing]] of electronics, creation of software, computers, or products and services relating to information technology.
 
 The technology sector offers a wide arrange of products and services for both customers and other businesses. [Consumer goods](https://www.investopedia.com/terms/c/consumer-goods.asp) like personal computers, mobile devices, wearable technology, home appliances, televisions, and so on are continually being improved and sold to consumers with new features.
 
@@ -32,15 +32,15 @@ On the business side, companies are dependent on innovations coming out of the t
 
 ## Understanding the Technology Sector
 
-The technology sector is often the most attractive investment destination in any economy. The U.S. technology sector boasts of companies like Apple, Google, Amazon, Facebook, Netflix, IBM, and Microsoft. These companies drive the growth in the tech sector and the fervor around their long term potential has them trading at [[price-to-earnings multiples]](https://www.investopedia.com/terms/p/price-earningsratio.asp) that look ridiculous compared to almost every other sector.
+The technology sector is often the most attractive investment destination in any economy. The U.S. technology sector boasts of companies like Apple, Google, Amazon, Facebook, Netflix, IBM, and Microsoft. These companies drive the growth in the tech sector and the fervor around their [[Long Term|long term]] potential has them trading at [[price-to-earnings multiples]](https://www.investopedia.com/terms/p/price-earningsratio.asp) that look ridiculous compared to almost every other sector.
 
-A large amount of this growth owes a debt to the buzz factor that technology companies seem to effortlessly create by launching whole new business lines that have never existed before.
+A large amount of this growth owes a [[Debt|debt]] to the buzz factor that technology companies seem to effortlessly create by launching whole new business lines that have never existed before.
 
 ## The Ever-Growing Technology Sector
 
 The term technology sector has been broadened many times to include businesses that may be better served by a more specific category. The technology sector was initially anchored in semiconductors, computing hardware, and communications equipment.
 
-The addition of software companies expanded the perceived tech sector to include anything based on coding. Soon, more room had to be made for Internet companies, which flooded during the Internet boom. Some of these Internet companies were media and content companies that just used code as the medium, but others were off launching rich features that grew to be [[e-commerce]](https://www.investopedia.com/terms/e/ecommerce.asp), social media, the sharing economy, and even [[cloud-based computing]](https://www.investopedia.com/terms/c/cloud-computing.asp).
+The addition of software companies expanded the perceived tech sector to include anything based on coding. Soon, more room had to be made for Internet companies, which flooded during the Internet boom. Some of these Internet companies were media and content companies that just used code as the medium, but others were off launching rich features that grew to be [[e-commerce]](https://www.investopedia.com/terms/e/ecommerce.asp), [[Social Media|social media]], the sharing economy, and even [[cloud-based computing]](https://www.investopedia.com/terms/c/cloud-computing.asp).
 
 The technology sector now includes such a diverse set of companies that the subsectors are far more useful than the overall one. Unsurprisingly, there is no universal agreement—some pundits want a whole new sector for each innovation—but the big buckets include semiconductors, software, networking and Internet, and hardware.
 

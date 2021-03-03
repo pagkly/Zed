@@ -13,7 +13,7 @@ author: Julia Kagan
 
 ---
 
-How Transferable Letters of Credit Work
+[[How Transferable Letters of Credit Work]]
 ## What Is a Transferable Letter of Credit?
 
 A transferable letter of credit is a type of [[Investopedia3/A Financial Guarantee Defined|financial guarantee]], known as a [[letter of credit]](https://www.investopedia.com/terms/l/letterofcredit.asp), that additionally allows the first [[beneficiary]](https://www.investopedia.com/terms/b/beneficiary.asp) to transfer some or all of the credit to another party, which creates a secondary beneficiary. The party that initially accepts the transferable letter of credit from the bank is referred to as the first, or primary beneficiary.
@@ -28,9 +28,9 @@ A transferable letter of credit is often used in business deals to ensure paymen
 
 ## Understanding Transferable Letters of Credit
 
-A transferable letter of credit is a letter of credit that includes a transferable provision. Sellers of manufactured goods often require a letter of credit—a letter from a bank that guarantees a buyer's payment to a seller will be received on time and for the correct amount—before proceeding with a customer’s order. If a seller requires a letter of credit, the buyer must partner with a bank for a letter of credit approval.
+A transferable letter of credit is a letter of credit that includes a transferable provision. Sellers of manufactured goods often require a letter of credit—a letter from a bank that guarantees a buyer's payment to a seller [[Will|will]] be received on time and for the correct amount—before proceeding with a customer’s order. If a seller requires a letter of credit, the buyer must partner with a bank for a letter of credit approval.
 
-In a transferable letter of credit, the bank will include provisions for transferring the extension of credit—all or part of the credit for which the buyer was approved—to a secondary beneficiary. The secondary beneficiary receives rights to the payment if a loan is needed at the time of payment. The first beneficiary, however, is still liable for payments on the loan if it is disbursed by the bank.
+In a transferable letter of credit, the bank [[Will|will]] include provisions for transferring the extension of credit—all or part of the credit for which the buyer was approved—to a secondary beneficiary. The secondary beneficiary receives rights to the payment if a [[Loan|loan]] is needed at the time of payment. The first beneficiary, however, is still liable for payments on the loan if it is disbursed by the bank.
 
 Along with the rights to the payment, the second beneficiary also receives all the obligations associated with the transaction.
 
@@ -38,13 +38,13 @@ The parties involved in a transferable letter of credit are the applicant, the f
 
 ## Transferable Letter of Credit Approval
 
-The letter of credit approval process is similar to the process of receiving a bank loan. The buyer must submit a letter of [[credit application]](https://www.investopedia.com/terms/c/credit-application.asp), including details on their credit profile. A bank will analyze a buyer’s credit score and financial stability in the [[underwriting]](https://www.investopedia.com/terms/u/underwriting.asp) process. If approved, the letter of credit shows the bank is willing to issue a loan for a specified amount to the borrower if a loan is needed to cover the payment of the customer’s order with the seller.
+The letter of credit approval process is similar to the process of receiving a bank [[Loan|loan]]. The buyer must submit a letter of [[credit application]](https://www.investopedia.com/terms/c/credit-application.asp), including details on their credit profile. A bank [[Will|will]] analyze a buyer’s [[Credit Score|credit score]] and financial stability in the [[underwriting]](https://www.investopedia.com/terms/u/underwriting.asp) process. If approved, the letter of credit shows the bank is willing to issue a loan for a specified amount to the borrower if a loan is needed to cover the payment of the customer’s order with the seller.
 
 ## Transferable Letters of Credit in Trade Agreements
 
 A transferable letter of credit is a form of credit support used in both domestic and international trade agreements. Assume a buyer has contracted $45,000 worth of goods with a seller. In the deal, the seller specifically requires a transferable letter of credit before proceeding with the production.
 
-A buyer needs to partner with a bank to obtain approval for a $45,000 letter of credit with a transferable provision allowing payout to the seller as a secondary beneficiary. If the bank agrees to a $45,000 transferable provision, then the original beneficiary can request a $45,000 payment from the bank directly to the seller at the time of sale.
+A buyer needs to partner with a bank to obtain approval for a $45,000 letter of credit with a transferable provision allowing [[Payout|payout]] to the seller as a secondary beneficiary. If the bank agrees to a $45,000 transferable provision, then the original beneficiary can request a $45,000 payment from the bank directly to the seller at the time of sale.
 
 ## Transferable Letter of Credit Versus Confirmed Letter of Credit
 

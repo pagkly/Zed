@@ -13,7 +13,7 @@ author: Adam Hayes
 
 ---
 
-Inside the Times-Revenue Method
+[[Inside the Times-Revenue Method]]
 ## What Is the Times-Revenue Method?
 
 The times-revenue method is a [[valuation]](https://www.investopedia.com/terms/v/valuation.asp) method used to determine the maximum value of a company. The times-revenue method uses a multiple of current revenues to determine the "ceiling" (or maximum value) for a particular business. Depending on the industry and the local business and economic environment, the multiple might be one to two times the actual revenues. However, in some industries, the multiple might be less than one.
@@ -30,7 +30,7 @@ Small business owners might determine the value of the company to aid in financi
 
 The times-revenue method is used to determine a range of values for a business. The figure is based on actual [[revenues]](https://www.investopedia.com/terms/r/revenue.asp) over a certain period of time (for example, the previous fiscal year), and a multiplier provides a range that can be used as a starting point for negotiations. In effect, the times-revenue method attempts to value a business by valuing its stream of sales cash flows.
 
-Depending on the period for which the revenue is considered or on the method of revenue measurement employed, the value of the multiple can vary. Some analysts use the revenue or sales recorded on proforma financial statements as actual sales or a forecast of what future sales will be. The multiplier used in business valuation depends on the industry.
+Depending on the period for which the revenue is considered or on the method of revenue measurement employed, the value of the multiple can vary. Some analysts use the revenue or sales recorded on proforma financial statements as actual sales or a forecast of what future sales [[Will|will]] be. The multiplier used in business valuation depends on the industry.
 
 Small business valuation often involves finding the absolute lowest price someone would pay for the business, known as the "floor," often the [[liquidation value]](https://www.investopedia.com/terms/l/liquidation-value.asp) of the business' assets, and then determining a ceiling that someone might pay, such as a multiple of current revenues. Once the floor and ceiling have been calculated, the business owner can determine the value, or what someone may be willing to pay to acquire the business. The value of the multiple used for evaluating the company’s value using the times-revenue method is influenced by a number of factors including the macroeconomic environment, industry conditions, etc.
 
@@ -38,7 +38,7 @@ The times-revenue method is also referred to as "multiples of revenue method."
 
 ## Special Considerations
 
-The times-revenue method is ideal for younger companies with earnings that are either non-existent or very volatile. Also, companies that are poised to have a speedy growth stage, such as software-as-a-service firms, will base their valuations on the times-revenue method.
+The times-revenue method is ideal for younger companies with earnings that are either non-existent or very volatile. Also, companies that are poised to have a speedy growth stage, such as software-as-a-service firms, [[Will|will]] base their valuations on the times-revenue method.
 
 The multiple used might be higher if the company or industry is poised for growth and expansion. Since these companies are expected to have a high growth phase with a high percentage of [[recurring revenue]](https://www.investopedia.com/terms/r/recurringrevenue.asp) and good margins, they would be valued in the three to four times revenue range.
 

@@ -13,22 +13,22 @@ author: Chris B Murphy
 
 ---
 
-How to Calculate and Analyze a Company's Operating Costs
+[[How to Calculate and Analyze a Company's Operating Costs]]
 ## What Are Operating Costs?
 
-Operating costs are associated with the maintenance and administration of a business on a day-to-day basis. Operating costs include direct [[costs of goods sold]](https://www.investopedia.com/terms/c/cogs.asp) (COGS) and other [[operating expenses]](https://www.investopedia.com/terms/o/operating_expense.asp)—often called selling, general, and administrative (SG&A)—which includes rent, payroll, and other overhead costs, as well as raw materials and maintenance expenses. Operating costs exclude [[non-operating expenses]](https://www.investopedia.com/terms/n/non-operating-expense.asp) related to financing such as interest, investments, or foreign currency translation.
+Operating costs are associated with the maintenance and administration of a business on a day-to-day basis. Operating costs include direct [[costs of goods sold]](https://www.investopedia.com/terms/c/cogs.asp) (COGS) and other [[operating expenses]](https://www.investopedia.com/terms/o/operating_expense.asp)—often called selling, general, and administrative (SG&A)—which includes rent, [[Payroll|payroll]], and other overhead costs, as well as raw materials and maintenance expenses. Operating costs exclude [[non-operating expenses]](https://www.investopedia.com/terms/n/non-operating-expense.asp) related to financing such as interest, investments, or foreign currency translation.
 
 The operating cost is deducted from [[revenue]](https://www.investopedia.com/terms/r/revenue.asp) to arrive at [[operating income]](https://www.investopedia.com/terms/o/operatingincome.asp) and is reflected on a company’s [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp).
 
 ### Key Takeaways
 
 -   Operating costs are the ongoing expenses incurred from the normal day-to-day of running a business that include both costs of goods sold (COGS) and other operating expenses—often called selling, general, and administrative (SG&A) expenses.
--   Common operating costs in addition to COGS may include rent, equipment, inventory costs, marketing, payroll, insurance, and funds allocated for research and development; and exclude non-operating costs.
+-   Common operating costs in addition to COGS may include rent, equipment, inventory costs, marketing, [[Payroll|payroll]], insurance, and funds allocated for research and development; and exclude non-operating costs.
 -   Operating costs can be found and analyzed by looking at a company's income statement.
 
 ## Formula and Calculation for Operating Cost
 
-Use the following formula and steps to calculate the operating cost of a business. You will find the information needed from the firm's income statement that is used to report the financial performance for the accounting period.
+Use the following formula and steps to calculate the operating cost of a business. You [[Will|will]] find the information needed from the firm's income statement that is used to report the financial performance for the accounting period.
 
 Operating cost\=Cost of goods sold+Operating expenses\\text{Operating cost} = \\text{Cost of goods sold} + \\text{Operating expenses}
 
@@ -38,11 +38,11 @@ Operating cost\=Cost of goods sold+Operating expenses\\text{Operating cost}
 
 ## Deciphering Operating Costs
 
-Businesses have to keep track of operating costs as well as the costs associated with non-operating activities, such as [[interest expenses]](https://www.investopedia.com/terms/i/interestexpense.asp) on a loan. Both costs are accounted for differently in a company's books, allowing analysts to determine how costs are associated with revenue-generating activities and whether or not the business can be run more efficiently.
+Businesses have to keep track of operating costs as well as the costs associated with non-operating activities, such as [[interest expenses]](https://www.investopedia.com/terms/i/interestexpense.asp) on a [[Loan|loan]]. Both costs are accounted for differently in a company's books, allowing analysts to determine how costs are associated with revenue-generating activities and whether or not the business can be run more efficiently.
 
-Generally speaking, a company’s management will seek to maximize profits for the company. Because profits are determined both by the revenue that the company earns and the amount the company spends in order to operate, profit can be increased both by increasing revenue and by decreasing operating costs. Because cutting costs generally seems like an easier and more accessible way of increasing profits, managers will often be quick to choose this method.
+Generally speaking, a company’s management [[Will|will]] seek to maximize profits for the company. Because profits are determined both by the revenue that the company earns and the amount the company spends in order to operate, profit can be increased both by increasing revenue and by decreasing operating costs. Because cutting costs generally seems like an easier and more accessible way of increasing profits, managers will often be quick to choose this method.
 
-However, trimming operating costs too much can reduce a company’s productivity and, thus, its profit as well. While reducing any particular operating cost will usually increase short-term profits, it can also hurt the company’s earnings in the long-term. For example, if a company cuts its advertising costs its short-term profits will likely improve, as it is spending less money on operating costs.
+However, trimming operating costs too much can reduce a company’s [[Productivity|productivity]] and, thus, its profit as well. While reducing any particular operating cost [[Will|will]] usually increase short-term profits, it can also hurt the company’s earnings in the long-term. For example, if a company cuts its advertising costs its short-term profits will likely improve, as it is spending less money on operating costs.
 
 However, by reducing its advertising, the company might also reduce its capacity to generate new business and earnings in the future could suffer. Ideally, companies look to keep operating costs as low as possible while still maintaining the ability to increase sales.
 
@@ -56,13 +56,13 @@ While operating costs generally do not include capital outlays, they can include
 -   Travel expenses 
 -   Entertainment costs
 -   Non-capitalized [[research and development expenses]](https://www.investopedia.com/terms/r/research-and-development-expenses.asp)
--   Office supply costs
+-   Office [[Supply|supply]] costs
 -   Rent
 -   Repair and maintenance costs
 -   Utility expenses
 -   Salary and [[wage expenses]](https://www.investopedia.com/terms/w/wage-expense.asp)
 
-Operating costs will also include the cost of goods sold, which are the expenses directly tied to the production of goods and services. Some of the costs include: 
+Operating costs [[Will|will]] also include the cost of goods sold, which are the expenses directly tied to the production of goods and services. Some of the costs include: 
 
 -   Direct material costs
 -   Direct labor
@@ -75,33 +75,33 @@ A business’s operating costs are comprised of two components, [[fixed costs]](
 
 ## Fixed Costs
 
-A fixed cost is one that does not change with an increase or decrease in sales or productivity and must be paid regardless of the company’s activity or performance. For example, a manufacturing company must pay rent for factory space, regardless of how much it is producing or earning. While it can downsize and reduce the cost of its rent payments, it cannot eliminate these costs, and so they are considered to be fixed. Fixed costs generally include overhead costs, insurance, security, and equipment.
+A [[Fixed Cost|fixed cost]] is one that does not change with an increase or decrease in sales or [[Productivity|productivity]] and must be paid regardless of the company’s activity or performance. For example, a [[Manufacturing|manufacturing]] company must pay rent for factory space, regardless of how much it is producing or earning. While it can downsize and reduce the cost of its rent payments, it cannot eliminate these costs, and so they are considered to be fixed. Fixed costs generally include overhead costs, insurance, [[Security|security]], and equipment.
 
-Fixed costs can help in achieving [[economies of scale]](https://www.investopedia.com/terms/e/economiesofscale.asp), as when many of a company’s costs are fixed the company can make more profit per unit as it produces more units. In this system, fixed costs are spread out over the number of units produced, making production more efficient as production increases by reducing the average per-unit cost of production. Economies of scale can allow large companies to sell the same goods as smaller companies for lower prices.
+Fixed costs can help in achieving [[economies of scale]](https://www.investopedia.com/terms/e/economiesofscale.asp), as when many of a company’s costs are fixed the company can make more profit per unit as it produces more units. In this system, fixed costs are spread out over the number of units produced, making production more efficient as production increases by reducing the average per-unit cost of production. [[Economies of Scale|Economies of scale]] can allow large companies to sell the same goods as smaller companies for lower prices.
 
-The economies of scale principle can be limited in that fixed costs generally need to increase with certain benchmarks in production growth. For example, a manufacturing company that increases its rate of production over a specified period will eventually reach a point where it needs to increase the size of its factory space in order to accommodate the increased production of its products.
+The [[Economies of Scale|economies of scale]] principle can be limited in that fixed costs generally need to increase with certain benchmarks in production growth. For example, a [[Manufacturing|manufacturing]] company that increases its rate of production over a specified period [[Will|will]] eventually reach a point where it needs to increase the size of its factory space in order to accommodate the increased production of its products.
 
 ## Variable Costs
 
-Variable costs, like the name implies, are comprised of costs that vary with production. Unlike fixed costs, variable costs increase as production increases and decrease as production decreases. Examples of variable costs include raw material costs, payroll, and the cost of electricity. For example, in order for a fast-food restaurant chain that sells French fries to increase its fry sales, it will need to increase its purchase orders of potatoes from its supplier.
+Variable costs, like the name implies, are comprised of costs that vary with production. Unlike fixed costs, variable costs increase as production increases and decrease as production decreases. Examples of variable costs include raw material costs, [[Payroll|payroll]], and the cost of electricity. For example, in order for a fast-food restaurant chain that sells French fries to increase its fry sales, it [[Will|will]] need to increase its purchase orders of potatoes from its supplier.
 
-It's sometimes possible for a company to achieve a volume discount or "price break" when purchasing supplies in bulk, wherein the seller agrees to slightly reduce the per-unit cost in exchange for the buyer’s agreement to regularly buy the supplies in large amounts. As a result, the agreement might diminish the correlation somewhat between an increase or decrease in production and an increase or decrease in the company’s operating costs. For example, the fast-food company may buy its potatoes at $0.50 per pound when it buys potatoes in amounts of less than 200 pounds.
+It's sometimes possible for a company to achieve a volume discount or "price break" when purchasing supplies in bulk, wherein the seller agrees to slightly reduce the per-unit cost in exchange for the buyer’s agreement to regularly buy the supplies in large amounts. As a result, the agreement might diminish the [[Correlation|correlation]] somewhat between an increase or decrease in production and an increase or decrease in the company’s operating costs. For example, the fast-food company may buy its potatoes at $0.50 per pound when it buys potatoes in amounts of less than 200 pounds.
 
-However, the potato supplier may offer the restaurant chain a price of $0.45 per pound when it buys potatoes in bulk amounts of 200 to 500 pounds. Volume discounts generally have a small impact on the correlation between production and variable costs and the trend otherwise remains the same.
+However, the potato supplier may [[Offer|offer]] the restaurant chain a price of $0.45 per pound when it buys potatoes in bulk amounts of 200 to 500 pounds. Volume discounts generally have a small impact on the [[Correlation|correlation]] between production and variable costs and the trend otherwise remains the same.
 
-Typically, companies with a high proportion of variable costs relative to fixed costs are considered to be less volatile, as their profits are more dependent on the success of their sales. In the same way, the profitability and risk for the same companies are also easier to gauge.
+Typically, companies with a high proportion of variable costs relative to fixed costs are considered to be less volatile, as their profits are more dependent on the success of their sales. In the same way, the profitability and [[Risk|risk]] for the same companies are also easier to gauge.
 
 ## Semi-Variable Costs
 
 In addition to fixed and variable costs, it is also possible for a company’s operating costs to be considered [[semi-variable]](https://www.investopedia.com/terms/s/semivariablecost.asp) (or “semi-fixed.") These costs represent a mixture of fixed and variable components and, thus, can be thought of as existing between fixed costs and variable costs. Semi-variable costs vary in part with increases or decreases in production, like variable costs, but still exist when production is zero, like fixed costs. This is what primarily differentiates semi-variable costs from fixed costs and variable costs.
 
-An example of semi-variable costs is overtime labor. Regular wages for workers are generally considered to be fixed costs, as while a company’s management can reduce the number of workers and paid work-hours, it will always need a workforce of some size to function. Overtime payments are often considered to be variable costs, as the number of overtime hours that a company pays its workers will generally rise with increased production and drop with reduced production. When wages are paid based on conditions of productivity allowing for overtime, the cost has both fixed and variable components and are therefore considered to be semi-variable costs.
+An example of semi-variable costs is overtime labor. Regular wages for workers are generally considered to be fixed costs, as while a company’s management can reduce the number of workers and paid work-hours, it [[Will|will]] always need a workforce of some size to function. Overtime payments are often considered to be variable costs, as the number of overtime hours that a company pays its workers will generally rise with increased production and drop with reduced production. When wages are paid based on conditions of [[Productivity|productivity]] allowing for overtime, the cost has both fixed and variable components and are therefore considered to be semi-variable costs.
 
 ## Real World Example
 
-Below is the income statement for Apple Inc. [(AAPL)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl) as of December 29, 2018, according to their [10Q report](https://investor.apple.com/investor-relations/sec-filings/default.aspx):
+Below is the income statement for Apple Inc. [(AAPL)](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=aapl) as of December 29, 2018, according to their [10Q report](https://investor.apple.com/investor-relations/sec-filings/[[Default|default]].aspx):
 
--   Apple reported total revenue or net sales of $84.310 billion for the period (highlighted in blue).
+-   Apple reported total revenue or [[Net Sales|net sales]] of $84.310 billion for the period (highlighted in blue).
 -   The total cost of sales (or cost of goods sold) was $52.279 billion, while total operating expenses were $8.685 billion (in red).
 -   We calculate operating cost as $52.279 billion (COS) + $8.685 billion (OPEX).
 -   Operating costs were $60.964 billion for the period.1

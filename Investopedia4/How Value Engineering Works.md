@@ -13,8 +13,8 @@ author: Adam Barone
 
 ---
 
-How Value Engineering Works
-## What Is Value Engineering?
+[[How Value Engineering Works]]
+## [[What Is Value]] Engineering?
 
 Value engineering is a systematic, organized approach to providing necessary functions in a project at the lowest cost. Value engineering promotes the substitution of materials and methods with less expensive alternatives, without sacrificing functionality. It is focused solely on the functions of various components and materials, rather than their physical attributes. Value engineering is also called value analysis.
 
@@ -36,8 +36,8 @@ The concept of value engineering evolved in the 1940s at General Electric, in th
 
 Miles defined product value as the ratio of two elements: function to cost. The function of an item is the specific work it was designed to perform, and the cost refers to the cost of the item during its [[life cycle]](https://www.investopedia.com/terms/p/product-life-cycle-management.asp). The ratio of function to cost implies that the value of a product can be increased by either improving its function or decreasing its cost. In value engineering, the cost related to production, design, maintenance, and replacement are included in the analysis.
 
-For example, consider a new tech product is being designed and is slated to have a life cycle of only two years. The product will thus be designed with the least expensive materials and resources that will serve up to the end of the product’s life cycle, saving the manufacturer and the [[end-consumer]](https://www.investopedia.com/terms/e/end-user.asp) money. This is an example of improving value by reducing costs.
+For example, consider a new tech product is being designed and is slated to have a life cycle of only two years. The product [[Will|will]] thus be designed with the least expensive materials and resources that will serve up to the end of the product’s life cycle, saving the manufacturer and the [[end-consumer]](https://www.investopedia.com/terms/e/end-user.asp) money. This is an example of improving value by reducing costs.
 
-Another manufacturing company might decide to create added value by maximizing the function of a product with minimal cost. In this case, the function of every component of the item will be assessed to develop a detailed analysis of the purpose of the product. Part of the value analysis will require evaluating the multiple alternate ways that the project or product can accomplish its function.
+Another [[Manufacturing|manufacturing]] company might decide to create added value by maximizing the function of a product with minimal cost. In this case, the function of every component of the item [[Will|will]] be assessed to develop a detailed analysis of the purpose of the product. Part of the value analysis will require evaluating the multiple alternate ways that the project or product can accomplish its function.
 
-The different ways that are listed are narrowed down to a few basic and secondary feasible options that may be implemented into the project. For example, a bottle of dishwashing liquid that becomes slippery after some of the soap has leaked to the sides may be improved by redesigning the shape of the bottle and the opening spout to improve grip and minimize leakage. This improvement could lead to increased sales without incurring additional advertising costs.
+The different ways that are [[Listed|listed]] are narrowed down to a few basic and secondary feasible options that may be implemented into the project. For example, a bottle of dishwashing liquid that becomes slippery after some of the soap has leaked to the sides may be improved by redesigning the shape of the bottle and the opening spout to improve grip and minimize leakage. This improvement could lead to increased sales without incurring additional advertising costs.

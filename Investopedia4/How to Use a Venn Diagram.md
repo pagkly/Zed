@@ -3,7 +3,7 @@ alias: [Venn Diagram]
 created: 2021-03-03T00:38:25 (UTC +11:00)
 tags: [Venn Diagram Definition, How to Use a Venn Diagram]
 source: https://www.investopedia.com/terms/v/venn-diagram.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Venn Diagram Definition
@@ -13,12 +13,12 @@ author: Will Kenton
 
 ---
 
-How to Use a Venn Diagram
+[[How to Use a Venn Diagram]]
 ## What Is a Venn Diagram?
 
 A Venn diagram is an illustration that uses circles to show the relationships among things or finite groups of things. Circles that overlap have a commonality while circles that do not overlap do not share those traits.
 
-Venn diagrams help to visually represent the similarities and differences between two concepts. They have long been recognized for their usefulness as [[educational tools]](https://www.investopedia.com/articles/basics/12/lessons-monopoly-teaches.asp). Since the mid-20th century, Venn diagrams have been used as part of the introductory logic curriculum and in elementary-level educational plans around the world.
+Venn diagrams help to visually represent the similarities and differences between two concepts. They have long been recognized for their usefulness as [[educational tools]](https://www.investopedia.com/articles/basics/12/lessons-[[Monopoly|monopoly]]-teaches.asp). Since the mid-20th century, Venn diagrams have been used as part of the introductory logic curriculum and in elementary-level educational plans around the world.
 
 ### Key Takeaways
 
@@ -42,7 +42,7 @@ In another book, _Symbolic Logic,_ he built on and developed mathematician Georg
 
 ### Applications for Venn Diagrams
 
-Venn diagrams are used to depict how items relate to each other against an overall backdrop, universe, data set, or environment. A Venn diagram could be used, for example, to compare two companies within the same industry by illustrating the products both companies offer (where circles overlap) and the products that are exclusive to each company (outer circles). 
+Venn diagrams are used to depict how items relate to each other against an overall backdrop, universe, data set, or environment. A Venn diagram could be used, for example, to compare two companies within the same industry by illustrating the products both companies [[Offer|offer]] (where circles overlap) and the products that are exclusive to each company (outer circles). 
 
 -   Venn diagrams are, at a basic level, simple pictorial representations of the relationship that exists between two sets of things. However, they can be much more complex. Still, the streamlined purpose of the Venn diagram to illustrate concepts and groups has led to their popularized use in many fields, including statistics, linguistics, logic, education, computer science, and business.
 

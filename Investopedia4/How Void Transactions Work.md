@@ -13,7 +13,7 @@ author: Julia Kagan
 
 ---
 
-How Void Transactions Work
+[[How Void Transactions Work]]
 ## What Is a Void Transaction?
 
 A void transaction is a transaction that is canceled by a merchant or [[vendor]](https://www.investopedia.com/terms/v/vendor.asp) before it settles through a consumer's debit or [[credit card account]](https://www.investopedia.com/terms/c/creditcard.asp).
@@ -33,9 +33,9 @@ When a transaction takes place, the merchant swipes the customer's debit or cred
 
 If there is a problem with the transaction, it can be voided—even though it hasn't settled. Since the transaction is pending and has not cleared the customer's account, it means the sale can be prevented from going through.
 
-In order to void the transaction, the customer must contact the merchant and request the transaction be reversed unless the merchant notices a mistake or issue and proactively voids a transaction at the point of sale. Once voided, the transaction will show up on the customer's account as a pending transaction, which disappears after a certain amount of time.
+In order to void the transaction, the customer must contact the merchant and request the transaction be reversed unless the merchant notices a mistake or issue and proactively voids a transaction at the point of sale. Once voided, the transaction [[Will|will]] show up on the customer's account as a pending transaction, which disappears after a certain amount of time.
 
-The hold can last anywhere from 24 hours to several days, causing the customer an inconvenience because they won’t be able to access the money during that time.
+The [[Hold|hold]] can last anywhere from 24 hours to several days, causing the customer an inconvenience because they won’t be able to access the money during that time.
 
 A void transaction generally takes place on the same day as the original transaction.
 
@@ -51,7 +51,7 @@ Some merchants may allow a certain window of time to cancel a purchase. This oft
 
 Fraudulent charges can also be voided. Card issuing companies have fraud detection services to flag fraudulent transactions.
 
-Most companies place these transactions on hold. The customer can verify whether a transaction is fraudulent with the company, which will immediately void the transaction. If a [[customer]](https://www.investopedia.com/terms/c/customer.asp) cannot be reached for verification, many card companies will automatically void a suspicious transaction before it is settled to ensure the safety and security of the customer.
+Most companies place these transactions on [[Hold|hold]]. The customer can verify whether a transaction is fraudulent with the company, which [[Will|will]] immediately void the transaction. If a [[customer]](https://www.investopedia.com/terms/c/customer.asp) cannot be reached for verification, many card companies will automatically void a suspicious transaction before it is settled to ensure the safety and [[Security|security]] of the customer.
 
 Because refunds are issued after the money has already passed through a customer's account to the merchant, the process can take longer than a voided transaction.
 

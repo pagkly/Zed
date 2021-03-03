@@ -1,7 +1,7 @@
 ---
 alias: [Goldilocks Economy]
 created: 2021-03-02T20:20:51 (UTC +11:00)
-tags: [Goldilocks Economy Definition, How to Identify a Goldilocks Economy?]
+tags: [Goldilocks Economy Definition, [[How to Identify a Goldilocks Economy]]?]
 source: https://www.investopedia.com/terms/g/goldilockseconomy.asp
 author: James Chen
 ---
@@ -13,18 +13,18 @@ author: James Chen
 
 ---
 
-How to Identify a Goldilocks Economy?
+[[How to Identify a Goldilocks Economy]]?
 ## What Is a Goldilocks Economy?
 
-A Goldilocks economy is not too hot or too cold but just right—to steal a line from the popular children's story _Goldilocks and the Three Bears_. The term describes an ideal state for an economic system. In this perfect state, there is full employment, economic stability, and stable growth. The economy is not expanding or contracting by a large margin. A Goldilocks economy is warm enough with steady economic growth to prevent a [[recession]](https://www.investopedia.com/terms/r/recession.asp). However, growth is not so hot as to push it into an inflationary status.
+A Goldilocks economy is not too hot or too cold but just right—to steal a line from the popular children's story _Goldilocks and the Three Bears_. The term describes an ideal state for an economic system. In this perfect state, there is [[Full Employment|full employment]], economic stability, and stable growth. The economy is not expanding or contracting by a large margin. A Goldilocks economy is warm enough with steady economic growth to prevent a [[recession]](https://www.investopedia.com/terms/r/recession.asp). However, growth is not so hot as to push it into an inflationary status.
 
 ## Goldilocks Economy Explained
 
 Although there is some debate among economists as to the exact characteristics of a Goldilocks economy, it's safe to say there should be a balance between growth, employment, and inflation. The ideal conditions are typically characterized by:
 
 -   A low [[unemployment rate]](https://www.investopedia.com/terms/u/unemploymentrate.asp)—most commonly known as the U3 rate—that defines the number of people willing and able to work but unable to find gainful employment, and who have sought work in the past four weeks. The U.S. Federal Reserve (The Fed) [[estimates a normal rate]](https://www.federalreserve.gov/faqs/economy_14424.htm) to fall somewhere between 4% and 5%.
--   An increase in asset prices—known as asset price inflation—of stocks, derivatives, bonds, real estate, and other assets will earmark a Goldilocks economy. This increase is [[difficult to see when using broader measures]](https://www.investopedia.com/ask/answers/032715/what-difference-between-assetprice-inflation-and-economic-growth.asp) that gauge real economic growth.
--   Low market [[interest rates]](https://www.investopedia.com/terms/i/interestrate.asp). These rates are the percentage of a dollar amount that a lender will charge a borrower when they lend money. Market interest rates have a basis on the overnight rate—set by the Fed—that is the rate banks charge to lend to one another.
+-   An increase in asset prices—known as asset price inflation—of [[Stocks|stocks]], derivatives, bonds, real [[Estate|estate]], and other assets [[Will|will]] earmark a Goldilocks economy. This increase is [[difficult to see when using broader measures]](https://www.investopedia.com/ask/answers/032715/what-difference-between-assetprice-inflation-and-economic-growth.asp) that gauge real economic growth.
+-   Low market [[interest rates]](https://www.investopedia.com/terms/i/interestrate.asp). These rates are the percentage of a dollar amount that a [[Lender|lender]] [[Will|will]] charge a borrower when they lend money. Market interest rates have a basis on the overnight rate—set by the Fed—that is the rate banks charge to lend to one another.
 -   Low [[inflation]](https://www.investopedia.com/terms/i/inflation.asp), measured by the quantitative-based—based on a number—consumer price index (CPI) and the producer price index (PPI) also identifies this golden economic state. Inflation describes the purchasing power of a nation's money.
 -   Steady [[gross domestic product]](https://www.investopedia.com/terms/g/gdp.asp) (GDP) or economic growth is the most cited indicator of the Goldilocks economy. GDP is a broad economic measure of the value of all services and finished goods produced in a country. This measure is a direct indicator of the health of an economy.
 
@@ -34,7 +34,7 @@ If GDP growth is too low, the economy can dip into a recession or an economic do
 
 -   A Goldilocks economy describes an ideal state for an economy whereby the economy is not expanding or contracting by too much.
 -   A Goldilocks economy has steady economic growth, preventing a recession, but not so much growth that inflation rises by too much.
--   A Goldilocks state is ideal for investing because as companies grow and generate positive earnings growth, stocks perform well.
+-   A Goldilocks state is ideal for investing because as companies grow and generate positive earnings growth, [[Stocks|stocks]] perform well.
 
 ## Maintaining a Goldilocks Economy
 
@@ -46,7 +46,7 @@ However, the effects of fiscal spending and tax cuts can have mixed results and 
 
 ## Goldilocks and the Central Bank
 
-Central banks are responsible for regulating the money supply and the banking sector. The banking authority uses [[monetary policy]](https://www.investopedia.com/terms/m/monetarypolicy.asp) tools to bring on and maintain a Goldilocks economy. The U.S. central bank is the Federal Reserve. The Fed can cut interest rates, spurring lending in the economy as consumers and businesses increase borrowing to take advantage of lower rates. Conversely, the Fed can increase interest rates if they feel the economy is growing too hot and inflation is rising at a faster rate than the Fed's [[inflation target]](https://www.investopedia.com/terms/i/inflation_targeting.asp).
+Central banks are responsible for regulating the money [[Supply|supply]] and the banking sector. The banking authority uses [[monetary policy]](https://www.investopedia.com/terms/m/monetarypolicy.asp) tools to bring on and maintain a Goldilocks economy. The U.S. central bank is the Federal Reserve. The Fed can cut interest rates, spurring lending in the economy as consumers and businesses increase borrowing to take advantage of lower rates. Conversely, the Fed can increase interest rates if they feel the economy is growing too hot and inflation is rising at a faster rate than the Fed's [[inflation target]](https://www.investopedia.com/terms/i/inflation_targeting.asp).
 
 Rising prices can hurt an economy because consumers tend to cut back on spending. Companies get hurt by inflation if their raw materials become too expensive since the added costs eat into their profits. As a result, businesses can cut investment. Central banks such as the Fed react by increasing interest rates to slow the growth in the economy, which ultimately slows or prevents inflationary pressures. However, if central banks raise interest rates too soon, or by too much, their actions can trigger an economic slowdown.
 
@@ -56,7 +56,7 @@ Rising prices can hurt an economy because consumers tend to cut back on spending
 
 The U.S. economy typically goes through five phases as part of the business cycle. These stages are growth or expansion, peak, recession or contraction, trough, and recovery. A Goldilocks economy may happen during the recovery and growth phases. Also, because of the existence of the business cycles, a Goldilocks economy should be considered a temporary state.
 
-A Goldilocks economy is ideal for investing. As companies grow and generate positive earnings growth, stocks perform well. The investor gains through share price appreciation and in some cases dividends as the business returns profits to its shareholders. In the absence of inflation, fixed income investments such as bonds will hold their value.
+A Goldilocks economy is ideal for investing. As companies grow and generate positive earnings growth, [[Stocks|stocks]] perform well. The investor gains through share price appreciation and in some cases dividends as the business returns profits to its shareholders. In the absence of inflation, fixed income investments such as bonds [[Will|will]] [[Hold|hold]] their value.
 
 However, if the GDP grows too quickly and inflation creeps up too rapidly, the economy can overheat. In this atmosphere, asset prices can become overvalued. The Fed may raise interest rates to try to cool down the economy. Rising interest rates break one of the key pillars of the Goldilocks economy and are usually a precursor to its end.
 

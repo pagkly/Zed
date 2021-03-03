@@ -13,20 +13,20 @@ author: Adam Hayes
 
 ---
 
-Inside the Marginal Rate of Substitution
+[[Inside the Marginal Rate of Substitution]]
 ## What Is the Marginal Rate of Substitution (MRS)?
 
-In economics, the marginal rate of substitution (MRS) is the amount of a good that a consumer is willing to consume in relation to another good, as long as the new good is equally satisfying. It's used in [indifference theory](https://www.investopedia.com/terms/i/indifferencecurve.asp) to analyze consumer behavior. The marginal rate of substitution is calculated between two goods placed on an [indifference curve](https://www.investopedia.com/terms/i/indifferencecurve.asp), displaying a frontier of utility for each combination of "good X" and "good Y."
+In [[Economics|economics]], the marginal rate of substitution (MRS) is the amount of a good that a consumer is willing to consume in relation to another good, as long as the new good is equally satisfying. It's used in [indifference theory](https://www.investopedia.com/terms/i/indifferencecurve.asp) to analyze consumer behavior. The marginal rate of substitution is calculated between two goods placed on an [indifference curve](https://www.investopedia.com/terms/i/indifferencecurve.asp), displaying a frontier of utility for each combination of "good X" and "good [[Y]]."
 
 #### Marginal Rate of Substitution
 
 ## Understanding Marginal Rate of Substitution
 
-MRS economics is used to analyze consumer behaviors for a variety of purposes. The marginal rate of substitution is an economics term that refers to the amount of one good that is substitutable for another. MRS economics involves a sloping curve, called the [indifference curve](https://www.investopedia.com/terms/i/indifferencecurve.asp), where each point along it represents quantities of good X and good Y that you would be happy substituting for one another.
+MRS [[Economics|economics]] is used to analyze consumer behaviors for a variety of purposes. The marginal rate of substitution is an economics term that refers to the amount of one good that is substitutable for another. MRS economics involves a sloping curve, called the [indifference curve](https://www.investopedia.com/terms/i/indifferencecurve.asp), where each point along it represents quantities of good X and good [[Y]] that you would be happy substituting for one another.
 
-The slope of the indifference curve is critical to marginal rate of substitution analysis. At any given point along an indifference curve, the MRS is the slope of the indifference curve **at that point**. Note that most indifference curves are actually curves, so the slopes are changing as you move along them. Most indifference curves are also usually convex because as you consume more of one good you will consume less of the other. Indifference curves can be straight lines if a slope is constant, resulting in an indifference curve represented by a downward-sloping straight line.
+The slope of the indifference curve is critical to marginal rate of substitution analysis. At any given point along an indifference curve, the MRS is the slope of the indifference curve **at that point**. Note that most indifference curves are actually curves, so the slopes are changing as you move along them. Most indifference curves are also usually convex because as you consume more of one good you [[Will|will]] consume less of the other. Indifference curves can be straight lines if a slope is constant, resulting in an indifference curve represented by a downward-sloping straight line.
 
-If the marginal rate of substitution is increasing, the indifference curve will be concave to the origin. This is typically not common since it means a consumer would consume more of X for the increased consumption of Y and vice versa. Usually, marginal substitution is diminishing, meaning a consumer chooses the substitute in place of another good rather than simultaneously consuming more.
+If the marginal rate of substitution is increasing, the indifference curve [[Will|will]] be concave to the origin. This is typically not common since it means a consumer would consume more of X for the increased consumption of [[Y]] and vice versa. Usually, marginal substitution is diminishing, meaning a consumer chooses the substitute in place of another good rather than simultaneously consuming more.
 
 The law of diminishing marginal rates of substitution states that MRS _decreases_ as one moves down a standard convex-shaped curve, which is the indifference curve.
 
@@ -41,7 +41,7 @@ The law of diminishing marginal rates of substitution states that MRS _decreases
 
 The marginal rate of substitution (MRS) formula is:
 
-∣MRSxy∣\=dydx\=MUxMUywhere:x,y\=two different goodsdydx\=derivative of y with respect to xMU\=marginal utility of good x, y\\begin{aligned} &|MRS\_{xy}| = \\frac{dy}{dx} = \\frac{MU\_x}{MU\_y} \\\\ &\\textbf{where:}\\\\ &x, y=\\text{two different goods}\\\\ &\\frac{dy}{dx}=\\text{derivative of y with respect to x}\\\\ &MU=\\text{marginal utility of good x, y}\\\\ \\end{aligned}
+∣MRSxy∣\=dydx\=MUxMUywhere:x,[[Y|y]]\=two different goodsdydx\=[[Derivative|derivative]] of y with respect to xMU\=marginal utility of good x, y\\begin{aligned} &|MRS\_{xy}| = \\frac{dy}{dx} = \\frac{MU\_x}{MU\_y} \\\\ &\\textbf{where:}\\\\ &x, y=\\text{two different goods}\\\\ &\\frac{dy}{dx}=\\text{derivative of y with respect to x}\\\\ &MU=\\text{marginal utility of good x, y}\\\\ \\end{aligned}
 
 ## Example of How to Use the Marginal Rate of Substitution
 

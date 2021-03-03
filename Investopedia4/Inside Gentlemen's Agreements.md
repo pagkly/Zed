@@ -13,10 +13,10 @@ author: Adam Hayes
 
 ---
 
-Inside Gentlemen's Agreements
+[[Inside Gentlemen's Agreements]]
 ## What Is a Gentlemen's Agreement?
 
-A gentlemen's agreement is an informal, often unwritten agreement or transaction backed only by the integrity of the counterparty to actually abide by its terms. An agreement such as this is generally informal, made orally, and is not legally binding.
+A gentlemen's agreement is an informal, often unwritten agreement or transaction backed only by the integrity of the [[Counterparty|counterparty]] to actually abide by its terms. An agreement such as this is generally informal, made orally, and is not legally binding.
 
 Despite their informal nature, the violation of a gentlemen's agreement one could have a negative effect on business relationships if one party decides to renege on their promise. A gentlemen's agreement may also be called a "gentleman's agreement," and may or may not be consummated by a handshake.
 
@@ -28,7 +28,7 @@ Despite their informal nature, the violation of a gentlemen's agreement one coul
 
 ## Understanding Gentlemen's Agreements
 
-A gentleman's agreement, being more of a point of honor and etiquette, relies on the forbearance of two or more parties for the fulfillment of spoken or unspoken obligations. Unlike a binding contract or legal agreement, there is no court-administered redress if a gentlemen's agreement is broken.
+A gentleman's agreement, being more of a point of honor and etiquette, relies on the [[Forbearance|forbearance]] of two or more parties for the fulfillment of spoken or unspoken obligations. Unlike a binding contract or legal agreement, there is no court-administered redress if a gentlemen's agreement is broken.
 
 Gentlemen's agreements have been commonly made in international trade and relations, as well as in most industries. Gentlemen's agreements were especially prevalent at the birth of the industrial age and well into the first half of the 1900s, as regulation often lagged new business practices. Such agreements were found to be in use to control prices and limit competition in the steel, iron, water, and tobacco industries, among others.
 
@@ -48,7 +48,7 @@ Gentlemen's agreements between industry and the U.S. government were common in t
 
 What resulted, in some cases, were gentlemen's agreements in which Wall Street financiers, such as J.P. Morgan and his "House of Morgan," would meet with the bureau to receive prior clearance on mergers and takeovers. One such example was the gentlemen's agreement that had regulators and the President overlook the [[Sherman Antitrust Act]](https://www.investopedia.com/terms/s/sherman-antiturst-act.asp) to allow United States Steel Corp. to become the world's first billion-dollar company.
 
-In [1907, a stock market panic](https://www.investopedia.com/terms/b/bank-panic-of-1907.asp) that hit several big investment banks led to a financial crisis. The panic led to President Theodore Roosevelt working closely with J.P. Morgan to consolidate banks under the argument that doing so would stave off a larger crisis.
+In [1907, a [[Stock|stock]] market panic](https://www.investopedia.com/terms/b/bank-panic-of-1907.asp) that hit several big investment banks led to a [[Financial Crisis|financial crisis]]. The panic led to President Theodore Roosevelt working closely with J.P. Morgan to consolidate banks under the argument that doing so would stave off a larger crisis.
 
 Similarly, in 1907 Morgan again worked with Roosevelt to create a gentlemen's agreement that would allow U.S. Steel to acquire its largest competitor, Tennessee Coal and Iron, in an unwritten and unstated rule that violated the Sherman Act.
 

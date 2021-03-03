@@ -13,10 +13,10 @@ author: Evan Tarver
 
 ---
 
-How to Tell If Your Corporate Culture Is Healthy
+[[How to Tell If Your Corporate Culture Is Healthy]]
 ## What Is Corporate Culture?
 
-Corporate culture refers to the beliefs and behaviors that determine how a company's employees and management interact and handle outside business transactions. Often, corporate culture is implied, not expressly defined, and develops organically over time from the cumulative traits of the people the company hires. A company's culture will be reflected in its dress code, business hours, office setup, [[employee benefits]](https://www.investopedia.com/terms/f/fringe-benefits.asp), turnover, hiring decisions, treatment of clients, client satisfaction, and every other aspect of [[operations]](https://www.investopedia.com/terms/o/operations-management.asp).
+Corporate culture refers to the beliefs and behaviors that determine how a company's employees and management interact and handle outside business transactions. Often, corporate culture is implied, not expressly defined, and develops organically over time from the cumulative traits of the people the company hires. A company's culture [[Will|will]] be reflected in its dress code, business hours, office setup, [[employee benefits]](https://www.investopedia.com/terms/f/fringe-benefits.asp), turnover, hiring decisions, treatment of clients, client satisfaction, and every other aspect of [[operations]](https://www.investopedia.com/terms/o/operations-management.asp).
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Corporate culture refers to the beliefs and behaviors that determine how a compa
 
 ## Understanding Corporate Culture
 
-Alphabet (GOOGL), the parent of Google, is well known for its employee-friendly corporate culture. It explicitly defines itself as unconventional and offers perks such as telecommuting, [[flextime]](https://www.investopedia.com/terms/f/flextime.asp), tuition reimbursement, free employee lunches, and on-site doctors. At its corporate headquarters in Mountain View, Calif., the company offers on-site services such as oil changes, car washes, massages, fitness classes, and a hair stylist. Its corporate culture helped it to consistently earn a high ranking on _Fortune_ magazine's list of ["100 Best Companies to Work For."](http://fortune.com/best-companies/)
+Alphabet (GOOGL), the parent of Google, is well known for its employee-friendly corporate culture. It explicitly defines itself as unconventional and offers perks such as telecommuting, [[flextime]](https://www.investopedia.com/terms/f/flextime.asp), tuition [[Reimbursement|reimbursement]], free employee lunches, and on-site doctors. At its corporate headquarters in Mountain View, Calif., the company offers on-site services such as oil changes, car washes, massages, fitness classes, and a hair stylist. Its corporate culture helped it to consistently earn a high ranking on _Fortune_ magazine's list of ["100 Best Companies to Work For."](http://fortune.com/best-companies/)
 
 ## History of Corporate Culture
 
@@ -34,7 +34,7 @@ Awareness of corporate or organizational culture in businesses and other organiz
 
 By 2015, corporate culture was not only created by the founders, management, and employees of a company, but was also influenced by national cultures and traditions, economic trends, international trade, company size, and products.
 
-There are a variety of terms that relate to companies affected by multiple cultures, especially in the wake of [[globalization]](https://www.investopedia.com/terms/g/globalization.asp) and the increased international interaction of today's business environment. As such, the term [[cross-culture]](https://www.investopedia.com/terms/c/cross-culture.asp) refers to “the interaction of people from different backgrounds in the business world”; [[culture shock]](https://www.investopedia.com/terms/c/culture-shock.asp) refers to the confusion or anxiety people experience when conducting business in a society other than their own; and reverse culture shock is often experienced by people who spend lengthy times abroad for business and have difficulty readjusting upon their return.
+There are a variety of terms that relate to companies affected by multiple cultures, especially in the wake of [[globalization]](https://www.investopedia.com/terms/g/[[Globalization|globalization]].asp) and the increased international interaction of today's business environment. As such, the term [[cross-culture]](https://www.investopedia.com/terms/c/cross-culture.asp) refers to “the interaction of people from different backgrounds in the business world”; [[culture shock]](https://www.investopedia.com/terms/c/culture-shock.asp) refers to the confusion or anxiety people experience when conducting business in a society other than their own; and reverse culture shock is often experienced by people who spend lengthy times abroad for business and have difficulty readjusting upon their [[Return|return]].
 
 To create positive cross-culture experiences and facilitate a more cohesive and productive corporate culture, companies often devote in-depth resources, including specialized training, that improves cross-culture business interactions.
 
@@ -44,7 +44,7 @@ The current awareness of corporate culture is more acute now than ever.
 
 Just as national cultures can influence and shape a corporate culture, so can a company’s management strategy. In top companies of the 21st century, such as Google, Apple Inc. (AAPL) and Netflix Inc. (NFLX), less traditional management strategies such as fostering creativity, collective problem solving, and greater employee freedom have been the norm and thought to contribute to their business success.
 
-Progressive policies such as comprehensive employee benefits and alternatives to hierarchical leadership—even doing away with closed offices and cubicles—are a trend that reflects a more tech-conscious, modern generation. This trend marks a change from aggressive, individualistic, and high-risk corporate cultures such as that of former energy company [Enron](https://www.investopedia.com/updates/enron-scandal-summary/).
+Progressive policies such as comprehensive employee benefits and alternatives to hierarchical leadership—even doing away with closed offices and cubicles—are a trend that reflects a more tech-conscious, modern generation. This trend marks a change from aggressive, individualistic, and high-[[Risk|risk]] corporate cultures such as that of former energy company [Enron](https://www.investopedia.com/updates/[[Enron|enron]]-scandal-summary/).
 
 High-profile examples of alternative management strategies that significantly affect corporate culture include [[holacracy]](https://www.holacracy.org/), which has been put to use at shoe company [[Zappos]](https://www.zapposinsights.com/about) (AMZN), and agile management techniques applied at music streaming company Spotify.
 
@@ -70,7 +70,7 @@ The term “corporate culture” refers to the beliefs and practices associated 
 
 ### What are some examples of corporate culture?
 
-There are many examples of companies with well-defined corporate cultures. Alphabet Inc. ([GOOGL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=GOOGL)), for example, is known for its employee-centric culture and its emphasis on working in a creative and flexible environment, whereas Amazon ([AMZN](https://www.investopedia.com/markets/quote?tvwidgetsymbol=AMZN)) is known for its relentless pursuit of customer service and operational efficiencies. Often, national cultures will play a role in determining the kind of corporate culture that is prevalent in society. For example, Japanese corporations are known for having markedly different corporate cultures as compared to those of American or European companies.
+There are many examples of companies with well-defined corporate cultures. Alphabet Inc. ([GOOGL](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=GOOGL)), for example, is known for its employee-centric culture and its emphasis on working in a creative and flexible environment, whereas Amazon ([AMZN](https://www.investopedia.com/markets/quote?tvwidgetsymbol=AMZN)) is known for its relentless pursuit of customer service and operational efficiencies. Often, national cultures [[Will|will]] play a role in determining the kind of corporate culture that is prevalent in society. For example, Japanese corporations are known for having markedly different corporate cultures as compared to those of American or European companies.
 
 ### Why is corporate culture important?
 

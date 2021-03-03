@@ -3,7 +3,7 @@ alias: [Trimmed Mean]
 created: 2021-03-03T00:09:09 (UTC +11:00)
 tags: [Trimmed Mean Definition, How the Trimmed Mean Is Used]
 source: https://www.investopedia.com/terms/t/trimmed_mean.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Trimmed Mean Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-How the Trimmed Mean Is Used
+[[How the Trimmed Mean Is Used]]
 ## What Is a Trimmed Mean?
 
 A trimmed [[mean]](https://www.investopedia.com/terms/m/mean.asp) (similar to an [[adjusted mean]](https://www.investopedia.com/terms/a/adjusted-mean.asp)) is a method of averaging that removes a small designated percentage of the largest and smallest values before calculating the mean. After removing the specified outlier observations, the trimmed mean is found using a standard arithmetic averaging formula. The use of a trimmed mean helps eliminate the influence of outliers or data points on the tails that may unfairly affect [[the traditional mean]](https://www.investopedia.com/terms/a/arithmeticmean.asp).
@@ -41,7 +41,7 @@ The levels that are trimmed from each tail may not be equitable, as these values
 
 The core of the CPI or PCE refers to the selected products minus prices associated with food or energy. Food and energy costs are generally considered the most volatile, also referred to as noisy, items within the data. Shifts in the non-core area are not necessarily indicative of overall inflationary activities.1 2
 
-When the data points are organized, they are placed in ascending order based on those prices that fell the most, to the prices that rose the most. Specific percentages are removed from the tails to help lower the effect of volatility on the overall CPI changes.
+When the data points are organized, they are placed in ascending order based on those prices that fell the most, to the prices that rose the most. Specific percentages are removed from the tails to help lower the effect of [[Volatility|volatility]] on the overall CPI changes.
 
 Providing a trimmed mean inflation rate along with other measures, provides a basis for comparison, allowing for a more thorough analysis of the inflation rates being experienced. This comparison may include the traditional CPI, the core CPI, a trimmed-mean CPI, and a median CPI.
 
