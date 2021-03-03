@@ -13,18 +13,18 @@ author: Andrew Bloomenthal
 
 ---
 
-Valuing Value-Based Pricing
-## What Is Value-Based Pricing?
+[[Valuing Value-Based Pricing]]
+## [[What Is Value]]-Based Pricing?
 
 Value-based pricing is a strategy of setting prices primarily based on a consumer's perceived [[value of a product]](https://www.investopedia.com/articles/investing/072115/why-these-are-most-valuable-brands-2015.asp) or service. Value pricing is customer-focused pricing, meaning companies base their pricing on how much the customer believes a product is worth.
 
-Value-based pricing is different than "cost-plus" pricing, which factors the costs of production into the pricing calculation. Companies that offer unique or highly valuable features or services are better positioned to take advantage of the value pricing model than companies which chiefly sell commoditized items.
+Value-based pricing is different than "cost-plus" pricing, which factors the costs of production into the pricing calculation. Companies that [[Offer|offer]] unique or highly valuable features or services are better positioned to take advantage of the value pricing model than companies which chiefly sell commoditized items.
 
 ### Key Takeaways
 
 -   Value-based pricing is a strategy of setting prices primarily based on a consumer's perceived value of the product or service in question.
 -   Value pricing is customer-focused pricing, meaning companies base their pricing on how much the customer believes a product is worth.
--   Companies that offer unique or highly valuable products and features are better positioned to take advantage of the value pricing model than companies which chiefly sell commoditized items.
+-   Companies that [[Offer|offer]] unique or highly valuable products and features are better positioned to take advantage of the value pricing model than companies which chiefly sell commoditized items.
 
 ## Understanding Value-Based Pricing
 

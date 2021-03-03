@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/v/valuation-mortality-table.asp
 author: Julia Kagan
 ---
 
-# Valuation Mortality Table Definition
+# [[Valuation Mortality Table Definition]]
 
 > ## Excerpt
 > Valuation Mortality Table is a statistical chart used by insurers to calculate the statutory reserve and cash surrender values of life insurance policies.
 
 ---
 
-Valuation Mortality Table Definition
+[[Valuation Mortality Table Definition]]
 ## What is the Valuation Mortality Table
 
-A valuation mortality table is a statistical chart that is used by insurance companies to calculate the statutory reserve and cash surrender values of life insurance policies. A mortality table shows the death rate at any given age in terms of the number of deaths that occur for every thousand individuals of that age; it provides statistics regarding the likelihood that a person of a given age will live X number of years. This allows the insurance company to assess risks in policies.
+A valuation mortality table is a statistical chart that is used by insurance companies to calculate the statutory reserve and cash surrender values of life insurance policies. A mortality table shows the death rate at any given age in terms of the number of deaths that occur for every thousand individuals of that age; it provides statistics regarding the likelihood that a person of a given age [[Will|will]] live X number of years. This allows the insurance company to assess risks in policies.
 
 ## Understanding Valuation Mortality Table
 
@@ -36,8 +36,8 @@ Mortality tables are used by insurers to determine your [[actuarial life expecta
 
 ## Example of Valuation Mortality Table
 
-Say, for example, a male non-smoker wants to buy a $100,000 life insurance policy at age 40. The insurer estimates with mortality tables that person will live, on average to age 81. So the insurer can count on 41 years of premium payments before it has to pay the death benefit. Maybe you'll die tomorrow or live to age 100. It doesn't matter to the insurer, which sells tens of thousands of policies every year and can count on the large number of policies to hew to the average on which it based the premiums.
+Say, for example, a male non-smoker wants to buy a $100,000 life insurance policy at age 40. The insurer estimates with mortality tables that person [[Will|will]] live, on average to age 81. So the insurer can count on 41 years of [[Premium|premium]] payments before it has to pay the death benefit. Maybe you'll die tomorrow or live to age 100. It doesn't matter to the insurer, which sells tens of thousands of policies every year and can count on the large number of policies to hew to the average on which it based the premiums.
 
 This is a simple example of how actuaries look at longevity, but there's much more to it. Actuaries have algorithms that take into account many other factors, for example, whether you have high blood pressure or cholesterol, your family history and more. However, the four major factors affecting longevity are: age, gender, smoking and health.
 
-Consumers can use [online calculators to get a rough estimate of their own actuarial age.](http://www.longevityillustrator.org/) This can be useful in financial planning and for when you decide to begin collecting [[Social Security]](https://www.investopedia.com/terms/s/social-security-benefits.asp), for example.
+Consumers can use [online calculators to get a rough estimate of their own actuarial age.](http://www.longevityillustrator.org/) This can be useful in financial planning and for when you decide to begin collecting [[Social Security]](https://www.investopedia.com/terms/s/social-[[Security|security]]-benefits.asp), for example.

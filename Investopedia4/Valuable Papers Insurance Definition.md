@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/v/valuable-papers-insurance.asp
 author: Julia Kagan
 ---
 
-# Valuable Papers Insurance Definition
+# [[Valuable Papers Insurance Definition]]
 
 > ## Excerpt
 > Valuable papers insurance is a type of property-casualty insurance that covers important documents such as wills and trusts.
 
 ---
 
-Valuable Papers Insurance Definition
+[[Valuable Papers Insurance Definition]]
 ## What Is Valuable Papers Insurance?
 
 Valuable papers insurance is a special type of [[property]](https://www.investopedia.com/terms/p/property-insurance.asp)\-[casualty insurance](https://www.investopedia.com/terms/c/casualtyinsurance.asp). Valuable papers insurance reimburses the policyholder for the monetary value of any valuable papers such as wills, trusts, or corporate charters that are lost for any reason, though it cannot actually replace these papers. It is often purchased by corporations, small businesses, and wealthy people.

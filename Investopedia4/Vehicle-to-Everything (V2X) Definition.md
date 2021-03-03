@@ -6,19 +6,19 @@ source: https://www.investopedia.com/terms/v/v2x-vehicletovehicle-or-vehicletoin
 author: Troy Segal
 ---
 
-# Vehicle-to-Everything (V2X) Definition
+# [[Vehicle-to-Everything (V2X) Definition]]
 
 > ## Excerpt
 > Vehicle-to-everything (V2X) is a form of technology that allows vehicles to communicate with other vehicles (V2V) or with infrastructure such as street lights or buildings (V2I).
 
 ---
 
-Vehicle-to-Everything (V2X) Definition
+[[Vehicle-to-Everything (V2X) Definition]]
 ## What Is Vehicle-to-Everything (V2X)?
 
 Vehicle-to-everything (V2X) is a technology that allows vehicles to communicate with moving parts of the traffic system around them. Also known as connected-vehicle-to-everything communication, it has several components.
 
-One component of this technology is called vehicle-to-vehicle (V2V) which allows vehicles to communicate with one another. Another component is vehicle to infrastructure (V2I) which allows vehicles to communicate with external systems such as street lights, buildings, and even cyclists or pedestrians. As this technology becomes more sophisticated in the future, what it is capable of will expand.
+One component of this technology is called vehicle-to-vehicle (V2V) which allows vehicles to communicate with one another. Another component is vehicle to infrastructure (V2I) which allows vehicles to communicate with external systems such as street lights, buildings, and even cyclists or pedestrians. As this technology becomes more sophisticated in the future, what it is capable of [[Will|will]] expand.
 
 ### Key Takeaways
 
@@ -38,15 +38,15 @@ From an economic standpoint, the market potential for V2X technology is huge. Si
 
 ### Note
 
-According to the business research firm IHS Merkit, the predicted number of vehicles equipped with a V2X system in 2024 will be $11.2 million.
+According to the business research firm IHS Merkit, the predicted number of vehicles equipped with a V2X system in 2024 [[Will|will]] be $11.2 million.
 
 ## How Common is Vehicle-to-Everything (V2X)?
 
-The V2X market is relatively nascent, and many of the system's benefits will not be fully realized until the market expands. In order for a V2X vehicle to communicate with another vehicle or roadside object, that object must also use V2X technology. Many traffic systems don't have V2X systems in place, which means that vehicles that do have the technology cannot communicate with them. However, as V2X systems become more common, vehicles are expected to be able to communicate not only with traffic systems but also with cyclists and even pedestrians who carry V2X devices.
+The V2X market is relatively nascent, and many of the system's benefits [[Will|will]] not be fully realized until the market expands. In order for a V2X vehicle to communicate with another vehicle or roadside object, that object must also use V2X technology. Many traffic systems don't have V2X systems in place, which means that vehicles that do have the technology cannot communicate with them. However, as V2X systems become more common, vehicles are expected to be able to communicate not only with traffic systems but also with cyclists and even pedestrians who carry V2X devices.
 
 Vehicle-to-everything technology is expected to grow significantly over the next 20 years, as many top V2X suppliers, such as Delphi, Denso, Qualcomm, and Continental, have large-scale integration plans. Many new car models use some form of V2X technology, especially luxury brands. Vehicle-to-everything systems are expected to eventually be added to lower-priced vehicles as well.
 
-Vehicle-to-everything technology will be particularly prominent in autonomous vehicles, which scan the immediate environment for risks and make decision based on this data. Vehicle-to-everything systems also transcend harsh weather conditions that impact autonomous vehicles.
+Vehicle-to-everything technology [[Will|will]] be particularly prominent in autonomous vehicles, which scan the immediate environment for risks and make decision based on this data. Vehicle-to-everything systems also transcend harsh weather conditions that impact autonomous vehicles.
 
 ## Real World Example of Vehicle-to-Everything (V2X)
 

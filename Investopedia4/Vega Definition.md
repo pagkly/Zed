@@ -6,41 +6,41 @@ source: https://www.investopedia.com/terms/v/vega.asp
 author: James Chen
 ---
 
-# Vega Definition
+# [[Vega Definition]]
 
 > ## Excerpt
-> Vega is a measurement of an option's sensitivity to changes in the volatility of the underlying asset.
+> Vega is a measurement of an option's sensitivity to changes in the [[Volatility|volatility]] of the [[Underlying|underlying]] asset.
 
 ---
 
-Vega Definition
+[[Vega Definition]]
 ## What is Vega
 
-Vega is the measurement of an option's price sensitivity to changes in the volatility of the [[underlying asset]](https://www.investopedia.com/terms/u/underlying-asset.asp). Vega represents the amount that an option contract's price changes in reaction to a 1% change in the [[implied volatility]](https://www.investopedia.com/terms/i/iv.asp) of the underlying asset.
+Vega is the measurement of an option's price sensitivity to changes in the [[Volatility|volatility]] of the [[underlying asset]](https://www.investopedia.com/terms/u/[[Underlying|underlying]]-asset.asp). Vega represents the amount that an option contract's price changes in reaction to a 1% change in the [[implied volatility]](https://www.investopedia.com/terms/i/iv.asp) of the underlying asset.
 
 ### Key Takeaways
 
--   Vega measures an option price's value relative to changes in implied volatility of an underlying asset.
+-   Vega measures an option price's value relative to changes in implied [[Volatility|volatility]] of an [[Underlying|underlying]] asset.
 -   Options that are long have positive Vega while options that are short have negative Vega.
 
 ## Basics of Vega
 
-Volatility measures the amount and speed at which price moves up and down, and can be based on recent changes in price, historical price changes, and expected price moves in a trading instrument. Future-dated options have positive Vega while options that are expiring immediately have negative Vega. The reason for these values are fairly obvious. Option holders tend to assign greater premiums for options expiring in the future than to those which expire immediately.
+[[Volatility]] measures the amount and speed at which price moves up and down, and can be based on recent changes in price, historical price changes, and expected price moves in a trading instrument. Future-dated options have positive Vega while options that are expiring immediately have negative Vega. The reason for these values are fairly obvious. Option holders tend to assign greater premiums for options expiring in the future than to those which expire immediately.
 
-Vega changes when there are large price movements (increased volatility) in the underlying asset, and falls as the option approaches expiration. Vega is one of a group of [Greeks](https://www.investopedia.com/terms/g/greeks.asp) used in options analysis. They are also used by some traders to hedge against implied volatility. If the vega of an option is greater than the [bid-ask spread](https://www.investopedia.com/terms/b/bid-askspread.asp), then the option is said to offer a competitive spread. The opposite is also true. Vega also lets us know how much the price of the option could swing based on changes in the underlying asset's volatility. 
+Vega changes when there are large price movements (increased [[Volatility|volatility]]) in the [[Underlying|underlying]] asset, and falls as the option approaches expiration. Vega is one of a group of [Greeks](https://www.investopedia.com/terms/g/greeks.asp) used in options analysis. They are also used by some traders to [[Hedge|hedge]] against implied volatility. If the vega of an option is greater than the [bid-ask spread](https://www.investopedia.com/terms/b/bid-askspread.asp), then the option is said to [[Offer|offer]] a competitive spread. The opposite is also true. Vega also lets us know how much the price of the option could swing based on changes in the underlying asset's volatility. 
 
-## Implied Volatility
+## Implied [[Volatility]]
 
-Vega measures the theoretical price change for each percentage point move in implied volatility. Implied volatility is calculated using an [[option pricing model]](https://www.investopedia.com/terms/o/optionpricingtheory.asp) that determines what the current market prices are estimating an underlying asset's future volatility to be. Since implied volatility is a projection, it may deviate from actual future volatility.
+Vega measures the theoretical price change for each percentage point move in implied [[Volatility|volatility]]. Implied volatility is calculated using an [[option pricing model]](https://www.investopedia.com/terms/o/optionpricingtheory.asp) that determines what the current market prices are estimating an [[Underlying|underlying]] asset's future volatility to be. Since implied volatility is a projection, it may deviate from actual future volatility.
 
 Just as price moves are not always uniform, neither is vega. Vega changes over time. Therefore, the traders who use it monitor it regularly. As mentioned, options approaching expiration tend to have lower vegas compared to similar options that are further away from expiration
 
 ## Example of Vega
 
-If the vega of an option is greater than the [[bid-ask spread]](https://www.investopedia.com/terms/b/bid-askspread.asp), then the option is said to offer a competitive spread. The opposite is also true.
+If the vega of an option is greater than the [[bid-ask spread]](https://www.investopedia.com/terms/b/bid-askspread.asp), then the option is said to [[Offer|offer]] a competitive spread. The opposite is also true.
 
-Vega also lets us know how much the price of the option could swing based on changes in the underlying asset's volatility.
+Vega also lets us know how much the price of the option could swing based on changes in the [[Underlying|underlying]] asset's [[Volatility|volatility]].
 
-Assume hypothetical stock ABC is trading at $50 per share in January and a February $52.50 [[call option]](https://www.investopedia.com/terms/c/calloption.asp) has a bid price of $1.50 and an ask price of $1.55. Assume that the vega of the option is 0.25 and the implied volatility is 30%. The call options are offering a competitive spread: the spread is smaller than the vega. That does not mean the option is a good trade, or that it will make the option buyer money. This is just one consideration, as too high of a spread could make getting into and out of trades more difficult or costly. 
+Assume hypothetical [[Stock|stock]] ABC is trading at $50 per share in January and a February $52.50 [[call option]](https://www.investopedia.com/terms/c/calloption.asp) has a bid price of $1.50 and an ask price of $1.55. Assume that the vega of the option is 0.25 and the implied [[Volatility|volatility]] is 30%. The call options are [[Offering|offering]] a competitive spread: the spread is smaller than the vega. That does not mean the option is a good trade, or that it [[Will|will]] make the option buyer money. This is just one consideration, as too high of a spread could make getting into and out of trades more difficult or costly. 
 
-If the implied volatility increases to 31%, then the option's bid price and ask price should increase to $1.75 and $1.80, respectively (1 x $0.25 added to bid-ask spread). If the implied volatility decreased by 5%, then the bid price and ask price should theoretically drop to $0.25 by $0.30 (5 x $0.25 = $1.25, which is subtracted from $1.50 and $1.55). Increased volatility makes option prices move expensive, while decreasing volatility makes options drop in price.
+If the implied [[Volatility|volatility]] increases to 31%, then the option's bid price and ask price should increase to $1.75 and $1.80, respectively (1 x $0.25 added to bid-ask spread). If the implied volatility decreased by 5%, then the bid price and ask price should theoretically drop to $0.25 by $0.30 (5 x $0.25 = $1.25, which is subtracted from $1.50 and $1.55). Increased volatility makes option prices move expensive, while decreasing volatility makes options drop in price.
