@@ -193,13 +193,14 @@ txtfiles = []
 for file in glob.glob(os.path.join(obsidian_home,"*.md")):
     print(file)
     f = open(file, "r")
-    print(f)
-    time.sleep(3600)
+    fc=f.read()
+    print(fc)
+    #time.sleep(3600)
     # prepare our linked text output
     linked_txt = ""
 
     if paragraph_mode:
-        for paragraph in f.split("\n"):
+        for paragraph in fc.split("\n"):
             linked_txt += link_content(paragraph) + "\n"
         linked_txt = linked_txt[:-1] # scrub the last newline
     else:
