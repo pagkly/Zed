@@ -6,31 +6,31 @@ source: https://www.investopedia.com/terms/l/lilly-ledbetter-fair-pay-act.asp
 author: Daniel Kurt
 ---
 
-# Lilly Ledbetter Fair Pay Act Definition
+# [[Lilly Ledbetter Fair Pay Act]] Definition
 
 > ## Excerpt
-> The Lilly Ledbetter Fair Pay Act of 2009 bolstered worker protections against pay discrimination.
+> The [[Lilly Ledbetter Fair Pay Act]] of 2009 bolstered worker protections against pay discrimination.
 
 ---
 
-Lilly Ledbetter Fair Pay Act
-## What Is the Lilly Ledbetter Fair Pay Act?
+[[Lilly Ledbetter Fair Pay Act]]
+## What Is the [[Lilly Ledbetter Fair Pay Act]]?
 
-The Lilly Ledbetter Fair Pay Act of 2009 is a law enacted by Congress that bolstered worker protections against pay discrimination. The act allows individuals who face pay discrimination to seek rectification under federal anti-discrimination laws.
+The [[Lilly Ledbetter Fair Pay Act]] of 2009 is a law enacted by Congress that bolstered worker protections against pay discrimination. The act allows individuals who face pay discrimination to seek rectification under federal anti-discrimination laws.
 
-The law clarifies that discrimination based on age, religion, national origin, race, sex, and disability will “accrue” every time the employee receives a paycheck that is deemed discriminatory. It was the first bill that President Barack Obama signed into law and is [[one of a number of federal laws designed to protect the rights of workers]](https://www.investopedia.com/articles/personal-finance/120914/8-federal-laws-protect-employees.asp).1
+The law clarifies that discrimination based on age, religion, national origin, race, sex, and disability [[Will|will]] “accrue” every time the employee receives a paycheck that is deemed discriminatory. It was the first bill that President Barack Obama signed into law and is [[one of a number of federal laws designed to protect the rights of workers]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/120914/8-federal-laws-protect-employees.asp).1
 
 ### Key Takeaways
 
--   The Lilly Ledbetter Fair Pay Act addressed wage discrimination on the basis of age, religion, national origin, race, sex, and disability.
+-   The [[Lilly Ledbetter Fair Pay Act]] addressed wage discrimination on the basis of age, religion, national origin, race, sex, and disability.
 -   This act supplanted a Supreme Court ruling that wage discrimination cases must be filed within 180 days of the start of the discrimination.
--   The Lilly Ledbetter Fair Pay Act effectively resets the clock by saying that wage discrimination cases can be filed within 180 days of the last paycheck in which the discrimination occurs.
+-   The [[Lilly Ledbetter Fair Pay Act]] effectively resets the clock by saying that wage discrimination cases can be filed within 180 days of the last paycheck in which the discrimination occurs.
 
-## Understanding the Lilly Ledbetter Fair Pay Act
+## Understanding the [[Lilly Ledbetter Fair Pay Act]]
 
-The Lilly Ledbetter Fair Pay Act reinstated the protection against pay discrimination that had been removed by the Supreme Court in _Ledbetter v. Goodyear Tire and Rubber Co._ in 2007.2 It restored previous protections regarding the equal treatment of employees, most notably Title VII of the [[Civil Rights Act of 1964]](https://www.investopedia.com/terms/c/civil-rights-act-1964.asp). The 2009 statute clarified that any inequitable payment is unlawful, even if it is the result of a pay decision made in the past.1
+The [[Lilly Ledbetter Fair Pay Act]] reinstated the protection against pay discrimination that had been removed by the Supreme Court in _Ledbetter v. Goodyear Tire and Rubber Co._ in 2007.2 It restored previous protections regarding the equal treatment of employees, most notably Title VII of the [[Civil Rights Act of 1964]](https://www.investopedia.com/terms/c/civil-rights-act-1964.asp). The 2009 statute clarified that any inequitable payment is unlawful, even if it is the result of a pay decision made in the past.1
 
-The act is named in honor of Lilly Ledbetter, a former manager at a Goodyear Tire & Rubber Co. plant in Alabama. After Ledbetter discovered that her male peers were receiving substantially higher pay for similar roles, she filed a complaint with the [[Equal Employment Opportunity Commission (EEOC)]](https://www.investopedia.com/terms/e/equal-employment-opportunity-commission-eeoc.asp). In 1998 Ledbetter filed an equal-pay lawsuit alleging pay discrimination on the basis of sex under Title VII of the Civil Rights Act of 1964. The trial jury awarded her back pay and more than $3.3 million in compensatory and punitive damages.2
+The act is named in honor of Lilly Ledbetter, a former manager at a Goodyear Tire & Rubber Co. plant in Alabama. After Ledbetter discovered that her male peers were receiving substantially higher pay for similar roles, she filed a complaint with the [[Equal Employment Opportunity Commission (EEOC)]](https://www.investopedia.com/terms/e/equal-employment-opportunity-[[Commission|commission]]-eeoc.asp). In 1998 Ledbetter filed an equal-pay lawsuit alleging pay discrimination on the basis of sex under Title VII of the Civil Rights Act of 1964. The trial jury awarded her back pay and more than $3.3 million in compensatory and punitive damages.2
 
 However, the Supreme Court upheld a lower court ruling that said claims like Ledbetter’s had to be filed within 180 days of an employer’s decision to pay a worker less, even if the worker didn’t learn about the unfair pay until much later. As a result, Ledbetter never collected any kind of settlement from Goodyear.2
 

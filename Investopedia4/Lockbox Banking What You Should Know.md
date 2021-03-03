@@ -40,7 +40,7 @@ On the other hand, lockbox banking can also be very risky. Bank employees who ha
 
 Businesses using lockbox banking can substantially lower their internal processing costs, speed up collections and convert their receivables into cash more quickly. There is no need for businesses to prepare their own [[bank deposits]](https://www.investopedia.com/terms/b/bank-deposits.asp) or maintain accounting records because that is done automatically through lockbox banking.
 
-Part of the lockbox processing is done on a daily basis, so businesses can increase their control and efficiency in receivables management while improving audit controls and data security. Businesses benefit from enhanced reporting capabilities with daily access to deposit amounts, fund availability and payment information, including electronic images of processed payments and coupons.
+Part of the lockbox processing is done on a daily basis, so businesses can increase their control and efficiency in receivables management while improving audit controls and data [[Security|security]]. Businesses benefit from enhanced reporting capabilities with daily access to deposit amounts, fund availability and payment information, including electronic images of processed payments and coupons.
 
 ## _Key Takeaways_
 

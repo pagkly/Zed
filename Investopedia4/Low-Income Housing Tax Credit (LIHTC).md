@@ -6,23 +6,23 @@ source: https://www.investopedia.com/terms/l/long-income-housing-tax-credit.asp
 author: Julia Kagan
 ---
 
-# Low-Income Housing Tax Credit (LIHTC) Definition
+# [[Low-Income Housing Tax Credit (LIHTC)]] Definition
 
 > ## Excerpt
-> The Low-Income Housing Tax Credit (LIHTC) provides an incentive for home developers to build, buy, and refurbish housing for low-income taxpayers.
+> The [[Low-Income Housing Tax Credit (LIHTC)]] provides an incentive for home developers to build, buy, and refurbish housing for low-income taxpayers.
 
 ---
 
-Low-Income Housing Tax Credit (LIHTC)
-## What Is the Low-Income Housing Tax Credit (LIHTC)?
+[[Low-Income Housing Tax Credit (LIHTC)]]
+## What Is the [[Low-Income Housing Tax Credit (LIHTC)]]?
 
-The Low-Income Housing Tax Credit (LIHTC) is a [[tax incentive]](https://www.investopedia.com/terms/t/taxcredit.asp) for housing developers to construct, purchase, or renovate housing for low-income individuals and families. The Low-Income Housing Tax Credit was written into the [[Tax Reform Act of 1986]](https://www.investopedia.com/terms/t/taxreformact1986.asp).1
+The [[Low-Income Housing Tax Credit (LIHTC)]] is a [[tax incentive]](https://www.investopedia.com/terms/t/taxcredit.asp) for housing developers to construct, purchase, or renovate housing for low-income individuals and families. The Low-Income Housing Tax Credit was written into the [[Tax Reform Act of 1986]](https://www.investopedia.com/terms/t/taxreformact1986.asp).1
 
 There are specific qualifications residents must fulfill to benefit from these types of housing projects, including maximum income guidelines.
 
 ### Key Takeaways
 
--   The Low-Income Housing Tax Credit (LIHTC) subsidizes the creation of low-income housing by offering a 10-year tax credit to these projects.2
+-   The [[Low-Income Housing Tax Credit (LIHTC)]] subsidizes the creation of low-income housing by [[Offering|offering]] a 10-year tax credit to these projects.2
 -   The LIHTC is managed by the federal government and funds are allocated to states according to their population.
 -   To qualify for the LIHTC, a project must commit to renting to tenants earning less on average than the median income in the area for a 15-year period.3
 -   At the state level, there are usually more eligible projects competing for credits than there are credits.
@@ -31,9 +31,9 @@ There are specific qualifications residents must fulfill to benefit from these
 
 The Low-Income Housing Tax Credit also provides an income incentive for those who invest in low-income housing projects. It is intended to stimulate the creation of more housing for low and middle-income families in communities that would otherwise be out of reach. Typically, the dwelling types that receive the Low-Income Housing Tax Credit are multi-family properties.
 
-There are two main types of credits available. The first is a 9% credit, which can only be used if the building project will have no other credits or government subsidies applied to it. The second type is a 4% credit, which can be used in conjunction with additional tax credits. These credits are applied over a ten-year period and can cover almost the entirety of the taxable expense for the building.4
+There are two main types of credits available. The first is a 9% credit, which can only be used if the building project [[Will|will]] have no other credits or government subsidies applied to it. The second type is a 4% credit, which can be used in conjunction with additional tax credits. These credits are applied over a ten-year period and can cover almost the entirety of the taxable expense for the building.4
 
-The tax credits are allocated to each state by the federal government. From there, each state may choose which developers can take advantage of these credits for their housing projects. Not every developer or investor will be able to take advantage of this program as there are more applications than available permits issued for construction.
+The tax credits are allocated to each state by the federal government. From there, each state may choose which developers can take advantage of these credits for their housing projects. Not every developer or investor [[Will|will]] be able to take advantage of this program as there are more applications than available permits issued for construction.
 
 ## Qualifying for the Low-Income Housing Tax Credit
 
@@ -53,4 +53,4 @@ While the Low-Income Housing Tax Credit is intended to spur the creation of more
 
 The income qualifications can be found on [[HUD’s web site]](https://www.hud.gov/topics/rental_assistance) and they are subject to change as wages grow or decline in a given area. A prospective renter must earn less than 50 percent of the median income in their area to qualify. While the aid is available to single renters as well as families, there are qualifications for room counts in prospective homes and single renters may be excluded from a housing project due to lack of availability of properly sized units.6
 
-Low-income housing should not be confused with [[affordable housing]](https://www.investopedia.com/articles/mortgages-real-estate/10/affordable-housing.asp), which is for families who are spending more than 30 percent of their income on housing.7
+Low-income housing should not be confused with [[affordable housing]](https://www.investopedia.com/articles/mortgages-real-[[Estate|estate]]/10/affordable-housing.asp), which is for families who are spending more than 30 percent of their income on housing.7

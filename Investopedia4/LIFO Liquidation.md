@@ -3,35 +3,35 @@ alias: [LIFO Liquidation]
 created: 2021-03-02T21:19:45 (UTC +11:00)
 tags: [LIFO Liquidation Definition, LIFO Liquidation]
 source: https://www.investopedia.com/terms/l/lifoliquidation.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# LIFO Liquidation Definition
+# [[LIFO Liquidation]] Definition
 
 > ## Excerpt
-> LIFO liquidation occurs when a company that uses the last-in, first-out (LIFO) inventory costing method liquidates its older LIFO inventory.
+> [[LIFO Liquidation|LIFO liquidation]] occurs when a company that uses the last-in, first-out (LIFO) inventory costing method liquidates its older LIFO inventory.
 
 ---
 
-LIFO Liquidation
-## What Is a LIFO Liquidation?
+[[LIFO Liquidation]]
+## What Is a [[LIFO Liquidation]]?
 
-A LIFO liquidation is when a company sells the most recently acquired inventory first. It occurs when a company that uses the [[last-in, first-out]](https://www.investopedia.com/terms/l/lifo.asp) (LIFO) inventory costing method liquidates its older LIFO inventory. A LIFO liquidation occurs when current sales exceed purchases, resulting in the liquidation of any inventory not sold in a previous period. 
+A [[LIFO Liquidation|LIFO liquidation]] is when a company sells the most recently acquired inventory first. It occurs when a company that uses the [[last-in, first-out]](https://www.investopedia.com/terms/l/lifo.asp) (LIFO) inventory costing method liquidates its older LIFO inventory. A LIFO liquidation occurs when current sales exceed purchases, resulting in the liquidation of any inventory not sold in a previous period. 
 
 ### Key Takeaways
 
--   _A LIFO liquidation is when a company sells its newest inventory first._
+-   _A [[LIFO Liquidation|LIFO liquidation]] is when a company sells its newest inventory first._
 -   _It is an accounting method that uses the last-in, first-out (LIFO) inventory costing method._
 -   _LIFO matches the most recent costs against current revenues._
 -   _Some companies use the LIFO method during periods of inflation when the cost to purchase inventory increases over time._
 
-## How a LIFO Liquidation Works
+## How a [[LIFO Liquidation]] Works
 
 The LIFO method is a financial practice in which a company sells the most recent inventory purchased first. LIFO matches the most recent costs against current [[revenues]](https://www.investopedia.com/articles/analyst/071502.asp). Some companies use the LIFO method during periods of inflation when the cost to purchase inventory increases over time. The LIFO method provides tax benefits as the higher costs associated with new inventories seemingly offset profits, resulting in a lower tax burden.
 
-## LIFO Liquidation Example
+## [[LIFO Liquidation]] Example
 
-ABC Company uses the LIFO method of inventory accounting for its domestic stores. It purchased 1 million units of a product annually for three years. The per-unit cost is $10 in year one, $12 in year two, and $14 in year three, and ABC sells each unit for $50. It sold 500,000 units of the product in each of the first three years, leaving a total of 1.5 million units on hand. Assuming that demand will remain constant, it only purchases 500,000 units in year four at $15 per unit. 
+ABC Company uses the LIFO method of inventory accounting for its domestic stores. It purchased 1 million units of a product annually for three years. The per-unit cost is $10 in year one, $12 in year two, and $14 in year three, and ABC sells each unit for $50. It sold 500,000 units of the product in each of the first three years, leaving a total of 1.5 million units on hand. Assuming that demand [[Will|will]] remain constant, it only purchases 500,000 units in year four at $15 per unit. 
 
 **Year of Purchase**
 
@@ -85,7 +85,7 @@ Despite its forecast, consumer demand for the product increased; ABC sold 1,000,
 
 **COGS**
 
-**Gross Profit (Revenues - COGS)** 
+**[[Gross Profit]] (Revenues - COGS)** 
 
   
 
