@@ -13,7 +13,7 @@ author: James Chen
 
 ---
 
-National Association of Investors Corp. (BetterInvesting) Definition
+[[National Association of Investors Corp. (BetterInvesting) Definition]]
 ## What Is the National Association of Investors Corp.?
 
 The National Association of Investors Corp. (NAIC) is a nonprofit organization founded in 1951, and dedicated to providing investor education and promote investor success. The association is based in Madison Heights, Mich., and is composed of [[investing clubs]](https://www.investopedia.com/terms/i/investmentclub.asp) along with individual investors from around the United States. The organization today goes mainly by the name BetterInvesting.
@@ -30,9 +30,9 @@ It should not be confused with the [[National Association of Insurance Commissio
 
 The National Association of Investors Corp. (NAIC), better known publicly by its brand "BetterInvesting", is a Michigan-based [501(c)(3) nonprofit](https://www.investopedia.com/terms/1/501c3-organizations.asp) organization whose aim is to teach and train individuals how to become more successful long-term investors. The NAIC is an umbrella organization that had about 4,000 member [[investment clubs]](https://www.investopedia.com/terms/i/investmentclub.asp) and more than 40,000 individual members at the end of 2019.1 The original name of the NAIC was the National Association of Investment Clubs.
 
-The National Association of Investors Corp.’s member magazine is called _BetterInvesting,_ and it became the branded name of the association in 2004. The organization was founded in 1951 when five investment clubs formed the national association. Its mission is to educate individuals on the benefits of long-term investing in common stocks. With the popularity of [401(k)s](https://www.investopedia.com/401k-4689694) and other defined-contribution retirement plans, education regarding stock and bond mutual funds was added.
+The National Association of Investors Corp.’s member magazine is called _BetterInvesting,_ and it became the branded name of the association in 2004. The organization was founded in 1951 when five investment clubs formed the national association. Its mission is to educate individuals on the benefits of long-term investing in common [[Stocks|stocks]]. With the popularity of [401(k)s](https://www.investopedia.com/401k-4689694) and other defined-contribution retirement plans, education regarding [[Stock|stock]] and bond mutual funds was added.
 
-Depending on their membership level, members have access to online tools for determining whether a stock is that of a quality growth company and is selling at a price that will provide sufficient potential return. Members also receive educational webinars, First Cut stock studies contributed by the BetterInvesting community, digital and print editions of _BetterInvesting Magazine_, local chapter support, and other products and services.
+Depending on their membership level, members have access to online tools for determining whether a [[Stock|stock]] is that of a quality [[Growth Company|growth company]] and is selling at a price that [[Will|will]] provide sufficient potential [[Return|return]]. Members also receive educational webinars, First Cut stock studies contributed by the BetterInvesting community, digital and print editions of _BetterInvesting Magazine_, local chapter support, and other products and services.
 
 ## NAIC Core Principles
 
@@ -41,13 +41,13 @@ The National Association of Investors Corp. stresses four principles for success
 -   Invest regularly, regardless of market conditions;
 -   Reinvest all earnings;
 -   Invest in [[growth companies]](https://www.investopedia.com/terms/g/growthcompany.asp) (and growth mutual funds); and
--   Diversify to reduce risk.
+-   Diversify to reduce [[Risk|risk]].
 
 The heart of the National Association of Investors Corp. Investment approach to investing is the third principle — investing in growth companies.
 
-The primary tool NAIC uses to evaluate common stocks is a two-page form with a semi-log graph on the front called the Stock Selection Guide (SSG). The SSG dates to the founding of the organization and was created by George A. Nicholson. The SSG displays a company's 10-year sales and earnings per share history, pretax profit margins and return on equity; five-year annual high and low price-earnings ratios and other important information meant to answer two questions:
+The primary tool NAIC uses to evaluate common [[Stocks|stocks]] is a two-page form with a semi-log graph on the front called the [[Stock]] Selection Guide (SSG). The SSG dates to the founding of the organization and was created by George A. Nicholson. The SSG displays a company's 10-year sales and earnings per share history, pretax profit margins and [[Return|return]] on [[Equity|equity]]; five-year annual high and low price-earnings ratios and other important information meant to answer two questions:
 
 1.  Is this a well-managed company?
-2.  Is the stock selling at a reasonable price?
+2.  Is the [[Stock|stock]] selling at a reasonable price?
 
 The second principle was added and emphasized in the 1980s and '90s.

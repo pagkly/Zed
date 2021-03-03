@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/n/near-field-communication-nfc.asp
 author: Carla Tardi
 ---
 
-# Near Field Communication (NFC) Definition
+# [[Near Field Communication (NFC) Definition]]
 
 > ## Excerpt
 > Near-field communication (NFC) is a short-range wireless connectivity technology that lets NFC-enabled devices communicate with each other.
 
 ---
 
-Near Field Communication (NFC) Definition
+[[Near Field Communication (NFC) Definition]]
 ## What Is Near-Field Communication (NFC)?
 
 Near-field communication (NFC) is a short-range wireless technology that makes your smartphone, tablet, wearables, payment cards, and other devices even smarter. Near-field communication is the ultimate in connectivity. With NFC, you can transfer information between devices quickly and easily with a single touch—whether paying bills, exchanging business cards, downloading coupons, or sharing a research paper.
@@ -35,9 +35,9 @@ In fact, even after NFC technology becomes universal, users may still need to ca
 
 ## Near-Field Communication: History
 
-Perhaps near-field communication is best known as the technology that lets consumers pay retailers and each other with their cell phones. NFC drives payment services like [[Google Wallet (NASDAQ: GOOG)]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=GOOG) and [[Apple Pay (NASDAQ: AAPL)]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=AAPL), for example. Although NFC is not currently present in the [[Amazon Echo (NASDAQ: AMZN)]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=AMZN), this is a good example of where near-field communications could be useful. Take wanting to tap-to-pay for a pizza (or anything) that you just ordered through the Echo, for example. 
+Perhaps near-field communication is best known as the technology that lets consumers pay retailers and each other with their cell phones. NFC drives payment services like [[Google Wallet (NASDAQ: GOOG)]](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=GOOG) and [[Apple Pay (NASDAQ: AAPL)]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=AAPL), for example. Although NFC is not currently present in the [[Amazon Echo (NASDAQ: AMZN)]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=AMZN), this is a good example of where near-field communications could be useful. Take wanting to tap-to-pay for a pizza (or anything) that you just ordered through the Echo, for example. 
 
-Near-field communication technology is rooted in radio-frequency identification (RFID), which has been used for decades by retailers to tag and track products within stores. Near-field communication technology began to gain steam in 2004 when [[Nokia (NYSE: NOK)]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=NOK), [[Philips (NYSE: PHG)]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=PHG), and [[Sony (NYSE: SNE)]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=SNE) banded together to form the [[NFC Forum]](https://nfc-forum.org/), a nonprofit organization that's committed to bringing the convenience of NFC technology to all aspects of life. In 2006, the Forum formally outlined the architecture for NFC technology, whose specifications continue to provide a road map for all interested parties to create powerful new consumer-driven products.
+Near-field communication technology is rooted in radio-frequency identification (RFID), which has been used for decades by retailers to tag and track products within stores. Near-field communication technology began to [[Gain|gain]] steam in 2004 when [[Nokia (NYSE: NOK)]](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=NOK), [[Philips (NYSE: PHG)]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=PHG), and [[Sony (NYSE: SNE)]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=SNE) banded together to form the [[NFC Forum]](https://nfc-forum.org/), a nonprofit organization that's committed to bringing the convenience of NFC technology to all aspects of life. In 2006, the Forum formally outlined the architecture for NFC technology, whose specifications continue to provide a road map for all interested parties to create powerful new consumer-driven products.
 
 Nokia released the first NFC-enabled phone in 2007, and by 2010, the telecommunications sector had launched more than 100 NFC pilot projects. In 2017, New York City's Metropolitan Transit Authority (MTA) phased in a system that enables riders to pay their subway fares with NFC technology; and the rest, as they say, "is history."
 
@@ -47,7 +47,7 @@ With its ever-expanding boundaries, near-field communications have a wide variet
 
 NFC is behind the cards that we wave over card readers in subway turnstiles and on buses. It is present in speakers, household appliances, and other electronic devices that we monitor and control through our smartphones. With just a touch, NFC can also set up WiFi and Bluetooth devices throughout our homes.
 
-## NFCs Offer Near- and Long-Term Solutions
+## NFCs [[Offer]] Near- and Long-Term Solutions
 
 Near-field communications are proving useful in numerous industries and have far-reaching implications.
 

@@ -13,22 +13,22 @@ author: Carla Tardi
 
 ---
 
-Moore's Law Explained
+[[Moore's Law Explained]]
 ## What Is Moore's Law?
 
-Moore's Law refers to Moore's perception that the number of transistors on a microchip doubles every two years, though the cost of computers is halved. Moore's Law states that we can expect the speed and capability of our computers to increase every couple of years, and we will pay less for them. Another tenet of Moore's Law asserts that this growth is exponential.
+Moore's Law refers to Moore's perception that the number of transistors on a microchip doubles every two years, though the cost of computers is halved. Moore's Law states that we can expect the speed and capability of our computers to increase every couple of years, and we [[Will|will]] pay less for them. Another tenet of Moore's Law asserts that this growth is exponential.
 
 ## Understanding Moore's Law
 
-In 1965, Gordon E. Moore—co-founder of [[Intel (NASDAQ: INTC]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=intc))—postulated that the number of transistors that can be packed into a given unit of space will double about every two years.1 2 Today, however, the doubling of installed transistors on silicon chips occurs at a pace faster than every two years.3
+In 1965, Gordon E. Moore—co-founder of [[Intel (NASDAQ: INTC]](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=intc))—postulated that the number of transistors that can be packed into a given unit of space [[Will|will]] double about every two years.1 2 Today, however, the doubling of installed transistors on silicon chips occurs at a pace faster than every two years.3
 
 ## Background
 
-Gordon Moore did not call his observation "Moore's Law," nor did he set out to create a "law." Moore made that statement based on noticing emerging trends in chip manufacturing at Intel. Eventually, Moore's insight became a prediction, which in turn became the golden rule known as Moore's Law.
+Gordon Moore did not call his observation "Moore's Law," nor did he set out to create a "law." Moore made that statement based on noticing emerging trends in chip [[Manufacturing|manufacturing]] at Intel. Eventually, Moore's insight became a prediction, which in turn became the golden rule known as Moore's Law.
 
 ## From Prediction to Truism
 
-In the decades that followed Gordon Moore's original observation, [[Moore's Law guided the semiconductor industry]](https://www.investopedia.com/ask/answers/042115/what-impact-does-moores-law-have-electronic-sector.asp) in long-term planning and setting targets for research and development (R&D). Moore's Law has been a driving force of technological and social change, productivity, and economic growth that are hallmarks of the late-twentieth and early twenty-first centuries.
+In the decades that followed Gordon Moore's original observation, [[Moore's Law guided the semiconductor industry]](https://www.investopedia.com/ask/answers/042115/what-impact-does-moores-law-have-electronic-sector.asp) in long-term planning and setting targets for research and development (R&D). Moore's Law has been a driving force of technological and social change, [[Productivity|productivity]], and economic growth that are hallmarks of the late-twentieth and early twenty-first centuries.
 
 Moore's Law implies that computers, machines that run on computers, and computing power all become smaller, faster, and cheaper with time, as transistors on integrated circuits become more efficient.1
 
@@ -64,7 +64,7 @@ Experts agree that computers should reach the physical limits of Moore's Law at 
 
 The vision of an endlessly empowered and interconnected future brings both challenges and benefits. Shrinking transistors have powered advances in computing for more than half a century, but soon engineers and scientists must find other ways to make computers more capable. Instead of physical processes, applications and software may help improve the speed and efficiency of computers. Cloud computing, wireless communication, the Internet of Things (IoT), and quantum physics all may play a role in the future of computer tech innovation.
 
-Despite the growing concerns around privacy and security, the advantages of ever-smarter computing technology can help keep us healthier, safer, and more productive in the long run.
+Despite the growing concerns around privacy and [[Security|security]], the advantages of ever-smarter computing technology can help keep us healthier, safer, and more productive in the long run.
 
 ## Creating the Impossible?
 
@@ -78,7 +78,7 @@ For perspective, one nanometer is one-billionth of a meter, smaller than the wav
 
 ### What is Moore’s Law?
 
-In 1965, George Moore posited that roughly every two years, the number of transistors on microchips will double. Commonly referred to as Moore’s Law, this phenomenon suggests that computational progress will become significantly faster, smaller, and more efficient over time. Widely regarded as one of the hallmark theories of the 21st century, Moore’s Law carries significant implications for the future of technological progress—along with its possible limitations. 
+In 1965, George Moore posited that roughly every two years, the number of transistors on microchips [[Will|will]] double. Commonly referred to as Moore’s Law, this phenomenon suggests that computational progress will become significantly faster, smaller, and more efficient over time. Widely regarded as one of the hallmark theories of the 21st century, Moore’s Law carries significant implications for the future of technological progress—along with its possible limitations. 
 
 ### How has Moore’s Law impacted computing?
 
@@ -86,4 +86,4 @@ Moore’s Law has had a direct impact on the progress of computing power. What t
 
 ### Is Moore’s Law coming to an end? 
 
-According to expert opinion, Moore’s Law is estimated to end sometime in the 2020s. What this means is that computers are projected to reach their limits because transistors will be unable to operate within smaller circuits at increasingly higher temperatures. This is due to the fact that cooling the transistors will require more energy than the energy that passes through the transistor itself.
+According to expert opinion, Moore’s Law is estimated to end sometime in the 2020s. What this means is that computers are projected to reach their limits because transistors [[Will|will]] be unable to operate within smaller circuits at increasingly higher temperatures. This is due to the fact that cooling the transistors will require more energy than the energy that passes through the transistor itself.

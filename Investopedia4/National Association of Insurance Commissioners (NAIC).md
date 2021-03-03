@@ -6,22 +6,22 @@ source: https://www.investopedia.com/terms/n/nainsurancec.asp
 author: Greg Daugherty
 ---
 
-# National Association of Insurance Commissioners (NAIC) Definition
+# [[National Association of Insurance Commissioners (NAIC)]] Definition
 
 > ## Excerpt
-> The National Association of Insurance Commissioners (NAIC) is a nonprofit organization that helps develop model laws for state insurance regulators.
+> The [[National Association of Insurance Commissioners (NAIC)]] is a nonprofit organization that helps develop model laws for state insurance regulators.
 
 ---
 
-National Association of Insurance Commissioners (NAIC)
-## What Is the National Association of Insurance Commissioners (NAIC)?
+[[National Association of Insurance Commissioners (NAIC)]]
+## What Is the [[National Association of Insurance Commissioners (NAIC)]]?
 
-The National Association of Insurance Commissioners (NAIC) is a nonprofit, nonpartisan organization governed by the chief insurance regulators of the 50 states, the District of Columbia, and the five U.S. territories: American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands. The NAIC sets standards and establishes best practices for the U.S. insurance industry and provides support to insurance regulators. It also provides information and resources to consumers.1 Insurance products sold in the U.S. are largely regulated by the states, rather than the federal government.
+The [[National Association of Insurance Commissioners (NAIC)]] is a nonprofit, nonpartisan organization governed by the chief insurance regulators of the 50 states, the District of Columbia, and the five U.S. territories: American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands. The NAIC sets standards and establishes best practices for the U.S. insurance industry and provides support to insurance regulators. It also provides information and resources to consumers.1 Insurance products sold in the U.S. are largely regulated by the states, rather than the federal government.
 
 ### Key Takeaways
 
 -   Insurance in the United States is regulated primarily by the individual states, rather than by the federal government.
--   The National Association of Insurance Commissioners (NAIC) is led by the insurance commissioners of the 50 states, plus Washington, D.C., and five U.S. territories.
+-   The [[National Association of Insurance Commissioners (NAIC)]] is led by the insurance commissioners of the 50 states, plus Washington, D.C., and five U.S. territories.
 -   The NAIC develops model rules and regulations for insurance companies and products.
 -   The association also offers programs, information, and online tools for insurance consumers.
 
@@ -29,7 +29,7 @@ The National Association of Insurance Commissioners (NAIC) is a nonprofit, nonp
 
 The NAIC was founded in 1871 by state insurance regulators to "address the need to coordinate regulation of multistate insurers. The first major step in that process was the development of uniform financial reporting by insurance companies."1
 
-Because insurers often do business in multiple states, the question of whether they should be regulated on a state or federal level has long been a matter of debate in the U.S. The 1944 Supreme Court case [[United States v. The South-Eastern Underwriters Association]](https://www.investopedia.com/terms/u/united-states-v-the-southeastern-underwriter-association.asp) determined that the insurance industry should be subject to regulation by Congress under the Commerce Clause of the Constitution, which gives lawmakers regulatory authority over interstate and international commerce. However, Congress effectively overrode that ruling the following year with the passage of the McCarran-Ferguson Act, which exempted the insurance industry from most federal regulation, including [[antitrust laws]](https://www.investopedia.com/ask/answers/09/antitrust-law.asp).2
+Because insurers often do business in multiple states, the question of whether they should be regulated on a state or federal level has long been a matter of debate in the U.S. The 1944 Supreme Court case [[United States v. The South-Eastern Underwriters Association]](https://www.investopedia.com/terms/u/united-states-v-the-southeastern-underwriter-association.asp) determined that the insurance industry should be subject to regulation by Congress under the [[Commerce]] Clause of the Constitution, which gives lawmakers regulatory authority over interstate and international commerce. However, Congress effectively overrode that ruling the following year with the passage of the McCarran-Ferguson Act, which exempted the insurance industry from most federal regulation, including [[antitrust laws]](https://www.investopedia.com/ask/answers/09/antitrust-law.asp).2
 
 Today, with few exceptions, that regulatory authority still resides with the states and their elected or appointed insurance commissioners.
 

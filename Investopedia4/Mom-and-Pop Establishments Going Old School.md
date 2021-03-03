@@ -29,20 +29,20 @@ Mom-and-Pop Establishments: Going Old School
 
 Mom-and-pop stores were historically used to describe local family owned and operated general stores or drugstores. Today, mom-and-pop establishments are synonymous with various different types of businesses, including restaurants, bookstores, automotive repair shops, and insurance agencies.
 
-In many ways, mom-and-pop businesses stand at a steep disadvantage to large corporations, e-commerce companies, technology platforms, and franchise businesses, who enjoy bigger [economies of scale](https://www.investopedia.com/terms/e/economiesofscale.asp), greater access to capital for investments, larger advertising budgets, higher brand awareness, greater access to talent pools for hiring, etc.
+In many ways, mom-and-pop businesses stand at a steep disadvantage to large corporations, e-[[Commerce|commerce]] companies, technology platforms, and franchise businesses, who enjoy bigger [economies of scale](https://www.investopedia.com/terms/e/economiesofscale.asp), greater access to capital for investments, larger advertising budgets, higher brand awareness, greater access to talent pools for hiring, etc.
 
 This collectively gives larger players a competitive edge over mom-and-pop businesses, _who frequently, lose ground and find themselves forced out of business in response._
 
-Fortunately, there are signs of hope for mom-and-pop stores. More than ever before, consumers are demanding more personalized products and services. When shoppers ask, "Where can I find a mom-and-pop shop near me?" they don't need to look further than the Internet. Using technology, like social media, small businesses can expand their target audience and broaden their geographical reach.
+Fortunately, there are signs of hope for mom-and-pop stores. More than ever before, consumers are demanding more personalized products and services. When shoppers ask, "Where can I find a mom-and-pop shop near me?" they don't need to look further than the Internet. Using technology, like [[Social Media|social media]], small businesses can expand their target audience and broaden their geographical reach.
 
-Mom-and-pop shops also benefit from a phenomenon known as "Small Business Saturday," which is a recent American tradition of shopping locally on the Saturday following Thanksgiving. This shopping holiday is a logical answer to Black Friday, where large retailers offer enticing discounts to consumers. Mom-and-pop business owners tend to have a vested interest in the community, its citizens, and the local economy. Consequently, they offer highly interactive and personalized services that large corporations cannot replicate. For this reason, mom-and-pop stores often win increased [[brand loyalty]](https://www.investopedia.com/terms/b/brand-loyalty.asp) among consumers.
+Mom-and-pop shops also benefit from a phenomenon known as "Small Business Saturday," which is a recent American tradition of shopping locally on the Saturday following Thanksgiving. This shopping holiday is a logical answer to Black Friday, where large retailers [[Offer|offer]] enticing discounts to consumers. Mom-and-pop business owners tend to have a [[Vested Interest|vested interest]] in the community, its citizens, and the local economy. Consequently, they offer highly interactive and personalized services that large corporations cannot replicate. For this reason, mom-and-pop stores often win increased [[brand loyalty]](https://www.investopedia.com/terms/b/brand-loyalty.asp) among consumers.
 
 Mom-and-pop drugstores are typically owned and operated by the same family for generations, where the druggist or pharmacist would also be the proprietor of the store.
 
 ## Mom-and-Pop Investors vs. Mom-and-Pop Establishments
 
-"Mom-and-pop" also refers to inexperienced investors who minimally invest in the stock market. Despite limited capital commitments, mom-and-pop investors often count on significant returns on their trades, in order to supplement their income.
+"Mom-and-pop" also refers to inexperienced investors who minimally invest in the [[Stock|stock]] market. Despite limited capital commitments, mom-and-pop investors often count on significant returns on their trades, in order to supplement their income.
 
-But many mom-and-pop investors are unfamiliar with market research and react impulsively to market changes and fluctuations, by rashly dumping their positions, rather than riding out rough patches.
+But many mom-and-pop investors are unfamiliar with market research and react impulsively to market changes and fluctuations, by rashly [[Dumping|dumping]] their positions, rather than riding out rough patches.
 
 Some mom-and-pop investors combat their inexperience by hiring brokers to facilitate trades, or by using one of the many online trading platforms to facilitate their investments.

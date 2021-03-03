@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/m/multiple-listing-service-mls.asp
 author: James Chen
 ---
 
-# Multiple Listing Service – MLS Definition
+# [[Multiple Listing Service – MLS Definition]]
 
 > ## Excerpt
-> A multiple listing service (MLS) is a system utilized by a group of real estate brokers that allows them to see one another's listings of properties for sale.
+> A multiple listing service (MLS) is a system utilized by a group of real [[Estate|estate]] brokers that allows them to see one another's listings of properties for sale.
 
 ---
 
-Multiple Listing Service – MLS Definition
+[[Multiple Listing Service – MLS Definition]]
 ## What Is a Multiple Listing Service (MLS?
 
 A multiple listing service (MLS) is a database established by cooperating [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) brokers to provide data about properties for sale. An MLS allows brokers to see one another's listings of properties for sale with the goal of connecting homebuyers to sellers. Under this arrangement, both the listing and selling [[broker]](https://www.investopedia.com/terms/b/broker.asp) benefit by consolidating and sharing information, and by sharing commissions.
@@ -22,26 +22,26 @@ Typically, multiple listing services create a book or an electronic database wit
 
 ### Key Takeaways
 
--   A multiple listing service (MLS) is a database established by cooperating real estate brokers to provide data about properties for sale. 
+-   A multiple listing service (MLS) is a database established by cooperating real [[Estate|estate]] brokers to provide data about properties for sale. 
 -   An MLS allows brokers to see one another's listings of properties for sale with the goal of connecting homebuyers to sellers.
--   A multiple listing service helps real estate agents and brokers connect by consolidating and sharing information while sharing commissions.
+-   A multiple listing service helps real [[Estate|estate]] agents and brokers connect by consolidating and sharing information while sharing commissions.
 
 ## How a Multiple Listing Service Works
 
-The concept of an MLS is generic with no governing MLS body, and the phrase cannot be trademarked or branded. Typically, real estate brokers work together in their local areas to create their own regional MLS. As a result, there are hundreds of regional databases that comprise all of the national listings found on various realtor websites.
+The concept of an MLS is generic with no governing MLS body, and the phrase cannot be trademarked or branded. Typically, real [[Estate|estate]] brokers work together in their local areas to create their own regional MLS. As a result, there are hundreds of regional databases that comprise all of the national listings found on various [[Realtor|realtor]] websites.
 
-[Real estate agents](https://www.investopedia.com/terms/r/realestateagent.asp) and brokers pay dues or a membership fee for access to each MLS. In return, the agents receive information on the homes in an area, including listings, photos, and details such as square footage and features of each property. An MLS can only be accessed by licensed agents and brokers. Although each MLS may have its own procedures, they typically follow the rules set out by the [[National Association of Realtors (NAR)]](https://www.investopedia.com/terms/n/national-association-of-realtors.asp). The rules stipulate that the listing must show the commission earned for the seller, which gets shared with the other realtor or broker who introduces the buyer.
+[Real [[Estate|estate]] agents](https://www.investopedia.com/terms/r/realestateagent.asp) and brokers pay dues or a membership fee for access to each MLS. In [[Return|return]], the agents receive information on the homes in an area, including listings, photos, and details such as square footage and features of each property. An MLS can only be accessed by licensed agents and brokers. Although each MLS may have its own procedures, they typically follow the rules set out by the [[National Association of Realtors (NAR)]](https://www.investopedia.com/terms/n/national-association-of-realtors.asp). The rules stipulate that the listing must show the [[Commission|commission]] earned for the seller, which gets shared with the other [[Realtor|realtor]] or broker who introduces the buyer.
 
-MLSs allow brokers to network easily, and the concept is more than a century old. In the late 1800s, real estate agents often gathered in one another's offices, where they would share information about the properties they were trying to sell. Ultimately, this in-person networking was modified into the concept of an MLS.
+MLSs allow brokers to network easily, and the concept is more than a century old. In the late 1800s, real [[Estate|estate]] agents often gathered in one another's offices, where they would share information about the properties they were trying to sell. Ultimately, this in-person networking was modified into the concept of an MLS.
 
 ## Why Multiple Listing Services are Needed
 
-In the digital age, buyers can browse through countless real estate and brokerage websites. In spite of this increased exposure, the need for an MLS persists. If a buyer works with a broker who belongs to an MLS, the broker has the ability to quickly and conveniently search all of the properties for sale by participating agents. In most cases, the MLS listing also contains private contact information and details about showing times. Without this consolidating service, the broker would need to look through several different websites, each for individual brokers, to find available properties in the area.
+In the digital age, buyers can browse through countless real [[Estate|estate]] and brokerage websites. In spite of this increased exposure, the need for an MLS persists. If a buyer works with a broker who belongs to an MLS, the broker has the ability to quickly and conveniently search all of the properties for sale by participating agents. In most cases, the MLS listing also contains private contact information and details about showing times. Without this consolidating service, the broker would need to look through several different websites, each for individual brokers, to find available properties in the area.
 
 ## Benefits of Multiple Listing Services
 
-Multiple listing services provide the selling broker more exposure while providing the broker representing the buyer with more options. In return, both the brokers receive a [[commission on the sale]](https://www.investopedia.com/financial-edge/0611/understanding-real-estate-commissions-who-pays.aspx). These services also level the playing field by allowing small and large brokerages to compete with one another.
+Multiple listing services provide the selling broker more exposure while providing the broker representing the buyer with more options. In [[Return|return]], both the brokers receive a [[commission on the sale]](https://www.investopedia.com/financial-edge/0611/understanding-real-[[Estate|estate]]-commissions-who-pays.aspx). These services also level the playing field by allowing small and large brokerages to compete with one another.
 
-For example, imagine if a small brokerage were only able to offer its buyers the properties that the firm had listed. The firm's buyers wouldn't have access to all of the listings from other brokers in the area. However, with an MLS, the information is consolidated rather than fragmented. A multiple listing service allows competing brokers to work together toward a common goal of helping buyers find their desired properties and helping [[sellers]](https://www.investopedia.com/terms/s/seller.asp) sell their properties.
+For example, imagine if a small brokerage were only able to [[Offer|offer]] its buyers the properties that the firm had [[Listed|listed]]. The firm's buyers wouldn't have access to all of the listings from other brokers in the area. However, with an MLS, the information is consolidated rather than fragmented. A multiple listing service allows competing brokers to work together toward a common goal of helping buyers find their desired properties and helping [[sellers]](https://www.investopedia.com/terms/s/seller.asp) sell their properties.
 
-As a result of the cooperation of the agents and brokers to create the MLS databases, prospective homebuyers gain access to numerous listings while sellers get connected to buyers through their broker or agent. Even online real estate websites containing national listings, the data is actually pulled from all of the regional MLS databases.
+As a result of the cooperation of the agents and brokers to create the MLS databases, prospective homebuyers [[Gain|gain]] access to numerous listings while sellers get connected to buyers through their broker or agent. Even online real [[Estate|estate]] websites containing national listings, the data is actually pulled from all of the regional MLS databases.

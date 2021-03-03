@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/m/monetize.asp
 author: Akhilesh Ganti
 ---
 
-# Monetize Definition
+# [[Monetize Definition]]
 
 > ## Excerpt
 > "Monetize" refers to the process of turning a non-revenue-generating item into cash, essentially liquidating an asset or object into legal tender.
 
 ---
 
-Monetize Definition
+[[Monetize Definition]]
 ## What Does Monetize Mean?
 
 "Monetize" refers to the process of turning a non-revenue-generating item into cash, essentially liquidating an asset or object into [[legal tender]](https://www.investopedia.com/terms/l/legal-tender.asp).
@@ -21,20 +21,20 @@ Monetize Definition
 ### Key Takeaways
 
 -   Monetize refers to the process of turning a non-revenue-generating item into cash, essentially liquidating an asset or object into legal tender.
--   The U.S. Federal Reserve monetizes the nation's debt by buying notes, bills, and bonds—collectively known as Treasuries—issued by the U.S. Treasury, which keeps interest rates low.
+-   The U.S. Federal Reserve monetizes the nation's [[Debt|debt]] by buying notes, bills, and bonds—collectively known as Treasuries—issued by the U.S. Treasury, which keeps interest rates low.
 -   Website owners monetize their websites by making spaces available to advertisers, thereby earning income from various types of content published on their sites.
 
 ## Understanding Monetization
 
-The term "monetize" has different meanings depending on the context. Governments monetize debt to keep interest rates on borrowed money low. Though, if the need should arise, they may also do so to avoid a financial crisis, while businesses monetize products and services to generate profit. Monetization goes hand-in-hand with capitalism—and is just about as old. The process of monetizing is very important to a business or other entity's growth as it is key to its strategic planning. 
+The term "monetize" has different meanings depending on the context. Governments monetize [[Debt|debt]] to keep interest rates on borrowed money low. Though, if the need should arise, they may also do so to avoid a [[Financial Crisis|financial crisis]], while businesses monetize products and services to generate profit. Monetization goes hand-in-hand with [[Capitalism|capitalism]]—and is just about as old. The process of monetizing is very important to a business or other entity's growth as it is key to its strategic planning. 
 
-The [[U.S. Federal Reserve]](https://www.investopedia.com/terms/f/federalreservebank.asp) monetizes the nation's debt by buying notes, bills, and bonds—collectively known as Treasuries—issued by the U.S. Treasury. The Fed issues the government credit, which the government uses for its operations without actually having to print any excess money. This type of monetization puts the government's debt on the Fed's books and puts money back into the system. Although considered a less desirable option, governments can also buy their own debt by printing money out of thin air, which increases the [[money supply]](https://www.investopedia.com/terms/m/moneysupply.asp) but causes inflation.
+The [[U.S. Federal Reserve]](https://www.investopedia.com/terms/f/federalreservebank.asp) monetizes the nation's [[Debt|debt]] by buying notes, bills, and bonds—collectively known as Treasuries—issued by the U.S. Treasury. The Fed issues the government credit, which the government uses for its operations without actually having to print any excess money. This type of monetization puts the government's debt on the Fed's books and puts money back into the system. Although considered a less desirable option, governments can also buy their own debt by printing money out of thin air, which increases the [[money supply]](https://www.investopedia.com/terms/m/moneysupply.asp) but causes inflation.
 
 Web publishing and [[ecommerce]](https://www.investopedia.com/terms/e/ecommerce.asp) activities have made monetization a well-known concept among average Americans. Website owners monetize their websites by making spaces available to advertisers, thereby earning income from various types of content published on their sites. More sophisticated forms of web monetization involve creating sales funnels from subscriber lists and producing e-books from previously published content.
 
-## Government Debt Monetization Example
+## Government [[Debt]] Monetization Example
 
-For simplicity, say the government needs $50,000 for a social program. It raises $45,000 through taxation but still needs $5,000. The government can either borrow the money, print the money, increase taxes, or reduce spending. The government decides to borrow the money from the public by issuing $5,000 in bonds and offering bond buyers favorable interest rates. The government now has the money it needs—$45,000 raised from taxes and $5,000 raised from the bond issuance—for its social program.
+For simplicity, say the government needs $50,000 for a social program. It raises $45,000 through [[Taxation|taxation]] but still needs $5,000. The government can either borrow the money, print the money, increase taxes, or reduce spending. The government decides to borrow the money from the public by issuing $5,000 in bonds and [[Offering|offering]] bond buyers favorable interest rates. The government now has the money it needs—$45,000 raised from taxes and $5,000 raised from the bond issuance—for its social program.
 
 ## Commercial Monetization Example
 

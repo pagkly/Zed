@@ -6,21 +6,21 @@ source: https://www.investopedia.com/terms/n/negative_convexity.asp
 author: James Chen
 ---
 
-# Negative Convexity Definition
+# [[Negative Convexity]] Definition
 
 > ## Excerpt
-> Negative convexity occurs when the shape of a bond's yield curve is concave. Most mortgage bonds are negatively convex, and callable bonds usually exhibit negative convexity at lower yields.
+> [[Negative Convexity|Negative convexity]] occurs when the shape of a bond's [[Yield Curve|yield curve]] is concave. Most mortgage bonds are negatively convex, and callable bonds usually exhibit negative convexity at lower yields.
 
 ---
 
-Negative Convexity
-## What Is Negative Convexity?
+[[Negative Convexity]]
+## What Is [[Negative Convexity]]?
 
-Negative convexity exists when the shape of a bond's [[yield curve]](https://www.investopedia.com/terms/y/yieldcurve.asp) is concave. A bond's convexity is the [[rate of change]](https://www.investopedia.com/terms/r/rateofchange.asp) of its duration, and it is measured as the second [[derivative]](https://www.investopedia.com/terms/d/derivative.asp) of the bond's price with respect to its yield. Most mortgage bonds are negatively convex, and callable bonds usually exhibit negative convexity at lower yields.
+[[Negative Convexity|Negative convexity]] exists when the shape of a bond's [[yield curve]](https://www.investopedia.com/terms/[[Y|y]]/yieldcurve.asp) is concave. A bond's convexity is the [[rate of change]](https://www.investopedia.com/terms/r/rateofchange.asp) of its duration, and it is measured as the second [[derivative]](https://www.investopedia.com/terms/d/[[Derivative|derivative]].asp) of the bond's price with respect to its [[Yield|yield]]. Most mortgage bonds are negatively convex, and callable bonds usually exhibit negative convexity at lower yields.
 
-## Negative Convexity Explained
+## [[Negative Convexity]] Explained
 
-Typically, when interest rates decrease, a bond's price increases. For bonds that have negative convexity, prices decrease as interest rates fall. For example, with a callable bond, as interest rates fall, the incentive for the issuer to call the bond [[at par]](https://www.investopedia.com/terms/a/at-par.asp) increases; therefore, its price will not rise as quickly as the price of a non-callable bond. The price of a [[callable bond]](https://www.investopedia.com/terms/c/callablebond.asp) might actually drop as the likelihood that the bond will be called increases. This is why the shape of a callable bond's curve of price with respect to yield is concave or negatively convex.
+Typically, when interest rates decrease, a bond's price increases. For bonds that have [[Negative Convexity|negative convexity]], prices decrease as interest rates fall. For example, with a callable bond, as interest rates fall, the incentive for the issuer to call the bond [[at par]](https://www.investopedia.com/terms/a/at-par.asp) increases; therefore, its price [[Will|will]] not rise as quickly as the price of a non-callable bond. The price of a [[callable bond]](https://www.investopedia.com/terms/c/callablebond.asp) might actually drop as the likelihood that the bond will be called increases. This is why the shape of a callable bond's curve of price with respect to [[Yield|yield]] is concave or negatively convex.
 
 ## Convexity Calculation Example
 
@@ -54,4 +54,4 @@ Convexity adjustment = 25 x 100 x (0.01)^2 = 0.25
 
 Finally, using duration and convexity to obtain an estimate of a bond's price for a given change in interest rates, an investor can use the following formula:
 
-Bond price change = duration x yield change + convexity adjustment
+Bond price change = duration x [[Yield|yield]] change + convexity adjustment

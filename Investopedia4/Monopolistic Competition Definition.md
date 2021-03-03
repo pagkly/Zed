@@ -6,34 +6,34 @@ source: https://www.investopedia.com/terms/m/monopolisticmarket.asp
 author: Investopedia Staff
 ---
 
-# Monopolistic Competition Definition
+# [[Monopolistic Competition Definition]]
 
 > ## Excerpt
-> Monopolistic competition characterizes an industry in which many firms offer products or services that are similar, but not perfect substitutes.
+> Monopolistic competition characterizes an industry in which many firms [[Offer|offer]] products or services that are similar, but not perfect substitutes.
 
 ---
 
-Monopolistic Competition Definition
+[[Monopolistic Competition Definition]]
 ## What Is Monopolistic Competition?
 
-Monopolistic competition characterizes an industry in which many firms offer products or services that are similar, but not perfect substitutes. [[Barriers to entry]](https://www.investopedia.com/terms/b/barrierstoentry.asp) and exit in a monopolistic competitive industry are low, and the decisions of any one firm do not directly affect those of its competitors. Monopolistic competition is closely related to the business strategy of brand differentiation
+Monopolistic competition characterizes an industry in which many firms [[Offer|offer]] products or services that are similar, but not perfect substitutes. [[Barriers to entry]](https://www.investopedia.com/terms/b/barrierstoentry.asp) and exit in a monopolistic competitive industry are low, and the decisions of any one firm do not directly affect those of its competitors. Monopolistic competition is closely related to the business strategy of brand differentiation
 
 ### Key Takeaways
 
--   Monopolistic competition occurs when an industry has many firms offering products that are similar but not identical.
--   Unlike a monopoly, these firms have little power to set curtail supply or raise prices to increase profits.
+-   Monopolistic competition occurs when an industry has many firms [[Offering|offering]] products that are similar but not identical.
+-   Unlike a [[Monopoly|monopoly]], these firms have little power to set curtail [[Supply|supply]] or raise prices to increase profits.
 -   Firms in monopolistic competition typically try to differentiate their products in order to achieve above market returns.
 -   Heavy advertising and marketing is common among firms in monopolistic competition and some economists criticize this as wasteful.
 
 ## Understanding Monopolistic Competition
 
-Monopolistic competition is a middle ground between [[monopoly]](https://www.investopedia.com/terms/m/monopoly.asp) and [[perfect competition]](https://www.investopedia.com/terms/p/perfectcompetition.asp) (a purely theoretical state), and combines elements of each. All firms in monopolistic competition have the same, relatively low degree of [[market power]](https://www.investopedia.com/terms/m/market-power.asp); they are all [[price makers]](https://www.investopedia.com/terms/p/pricemaker.asp). In the long run, demand is highly elastic, meaning that it is sensitive to price changes. In the short run, [[economic profit]](https://www.investopedia.com/terms/e/economicprofit.asp) is positive, but it approaches zero in the long run. Firms in monopolistic competition tend to advertise heavily.
+Monopolistic competition is a middle ground between [[monopoly]](https://www.investopedia.com/terms/m/[[Monopoly|monopoly]].asp) and [[perfect competition]](https://www.investopedia.com/terms/p/perfectcompetition.asp) (a purely theoretical state), and combines elements of each. All firms in monopolistic competition have the same, relatively low degree of [[market power]](https://www.investopedia.com/terms/m/market-power.asp); they are all [[price makers]](https://www.investopedia.com/terms/p/pricemaker.asp). In the long run, demand is highly elastic, meaning that it is sensitive to price changes. In the short run, [[economic profit]](https://www.investopedia.com/terms/e/economicprofit.asp) is positive, but it approaches zero in the long run. Firms in monopolistic competition tend to advertise heavily.
 
 Monopolistic competition is a form of competition that characterizes a number of industries that are familiar to consumers in their day-to-day lives. Examples include restaurants, hair salons, clothing, and consumer electronics. To illustrate the characteristics of monopolistic competition, we'll use the example of household cleaning products.
 
 ## Number of firms
 
-Say you've just moved into a new house and want to stock up on cleaning supplies. Go to the appropriate aisle in a grocery store, and you'll see that any given item—dish soap, hand soap, laundry detergent, surface disinfectant, toilet bowl cleaner, etc.—is available in a number of varieties. For each purchase you need to make, perhaps five or six firms will be competing for your business.
+Say you've just moved into a new house and want to [[Stock|stock]] up on cleaning supplies. Go to the appropriate aisle in a grocery store, and you'll see that any given item—dish soap, hand soap, laundry detergent, surface disinfectant, toilet bowl cleaner, etc.—is available in a number of varieties. For each purchase you need to make, perhaps five or six firms [[Will|will]] be competing for your business.
 
 ## Product Differentiation
 
@@ -43,11 +43,11 @@ Monopolistic competition tends to lead to heavy marketing, because different fir
 
 ## Decision-Making
 
-Monopolistic competition implies that there are enough firms in the industry that one firm's decision does not set off a chain reaction. In an [[oligopoly]](https://www.investopedia.com/terms/o/oligopoly.asp), a price cut by one firm can set off a [[price war]](https://www.investopedia.com/terms/p/price-war.asp), but this is not the case for monopolistic competition.
+Monopolistic competition implies that there are enough firms in the industry that one firm's decision does not set off a chain reaction. In an [[oligopoly]](https://www.investopedia.com/terms/o/[[Oligopoly|oligopoly]].asp), a price cut by one firm can set off a [[price war]](https://www.investopedia.com/terms/p/price-war.asp), but this is not the case for monopolistic competition.
 
 ## Pricing Power
 
-As in a monopoly, firms in monopolistic competition are [[price setters]](https://www.investopedia.com/terms/p/pricingpower.asp) or makers, rather than [[price takers]](https://www.investopedia.com/terms/p/pricetaker.asp). However, the firms nominal ability to set their prices is effectively offset by the fact that demand for their products is highly price elastic. In order to actually raise their prices, the firms must be able to differentiate their products from their competitors by increasing its quality, real or perceived. 
+As in a [[Monopoly|monopoly]], firms in monopolistic competition are [[price setters]](https://www.investopedia.com/terms/p/pricingpower.asp) or makers, rather than [[price takers]](https://www.investopedia.com/terms/p/pricetaker.asp). However, the firms nominal ability to set their prices is effectively offset by the fact that demand for their products is highly price elastic. In order to actually raise their prices, the firms must be able to differentiate their products from their competitors by increasing its quality, real or perceived. 
 
 ## Demand Elasticity
 

@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/n/negativedirectionalindicator.asp
 author: Cory Mitchell
 ---
 
-# Negative Directional Indicator (-DI) Definition and Uses
+# [[Negative Directional Indicator (-DI) Definition and Uses]]
 
 > ## Excerpt
 > The Negative Directional Indicator (-DI) is used to measure the downward price movement in an asset and is a component of the Average Directional Index (ADX) trading system.
 
 ---
 
-Negative Directional Indicator (-DI) Definition and Uses
+[[Negative Directional Indicator (-DI) Definition and Uses]]
 ## What is the Negative Directional Indicator (-DI)?
 
 The Negative Directional Indicator (-DI) measures the presence of a [[downtrend]](https://www.investopedia.com/terms/d/downtrend.asp) and is part of the [[Average Directional Index]](https://www.investopedia.com/terms/a/adx.asp) (ADX). If -DI is sloping upward, it's a sign that the price downtrend is getting stronger. This indicator is nearly always plotted along with the [[Positive Directional Indicator]](https://www.investopedia.com/terms/p/positivedirectionalindicator.asp) (+DI).
@@ -57,7 +57,7 @@ Traders can utilize all the elements in the ADX system to help make better tradi
 
 ## The Differences Between the Negative Directional Indicator (-DI) and a Moving Average
 
-A [[moving average]](https://www.investopedia.com/terms/s/sma.asp) takes the average price of an asset over a set time period. The Negative Directional Indicator (-DI) is only concerned with the prior low relative to the current low, when applicable. Because of this, the -DI is not an average, even though it may sometimes appear to track the price when the price is falling. Due to the different calculations of the two indicators, the -DI and the moving average will provide the trader with different information.
+A [[moving average]](https://www.investopedia.com/terms/s/sma.asp) takes the average price of an asset over a set time period. The Negative Directional Indicator (-DI) is only concerned with the prior low relative to the current low, when applicable. Because of this, the -DI is not an average, even though it may sometimes appear to track the price when the price is falling. Due to the different calculations of the two indicators, the -DI and the moving average [[Will|will]] provide the trader with different information.
 
 ## Limitations of Using the Negative Directional Indicator (-DI)
 

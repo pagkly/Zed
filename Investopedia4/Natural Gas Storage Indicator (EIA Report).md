@@ -6,19 +6,19 @@ source: https://www.investopedia.com/terms/n/natural-gas-storage-indicator-eia-r
 author: James Chen
 ---
 
-# Natural Gas Storage Indicator (EIA Report)
+# [[Natural Gas Storage Indicator (EIA Report)]]
 
 > ## Excerpt
 > The Natural Gas Storage Indicator is the U.S. EIA weekly estimate of working natural gas volumes held in underground storage facilities.
 
 ---
 
-Natural Gas Storage Indicator (EIA Report)
+[[Natural Gas Storage Indicator (EIA Report)]]
 ## What Is the Natural Gas Storage Indicator?
 
 The Natural Gas Storage Indicator is the [[U.S. Energy Information Administration's]](https://www.investopedia.com/terms/e/energy-information-admin.asp) (EIA) estimate of working natural gas volumes held in underground storage facilities at the national and regional levels. The EIA provides weekly estimates of working gas volumes held in underground storage facilities at the Lower 48 states and five regional levels. Changes in these gas inventories on a weekly basis primarily reflect net withdrawals or injections. [[The report](http://ir.eia.gov/ngs/ngs.html) is generally updated and available every Thursday at 10:30 am EST. Unexpected changes such as above-average withdrawals or injections can have an immediate impact on [natural gas]](https://www.investopedia.com/terms/c/commoditiesexchange.asp) prices.
 
-## Understanding the Natural Gas Storage Indicator (EIA Report)
+## Understanding the [[Natural Gas Storage Indicator (EIA Report)]]
 
 The Natural Gas Storage Indicator is a measure of working gas, which is the volume of gas in a reservoir that is above a specified base level and is the amount of gas that is available for sale to the marketplace. The EIA report shows gas inventories for the reporting week and previous week, as well as the net change, on a national basis and for East, West and Producing regions. It also provides inventories for a year ago and the five-year average for historical comparison.
 
