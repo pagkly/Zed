@@ -1,12 +1,12 @@
 ---
 alias: [Richest People]
 created: 2021-03-02T20:56:09 (UTC +11:00)
-tags: [The Top 10 Richest People In the World [Updated Jan. 2021], A Look at the 10 Richest People in the World]
+tags: [The Top 10 Richest People In the World Updated Jan. 2021, A Look at the 10 Richest People in the World]
 source: https://www.investopedia.com/articles/investing/012715/5-richest-people-world.asp
 author: Dan Moskowitz
 ---
 
-# The Top 10 Richest People In the World [Updated Jan. 2021]
+# The Top 10 Richest People In the World Updated Jan. 2021
 
 > ## Excerpt
 > Learn who the top 10 billionaires in the world are and how they built their wealth.
