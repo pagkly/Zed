@@ -1,7 +1,7 @@
 ---
-alias: [Gazelle Company:]
+alias: [Gazelle Company]
 created: 2021-03-02T20:14:39 (UTC +11:00)
-tags: [Gazelle Company: Definition, Gazelle Company: What You Need to Know]
+tags: [Gazelle Company Definition, Gazelle Company What You Need to Know]
 source: https://www.investopedia.com/terms/g/gazellecompany.asp
 author: Mitchell Grant
 ---

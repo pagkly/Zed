@@ -1,7 +1,7 @@
 ---
-alias: [Form 8606, 'Nondeductible IRAs']
+alias: [Form 8606, Nondeductible IRAs]
 created: 2021-03-02T20:05:33 (UTC +11:00)
-tags: [Form 8606, 'Nondeductible IRAs' Definition, Form 8606, 'Nondeductible IRAs']
+tags: [Form 8606, Nondeductible IRAs Definition, Form 8606, Nondeductible IRAs]
 source: https://www.investopedia.com/terms/f/form-8606.asp
 author: Adam Barone
 ---
