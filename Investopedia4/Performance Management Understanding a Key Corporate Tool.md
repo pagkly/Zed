@@ -24,7 +24,7 @@ A formal performance-management program helps managers and employees see eye-to-
 
 Performance-management programs use traditional tools such as creating and measuring goals, [[objectives]](https://www.investopedia.com/terms/m/management-by-objectives.asp), and milestones. They also aim to define what effective performance looks like and develop processes to measure performance. However, instead of using the traditional paradigm of year-end reviews, performance management turns _every_ interaction with an employee into an occasion to learn.
 
-Managers can use performance management tools to adjust workflow, recommend new courses of action, and make other decisions that will help employees achieve their objectives. In turn, this helps the company reach its goals and perform optimally. For example, the manager of a sales department gives her staff target revenue volumes that they must reach within a set period. In a performance management system, along with the numbers, the manager would offer guidance gauged to help the salespeople succeed.
+Managers can use performance management tools to adjust [[Workflow|workflow]], recommend new courses of action, and make other decisions that [[Will|will]] help employees achieve their objectives. In turn, this helps the company reach its goals and perform optimally. For example, the manager of a sales department gives her staff target revenue volumes that they must reach within a set period. In a performance management system, along with the numbers, the manager would [[Offer|offer]] guidance gauged to help the salespeople succeed.
 
 ### Why Performance Management Matters
 

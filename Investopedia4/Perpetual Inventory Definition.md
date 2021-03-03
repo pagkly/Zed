@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/p/perpetualinventory.asp
 author: James Chen
 ---
 
-# Perpetual Inventory Definition
+# [[Perpetual Inventory Definition]]
 
 > ## Excerpt
 > Perpetual inventory is a method of accounting for inventory that records the sale or purchase of inventory immediately through the use of computerized point-of-sale systems and enterprise asset management software.
 
 ---
 
-Perpetual Inventory Definition
+[[Perpetual Inventory Definition]]
 ## What is Perpetual Inventory?
 
-Perpetual inventory is a method of accounting for inventory that records the sale or purchase of inventory immediately through the use of computerized point-of-sale systems and enterprise asset management software. Perpetual inventory provides a highly detailed view of changes in inventory with immediate reporting of the amount of inventory in stock, and accurately reflects the level of goods on hand. Within this system, a company makes no effort at keeping detailed inventory records of products on hand; rather, purchases of goods are recorded as a debit to the inventory database. Effectively, the cost of goods sold includes such elements as direct labor and materials costs and direct factory overhead costs.
+Perpetual inventory is a method of accounting for inventory that records the sale or purchase of inventory immediately through the use of computerized point-of-sale systems and enterprise asset management software. Perpetual inventory provides a highly detailed view of changes in inventory with immediate reporting of the amount of inventory in [[Stock|stock]], and accurately reflects the level of goods on hand. Within this system, a company makes no effort at keeping detailed inventory records of products on hand; rather, purchases of goods are recorded as a debit to the inventory database. Effectively, the cost of goods sold includes such elements as direct labor and materials costs and direct factory overhead costs.
 
 A perpetual inventory system is distinguished from a periodic inventory system, a method in which a company maintains records of its inventory by regularly scheduled physical counts.
 
@@ -36,7 +36,7 @@ A [[point-of-sale system]](https://www.investopedia.com/terms/p/point-of-sale.as
 
 ## Factoring in Economic Order Quantity
 
-Using a perpetual inventory system makes it much easier for a company to use the [[economic order quantity]](https://www.investopedia.com/terms/e/economicorderquantity.asp) (EOQ) to purchase inventory. EOQ is a formula managers use to decide when to purchase inventory, and EOQ considers the cost to hold inventory, as well as the firm’s cost to order inventory.
+Using a perpetual inventory system makes it much easier for a company to use the [[economic order quantity]](https://www.investopedia.com/terms/e/economicorderquantity.asp) (EOQ) to purchase inventory. EOQ is a formula managers use to decide when to purchase inventory, and EOQ considers the cost to [[Hold|hold]] inventory, as well as the firm’s cost to order inventory.
 
 ## Examples of Inventory Costing Systems
 

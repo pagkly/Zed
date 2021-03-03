@@ -6,29 +6,29 @@ source: https://www.investopedia.com/terms/p/poisonpill.asp
 author: Adam Hayes
 ---
 
-# Poison Pill Definition
+# [[Poison Pill Definition]]
 
 > ## Excerpt
-> A poison pill is a defense tactic utilized by a target company to prevent, or discourage, attempts of a hostile takeover by an acquirer.
+> A poison pill is a defense tactic utilized by a target company to prevent, or discourage, attempts of a [[Hostile Takeover|hostile takeover]] by an acquirer.
 
 ---
 
-Poison Pill Definition
+[[Poison Pill Definition]]
 ## What Is a Poison Pill?
 
 The term poison pill refers to a defense strategy used by a [[target firm]](https://www.investopedia.com/terms/t/targetfirm.asp) to prevent or discourage a potential [hostile takeover](https://www.investopedia.com/terms/h/hostiletakeover.asp) by an acquiring company. Potential targets use this tactic in order to make them look less attractive to the potential acquirer. Although they're not always the first—and best—way to defend a company, poison pills are generally very effective.
 
 ### Key Takeaways
 
--   A poison pill is a defense tactic utilized by a target company to prevent or discourage hostile takeover attempts.
--   Poison pills allow existing shareholders the right to purchase additional shares at a discount, effectively diluting the ownership interest of a new, hostile party. 
+-   A poison pill is a defense tactic utilized by a target company to prevent or discourage [[Hostile Takeover|hostile takeover]] attempts.
+-   Poison pills allow existing shareholders the right to purchase additional [[Shares|shares]] at a discount, effectively diluting the ownership interest of a new, hostile party. 
 -   Poison pills often come in two forms—the flip-in and flip-over strategies.
 
 ## How Poison Pills Work
 
-[Takeovers](https://www.investopedia.com/terms/t/takeover.asp) are fairly common in the business world, where one company makes an offer to assume control over another. Larger companies tend to take over smaller ones if they want to get into a new market, when there are [[operational benefits]](https://www.investopedia.com/terms/o/operationalefficiency.asp) by combining both entities, or when the acquirer wants to eliminate the competition. Takeovers, though, aren't always harmonious and become hostile when the target doesn't entertain or want to be taken over.
+[Takeovers](https://www.investopedia.com/terms/t/takeover.asp) are fairly common in the business world, where one company makes an [[Offer|offer]] to assume control over another. Larger companies tend to take over smaller ones if they want to get into a new market, when there are [[operational benefits]](https://www.investopedia.com/terms/o/operationalefficiency.asp) by combining both entities, or when the acquirer wants to eliminate the competition. Takeovers, though, aren't always harmonious and become hostile when the target doesn't entertain or want to be taken over.
 
-When a company becomes the target of a hostile takeover, it may use the poison pill strategy to make itself less attractive to the potential [[acquirer]](https://www.investopedia.com/terms/a/acquirer.asp). As the name indicates, a poison pill is analogous to something that's difficult to swallow or accept. A company targeted for an unwanted takeover may use a poison pill to make its [[shares]](https://www.investopedia.com/terms/s/shares.asp) unfavorable to the acquiring firm or individual.
+When a company becomes the target of a [[Hostile Takeover|hostile takeover]], it may use the poison pill strategy to make itself less attractive to the potential [[acquirer]](https://www.investopedia.com/terms/a/acquirer.asp). As the name indicates, a poison pill is analogous to something that's difficult to swallow or accept. A company targeted for an unwanted takeover may use a poison pill to make its [[shares]](https://www.investopedia.com/terms/s/[[Shares|shares]].asp) unfavorable to the acquiring firm or individual.
 
 Poison pills also significantly raise the cost of acquisitions and create big disincentives to deter such attempts completely.
 
@@ -48,30 +48,30 @@ There are two types of poison pill strategies—the flip-in and flip-over. Of th
 
 ### Flip-in Poison Pills
 
-A [[flip-in poison pill]](https://www.investopedia.com/terms/f/flip-in-poison-pill.asp) strategy involves allowing the shareholders, except for the acquirer, to purchase additional shares at a discount. Though purchasing additional shares provides shareholders with instantaneous [[profits]](https://www.investopedia.com/terms/p/profit.asp), the practice dilutes the value of the limited number of shares already purchased by the acquiring company. This right to purchase is given to the shareholders before the takeover is finalized and is often triggered when the acquirer amasses a certain threshold percentage of shares of the target company.
+A [[flip-in poison pill]](https://www.investopedia.com/terms/f/flip-in-poison-pill.asp) strategy involves allowing the shareholders, except for the acquirer, to purchase additional [[Shares|shares]] at a discount. Though purchasing additional shares provides shareholders with instantaneous [[profits]](https://www.investopedia.com/terms/p/profit.asp), the practice dilutes the value of the limited number of shares already purchased by the acquiring company. This right to purchase is given to the shareholders before the takeover is finalized and is often triggered when the acquirer amasses a certain threshold percentage of shares of the target company.
 
-Here's an example. Let's say a flip-in poison pill plan is triggered when the acquirer purchases 30% of the target company’s shares. Once triggered, every shareholder—excluding the acquirer—is entitled to buy new shares at a discounted rate. The greater the number of shareholders who buy additional shares, the more diluted the acquiring company's interest becomes. This makes the cost of the bid much higher.
+Here's an example. Let's say a flip-in poison pill plan is triggered when the acquirer purchases 30% of the target company’s [[Shares|shares]]. Once triggered, every shareholder—excluding the acquirer—is entitled to buy new shares at a discounted rate. The greater the number of shareholders who buy additional shares, the more diluted the acquiring company's interest becomes. This makes the cost of the bid much higher.
 
-As new shares make way to the [[market]](https://www.investopedia.com/terms/m/market.asp), the value of shares held by the acquirer reduces, thereby making the takeover attempt more expensive and more difficult. If a bidder is aware that such a plan could be activated, they may be inclined not to pursue a takeover. Such provisions of a flip-in are often publicly available in a company's bylaws, or [[charter]](https://www.investopedia.com/terms/c/charter.asp), and indicate their potential use as a takeover defense.
+As new [[Shares|shares]] make way to the [[market]](https://www.investopedia.com/terms/m/market.asp), the value of shares held by the acquirer reduces, thereby making the takeover attempt more expensive and more difficult. If a bidder is aware that such a plan could be activated, they may be inclined not to pursue a takeover. Such provisions of a flip-in are often publicly available in a company's bylaws, or [[charter]](https://www.investopedia.com/terms/c/charter.asp), and indicate their potential use as a takeover defense.
 
 ### Flip-Over Poison Pills
 
-A flip-over poison pill strategy allows stockholders of the target company to purchase the shares of the acquiring company at a deeply discounted price if the hostile takeover attempt is successful. For example, a target company shareholder may gain the right to buy the stock of its acquirer at a two-for-one rate, thereby [diluting](https://www.investopedia.com/terms/d/dilution.asp) the [[equity]](https://www.investopedia.com/terms/e/equity.asp) in the acquiring company. The acquirer may avoid going ahead with such acquisitions if it perceives a dilution of value post-acquisition.
+A flip-over poison pill strategy allows stockholders of the target company to purchase the [[Shares|shares]] of the acquiring company at a deeply discounted price if the [[Hostile Takeover|hostile takeover]] attempt is successful. For example, a target company shareholder may [[Gain|gain]] the right to buy the [[Stock|stock]] of its acquirer at a two-for-one rate, thereby [diluting](https://www.investopedia.com/terms/d/dilution.asp) the [[equity]](https://www.investopedia.com/terms/e/[[Equity|equity]].asp) in the acquiring company. The acquirer may avoid going ahead with such acquisitions if it perceives a dilution of value post-acquisition.
 
 ## Examples of Poison Pills
 
-In July 2018, the board of restaurant chain Papa John’s ([PZZA](https://www.investopedia.com/markets/quote?tvwidgetsymbol=pzza)) voted to adopt the poison pill to prevent ousted founder John Schnatter from gaining control of the company. Schnatter, who owned 30% of the company’s stock, was the largest shareholder of the company.1
+In July 2018, the board of restaurant chain Papa John’s ([PZZA](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=pzza)) voted to adopt the poison pill to prevent ousted founder John Schnatter from gaining control of the company. Schnatter, who owned 30% of the company’s [[Stock|stock]], was the largest shareholder of the company.1
 
-To repeal any possible takeover attempts by Schnatter, the company's board of directors adopted a Limited Duration Stockholders Rights plan—a poison pill provision. Dubbed the wolf-pack provision, It essentially doubled the share price for anyone who attempted to amass more than a certain percentage of the company’s shares without board approval.
+To repeal any possible takeover attempts by Schnatter, the company's board of directors adopted a Limited Duration Stockholders Rights plan—a poison pill provision. Dubbed the wolf-pack provision, It essentially doubled the share price for anyone who attempted to amass more than a certain percentage of the company’s [[Shares|shares]] without board approval.
 
 The New York Times [[reported]](https://www.nytimes.com/2018/07/23/business/papa-johns-john-schnatter-poison-pill.html) that the plan would take effect if Schnatter and his affiliates raised their combined stake in the company to 31%, or if anyone purchased 15% of the [[common stock]](https://www.investopedia.com/terms/c/commonstock.asp) without the board’s approval.1
 
-Since Schnatter was excluded from the [[dividend]](https://www.investopedia.com/terms/d/dividend.asp) distribution, the tactic effectively made a hostile takeover of the company unattractive: the potential acquirer would have to pay twice the [[value]](https://www.investopedia.com/terms/v/value.asp) per share of the company's common stock. It prevented him from trying to take over the company he founded by buying its shares at market price.
+Since Schnatter was excluded from the [[dividend]](https://www.investopedia.com/terms/d/dividend.asp) distribution, the tactic effectively made a [[Hostile Takeover|hostile takeover]] of the company unattractive: the potential acquirer would have to pay twice the [[value]](https://www.investopedia.com/terms/v/value.asp) per share of the company's [[Common Stock|common stock]]. It prevented him from trying to take over the company he founded by buying its [[Shares|shares]] at market price.
 
-In 2012, Netflix ([NFLX](https://www.investopedia.com/markets/quote?tvwidgetsymbol=nflx)) announced that a shareholder rights plan was adopted by its board just days after investor Carl Icahn acquired a 10% stake. The new plan stipulated that with any new acquisition of 10% or more, any Netflix merger, sales, or transfer of more than 50% of [[assets]](https://www.investopedia.com/terms/a/asset.asp), allows for existing shareholders to purchase two shares for the price of one.
+In 2012, Netflix ([NFLX](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=nflx)) announced that a shareholder rights plan was adopted by its board just days after investor Carl Icahn acquired a 10% stake. The new plan stipulated that with any new acquisition of 10% or more, any Netflix merger, sales, or transfer of more than 50% of [[assets]](https://www.investopedia.com/terms/a/asset.asp), allows for existing shareholders to purchase two [[Shares|shares]] for the price of one.
 
 ## Disadvantages of Poison Pills
 
 There are three major potential disadvantages to poison pills.
 
-Stock values become diluted, so shareholders often have to purchase new shares just to keep even. Institutional investors are discouraged from buying into corporations that have aggressive defenses. Ineffective managers can stay in place through poison pills. If that weren't the case, outside [venture capitalists](https://www.investopedia.com/articles/financial-theory/11/how-venture-capitalists-make-investment-choices.asp?rp=i) might be able to buy the firm and improve its value with better managing staff.
+[[Stock]] values become diluted, so shareholders often have to purchase new [[Shares|shares]] just to keep even. Institutional investors are discouraged from buying into corporations that have aggressive defenses. Ineffective managers can stay in place through poison pills. If that weren't the case, outside [venture capitalists](https://www.investopedia.com/articles/financial-theory/11/how-venture-capitalists-make-investment-choices.asp?rp=i) might be able to buy the firm and improve its value with better managing staff.

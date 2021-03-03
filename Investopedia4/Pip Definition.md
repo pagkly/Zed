@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/p/pip.asp
 author: James Chen
 ---
 
-# Pip Definition & Examples
+# [[Pip Definition]] & Examples
 
 > ## Excerpt
-> A pip is the smallest price increment (fraction) tabulated by currency markets to establish the current ask (buying price) and current bid (selling price) of a currency pair such as the Euro/US Dollar (EUR/USD).
+> A pip is the smallest price increment (fraction) tabulated by currency markets to establish the current ask (buying price) and current bid (selling price) of a currency pair such as the Euro/US Dollar ([[EUR]]/USD).
 
 ---
 
-Pip Definition
+[[Pip Definition]]
 ## What Is a Pip?
 
 Pip is an acronym for "percentage in point" or" price interest point." A pip is the smallest price move that an exchange rate can make based on forex market convention. Most currency pairs are priced out to four decimal places and the pip change is the last (fourth) decimal point. A pip is thus equivalent to 1/100 of 1% or one [[basis point]](https://www.investopedia.com/terms/b/basispoint.asp).1
@@ -32,17 +32,17 @@ A pip is a basic concept of foreign exchange (forex). Forex pairs are used to di
 
 Movement in the exchange rate is measured by pips. Since most currency pairs are quoted to a maximum of four decimal places, the smallest change for these pairs is 1 pip. The value of a pip can be calculated by dividing 1/10,000 or 0.0001 by the exchange rate.
 
-For example, a trader who wants to buy the USD/CAD pair would be purchasing US Dollars and simultaneously selling Canadian Dollars. Conversely, a trader who wants to sell US Dollars would sell the USD/CAD pair, buying Canadian dollars at the same time. Traders often use the term "pips" to refer to the [[spread]](https://www.investopedia.com/terms/b/bid-askspread.asp) between the bid and ask prices of the currency pair and to indicate how much gain or loss can be realized from a trade.
+For example, a trader who wants to buy the USD/CAD pair would be purchasing US Dollars and simultaneously selling Canadian Dollars. Conversely, a trader who wants to sell US Dollars would sell the USD/CAD pair, buying Canadian dollars at the same time. Traders often use the term "pips" to refer to the [[spread]](https://www.investopedia.com/terms/b/bid-askspread.asp) between the bid and ask prices of the currency pair and to indicate how much [[Gain|gain]] or loss can be realized from a trade.
 
-Japanese Yen (JPY) pairs are quoted with 2 decimal places, marking a notable exception.1 For currency pairs such as the EUR/JPY and [[USD/JPY]](https://www.investopedia.com/terms/forex/u/usd-jpy-us-dollar-japanese-yen-currency-pair.asp), the value of a pip is 1/100 divided by the exchange rate. For example, if the EUR/JPY is quoted as 132.62, one pip is 1/100 ÷ 132.62 = 0.0000754.
+Japanese Yen (JPY) pairs are quoted with 2 decimal places, marking a notable exception.1 For currency pairs such as the [[EUR]]/JPY and [[USD/JPY]](https://www.investopedia.com/terms/forex/u/usd-jpy-us-dollar-japanese-yen-currency-pair.asp), the value of a pip is 1/100 divided by the exchange rate. For example, if the EUR/JPY is quoted as 132.62, one pip is 1/100 ÷ 132.62 = 0.0000754.
 
 ## Pips and Profitability
 
-The movement of a currency pair determines whether a trader made a profit or loss from his or her positions at the end of the day. A trader who buys the EUR/USD will profit if the Euro increases in value relative to the US Dollar. If the trader bought the Euro for 1.1835 and exited the trade at 1.1901, he or she would make 1.1901 - 1.1835 = 66 pips on the trade.
+The movement of a currency pair determines whether a trader made a profit or loss from his or her positions at the end of the day. A trader who buys the [[EUR]]/USD [[Will|will]] profit if the Euro increases in value relative to the US Dollar. If the trader bought the Euro for 1.1835 and exited the trade at 1.1901, he or she would make 1.1901 - 1.1835 = 66 pips on the trade.
 
 Now, let's consider a trader who buys the Japanese Yen by selling USD/JPY at 112.06. The trader loses 3 pips on the trade if closed at 112.09 but profits by 5 pips if the position is closed at 112.01.
 
-While the difference looks small in the multi-trillion dollar foreign exchange market, gains and losses can add up quickly. For example, if a $10 million position in this set-up is closed at 112.01, the trader will book a $10 million x (112.06 - 112.01) = ¥500,000 profit. This profit in US dollars is calculated as ¥500,000/112.01 = $4,463.89.
+While the difference looks small in the multi-trillion dollar foreign exchange market, gains and losses can add up quickly. For example, if a $10 million position in this set-up is closed at 112.01, the trader [[Will|will]] book a $10 million x (112.06 - 112.01) = ¥500,000 profit. This profit in US dollars is calculated as ¥500,000/112.01 = $4,463.89.
 
 ## Real World Example of Pip
 

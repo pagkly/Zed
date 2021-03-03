@@ -3,47 +3,47 @@ alias: [Penetration Pricing]
 created: 2021-03-02T22:40:13 (UTC +11:00)
 tags: [Penetration Pricing, Penetration Pricing]
 source: https://www.investopedia.com/terms/p/penetration-pricing.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Penetration Pricing
+# [[Penetration Pricing]]
 
 > ## Excerpt
-> Penetration pricing is a marketing strategy implemented to draw customers to a new product or service.
+> [[Penetration Pricing|Penetration pricing]] is a [[Marketing Strategy|marketing strategy]] implemented to draw customers to a new product or service.
 
 ---
 
-Penetration Pricing
-## What Is Penetration Pricing?
+[[Penetration Pricing]]
+## What Is [[Penetration Pricing]]?
 
-Penetration pricing is a [[marketing]](https://www.investopedia.com/terms/m/marketing.asp) strategy used by businesses to attract customers to a new product or service by offering a lower price during its initial offering. The lower price helps a new product or service penetrate the market and attract customers away from competitors. Market penetration pricing relies on the strategy of using low prices initially to make a wide number of customers aware of a new product.
+[[Penetration Pricing|Penetration pricing]] is a [[marketing]](https://www.investopedia.com/terms/m/marketing.asp) strategy used by businesses to attract customers to a new product or service by [[Offering|offering]] a lower price during its initial offering. The lower price helps a new product or service penetrate the market and attract customers away from competitors. Market penetration pricing relies on the strategy of using low prices initially to make a wide number of customers aware of a new product.
 
-The goal of a price penetration strategy is to entice customers to try a new product and build market share with the hope of keeping the new customers once prices rise back to normal levels. Penetration pricing examples include an online news website offering one month free for a subscription-based service or a bank offering a free checking account for six months.
+The goal of a price penetration strategy is to entice customers to try a new product and build market share with the hope of keeping the new customers once prices rise back to normal levels. [[Penetration Pricing|Penetration pricing]] examples include an online news website [[Offering|offering]] one month free for a subscription-based service or a bank offering a free [[Checking Account|checking account]] for six months.
 
 ### Key Takeaways
 
--   Penetration pricing is a strategy used by businesses to attract customers to a new product or service by offering a lower price initially.
+-   [[Penetration Pricing|Penetration pricing]] is a strategy used by businesses to attract customers to a new product or service by [[Offering|offering]] a lower price initially.
 -   The lower price helps a new product or service penetrate the market and attract customers away from competitors.
--   Penetration pricing comes with the risk that new customers may choose the brand initially, but once prices increase, switch to a competitor.
+-   [[Penetration Pricing|Penetration pricing]] comes with the [[Risk|risk]] that new customers may choose the brand initially, but once prices increase, switch to a competitor.
 
-## Understanding Penetration Pricing
+## Understanding [[Penetration Pricing]]
 
-Penetration pricing, similar to [[loss leader pricing]](https://www.investopedia.com/terms/l/lossleader.asp), can be a successful marketing strategy when applied correctly. It can often increase both market share and sales volume. Additionally, a higher amount of sales can lead to lower production costs and quick inventory turnover. However, the key to a successful campaign is keeping the newly-acquired customers.
+[[Penetration Pricing|Penetration pricing]], similar to [[loss leader pricing]](https://www.investopedia.com/terms/l/lossleader.asp), can be a successful [[Marketing Strategy|marketing strategy]] when applied correctly. It can often increase both market share and sales volume. Additionally, a higher amount of sales can lead to lower production costs and quick inventory turnover. However, the key to a successful campaign is keeping the newly-acquired customers.
 
-For example, a company might advertise a buy-one-get-one-free (BOGO) campaign to attract customers to a store or website. Once a purchase has been made; ideally, an email or contact list is created to follow-up and offer additional products or services to the new customers at a later date.
+For example, a company might advertise a buy-one-get-one-free (BOGO) campaign to attract customers to a store or website. Once a purchase has been made; ideally, an email or contact list is created to follow-up and [[Offer|offer]] additional products or services to the new customers at a later date.
 
 However, if the low price is part of an introductory campaign, curiosity may prompt customers to choose the brand initially, but once the price begins to rise to or near the price levels of the competing brand, they may switch back to the competitor.
 
-As a result, a major disadvantage to a market penetration pricing strategy is that an increase in sales volume may not lead to an increase in profits if prices must remain low to keep the new customers. If the competition also lowers their prices, the companies might find themselves in a price war, leading to lower prices and lower profits for an extended period of time.
+As a result, a major disadvantage to a market [[Penetration Pricing|penetration pricing]] strategy is that an increase in sales volume may not lead to an increase in profits if prices must remain low to keep the new customers. If the competition also lowers their prices, the companies might find themselves in a price war, leading to lower prices and lower profits for an extended period of time.
 
-## Penetration Pricing vs. Skimming
+## [[Penetration Pricing]] vs. Skimming
 
-With pricing penetration, companies advertise new products at low prices, with modest or nonexistent margins. Conversely, a [[skimming]](https://www.investopedia.com/terms/s/skimming.asp) strategy involves companies marketing products at high prices with relatively high margins. A skimming strategy works well for innovative or luxury products where early adopters have low price sensitivity and are willing to pay higher prices. Effectively, producers are skimming the market to maximize profits. Over time, prices will reduce to levels comparable to market prices in order to capture the rest of the market. 
+With pricing penetration, companies advertise new products at low prices, with modest or nonexistent margins. Conversely, a [[skimming]](https://www.investopedia.com/terms/s/skimming.asp) strategy involves companies marketing products at high prices with relatively high margins. A skimming strategy works well for innovative or luxury products where early adopters have low price sensitivity and are willing to pay higher prices. Effectively, producers are skimming the market to maximize profits. Over time, prices [[Will|will]] reduce to levels comparable to market prices in order to capture the rest of the market. 
 
 Small businesses or those in niche markets can benefit from price skimming when their products or services are differentiated from competitors' and when synonymous with quality and a positive brand image.
 
-## Example of Penetration Pricing
+## Example of [[Penetration Pricing]]
 
-Costco and Kroger, two major grocery store chains, use market penetration pricing for the organic foods they sell. Traditionally, the margin on groceries is minimal. However, the margin on organic foods tends to be higher. Also, the demand for organic, or natural, foods is growing significantly faster than the market for non-organic groceries. As a result, many grocers offer more extensive selections of organic foods at premium prices to boost their profit margins. 
+Costco and Kroger, two major grocery store chains, use market [[Penetration Pricing|penetration pricing]] for the organic foods they sell. Traditionally, the margin on groceries is minimal. However, the margin on organic foods tends to be higher. Also, the demand for organic, or natural, foods is growing significantly faster than the market for non-organic groceries. As a result, many grocers [[Offer|offer]] more extensive selections of organic foods at [[Premium|premium]] prices to boost their profit margins. 
 
-However, Kroger and Costco use a penetration pricing strategy. They are selling organic foods at lower prices. Effectively, they are leveraging penetration pricing to increase their wallet share. While this strategy may be risky for small grocery stores, [[economies of scale]](https://www.investopedia.com/terms/e/economiesofscale.asp) permit Kroger and Costco to employ this strategy. Economies of scale essentially means that larger companies can offer lower prices because they buy their inventory in bulk at a volume discount. The lower costs allow Kroger and Costco to maintain their profit margins even while undercutting the pricing of their competition.
+However, Kroger and Costco use a [[Penetration Pricing|penetration pricing]] strategy. They are selling organic foods at lower prices. Effectively, they are leveraging penetration pricing to increase their wallet share. While this strategy may be risky for small grocery stores, [[economies of scale]](https://www.investopedia.com/terms/e/economiesofscale.asp) permit Kroger and Costco to employ this strategy. [[Economies of Scale|Economies of scale]] essentially means that larger companies can [[Offer|offer]] lower prices because they buy their inventory in bulk at a volume discount. The lower costs allow Kroger and Costco to maintain their profit margins even while undercutting the pricing of their competition.

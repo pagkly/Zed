@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/p/paretoimprovement.asp
 author: James Chen
 ---
 
-# Pareto Improvement Definition
+# [[Pareto Improvement Definition]]
 
 > ## Excerpt
 > A Pareto improvement is a change in allocation that harms no one and helps at least one person, given an initial allocation of goods.
 
 ---
 
-Pareto Improvement Definition
+[[Pareto Improvement Definition]]
 ## What is a Pareto Improvement?
 
-Under the rubric of [[neoclassical economic]](https://www.investopedia.com/terms/n/neoclassical.asp) theory, a Pareto improvement occurs when a change in allocation harms no one and helps at least one person, given an initial allocation of goods for a set of persons. The theory suggests that Pareto improvements will keep enhancing value to an economy until it achieves a Pareto equilibrium, where no more Pareto improvements can be made.
+Under the rubric of [[neoclassical economic]](https://www.investopedia.com/terms/n/neoclassical.asp) theory, a Pareto improvement occurs when a change in allocation harms no one and helps at least one person, given an initial allocation of goods for a set of persons. The theory suggests that Pareto improvements [[Will|will]] keep enhancing value to an economy until it achieves a Pareto equilibrium, where no more Pareto improvements can be made.
 
 ## Understanding Pareto Improvement
 
@@ -24,7 +24,7 @@ Named after Vilfredo Pareto (1848-1923), an Italian economist and political sci
 
 ## Pareto in Practice
 
-Aside from applications in economics, the concept of Pareto improvements can be found in the fields of life sciences and engineering - in any academic discipline where trade-offs are simulated and studied to determine the number and type of reallocation of resource variables necessary to achieve Pareto equilibrium. In the business world, factory managers may run Pareto improvement trials in which, for example, they reallocate labor resources to try to boost productivity of assembly workers without decreasing productivity of the packing and shipping workers.
+Aside from applications in [[Economics|economics]], the concept of Pareto improvements can be found in the fields of life sciences and engineering - in any academic discipline where trade-offs are simulated and studied to determine the number and type of reallocation of resource variables necessary to achieve Pareto equilibrium. In the business world, factory managers may run Pareto improvement trials in which, for example, they reallocate labor resources to try to boost [[Productivity|productivity]] of assembly workers without decreasing productivity of the packing and shipping workers.
 
 ### Key Takeaways
 
@@ -37,6 +37,6 @@ Pareto improvements, along with Pareto efficiency, are criticized in the realm o
 
 ## Example of Pareto Improvement
 
-Suppose an equal amount of funds are disbursed to two families, one rich and another poor. The funds help lift the latter above the poverty amount but does not make much difference to the overall income of the former. This improvement is an example of Pareto improvement.
+Suppose an equal amount of funds are disbursed to two families, one rich and another poor. The funds help lift the latter above the [[Poverty|poverty]] amount but does not make much difference to the overall income of the former. This improvement is an example of Pareto improvement.
 
 Another example of Pareto improvement is the case of two students exchanging lunchboxes. One of the students, who does not like cheeseburger, gives his burger to another student who considers it delicious. Even though one of the students gives away his burger, no one is worse off and both students are satisfied with the trade exchange. This is an example of a Pareto improvement.

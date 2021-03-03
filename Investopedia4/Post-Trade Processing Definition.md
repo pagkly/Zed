@@ -13,10 +13,10 @@ author: James Chen
 
 ---
 
-Post-Trade Processing Definition
+[[Post-Trade Processing Definition]]
 ## What Is Post-Trade Processing?
 
-Post-trade processing occurs after a trade is complete. At this point, the buyer and the [[seller]](https://www.investopedia.com/terms/s/seller.asp) compare trade details, approve the transaction, change records of ownership, and arrange for the transfer of [[securities]](https://www.investopedia.com/terms/s/security.asp) and cash. Post-trade processing is especially important in markets that are not standardized, such as the over-the-counter (OTC) markets.
+Post-trade processing occurs after a trade is complete. At this point, the buyer and the [[seller]](https://www.investopedia.com/terms/s/seller.asp) compare trade details, approve the transaction, change records of ownership, and arrange for the transfer of [[securities]](https://www.investopedia.com/terms/s/[[Security|security]].asp) and cash. Post-trade processing is especially important in markets that are not standardized, such as the [[Over-The-Counter (OTC)|over-the-counter (OTC)]] markets.
 
 ## How Post-Trade Processing Works
 
@@ -26,15 +26,15 @@ Post-trade processing allows the buyer and seller of securities to root out and 
 
 ### Trade Clearing and Settlement
 
-After a trade is executed, the transaction enters what is known as the [[settlement period]](https://www.investopedia.com/terms/s/settlement_period.asp). During settlement, the buyer must make payment for the securities they purchased while the seller must deliver the security that was acquired. Depending on the type of security, settlement dates will vary. As an example of how settlement dates work, let's say that an investor buys shares of Amazon (AMZN) on Monday, Jan. 28, 2019. The [[broker]](https://www.investopedia.com/terms/b/broker.asp) will debit the investor's account for the total cost of the order immediately after its filled, but the status as a shareholder of Amazon will not be settled in the company's record books for the investor until Wednesday, Jan. 30. At that time, the [[investor]](https://www.investopedia.com/terms/i/investor.asp) would become a [[shareholder]](https://www.investopedia.com/terms/s/shareholder.asp) of record.
+After a trade is executed, the transaction enters what is known as the [[settlement period]](https://www.investopedia.com/terms/s/settlement_period.asp). During settlement, the buyer must make payment for the securities they purchased while the seller must deliver the [[Security|security]] that was acquired. Depending on the type of security, settlement dates [[Will|will]] vary. As an example of how settlement dates work, let's say that an investor buys [[Shares|shares]] of Amazon (AMZN) on Monday, Jan. 28, 2019. The [[broker]](https://www.investopedia.com/terms/b/broker.asp) will debit the investor's account for the total cost of the order immediately after its filled, but the status as a shareholder of Amazon will not be settled in the company's record books for the investor until Wednesday, Jan. 30. At that time, the [[investor]](https://www.investopedia.com/terms/i/investor.asp) would become a [[shareholder]](https://www.investopedia.com/terms/s/shareholder.asp) of record.
 
-Once the trade has settled, and the funds in any sale of stock or another type of security have been credited to your account, the investor may choose to withdraw the funds, reinvest in new security or hold the amount in cash within the account. For those looking to cash out some of the profits (or what's left from a loss), check to see if your broker offers transfers to your bank account using the Automated Clearing House (ACH) or by using a wire transfer.
+Once the trade has settled, and the funds in any sale of [[Stock|stock]] or another type of [[Security|security]] have been credited to your account, the investor may choose to withdraw the funds, reinvest in new security or [[Hold|hold]] the amount in cash within the account. For those looking to cash out some of the profits (or what's left from a loss), check to see if your broker offers transfers to your bank account using the Automated Clearing House (ACH) or by using a wire transfer.
 
 ### T+2
 
-The settlement period for post-trade processing of stocks and several other exchange-traded assets.  In March 2017, the SEC shortened the settlement period from T+3 to T+2 days to reflect improvements in technology, increased trading volumes and changes in investment products and the trading landscape. 
+The settlement period for post-trade processing of [[Stocks|stocks]] and several other exchange-traded assets.  In March 2017, the SEC shortened the settlement period from T+3 to T+2 days to reflect improvements in technology, increased trading volumes and changes in investment products and the trading landscape. 
 
-[Clearing](https://www.investopedia.com/terms/c/clearing.asp) is the process of reconciling purchases and sales of various options, futures, or securities, as well as the direct transfer of funds from one financial institution to another. The process validates the availability of the appropriate funds, records the transfer, and in the case of securities ensures the delivery of the security to the buyer. Non-cleared trades can result in [settlement risk](https://www.investopedia.com/terms/s/settlementrisk.asp), and if trades do not clear accounting errors will arise where real money can be lost.
+[Clearing](https://www.investopedia.com/terms/c/clearing.asp) is the process of reconciling purchases and sales of various options, [[Futures|futures]], or securities, as well as the direct transfer of funds from one financial institution to another. The process validates the availability of the appropriate funds, records the transfer, and in the case of securities ensures the delivery of the [[Security|security]] to the buyer. Non-cleared trades can result in [settlement risk](https://www.investopedia.com/terms/s/settlementrisk.asp), and if trades do not clear accounting errors [[Will|will]] arise where real money can be lost.
 
 An [out trade](https://www.investopedia.com/terms/o/outtrade.asp) is a trade that cannot be placed because it was received by an [exchange](https://www.investopedia.com/terms/e/exchange.asp) with conflicting information. The associated clearinghouse cannot settle the trade because the data submitted by parties on both sides of the transaction is inconsistent or contradictory.
 
@@ -42,8 +42,8 @@ An [out trade](https://www.investopedia.com/terms/o/outtrade.asp) is a trade th
 
 -   Post-trade processing occurs after a trade is complete.
 -   At this point, the buyer and the seller compare trade details, approve the transaction, change records of ownership, and arrange for the transfer of securities and cash.
--   Post-trade processing will usually include a settlement period and involve a clearing process.
--   OTC trades that do not rely on centralized clearinghouses will need to settle their own trades, which exposes counterparty risk and settlement risk.
+-   Post-trade processing [[Will|will]] usually include a settlement period and involve a clearing process.
+-   OTC trades that do not rely on centralized clearinghouses [[Will|will]] need to settle their own trades, which exposes [[Counterparty|counterparty]] [[Risk|risk]] and settlement risk.
 
 ## Examples of Post-Trade Processing
 

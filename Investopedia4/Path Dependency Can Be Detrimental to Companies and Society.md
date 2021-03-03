@@ -13,7 +13,7 @@ author: Caroline Banton
 
 ---
 
-Path Dependency Can Be Detrimental to Companies and Society
+[[Path Dependency Can Be Detrimental to Companies and Society]]
 ## What Is Path Dependency?
 
 Path dependency explains the continued use of a product or practice based on historical preference or use. A company may persist in the use of a product or practice even if newer, more efficient alternatives are available. Path dependency occurs because it is often easier or more cost-effective to continue along an already set path than to create an entirely new one.
@@ -30,7 +30,7 @@ According to Ian Greener, a contributor to _The_ _Encyclopedia Britannica,_ stud
 
 Industries follow path dependency if an initial concept, method, or innovation is adopted as a standard. For example, the use of [[fossil fuels]](https://www.investopedia.com/articles/markets/030816/top-4-oil-companies-protect-environment-xom-sun.asp) as primary energy sources persists, in part, because a multitude of tertiary industries is intrinsically tied to fossil fuel use.
 
-The automotive industry continues to manufacture vehicles with gasoline-fueled, internal combustion engines although the resource's supply is ultimately finite. There is a considerable exploration of [[alternative fuels]](https://www.investopedia.com/ask/answers/060415/what-are-main-substitutes-oil-and-gas-energy.asp) and power sources; however, they lack the research time and infrastructure commitment already established for gasoline-fueled transportation and machines. Despite the rising costs and increased scarcity associated with fossil fuels, a long-term or renewable successor resource that can meet worldwide demand has yet to be developed at scale.
+The automotive industry continues to manufacture vehicles with gasoline-fueled, internal combustion engines although the resource's [[Supply|supply]] is ultimately finite. There is a considerable exploration of [[alternative fuels]](https://www.investopedia.com/ask/answers/060415/what-are-main-substitutes-oil-and-gas-energy.asp) and power sources; however, they lack the research time and infrastructure commitment already established for gasoline-fueled transportation and machines. Despite the rising costs and increased scarcity associated with fossil fuels, a long-term or renewable successor resource that can meet worldwide demand has yet to be developed at scale.
 
 Path dependency can influence strategies within companies, sometimes to the detriment of the business. For example, most companies have a core product or system that establishes its market presence. Over time, rival products and methods might appear in the market that represent more competitive or lucrative opportunities. Path dependency can contribute to a reluctance or inability to invest in forward-thinking innovations. The introduction of digital photography, for example, presented such a challenge to the camera film manufacturers.
 

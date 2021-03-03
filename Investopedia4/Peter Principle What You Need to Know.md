@@ -9,7 +9,7 @@ author: Adam Hayes
 # Peter Principle Definition
 
 > ## Excerpt
-> The Peter Principle theorizes that people in a firm will be promoted up to a point where they are no longer qualified, leaving a company full of incompetent employees.
+> The Peter Principle theorizes that people in a firm [[Will|will]] be promoted up to a point where they are no longer qualified, leaving a company full of incompetent employees.
 
 ---
 
@@ -18,12 +18,12 @@ Peter Principle: What You Need to Know
 
 The Peter Principle is an observation that the tendency in most organizational [[hierarchies]](https://www.investopedia.com/terms/c/corporate-hierarchy.asp), such as that of a corporation, is for every employee to rise in the hierarchy through promotion until they reach a level of respective incompetence. In other words, a [[front-office]](https://www.investopedia.com/terms/f/frontoffice.asp) secretary who is quite good at her job may thus be promoted to executive assistant to the [[CEO]](https://www.investopedia.com/articles/financialcareers/08/ceo-chief-executive-career.asp) for which she is not trained or prepared for—meaning that she would be more productive for the company (and likely herself) if she had not been promoted.
 
-The Peter Principle is thus based on the paradoxical idea that competent [[employees]](https://www.investopedia.com/articles/personal-finance/081015/8-reasons-why-valued-employees-quit.asp) will continue to be promoted, but at some point will be promoted into positions for which they are incompetent, and they will then remain in those positions because of the fact that they do not demonstrate any further competence that would get them recognized for additional promotion.
+The Peter Principle is thus based on the paradoxical idea that competent [[employees]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/081015/8-reasons-why-valued-employees-quit.asp) [[Will|will]] continue to be promoted, but at some point will be promoted into positions for which they are incompetent, and they will then remain in those positions because of the fact that they do not demonstrate any further competence that would get them recognized for additional promotion.
 
-According to the Peter Principle, every position in a given hierarchy will eventually be filled by employees who are incompetent to fulfill the job duties of their respective positions.
+According to the Peter Principle, every position in a given hierarchy [[Will|will]] eventually be filled by employees who are incompetent to fulfill the job duties of their respective positions.
 
 -   The Peter Principle observes that employees rise up through a firm's hierarchy through promotion until they reach a level of respective incompetence.
--   As a result, according to the Peter Principle, every position in a given hierarchy will eventually be filled by employees who are incompetent to fulfill the job duties of their respective positions.
+-   As a result, according to the Peter Principle, every position in a given hierarchy [[Will|will]] eventually be filled by employees who are incompetent to fulfill the job duties of their respective positions.
 -   A possible solution to the problem posed by the Peter Principle is for companies to provide adequate skill training for employees receiving a promotion, and to ensure the training is appropriate for the position to which they have been promoted.
 
 #### What's the Peter Principle?
@@ -40,7 +40,7 @@ According to the Peter Principle, competence is rewarded with the [[promotion]](
 
 Dr. Peter further argued that employees tend to remain in positions for which they are incompetent because mere incompetence is rarely sufficient to cause the employee to be fired from the position. Ordinarily, only extreme incompetence causes dismissal.
 
-Most people will not turn down a promotion, especially if it comes with greater pay and prestige—even if they know they are unqualified for the position.
+Most people [[Will|will]] not turn down a promotion, especially if it comes with greater pay and prestige—even if they know they are unqualified for the position.
 
 ## Overcoming the Peter Principle
 

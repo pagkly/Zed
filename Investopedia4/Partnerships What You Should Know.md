@@ -18,30 +18,30 @@ Partnerships: What You Should Know
 
 A partnership is a formal arrangement by two or more parties to manage and operate a business and share its profits.
 
-There are several [[types of partnership arrangements]](https://www.investopedia.com/ask/answers/042015/what-caused-american-industrial-revolution.asp). In particular, in a partnership business, all partners share liabilities and profits equally, while in others, partners may have [[limited liability]](https://www.investopedia.com/terms/l/limited_company.asp). There also is the so-called "silent partner," in which one party is not involved in the day-to-day operations of the business.
+There are several [[types of partnership arrangements]](https://www.investopedia.com/ask/answers/042015/what-caused-american-industrial-revolution.asp). In particular, in a partnership business, all partners share liabilities and profits equally, while in others, partners may have [[limited liability]](https://www.investopedia.com/terms/l/limited_company.asp). There also is the so-called "[[Silent Partner|silent partner]]," in which one party is not involved in the day-to-day operations of the business.
 
 ### Key Takeaways
 
 -   A partnership is an arrangement between two or more people to oversee business operations and share its profits and liabilities.
 -   In a general partnership company, all members share both profits and liabilities.
--   Professionals like doctors and lawyers often form a limited liability partnership.
+-   Professionals like doctors and lawyers often form a limited [[Liability|liability]] partnership.
 -   There may be tax benefits to a partnership compared to a corporation.
 
 ## How a Partnership Works
 
 In a broad sense, a partnership can be any endeavor undertaken jointly by multiple parties. The parties may be governments, non-profits enterprises, businesses, or private individuals. The goals of a partnership also vary widely.
 
-Within the narrow sense of a for-profit venture undertaken by two or more individuals, there are three main categories of partnership: [[general partnership]](https://www.investopedia.com/terms/g/generalpartnership.asp), limited partnership, and limited liability partnership.
+Within the narrow sense of a for-profit venture undertaken by two or more individuals, there are three main categories of partnership: [[general partnership]](https://www.investopedia.com/terms/g/generalpartnership.asp), limited partnership, and limited [[Liability|liability]] partnership.
 
-In a general partnership, all parties share legal and financial liability equally. The individuals are personally responsible for the debts the partnership takes on. [[Profits are also shared equally]](https://www.investopedia.com/terms/g/guaranteed-payments-partners.asp). The specifics of profit sharing will almost certainly be laid out in writing in a partnership agreement.
+In a general partnership, all parties share legal and financial [[Liability|liability]] equally. The individuals are personally responsible for the debts the partnership takes on. [[Profits are also shared equally]](https://www.investopedia.com/terms/g/guaranteed-payments-partners.asp). The specifics of profit sharing [[Will|will]] almost certainly be laid out in writing in a partnership agreement.
 
 When drafting a partnership agreement, an expulsion clause should be included, detailing what events are grounds for expelling a partner.
 
-[Limited liability partnerships](https://www.investopedia.com/articles/investing/090214/limited-liability-partnership-llp-basics.asp) are a common structure for professionals, such as accountants, lawyers, and architects. This arrangement limits partners' personal liability so that, for example, if one partner is sued for malpractice, the assets of other partners are not at risk. Some law and accounting firms make a further distinction between equity partners and salaried partners. The latter is more senior than associates but does not have an ownership stake. They are generally paid bonuses based on the firm's profits.
+[Limited [[Liability|liability]] partnerships](https://www.investopedia.com/articles/investing/090214/limited-liability-partnership-llp-basics.asp) are a common structure for professionals, such as accountants, lawyers, and architects. This arrangement limits partners' personal liability so that, for example, if one partner is sued for malpractice, the assets of other partners are not at [[Risk|risk]]. Some law and accounting firms make a further distinction between [[Equity|equity]] partners and salaried partners. The latter is more senior than associates but does not have an ownership stake. They are generally paid bonuses based on the firm's profits.
 
-Limited partnerships are a hybrid of general partnerships and limited liability partnerships. At least one partner must be a general partner, with full personal liability for the partnership's debts. At least one other is a silent partner whose liability is limited to the amount invested. This silent partner generally does not participate in the management or day-to-day operation of the partnership.
+Limited partnerships are a hybrid of general partnerships and limited [[Liability|liability]] partnerships. At least one partner must be a general partner, with full personal liability for the partnership's debts. At least one other is a [[Silent Partner|silent partner]] whose liability is limited to the amount invested. This silent partner generally does not participate in the management or day-to-day operation of the partnership.
 
-Finally, the awkwardly-named limited liability limited partnership is a new and relatively uncommon variety. This is a limited partnership that provides a greater shield from liability for its general partners.
+Finally, the awkwardly-named limited [[Liability|liability]] limited partnership is a new and relatively uncommon variety. This is a limited partnership that provides a greater shield from liability for its general partners.
 
 ## Special Considerations
 
@@ -63,13 +63,13 @@ Individuals in partnerships may receive more favorable tax treatment than if the
 
 A partnership is a way of structuring a business that involves two or more individuals (the partners). It involves a contractual agreement (the partnership agreement) between all of the partners that set the terms and conditions of their business relationship, including the distribution of ownership, responsibilities, and profits and losses. Partnerships outline and clearly define a business relationship and responsibility. Unlike LLCs or corporations, however, partners are personally held liable for any business debts of the partnership, which means that creditors or other claimants can go after the partners' personal assets.  Because of this, individuals who wish to form a partnership should be extremely selective when choosing partners.
 
-### If partners don't have limited liability why set up a partnership?
+### If partners don't have limited [[Liability|liability]] why set up a partnership?
 
 Partnerships have several benefits. They are often easier to set-up than LLCs or corporations and do not involve a formal incorporation process through a government. Partnerships therefore don’t have to follow the same rules and regulations as corporations and LLCs, and are subject to much less paperwork and guidelines. Partnerships also tend to be more tax friendly.
 
 ### What about limited partnerships?
 
-In limited partnerships (LPs), there are general partners who maintain operations of the firm and have full liability, whereas limited (slent) partners, who are often passive investors or otherwise not involved in day-to-day operations, enjoy limited liability. A limited liability partnership (LLP) is different from an LP.  In an LLP, partners are not exempt from liability for the debts of the partnership, but they may be exempt from liability for actions of other partners. A limited liability limited partnership (LLLP) is a relatively new business form that combines aspects of LPs and LLPs.
+In limited partnerships (LPs), there are general partners who maintain operations of the firm and have full [[Liability|liability]], whereas limited (slent) partners, who are often passive investors or otherwise not involved in day-to-day operations, enjoy limited liability. A limited liability partnership (LLP) is different from an LP.  In an LLP, partners are not exempt from liability for the debts of the partnership, but they may be exempt from liability for actions of other partners. A limited liability limited partnership (LLLP) is a relatively new business form that combines aspects of LPs and LLPs.
 
 ### Do partnerships pay taxes?
 
@@ -77,4 +77,4 @@ The partnership itself does not pay business taxes. Instead, taxes are passed th
 
 ### What types of businesses are best-suited for partnerships?
 
-Partnerships are often best for a group of professionals in the same line of work where each partner has an active role in running the business. These often include medical professionals, lawyers, accountants, consultants, finance & investing, and architects.
+Partnerships are often best for a group of professionals in the same line of work where each partner has an active role in running the business. These often include medical professionals, lawyers, accountants, consultants, [[Finance|finance]] & investing, and architects.

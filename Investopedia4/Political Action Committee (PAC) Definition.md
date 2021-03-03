@@ -3,17 +3,17 @@ alias: [Political Action Committee, PAC]
 created: 2021-03-02T22:44:56 (UTC +11:00)
 tags: [Political Action Committee (PAC) Definition, Political Action Committee (PAC) Definition]
 source: https://www.investopedia.com/terms/p/political-action-committee-super-pac.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Political Action Committee (PAC) Definition
+# [[Political Action Committee (PAC) Definition]]
 
 > ## Excerpt
 > Here's a look at PACS and Super Pacs and how they influence political campaigns.
 
 ---
 
-Political Action Committee (PAC) Definition
+[[Political Action Committee (PAC) Definition]]
 ## What Is a Political Action Committee (PAC)?
 
 In the U.S., a political action committee (PAC) is a political committee that pools campaign contributions from members and donates those funds to campaigns for or against candidates, ballot initiatives, or legislation. PACs are typically formed to represent business, labor, or ideological interests by individuals who wish to privately raise money to donate to a political campaign.
@@ -62,12 +62,12 @@ A leadership PAC is a PAC that is established by a candidate or an individual ho
 
 ## PACs vs. Super PACs
 
-Super PACs were created in 2010 after the U.S. Court of Appeals' decision in SpeechNow.org v. Federal Election Committee. This decision allowed for a greater level of deregulation as to how political funds are raised and distributed. While Super PAC funds cannot be donated directly to a campaign, Super PAC managers and political candidates are permitted to collaborate and discuss strategy.
+Super PACs were created in 2010 after the U.S. Court of Appeals' decision in SpeechNow.org v. Federal Election Committee. This decision allowed for a greater level of [[Deregulation|deregulation]] as to how political funds are raised and distributed. While Super PAC funds cannot be donated directly to a campaign, Super PAC managers and political candidates are permitted to collaborate and discuss strategy.
 
 Since the inception of Super PACs, they have quickly grown to be a hugely influential force in American politics. In fact, it is estimated that during the 2012 Republican primaries, Super PACs spent more money during the election cycle than the individual candidates' campaigns did.3 The majority of this money was donated by individuals rather than businesses.
 
 ## Special Considerations
 
-Corporations cannot [[contribute directly to a campaign]](https://www.investopedia.com/video/play/difference-between-hard-money-and-soft-money/); however, a 2010 Supreme Court decision–Citizens United v. Federal Election Committee–made it legal for corporations to support a PAC. The decision overruled the 2002 Campaign Reform Act, which prevented corporations, unions, and other entities from donating money to [[political]](https://www.investopedia.com/articles/economics/12/money-and-politics.asp) campaigns. 
+Corporations cannot [[contribute directly to a campaign]](https://www.investopedia.com/video/play/difference-between-hard-money-and-soft-money/); however, a 2010 Supreme Court decision–Citizens United v. Federal Election Committee–made it legal for corporations to support a PAC. The decision overruled the 2002 Campaign Reform Act, which prevented corporations, unions, and other entities from donating money to [[political]](https://www.investopedia.com/articles/[[Economics|economics]]/12/money-and-politics.asp) campaigns. 
 
 The new laws allow these entities to contribute a limited amount of money to a PAC, which can, in turn, be donated to a campaign. In the case of Super PACs, a corporation can contribute an unlimited amount of money. Even though this money can't be directly given to a campaign, it can be spent to indirectly influence an election.
