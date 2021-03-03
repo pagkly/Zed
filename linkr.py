@@ -181,7 +181,7 @@ for alias in page_aliases:
 page_titles = sorted(page_titles, key=lambda x: len(x), reverse=True)
 
 # get text from clipboard
-clip_txt = pyperclip.paste()
+#clip_txt = pyperclip.paste()
 #print('--- clipboard text ---')
 #print(clip_txt)
 print('----------------------')
@@ -197,5 +197,5 @@ else:
     linked_txt = link_content(clip_txt)
 
 
-print(linked_txt)
+#print(linked_txt)
 
