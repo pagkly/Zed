@@ -3,7 +3,7 @@ alias: [Voyage Policy]
 created: 2021-03-03T00:44:31 (UTC +11:00)
 tags: [Voyage Policy Definition, Voyage Policies: What You Should Know]
 source: https://www.investopedia.com/terms/v/voyage-policy.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Voyage Policy Definition
@@ -36,7 +36,7 @@ The policyholder may need to purchase additional insurance to cover the cargo du
 
 -   A voyage policy, or marine cargo insurance, covers losses incurred to a ship's contents during a journey.
 -   A voyage policy is used mainly by exporters who need to ship only occasionally or only in small amounts of cargo.
--   Exporters who ship routinely generally use open cover marine insurance.
+-   Exporters who ship routinely generally use [[Open Cover|open cover]] marine insurance.
 
 The policy is in place for the duration of the voyage, however long it takes. If there are unanticipated delays en route, the coverage remains in place. This allows for factors such as inclement weather at sea or a shortage of docking at the destination port.
 

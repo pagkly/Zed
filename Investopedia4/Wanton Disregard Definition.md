@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/w/wanton-disregard.asp
 author: Julia Kagan
 ---
 
-# Wanton Disregard Definition
+# [[Wanton Disregard Definition]]
 
 > ## Excerpt
 > Wanton disregard is a legal term that denotes an individual's extreme lack of care for the well-being or rights of another individual.
 
 ---
 
-Wanton Disregard Definition
+[[Wanton Disregard Definition]]
 ## What Is Wanton Disregard?
 
 Wanton disregard is a legal term that denotes an individual's extreme lack of care for the well-being or rights of another individual.
@@ -24,7 +24,7 @@ It is most commonly used in an insurance context involving negligence to descri
 
 -   Wanton disregard is legal terminology referring to extreme negligence.
 -   Wanton disregard is a very serious accusation that indicates that a person behaved recklessly.
--   When applied to finance, financial advisors or employees of financial firms who show willful disdain for either regulations or their clients' best interests may be accused of wanton disregard.
+-   When applied to [[Finance|finance]], financial advisors or employees of financial firms who show willful disdain for either regulations or their clients' best interests may be accused of wanton disregard.
 
 ## Understanding Wanton Disregard
 

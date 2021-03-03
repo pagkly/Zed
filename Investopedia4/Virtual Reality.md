@@ -6,33 +6,33 @@ source: https://www.investopedia.com/terms/v/virtual-reality.asp
 author: Cory Mitchell
 ---
 
-# Virtual Reality Definition
+# [[Virtual Reality]] Definition
 
 > ## Excerpt
-> Virtual reality (VR) enables the creation of a simulated environment that our senses can come to believe is real.
+> [[Virtual Reality|Virtual reality]] (VR) enables the creation of a simulated environment that our senses can come to believe is real.
 
 ---
 
-Virtual Reality
-## What Is Virtual Reality?
+[[Virtual Reality]]
+## What Is [[Virtual Reality]]?
 
-Virtual reality (VR) refers to a computer-generated simulation in which a person can interact within an artificial three-dimensional environment using electronic devices, such as special [[goggles with a screen or gloves]](https://www.investopedia.com/terms/w/wearable-technology.asp) fitted with sensors. In this simulated artificial environment, the user is able to have a realistic-feeling experience.
+[[Virtual Reality|Virtual reality]] (VR) refers to a computer-generated simulation in which a person can interact within an artificial three-dimensional environment using electronic devices, such as special [[goggles with a screen or gloves]](https://www.investopedia.com/terms/w/wearable-technology.asp) fitted with sensors. In this simulated artificial environment, the user is able to have a realistic-feeling experience.
 
 [Augmented reality](https://www.investopedia.com/terms/a/augmented-reality.asp) (AR) is different from VR, in that AR enhances the real world as it exists with graphical overlays and does not create a fully immersive experience.
 
 ### Key Takeaways
 
--   Virtual reality (VR) creates an immersive artificial world that can seem quite real, via the use of technology.
--   Through a virtual reality viewer, users can look up, down, or any which way, as if they were actually there.
--   Virtual reality has many use-cases, including entertainment and gaming, or acting as a sales, educational, or training tool.
+-   [[Virtual Reality|Virtual reality]] (VR) creates an immersive artificial world that can seem quite real, via the use of technology.
+-   Through a [[Virtual Reality|virtual reality]] viewer, users can look up, down, or any which way, as if they were actually there.
+-   [[Virtual Reality|Virtual reality]] has many use-cases, including entertainment and gaming, or acting as a sales, educational, or training tool.
 
-## Understanding Virtual Reality
+## Understanding [[Virtual Reality]]
 
-The concept of virtual reality is built on the natural combination of two words: the virtual and the real. The former means "nearly" or "conceptually," which leads to an experience that is near-reality through the use of technology. Software creates and serves up virtual worlds that are experienced by users who wear hardware devices such as goggles, headphones, and special gloves. Together, the user can view and interact with the virtual world as if from within.
+The concept of [[Virtual Reality|virtual reality]] is built on the natural combination of two words: the virtual and the real. The former means "nearly" or "conceptually," which leads to an experience that is near-reality through the use of technology. Software creates and serves up virtual worlds that are experienced by users who wear hardware devices such as goggles, headphones, and special gloves. Together, the user can view and interact with the virtual world as if from within.
 
-To understand virtual reality, let's draw a parallel with real-world observations. We understand our surroundings through our senses and the perception mechanisms of our body. Senses include taste, touch, smell, sight, and hearing, as well as spatial awareness and balance. The inputs gathered by these senses are processed by our brains to make interpretations of the objective environment around us. Virtual reality attempts to create an illusory environment that can be presented to our senses with artificial information, making our minds believe it is (almost) a reality.
+To understand [[Virtual Reality|virtual reality]], let's draw a parallel with real-world observations. We understand our surroundings through our senses and the perception mechanisms of our body. Senses include taste, touch, smell, sight, and hearing, as well as spatial awareness and balance. The inputs gathered by these senses are processed by our brains to make interpretations of the objective environment around us. Virtual reality attempts to create an illusory environment that can be presented to our senses with artificial information, making our minds believe it is (almost) a reality.
 
-## Virtual Reality Use Cases
+## [[Virtual Reality]] Use Cases
 
 The simplest example of VR is a three dimensional (3D) movie. Using special 3D glasses, one gets the immersive experience of being a part of the movie with on-spot presence. The leaf falling from a tree appears to float right in front of the viewer, or the shot of a speeding car going over a cliff makes the viewer feel the chasm's depth and may give some viewers the feeling of falling. Essentially, the light and sound effects of a 3D movie make our vision and hearing senses believe that it's all happening right in front of us, though nothing exists in physical reality.
 

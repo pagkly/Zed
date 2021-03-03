@@ -6,31 +6,31 @@ source: https://www.investopedia.com/terms/w/w8form.asp
 author: James Chen
 ---
 
-# W-8 Forms Definition
+# [[W-8 Forms]] Definition
 
 > ## Excerpt
-> The W-8 forms are used to show that an individual or business receiving income in the U.S. is a foreign entity.
+> The [[W-8 Forms|W-8 forms]] are used to show that an individual or business receiving income in the U.S. is a foreign entity.
 
 ---
 
-W-8 Forms
+[[W-8 Forms]]
 ## What Is a W-8 Form?
 
-W-8 forms are Internal Revenue Service (IRS) forms that foreign individuals and businesses must file to verify their country of residence for tax purposes and certify that they qualify for a lower rate of tax withholding.1 Although the W-8 forms are issued by the IRS, they are submitted only to payers or withholding agents, not to the IRS. Failure to submit the form may result in a withholding at the full 30% rate that applies to foreign entities.2
+[[W-8 Forms|W-8 forms]] are Internal Revenue Service (IRS) forms that foreign individuals and businesses must file to verify their country of residence for tax purposes and certify that they qualify for a lower rate of tax withholding.1 Although the W-8 forms are issued by the IRS, they are submitted only to payers or withholding agents, not to the IRS. Failure to submit the form may result in a withholding at the full 30% rate that applies to foreign entities.2
 
-There are five W-8 forms. The version of the form used is determined by both whether or not the filer is an individual or a business and the nature of the income the filer received. The forms are effective for the year in which they are signed and three calendar years afterward. Therefore, a W-8BEN signed on Sept. 1, 2020, would be valid through Dec. 31, 2023.1
+There are five [[W-8 Forms|W-8 forms]]. The version of the form used is determined by both whether or not the filer is an individual or a business and the nature of the income the filer received. The forms are effective for the year in which they are signed and three calendar years afterward. Therefore, a W-8BEN signed on Sept. 1, 2020, would be valid through Dec. 31, 2023.1
 
-The W-8 series forms are fairly complex. Though they require basic information such as name, country of origin, and taxpayer identification number, they also ask for the contacts from which the filer is receiving the reported income. A professional is often consulted to assist in completing them.3
+The W-8 series forms are fairly complex. Though they require basic information such as name, country of origin, and [[Taxpayer|taxpayer]] identification number, they also ask for the contacts from which the filer is receiving the reported income. A professional is often consulted to assist in completing them.3
 
 ### Key Takeaways
 
--   W-8 forms are generally filed by persons or business entities who receive income in the U.S., though one form in the series, Form W-8IMY, is used by intermediaries that receive withholdable payments on behalf of a foreigner or as a flow-through entity.
--   There are five W-8 forms. Determining which one to use comes down to whether you’re an individual or an entity, the type of income you receive, and whether you’re an organization that qualifies for special tax treatment.
--   All W-8 forms are valid for the year in which they are signed and for three full calendar years after that.
+-   [[W-8 Forms|W-8 forms]] are generally filed by persons or business entities who receive income in the U.S., though one form in the series, Form W-8IMY, is used by intermediaries that receive withholdable payments on behalf of a foreigner or as a flow-through entity.
+-   There are five [[W-8 Forms|W-8 forms]]. Determining which one to use comes down to whether you’re an individual or an entity, the type of income you receive, and whether you’re an organization that qualifies for special tax treatment.
+-   All [[W-8 Forms|W-8 forms]] are valid for the year in which they are signed and for three full calendar years after that.
 
 ## Form W-8BEN
 
-Form W-8BEN ("Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting") must be submitted by foreign persons who receive certain types of income in the United States. The form, sometimes referred to as a "certificate of foreign status," establishes that the individual is both [[a foreign person and the beneficial owner of the business in question]](https://www.investopedia.com/articles/personal-finance/032615/starting-your-own-us-business-foreigner.asp).
+Form W-8BEN ("Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting") must be submitted by foreign persons who receive certain types of income in the United States. The form, sometimes referred to as a "certificate of foreign status," establishes that the individual is both [[a foreign person and the beneficial owner of the business in question]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/032615/starting-your-own-us-business-foreigner.asp).
 
 Form W-8BEN is available on the IRS website.4
 
@@ -44,7 +44,7 @@ Foreign individuals are ordinarily subject to a tax rate of 30% on specific type
 -   Annuities
 -   Compensation for services rendered1 1
 
-The form also helps you claim a reduction or an exemption from the U.S. tax withholding if you reside in a country with which the United States has an income tax treaty and the income you received is subject to that treaty.
+The form also helps you claim a reduction or an exemption from the U.S. tax withholding if you reside in a country with which the United States has an income [[Tax Treaty|tax treaty]] and the income you received is subject to that treaty.
 
 Foreign persons must provide Form W-8BEN to the withholding agent or payer if they are the beneficial owner of the income subject to the tax withholding. You must submit the form regardless of whether you are claiming a reduced withholding.
 
@@ -58,9 +58,9 @@ Form W-8BEN-E is also titled "Certificate of Foreign Status of Beneficial Owner 
 
 All versions of Form W-8BEN-E are available on the IRS website.5
 
-As with foreign persons who receive certain types of income, the money generated by foreign businesses is typically withheld at a 30% rate by the payer or withholding agent in the United States. However, the form allows the foreign business to claim a reduction in taxes if its country of residence has a tax treaty with the United States.
+As with foreign persons who receive certain types of income, the money generated by foreign businesses is typically withheld at a 30% rate by the payer or withholding agent in the United States. However, the form allows the foreign business to claim a reduction in taxes if its country of residence has a [[Tax Treaty|tax treaty]] with the United States.
 
-Non-U.S. businesses must provide the Form W-8BEN-E for the same sources of income that would require an individual to file a Form W-8BEN. Foreign entities that do not provide an accurate W-8BEN-E when required to do so will typically have to pay the full 30% tax rate.2
+Non-U.S. businesses must provide the Form W-8BEN-E for the same sources of income that would require an individual to file a Form W-8BEN. Foreign entities that do not provide an accurate W-8BEN-E when required to do so [[Will|will]] typically have to pay the full 30% tax rate.2
 
 ## Form W-8ECI
 
@@ -82,7 +82,7 @@ All versions of Form W-8EXP are available on the IRS website.10
 
 In order to receive a reduction or an exemption from tax withholding, the entity must be eligible under IRS code 115(2), 501(c), 892, 895, or 1443(b). Should none of those exemptions apply, the entity must file a W-8BEN or W-8ECI (if it received "effectively connected income").
 
-As with other W-8 forms, Form W-8EXP must be sent to the payer or withholding agent before income is paid to you. Not doing so could lead to a tax withholding at the 30% rate, a backup withholding rate, or the ECI tax rate.11
+As with other [[W-8 Forms|W-8 forms]], Form W-8EXP must be sent to the payer or withholding agent before income is paid to you. Not doing so could lead to a tax withholding at the 30% rate, a backup withholding rate, or the ECI tax rate.11
 
 ## Form W-8IMY
 
@@ -92,8 +92,8 @@ All versions of Form W-8IMY are available on the IRS website.12
 
 Examples of entities who must file a W-8IMY include:
 
--   Foreign persons, or a foreign branch of a U.S. person, who are certifying that they are a qualified intermediary (QI) that is not acting for its own account and will provide a withholding statement required under chapters three and four of the IRS Code;
--   U.S. branches that are serving in the role of an intermediary and wish either to certify their treatment as a U.S. person under tax law or document the receipt of payments for which they will furnish a withholding statement; and
--   Flow-through entities who wish to claim tax benefits under a treaty or certify that they will provide a withholding statement, as required.
+-   Foreign persons, or a foreign branch of a U.S. person, who are certifying that they are a qualified intermediary (QI) that is not acting for its own account and [[Will|will]] provide a withholding statement required under chapters three and four of the IRS Code;
+-   U.S. branches that are serving in the role of an intermediary and wish either to certify their treatment as a U.S. person under tax law or document the receipt of payments for which they [[Will|will]] furnish a withholding statement; and
+-   Flow-through entities who wish to claim tax benefits under a treaty or certify that they [[Will|will]] provide a withholding statement, as required.
 
 A complete list of persons or entities required to file the form is in the IRS Instructions for Form W-8IMY. Copies of withholding statements and other documentary evidence should be included with the form when it’s submitted.13

@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/v/vertical-line-charting.asp
 author: Cory Mitchell
 ---
 
-# Vertical Line Charting Definition and Example
+# [[Vertical Line Charting Definition and Example]]
 
 > ## Excerpt
-> Vertical line charting is a type of chart used to plot how the price of a security moves over time.
+> Vertical line charting is a type of chart used to plot how the price of a [[Security|security]] moves over time.
 
 ---
 
-Vertical Line Charting Definition and Example
+[[Vertical Line Charting Definition and Example]]
 ## What is Vertical Line Charting?
 
-Vertical line charting is a technique used by [[technical traders]](https://www.investopedia.com/terms/t/technicalanalysis.asp) and market technicians to track the price moves of a security. In vertical line charting, the price action over a specified period is summarized by a vertical bar. The security's high and low prices for the period are denoted by the top and bottom of the line, respectively, while its opening and [[closing prices]](https://www.investopedia.com/terms/c/closingprice.asp) are indicated by short horizontal bars to the left and right of the vertical bar, respectively.
+Vertical line charting is a technique used by [[technical traders]](https://www.investopedia.com/terms/t/technicalanalysis.asp) and market technicians to track the price moves of a [[Security|security]]. In vertical line charting, the [[Price Action|price action]] over a specified period is summarized by a vertical bar. The security's high and low prices for the period are denoted by the top and bottom of the line, respectively, while its opening and [[closing prices]](https://www.investopedia.com/terms/c/closingprice.asp) are indicated by short horizontal bars to the left and right of the vertical bar, respectively.
 
 Vertical line charts are more commonly called [[bar charts]](https://www.investopedia.com/terms/b/barchart.asp).
 
@@ -37,7 +37,7 @@ If the vertical bar is long, it signifies strong movement. There was a large dif
 
 If there is a large difference between the open and close, it signals that the buyers or sellers overpowered the other. If the close is well below the open, sellers dominated the time period. If the close is way above the open, buyers dominated the period.
 
-If the price moved only a small amount during the period, it is possible that there was little interest in the security, or that buyers and sellers were evenly matched but not aggressive in their trades.
+If the price moved only a small amount during the period, it is possible that there was little interest in the [[Security|security]], or that buyers and sellers were evenly matched but not aggressive in their trades.
 
 Charting platforms often allow traders to color code the vertical line depending on whether the price rose or declined over the period.
 
@@ -45,7 +45,7 @@ More advanced forms of analyzing price charts including looking for [[support an
 
 ## Example of a Vertical Line Chart
 
-The following chart of Alphabet ([GOOG](https://www.investopedia.com/markets/quote?tvwidgetsymbol=goog)) shows daily vertical lines. Since the lines include information on the low, high, open and close, this would typically be called a bar chart or a [[OHLC chart]](https://www.investopedia.com/terms/o/ohlcchart.asp).
+The following chart of Alphabet ([GOOG](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=goog)) shows daily vertical lines. Since the lines include information on the low, high, open and close, this would typically be called a bar chart or a [[OHLC chart]](https://www.investopedia.com/terms/o/ohlcchart.asp).
 
  TradingView
 
@@ -63,4 +63,4 @@ For some traders more information is better, while for others less is better.
 
 Vertical line charts show the historical record of how an asset moved. Interpretations of the chart are subjective and should be thoroughly tested for validity before attempting to rely on historical price movements to forecast future movements.
 
-Trading only based on the price is chart is called price action trading. Many traders also opt to include technical indicators and [[fundamental analysis]](https://www.investopedia.com/terms/f/fundamentals.asp) into their trading.
+Trading only based on the price is chart is called [[Price Action|price action]] trading. Many traders also opt to include technical indicators and [[fundamental analysis]](https://www.investopedia.com/terms/f/[[Fundamentals|fundamentals]].asp) into their trading.

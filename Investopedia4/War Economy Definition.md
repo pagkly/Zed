@@ -3,17 +3,17 @@ alias: [War Economy]
 created: 2021-03-03T00:48:36 (UTC +11:00)
 tags: [War Economy Definition, War Economy Definition]
 source: https://www.investopedia.com/terms/w/war-economy.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# War Economy Definition
+# [[War Economy Definition]]
 
 > ## Excerpt
 > A war economy is the organization of a country's production capacity and distribution during a time of conflict.
 
 ---
 
-War Economy Definition
+[[War Economy Definition]]
 ## What Is a War Economy?
 
 War economy is the organization of a country's production capacity and distribution during a time of conflict. A war economy must make substantial adjustments to its consumer production to accommodate defense production needs. In a war economy, governments must choose how to allocate their country’s resources very carefully in order to achieve military victory while also meeting vital domestic consumer demands.
@@ -26,9 +26,9 @@ War economy is the organization of a country's production capacity and distribut
 
 ## How a War Economy Works
 
-War economy refers to an economy of a country at war. A war economy prioritizes the production of goods and services that support war efforts, while also seeking to strengthen the economy as a whole. During times of conflict, governments may take measures to prioritize defense and national security expenditures, including [[rationing]](https://www.investopedia.com/terms/r/rationing.asp), in which the government controls the distribution of goods and services, as well as resource allocation. In times of war, each country approaches the reconfiguration of its economy in a different way and some governments may prioritize particular forms of spending over others.
+War economy refers to an economy of a country at war. A war economy prioritizes the production of goods and services that support war efforts, while also seeking to strengthen the economy as a whole. During times of conflict, governments may take measures to prioritize defense and national [[Security|security]] expenditures, including [[rationing]](https://www.investopedia.com/terms/r/[[Rationing|rationing]].asp), in which the government controls the distribution of goods and services, as well as resource allocation. In times of war, each country approaches the reconfiguration of its economy in a different way and some governments may prioritize particular forms of spending over others.
 
-For a country with a war economy, tax dollars are primarily used on defense. Likewise, if the country is borrowing large amounts of money, those funds may go mostly toward maintaining the military and meeting national security needs. Conversely, in countries without such conflict, tax revenue and borrowed money may go more directly toward [[infrastructure]](https://www.investopedia.com/terms/i/infrastructure.asp) and domestic programs, such as education.
+For a country with a war economy, tax dollars are primarily used on defense. Likewise, if the country is borrowing large amounts of money, those funds may go mostly toward maintaining the military and meeting national [[Security|security]] needs. Conversely, in countries without such conflict, tax revenue and borrowed money may go more directly toward [[infrastructure]](https://www.investopedia.com/terms/i/infrastructure.asp) and domestic programs, such as education.
 
 ## Special Considerations
 

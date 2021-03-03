@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/v/voluntary_export_restraint.asp
 author: Marshall Hargrave
 ---
 
-# Voluntary Export Restraint (VER) Definition
+# [[Voluntary Export Restraint (VER) Definition]]
 
 > ## Excerpt
 > A voluntary export restraint (VER) is a trade restriction on the quantity of a good that an exporting country is allowed to export to another.
 
 ---
 
-Voluntary Export Restraint (VER) Definition
+[[Voluntary Export Restraint (VER) Definition]]
 ## What Is a Voluntary Export Restraint (VER)?
 
 A voluntary export restraint (VER) is a [[trade]](https://www.investopedia.com/terms/t/trade.asp) restriction on the quantity of a good that an exporting country is allowed to [[export]](https://www.investopedia.com/terms/e/export.asp) to another country. This limit is self-imposed by the exporting country.
@@ -23,22 +23,22 @@ VERs came about in the 1930s and gained a lot of popularity in the 1980s when Ja
 ### Key Takeaways
 
 -   A voluntary export restraint (VER) is a self-imposed limit on the quantity of a good that an exporting country is allowed to export.
--   VERs are considered non-tariff barriers, which are restrictive trade barriers—such as quotas and embargoes.
+-   VERs are considered non-[[Tariff|tariff]] barriers, which are restrictive trade barriers—such as quotas and embargoes.
 -   They are related to a voluntary import expansion (VIE), which is meant to allow for more imports, and can include lowering tariffs or dropping quotas. 
 
 ## How a Voluntary Export Restraint (VER) Works
 
-Voluntary export restraints (VERs) fall under the broad category of [[non-tariff barriers]](https://www.investopedia.com/articles/economics/08/tariff-trade-barrier-basics.asp), which are restrictive trade barriers, such as [[quotas]](https://www.investopedia.com/terms/q/quota.asp), sanctions, levies, embargoes, and other restrictions. Typically, VERs are a result of requests made by the importing country to provide a measure of protection for its domestic businesses that produce competing goods, though these agreements can be reached at the industry level, as well.
+Voluntary export restraints (VERs) fall under the broad category of [[non-tariff barriers]](https://www.investopedia.com/articles/[[Economics|economics]]/08/[[Tariff|tariff]]-trade-barrier-basics.asp), which are restrictive trade barriers, such as [[quotas]](https://www.investopedia.com/terms/q/quota.asp), sanctions, levies, embargoes, and other restrictions. Typically, VERs are a result of requests made by the importing country to provide a measure of protection for its domestic businesses that produce competing goods, though these agreements can be reached at the industry level, as well.
 
-VERs are often created because the exporting countries would prefer to impose their own restrictions than risk sustaining worse terms from tariffs or quotas. They've been in use since the 1930s, applied by large, [[developed economies]](https://www.investopedia.com/terms/d/developed-economy.asp) to a wide range of products, from textiles to footwear, steel, and automobiles, and became a popular form of [[protectionism]](https://www.investopedia.com/terms/p/protectionism.asp) in the 1980s.
+VERs are often created because the exporting countries would prefer to impose their own restrictions than [[Risk|risk]] sustaining worse terms from tariffs or quotas. They've been in use since the 1930s, applied by large, [[developed economies]](https://www.investopedia.com/terms/d/developed-economy.asp) to a wide range of products, from textiles to footwear, steel, and automobiles, and became a popular form of [[protectionism]](https://www.investopedia.com/terms/p/[[Protectionism|protectionism]].asp) in the 1980s.
 
 After the Uruguay Round and the updating of the [[General Agreement on Tariffs and Trade]](https://www.investopedia.com/terms/g/gatt.asp) (GATT) in 1994, WTO members agreed not to implement any new VERs, and to phase out any existing ones within one year, with some exceptions.
 
 ## Limitations of a Voluntary Export Restraint (VER)
 
-There are ways in which a company can avoid a VER. For example, the exporting country's company can always build a manufacturing plant in the country to which exports would be directed. By doing so, the company will no longer need to export goods, and should not be bound by the country's VER.
+There are ways in which a company can avoid a VER. For example, the exporting country's company can always build a [[Manufacturing|manufacturing]] plant in the country to which exports would be directed. By doing so, the company [[Will|will]] no longer need to export goods, and should not be bound by the country's VER.
 
-The option to build manufacturing facilities overseas and bypass exporting rules is one of the main reasons why VERs have historically been ineffective in protecting domestic producers.
+The option to build [[Manufacturing|manufacturing]] facilities overseas and bypass exporting rules is one of the main reasons why VERs have historically been ineffective in protecting domestic producers.
 
 ## Voluntary Export Restraint (VER) vs. Voluntary Import Expansion (VIE)
 
@@ -48,7 +48,7 @@ Related to voluntary export restraint (VER) is a voluntary import expansion (VIE
 
 With functioning VERs, producers in the importing country experience an increase in well-being as there is decreased competition, which should result in higher prices, profits, and employment.
 
-These benefits to producers and the labor market, however, come with some notable caveats. VERs reduce national welfare by creating negative trade effects, negative [[consumption distortions]](https://www.investopedia.com/terms/m/marketdistortion.asp), and negative production distortions.
+These benefits to producers and the [[Labor Market|labor market]], however, come with some notable caveats. VERs reduce national welfare by creating negative trade effects, negative [[consumption distortions]](https://www.investopedia.com/terms/m/marketdistortion.asp), and negative production distortions.
 
 ## Example of a Voluntary Export Restraint (VER)
 

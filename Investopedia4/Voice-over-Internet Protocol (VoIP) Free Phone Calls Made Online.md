@@ -16,7 +16,7 @@ author: Alexandra Twin
 Voice-over-Internet Protocol (VoIP): Free Phone Calls Made Online
 ## What Is Voice-over-Internet Protocol (VoIP)?
 
-Voice-over-Internet Protocol (VoIP) is communications technology that allows users to interact by audio through an [[Internet]](https://www.investopedia.com/articles/personal-finance/030415/worlds-top-10-internet-companies.asp) connection, rather than through an analog connection. Voice-over-Internet Protocol converts the voice signal used in traditional phone technology into a digital signal that travels through the Internet instead of through analog telephone lines.
+Voice-over-Internet Protocol (VoIP) is communications technology that allows users to interact by audio through an [[Internet]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/030415/worlds-top-10-internet-companies.asp) connection, rather than through an analog connection. Voice-over-Internet Protocol converts the voice signal used in traditional phone technology into a digital signal that travels through the Internet instead of through analog telephone lines.
 
 ### Key Takeaways
 

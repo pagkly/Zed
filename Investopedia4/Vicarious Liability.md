@@ -1,37 +1,37 @@
 ---
 alias: [Vicarious Liability]
 created: 2021-03-03T00:40:26 (UTC +11:00)
-tags: [Vicarious Liability, Vicarious Liability]
-source: https://www.investopedia.com/terms/v/vicarious-liability.asp
-author: Will Kenton
+tags: [Vicarious [[Liability]], Vicarious Liability]
+source: https://www.investopedia.com/terms/v/vicarious-[[Liability|liability]].asp
+author: [[Will]] Kenton
 ---
 
-# Vicarious Liability
+# [[Vicarious Liability]]
 
 > ## Excerpt
-> When one party holds some responsibility for the unlawful or reckless actions of a third party, it is called "vicarious liability."
+> When one party holds some responsibility for the unlawful or reckless actions of a [[Third Party|third party]], it is called "[[Vicarious Liability|vicarious liability]]."
 
 ---
 
-Vicarious Liability
-## What Is Vicarious Liability?
+[[Vicarious Liability]]
+## What Is [[Vicarious Liability]]?
 
-Vicarious liability is a situation in which one party is held partly responsible for the unlawful actions of a third party. The [[third party]](https://www.investopedia.com/terms/t/third-party.asp) also carries his or her own share of the liability. Vicarious liability can arise in situations where one party is supposed to be responsible for (and have control over) a third party and is negligent in carrying out that responsibility and exercising that control.
+[[Vicarious Liability|Vicarious liability]] is a situation in which one party is held partly responsible for the unlawful actions of a [[Third Party|third party]]. The [[third party]](https://www.investopedia.com/terms/t/third-party.asp) also carries his or her own share of the [[Liability|liability]]. Vicarious liability can arise in situations where one party is supposed to be responsible for (and have control over) a third party and is negligent in carrying out that responsibility and exercising that control.
 
-## Understanding Vicarious Liability
+## Understanding [[Vicarious Liability]]
 
 For example, an employer can be held liable for the unlawful actions of an employee, such as harassment or discrimination in the workplace.
 
 An employer might also be held liable if an employee operates equipment or machinery in a negligent or inappropriate way that results in damages to property or personal injury.
 
-## Examples of Vicarious Liability
+## Examples of [[Vicarious Liability]]
 
-If a construction worker mishandles the controls of a crane and topples the wall of a nearby building that was not slated to be worked on, the company overseeing the construction will likely face vicarious liability. If an engineer likewise loses control of a train, and it proceeds down the tracks on its own, the company that owns and operates the train may face vicarious liability for any damages and injury afflicted by the runaway locomotive.
+If a construction worker mishandles the controls of a crane and topples the wall of a nearby building that was not slated to be worked on, the company overseeing the construction [[Will|will]] likely face [[Vicarious Liability|vicarious liability]]. If an engineer likewise loses control of a train, and it proceeds down the tracks on its own, the company that owns and operates the train may face vicarious [[Liability|liability]] for any damages and injury afflicted by the runaway locomotive.
 
-In the case of the Exxon Valdez oil spill, the Exxon Shipping Company came under vicarious liability for the series of events that led to 10.8 million gallons of [[crude oil]](https://www.investopedia.com/terms/c/crude-oil.asp) spilling into the sea and affecting the shore. Among other factors, the company was held accountable for lack of supervision on the captain, fatigue among crew members onboard the oil tanker, as well as the condition of radar equipment that might have helped prevent the ship from running aground.1
+In the case of the Exxon Valdez oil spill, the Exxon Shipping Company came under [[Vicarious Liability|vicarious liability]] for the series of events that led to 10.8 million gallons of [[crude oil]](https://www.investopedia.com/terms/c/crude-oil.asp) spilling into the sea and affecting the shore. Among other factors, the company was held accountable for lack of supervision on the captain, fatigue among crew members onboard the oil tanker, as well as the condition of radar equipment that might have helped prevent the ship from running aground.1
 
-Even though the employer is not the one who committed the unlawful act, the employer is held liable because it is considered responsible for its employees' actions while they are on the job and it is considered to be able to prevent and/or limit any harmful acts performed by its employees. The employer may be able to avoid vicarious liability by exercising reasonable care to prevent the unlawful behavior.
+Even though the employer is not the one who committed the unlawful act, the employer is held liable because it is considered responsible for its employees' actions while they are on the job and it is considered to be able to prevent and/or limit any harmful acts performed by its employees. The employer may be able to avoid [[Vicarious Liability|vicarious liability]] by exercising reasonable care to prevent the unlawful behavior.
 
 ## Special Considerations
 
-Another common source of vicarious liability occurs when a child behaves negligently. The parent can sometimes be held vicariously liable for the child's actions. One situation wherein this might occur is if a child injures or kills someone while driving. The parents can bear responsibility for allowing the child to have access to the vehicle.
+Another common source of [[Vicarious Liability|vicarious liability]] occurs when a child behaves negligently. The parent can sometimes be held vicariously liable for the child's actions. One situation wherein this might occur is if a child injures or kills someone while driving. The parents can bear responsibility for allowing the child to have access to the vehicle.
