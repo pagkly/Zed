@@ -3,18 +3,18 @@ alias: [Standard Industrial Classification, SIC Code]
 created: 2021-03-02T23:43:20 (UTC +11:00)
 tags: [Standard Industrial Classification (SIC Code), Standard Industrial Classification (SIC Code)]
 source: https://www.investopedia.com/terms/s/sic_code.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Standard Industrial Classification (SIC Code)
+# [[Standard Industrial Classification (SIC Code)]]
 
 > ## Excerpt
 > Standard Industrial Classification codes are four-digit codes that categorize companies by the type of business activities they engage in.
 
 ---
 
-Standard Industrial Classification (SIC Code)
-## What Is a Standard Industrial Classification (SIC Code)?
+[[Standard Industrial Classification (SIC Code)]]
+## What Is a [[Standard Industrial Classification (SIC Code)]]?
 
 The Standard Industrial Classification (SIC) are four-digit codes that categorize the industries that companies belong to while organizing the industries by their business activities. The SIC codes were created by the U.S. government in 1937 to help analyze economic activity across various industries and government agencies.1
 
@@ -25,14 +25,14 @@ Despite having been replaced, government agencies and companies still use the SI
 ### Key Takeaways
 
 -   The Standard Industrial Classification (SIC) are four-digit codes that categorize the industries that companies belong to based on their business activities.
--   Standard Industrial Classification codes were mostly replaced by the six-digit North American Industry Classification System (NAICS).
+-   Standard Industrial Classification codes were mostly replaced by the six-digit [[North American Industry Classification System (NAICS)]].
 -   Despite having been replaced, government agencies and companies still use the SIC codes today, including by the SEC.
 
-## Understanding Standard Industrial Classification (SIC Code)
+## Understanding [[Standard Industrial Classification (SIC Code)]]
 
 The Standard Industrial Classification codes were intended to improve communication within the U.S. government, across industries, and between countries. SIC codes were adopted in places outside the U.S., such as the U.K. government.3
 
-The [[Securities and Exchange Commission (SEC]](https://www.investopedia.com/terms/s/sec.asp)) is a major government agency that regulates the markets and still uses SIC codes. The SIC codes are listed in a company's electronic data gathering, analysis, and retrieval system (EDGAR) filings to indicate the company's industry.4 For example, if you see SIC code 3721 on Hugh's Aerospace Corporation's EDGAR filing, you will know that the company is a part of the aircraft industry.
+The [[Securities and Exchange Commission (SEC]](https://www.investopedia.com/terms/s/sec.asp)) is a major government agency that regulates the markets and still uses SIC codes. The SIC codes are [[Listed|listed]] in a company's electronic data gathering, analysis, and retrieval system (EDGAR) filings to indicate the company's industry.4 For example, if you see SIC code 3721 on Hugh's Aerospace Corporation's EDGAR filing, you [[Will|will]] know that the company is a part of the aircraft industry.
 
 ## How SIC Codes are Used
 
@@ -49,8 +49,8 @@ Both companies and government agencies use SIC codes for different reasons. Belo
 
 Despite the SIC codes having been replaced by NAICS, you can still search for them. Below is an image of the Standard Industrial Codes along, with their meaning, for the banking industry from the SEC's website.4
 
--   Bank of America Corporation ([BAC](https://www.investopedia.com/markets/quote?tvwidgetsymbol=BAC)), for example, would have the SIC code of 6021 since it's a national commercial bank.
+-   Bank of America Corporation ([BAC](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=BAC)), for example, would have the SIC code of 6021 since it's a national commercial bank.
 -   State banks would have the SIC code of 6022.
 -   Life insurance companies would be classified as 6311.
 
-Examples of Standard Industrial Classification (SIC) codes from the Securities and Exchange Commission.  Investopedia
+Examples of Standard Industrial Classification (SIC) codes from the Securities and Exchange [[Commission]].  Investopedia

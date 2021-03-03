@@ -3,30 +3,30 @@ alias: [T-Test]
 created: 2021-03-02T23:50:10 (UTC +11:00)
 tags: [T-Test Definition, T-Test Definition]
 source: https://www.investopedia.com/terms/t/t-test.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# T-Test Definition
+# [[T-Test Definition]]
 
 > ## Excerpt
 > A t-test is a type of inferential statistic used to determine if there is a significant difference between the means of two groups, which may be related in certain features.
 
 ---
 
-T-Test Definition
+[[T-Test Definition]]
 ## What Is a T-Test?
 
-A t-test is a type of inferential [[statistic]](https://www.investopedia.com/terms/s/statistics.asp) used to determine if there is a significant difference between the means of two groups, which may be related in certain features. It is mostly used when the data sets, like the data set recorded as the outcome from flipping a coin 100 times, would follow a normal distribution and may have unknown variances. A t-test is used as a hypothesis testing tool, which allows testing of an [[assumption]](https://www.investopedia.com/ask/answers/073115/what-assumptions-are-made-when-conducting-ttest.asp) applicable to a population. 
+A t-test is a type of inferential [[statistic]](https://www.investopedia.com/terms/s/statistics.asp) used to determine if there is a significant difference between the means of two groups, which may be related in certain features. It is mostly used when the data sets, like the data set recorded as the outcome from flipping a coin 100 times, would follow a [[Normal Distribution|normal distribution]] and may have unknown variances. A t-test is used as a hypothesis testing tool, which allows testing of an [[assumption]](https://www.investopedia.com/ask/answers/073115/what-assumptions-are-made-when-conducting-ttest.asp) applicable to a population. 
 
 A t-test looks at the t-statistic, the [[t-distribution]](https://www.investopedia.com/terms/t/tdistribution.asp) values, and the degrees of freedom to determine the statistical significance. To conduct a test with three or more means, one must use an [analysis of variance](https://www.investopedia.com/terms/a/anova.asp).
 
 ## Explaining the T-Test
 
-Essentially, a t-test allows us to compare the average values of the two data sets and determine if they came from the same population. In the above examples, if we were to take a sample of students from class A and another sample of students from class B, we would not expect them to have exactly the same mean and standard deviation. Similarly, samples taken from the placebo-fed control group and those taken from the drug prescribed group should have a slightly different mean and standard deviation.
+Essentially, a t-test allows us to compare the average values of the two data sets and determine if they came from the same population. In the above examples, if we were to take a sample of students from class A and another sample of students from class B, we would not expect them to have exactly the same mean and [[Standard Deviation|standard deviation]]. Similarly, samples taken from the placebo-fed control group and those taken from the drug prescribed group should have a slightly different mean and standard deviation.
 
 Mathematically, the t-test takes a sample from each of the two sets and establishes the problem statement by assuming a null hypothesis that the two means are equal. Based on the applicable formulas, certain values are calculated and compared against the standard values, and the assumed null hypothesis is accepted or rejected accordingly.
 
-If the null hypothesis qualifies to be rejected, it indicates that data readings are strong and are probably not due to chance. The t-test is just one of many tests used for this purpose. Statisticians must additionally use tests other than the t-test to examine more variables and tests with larger sample sizes. For a large sample size, statisticians use a [z-test](https://www.investopedia.com/terms/z/z-test.asp). Other testing options include the chi-square test and the f-test.
+If the null hypothesis qualifies to be rejected, it indicates that data readings are strong and are probably not due to chance. The t-test is just one of many tests used for this purpose. Statisticians must additionally use tests other than the t-test to examine more variables and tests with larger sample sizes. For a large sample size, statisticians use a [z-test](https://www.investopedia.com/terms/[[Z|z]]/z-test.asp). Other testing options include the chi-square test and the f-test.
 
 There are three types of t-tests, and they are categorized as dependent and independent t-tests.
 
@@ -34,27 +34,27 @@ There are three types of t-tests, and they are categorized as dependent and inde
 
 -   A t-test is a type of inferential statistic used to determine if there is a significant difference between the means of two groups, which may be related in certain features.
 -   The t-test is one of many tests used for the purpose of [[hypothesis testing]](https://www.investopedia.com/terms/h/hypothesistesting.asp) in statistics.
--   Calculating a t-test requires three key data values. They include the difference between the mean values from each data set (called the mean difference), the standard deviation of each group, and the number of data values of each group.
+-   Calculating a t-test requires three key data values. They include the difference between the mean values from each data set (called the mean difference), the [[Standard Deviation|standard deviation]] of each group, and the number of data values of each group.
 -   There are several different types of t-test that can be performed depending on the data and type of analysis required.
 
 ## Ambiguous Test Results
 
 Consider that a drug manufacturer wants to test a newly invented medicine. It follows the standard procedure of trying the drug on one group of patients and giving a placebo to another group, called the control group. The placebo given to the control group is a substance of no intended therapeutic value and serves as a benchmark to measure how the other group, which is given the actual drug, responds.
 
-After the drug trial, the members of the placebo-fed control group reported an increase in average life expectancy of three years, while the members of the group who are prescribed the new drug report an increase in average life expectancy of four years. Instant observation may indicate that the drug is indeed working as the results are better for the group using the drug. However, it is also possible that the observation may be due to a chance occurrence, especially a surprising piece of luck. A t-test is useful to conclude if the results are actually correct and applicable to the entire population.
+After the drug trial, the members of the placebo-fed control group reported an increase in average [[Life Expectancy|life expectancy]] of three years, while the members of the group who are prescribed the new drug report an increase in average life expectancy of four years. Instant observation may indicate that the drug is indeed working as the results are better for the group using the drug. However, it is also possible that the observation may be due to a chance occurrence, especially a surprising piece of luck. A t-test is useful to conclude if the results are actually correct and applicable to the entire population.
 
-In a school, 100 students in class A scored an average of 85% with a standard deviation of 3%. Another 100 students belonging to class B scored an average of 87% with a standard deviation of 4%. While the average of class B is better than that of class A, it may not be correct to jump to the conclusion that the overall performance of students in class B is better than that of students in class A. This is because there is natural variability in the test scores in both classes, so the difference could be due to chance alone. A t-test can help to determine whether one class fared better than the other.
+In a school, 100 students in class A scored an average of 85% with a [[Standard Deviation|standard deviation]] of 3%. Another 100 students belonging to class B scored an average of 87% with a standard deviation of 4%. While the average of class B is better than that of class A, it may not be correct to jump to the conclusion that the overall performance of students in class B is better than that of students in class A. This is because there is natural variability in the test scores in both classes, so the difference could be due to chance alone. A t-test can help to determine whether one class fared better than the other.
 
 ## T-Test Assumptions
 
 1.  The first assumption made regarding t-tests concerns the scale of measurement. The assumption for a t-test is that the scale of measurement applied to the data collected follows a continuous or ordinal scale, such as the scores for an IQ test.
 2.  The second assumption made is that of a simple random sample, that the data is collected from a representative, randomly selected portion of the total population.
-3.  The third assumption is the data, when plotted, results in a normal distribution, bell-shaped distribution curve.
+3.  The third assumption is the data, when plotted, results in a [[Normal Distribution|normal distribution]], bell-shaped distribution curve.
 4.  The final assumption is the homogeneity of variance. Homogeneous, or equal, variance exists when the standard deviations of samples are approximately equal.
 
 ## Calculating T-Tests
 
-Calculating a t-test requires three key data values. They include the difference between the mean values from each data set (called the mean difference), the standard deviation of each group, and the number of data values of each group.
+Calculating a t-test requires three key data values. They include the difference between the mean values from each data set (called the mean difference), the [[Standard Deviation|standard deviation]] of each group, and the number of data values of each group.
 
 The outcome of the t-test produces the t-value. This calculated t-value is then compared against a value obtained from a critical value table (called the [T-Distribution Table](http://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf)). This comparison helps to determine the effect of chance alone on the difference, and whether the difference is outside that chance range. The t-test questions whether the difference between the groups represents a true difference in the study or if it is possibly a meaningless random difference.
 
@@ -81,7 +81,7 @@ This method also applies to cases where the samples are related in some manner o
 
 The formula for computing the t-value and degrees of freedom for a paired t-test is:
 
-T\=mean1−mean2s(diff)(n)where:mean1 and mean2\=The average values of each of the sample setss(diff)\=The standard deviation of the differences of the paired data valuesn\=The sample size (the number of paired differences)n−1\=The degrees of freedom\\begin{aligned}&T=\\frac{\\textit{mean}1 - \\textit{mean}2}{\\frac{s(\\text{diff})}{\\sqrt{(n)}}}\\\\&\\textbf{where:}\\\\&\\textit{mean}1\\text{ and }\\textit{mean}2=\\text{The average values of each of the sample sets}\\\\&s(\\text{diff})=\\text{The standard deviation of the differences of the paired data values}\\\\&n=\\text{The sample size (the number of paired differences)}\\\\&n-1=\\text{The degrees of freedom}\\end{aligned}
+T\=mean1−mean2s(diff)(n)where:mean1 and mean2\=The average values of each of the sample setss(diff)\=The standard deviation of the differences of the paired data valuesn\=The sample size (the number of paired differences)n−1\=The degrees of freedom\\begin{aligned}&T=\\frac{\\textit{mean}1 - \\textit{mean}2}{\\frac{s(\\text{diff})}{\\sqrt{(n)}}}\\\\&\\textbf{where:}\\\\&\\textit{mean}1\\text{ and }\\textit{mean}2=\\text{The average values of each of the sample sets}\\\\&s(\\text{diff})=\\text{The [[Standard Deviation|standard deviation]] of the differences of the paired data values}\\\\&n=\\text{The sample size (the number of paired differences)}\\\\&n-1=\\text{The degrees of freedom}\\end{aligned}
 
 The remaining two types belong to the independent t-tests. The samples of these types are selected independent of each other—that is, the data sets in the two groups don’t refer to the same values. They include cases like a group of 100 patients being split into two sets of 50 patients each. One of the groups becomes the control group and is given a placebo, while the other group receives the prescribed treatment. This constitutes two independent sample groups which are unpaired with each other.
 
