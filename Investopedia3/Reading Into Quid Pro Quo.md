@@ -1,7 +1,7 @@
 ---
-alias: [Quid Pro Quo:]
+alias: [Quid Pro Quo]
 created: 2021-03-02T23:05:29 (UTC +11:00)
-tags: [Quid Pro Quo: Definition & Example, Reading Into Quid Pro Quo]
+tags: [Quid Pro Quo Definition & Example, Reading Into Quid Pro Quo]
 source: https://www.investopedia.com/terms/q/quidproquo.asp
 author: Adam Hayes
 ---
