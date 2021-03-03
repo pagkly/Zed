@@ -13,10 +13,10 @@ author: Julia Kagan
 
 ---
 
-Introduction to the Graduate Management Admission Test (GMAT)
+[[Introduction to the Graduate Management Admission Test (GMAT)]]
 ## What Is the Graduate Management Admission Test (GMAT)?
 
-The GMAT, which stands for the graduate management admission test, is a standardized test intended to measure a test taker's aptitude in mathematics, verbal skills, and analytical writing. The GMAT is most commonly used as the primary exam reviewed by business schools to gain entrance into an MBA program. The exam is generally offered by computer only; in areas of the world where computer networks are limited, the exam may be given as a paper-based test.
+The GMAT, which stands for the graduate management admission test, is a standardized test intended to measure a test taker's aptitude in mathematics, verbal skills, and analytical writing. The GMAT is most commonly used as the primary exam reviewed by business schools to [[Gain|gain]] entrance into an MBA program. The exam is generally offered by computer only; in areas of the world where computer networks are limited, the exam may be given as a paper-based test.
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ The [[Graduate Management Admission Council]](https://www.gmac.com/) administers
 
 More than 2,100 graduate programs and institutions around the world use the GMAT to assess applicants to their programs. The Graduate Management Admission Council has recommended that the GMAT be used as one factor among others for determining whether or not a student is accepted into a program. Furthermore, the council cautions that for some international students, the writing analysis section might show the limits of their comprehension of the English language, rather than their critical thinking and reasoning capacity.
 
-It is not uncommon for graduate programs to use either the GMAT or the [[Graduate Record Examination]](https://www.investopedia.com/terms/g/gre.asp) (GRE) to assess an applicant. Due to the differences in the way the two tests are scaled, [[GMAT and GRE]](https://www.investopedia.com/articles/personal-finance/031115/gre-vs-gmat-understanding-differences.asp) scores cannot be directly compared.
+It is not uncommon for graduate programs to use either the GMAT or the [[Graduate Record Examination]](https://www.investopedia.com/terms/g/gre.asp) (GRE) to assess an applicant. Due to the differences in the way the two tests are scaled, [[GMAT and GRE]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/031115/gre-vs-gmat-understanding-differences.asp) scores cannot be directly compared.
 
 Moreover, the nature of the exams and what they test the applicants on make it inappropriate to treat both exams similarly. The Graduate Management Admission Council recommends not using a so-called cutoff score when reviewing applicants, but rather to look at their holistic application. If a cutoff score is implemented, the council suggests the institution take additional measures to show that the cutoff does not lead to discrimination based on age, sex, or ethnicity.
 

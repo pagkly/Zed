@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/k/kippers.asp
 author: Julia Kagan
 ---
 
-# Kids In Parents' Pockets Eroding Retirement Savings (KIPPERS)
+# [[Kids In Parents' Pockets Eroding Retirement Savings (KIPPERS)]]
 
 > ## Excerpt
-> Kids In Parents' Pockets Eroding Retirement Savings (KIPPERS) is a slang term for adult children who don't fly the nest.
+> [[Kids In Parents' Pockets Eroding Retirement Savings (KIPPERS)]] is a slang term for adult children who don't fly the nest.
 
 ---
 
-Kids In Parents' Pockets Eroding Retirement Savings (KIPPERS)
-## Kids In Parents' Pockets Eroding Retirement Savings (KIPPERS) Defined
+[[Kids In Parents' Pockets Eroding Retirement Savings (KIPPERS)]]
+## [[Kids In Parents' Pockets Eroding Retirement Savings (KIPPERS)]] Defined
 
-Kids In Parents' Pockets Eroding Retirement Savings (KIPPERS) is a slang term for adult children who are still living at home with their parents even after finishing school and reaching working age.
+[[Kids In Parents' Pockets Eroding Retirement Savings (KIPPERS)]] is a slang term for adult children who are still living at home with their parents even after finishing school and reaching working age.
 
 Their parents face the challenges of managing their own finances and planning for retirement while dealing with the added expense of housing and feeding their adult offspring.
 
@@ -53,6 +53,6 @@ What's keeping kids from leaving home?
 
 "It doesn’t appear that a lack of jobs is keeping Millennials at home," [Pew Research stated](http://www.pewresearch.org/fact-tank/2017/05/05/its-becoming-more-common-for-young-adults-to-live-at-home-and-for-longer-stretches/). "As of the first quarter of 2016, only 5.1% of older young adults were unemployed, down from 10.1% in the first quarter of 2010. Yet the share of 25- to 35-year-olds living at home rose during that span, increasing from 12% in 2010 to 15% in 2016."
 
-Among the factors cited by Pew and others: The jobs many younger people can get don't pay well enough to allow them to live on their own. Many also are saddled with large student loan payments.
+Among the factors cited by Pew and others: The jobs many younger people can get don't pay well enough to allow them to live on their own. Many also are saddled with large student [[Loan|loan]] payments.
 
 In many regions of the U.S., their situation is exacerbated by the high cost of apartment rentals.

@@ -6,19 +6,19 @@ source: https://www.investopedia.com/terms/j/john-elkann.asp
 author: Julia Kagan
 ---
 
-# John Elkann
+# [[John Elkann]]
 
 > ## Excerpt
-> John Elkann is the chairman and CEO of Fiat Chrysler, a global automobile brand which includes several other brand name cars.
+> [[John Elkann]] is the chairman and CEO of Fiat Chrysler, a global automobile brand which includes several other brand name cars.
 
 ---
 
-John Elkann
-## DEFINITION of John Elkann
+[[John Elkann]]
+## DEFINITION of [[John Elkann]]
 
-John Elkann is a global automotive industrialist who earns the title through both family connections and a lot of work for his family and his businesses. Elkann is the chairman of Italian automaker [[Fiat Chrysler,]](https://www.investopedia.com/articles/company-insights/090416/top-7-companies-owned-chrysler-fcau.asp) a global automobile brand that also includes Alpha Romeo, Chrysler, Dodge, Jeep, Maserati, and Ferrari. He is also the chairman of Exor, a holding company that controls Fiat Chrysler and other brands. He is also the owner of the Juventus football club, a popular sporting team in Turin, Italy.
+[[John Elkann]] is a global automotive industrialist who earns the title through both family connections and a lot of work for his family and his businesses. Elkann is the chairman of Italian automaker [[Fiat Chrysler,]](https://www.investopedia.com/articles/company-insights/090416/top-7-companies-owned-chrysler-fcau.asp) a global automobile brand that also includes Alpha Romeo, Chrysler, Dodge, Jeep, Maserati, and Ferrari. He is also the chairman of Exor, a holding company that controls Fiat Chrysler and other brands. He is also the owner of the Juventus football club, a popular sporting team in Turin, Italy.
 
-## BREAKING DOWN John Elkann
+## BREAKING DOWN [[John Elkann]]
 
 Born in 1976 in New York City, Elkann traveled extensively as a child and lived in several countries, giving him fluency in at least four languages and many cultural nuances. As quoted in the Financial Times of March 6, 2011, he said, “I was born in New York, then I went to the UK, then I went to Brazil, then I went to France, then I studied in Italy. My life was always about being confronted with an environment where you had to adapt.”
 

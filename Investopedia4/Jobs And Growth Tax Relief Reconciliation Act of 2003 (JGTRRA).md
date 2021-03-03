@@ -13,7 +13,7 @@ author: Julia Kagan
 
 ---
 
-Jobs And Growth Tax Relief Reconciliation Act of 2003 (JGTRRA)
+[[Jobs And Growth Tax Relief Reconciliation Act of 2003 (JGTRRA)]]
 ## What Is JGTRRA?
 
 The Jobs and Growth Tax Relief Reconciliation Act (JGTRRA) was a U.S. tax law Congress passed on May 23, 2003, which lowered the maximum individual income tax rate on corporate dividends to 15%.
@@ -30,4 +30,4 @@ As also seen with EGTRRA, passed in June of 2001 during President George W. Bush
 
 The global economy is a delicate balancing act and many would argue the U.S. economy is now very much out of balance with a nearly $21.0 trillion [[budget debt]](https://www.investopedia.com/terms/b/budget-deficit.asp). As any household knows, you cannot increase spending and reduce income and make ends meet without borrowing. It’s politically expedient to make short-term fixes during difficult times, but the question lingers whether there is any practical way to enforce the [[sunset provisions]](https://www.investopedia.com/terms/s/sunsetprovision.asp) put into place at the time of passage. As just one example, the tax cuts passed in late 2017 call for the individual tax brackets to revert to their former levels by 2025. 
 
-Sunset provisions have been around for a long time. Thomas Jefferson believed no law passed by one generation should continue into the next. At its most philosophical level, this generational concern has presided over the usage of sunset clauses as a form of fairness in society. The last thing the parents of one generation want is to leave the world worse off for their children. Given the recent popularity in U.S. politics of using the sunset clause as the only way to push through tax cuts, we now have a $21 trillion debt burden likely to affect several generations.
+Sunset provisions have been around for a long time. Thomas Jefferson believed no law passed by one generation should continue into the next. At its most philosophical level, this generational concern has presided over the usage of sunset clauses as a form of fairness in society. The last thing the parents of one generation want is to leave the world worse off for their children. Given the recent popularity in U.S. politics of using the sunset clause as the only way to push through tax cuts, we now have a $21 trillion [[Debt|debt]] burden likely to affect several generations.

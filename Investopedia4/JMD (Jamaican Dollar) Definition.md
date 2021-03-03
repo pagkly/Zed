@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/forex/j/jmd-jamaican-dollar.asp
 author: James Chen
 ---
 
-# JMD (Jamaican Dollar) Definition
+# [[JMD (Jamaican Dollar) Definition]]
 
 > ## Excerpt
 > JMD is the currency abbreviation for the Jamaican dollar, the official currency for island nation of Jamaica, and is subdivided into 100 cents.
 
 ---
 
-JMD (Jamaican Dollar) Definition
+[[JMD (Jamaican Dollar) Definition]]
 ## What is the JMD (Jamaican Dollar)?
 
 JMD is the currency abbreviation for the Jamaican dollar, the official currency for island nation of Jamaica, and is subdivided into 100 cents. The currency symbol for JMD (Jamaican Dollar) is J$ or JA$.

@@ -3,7 +3,7 @@ alias: [Kiosk]
 created: 2021-03-02T21:07:18 (UTC +11:00)
 tags: [Kiosk Definition, Kiosks: The Ins and Outs]
 source: https://www.investopedia.com/terms/k/kiosk.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Kiosk Definition
@@ -22,7 +22,7 @@ A kiosk refers to a small, temporary, stand-alone booth used in high-traffic are
 
 -   A kiosk refers to a small, temporary, stand-alone booth used in high-traffic areas for marketing purposes.
 -   Kiosks may be manned by one or two individuals, or may be electronic.
--   These booths are considered to be low-cost marketing strategies that are great alternatives for new, emerging entrepreneurs.
+-   These booths are considered to be low-cost marketing strategies that are great alternatives for new, emerging [[Entrepreneurs|entrepreneurs]].
 
 ## Understanding Kiosks
 
@@ -30,7 +30,7 @@ Kiosks are generally small booths set up in high traffic areas. You may see them
 
 Kiosks are not always supervised by humans. Some, in fact, are electronic, providing consumers with a self-service-style experience. These kiosks normally complement an existing service already offered by the kiosk owner. For example, some provincial government agencies in Canada allow the general public to perform certain tasks like renewing car registration or updating personal information for health cards and driver's licenses using electronic kiosks that act much like [[automated teller machines]](https://www.investopedia.com/terms/a/atm.asp) (ATMs). This allows the consumer to execute these tasks on their own without having to wait in line at a provincial ministry.
 
-Because of their small, temporary natures, kiosks can be low-cost marketing strategies. Malls and other [[lessors]](https://www.investopedia.com/terms/l/lessor.asp) may charge a smaller amount of rent to kiosk owners who might not need or afford a larger retail space. Kiosks can be a great way for new, emerging [[entrepreneurs]](https://www.investopedia.com/terms/e/entrepreneur.asp) to give their businesses a kickstart without sacrificing on cost. That's because they give companies a human face and provide customers with the opportunity to ask questions about their products. Electronic kiosks give consumers a hassle-free, convenient experience.
+Because of their small, temporary natures, kiosks can be low-cost marketing strategies. Malls and other [[lessors]](https://www.investopedia.com/terms/l/[[Lessor|lessor]].asp) may charge a smaller amount of rent to kiosk owners who might not need or afford a larger retail space. Kiosks can be a great way for new, emerging [[entrepreneurs]](https://www.investopedia.com/terms/e/entrepreneur.asp) to give their businesses a kickstart without sacrificing on cost. That's because they give companies a human face and provide customers with the opportunity to ask questions about their products. Electronic kiosks give consumers a hassle-free, convenient experience.
 
 The greatest marketing power a kiosk has is the affability of the people working it.
 
@@ -40,17 +40,17 @@ Kiosks vary based on the nature of the [[business]](https://www.investopedia.com
 
 ### Employment Kiosks
 
-In addition to kiosks that sell retail products or services, some companies set up employment kiosks where job seekers can apply for work. This type of kiosk is especially common in chain stores such as Walmart. Employment kiosks provide a way to quickly identify promising candidates, who will often receive an interview on the spot.
+In addition to kiosks that sell retail products or services, some companies set up employment kiosks where job seekers can apply for work. This type of kiosk is especially common in chain stores such as Walmart. Employment kiosks provide a way to quickly identify promising candidates, who [[Will|will]] often receive an interview on the spot.
 
 The kiosk may include a computer station at which the applicant can use a keyboard or touchscreen to input their employment history, education, and personal data. Some employment kiosks also administer assessment tests to help determine an applicant's strengths and weaknesses. Information collected at the kiosk is frequently available to the hiring manager almost immediately.
 
 ### Food Service Kiosks
 
-In an effort to streamline the process of taking food orders, some restaurants install self-service kiosks. Customers can follow interactive prompts to select their meal and customize their order. The kiosks usually accept credit or [[debit cards]](https://www.investopedia.com/terms/d/debitcard.asp), eliminating the need for a human cashier. When restaurants use kiosks, the need for counter personnel is reduced, lowering payroll costs for the company.
+In an effort to streamline the process of taking food orders, some restaurants install self-service kiosks. Customers can follow interactive prompts to select their meal and customize their order. The kiosks usually accept credit or [[debit cards]](https://www.investopedia.com/terms/d/debitcard.asp), eliminating the need for a human cashier. When restaurants use kiosks, the need for counter personnel is reduced, lowering [[Payroll|payroll]] costs for the company.
 
 ### Health Care Kiosks
 
-The health care industry is also starting to implement kiosks as a method for accepting bill payments, checking in patients for appointments, and patient record keeping. At some kiosks, patients can even take their own blood pressure or perform other non-invasive tests, and then relay the results to their doctors. In some cases, medical kiosks also offer educational videos about medical conditions and their treatments.
+The health care industry is also starting to implement kiosks as a method for accepting bill payments, checking in patients for appointments, and patient record keeping. At some kiosks, patients can even take their own blood pressure or perform other non-invasive tests, and then relay the results to their doctors. In some cases, medical kiosks also [[Offer|offer]] educational videos about medical conditions and their treatments.
 
 Patient kiosks can reduce medical costs by cutting down on paperwork and eliminating some clerical staff positions. Critics of medical kiosks are primarily concerned with patient confidentiality in their arguments against their use.
 

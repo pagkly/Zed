@@ -6,21 +6,21 @@ source: https://www.investopedia.com/terms/k/knucklebuster.asp
 author: Julia Kagan
 ---
 
-# Knuckle-Buster
+# [[Knuckle-Buster]]
 
 > ## Excerpt
-> Knuckle-buster is a nickname for a manual imprint device, used to record credit card transactions.
+> [[Knuckle-Buster|Knuckle-buster]] is a nickname for a manual imprint device, used to record credit card transactions.
 
 ---
 
-Knuckle-Buster
-## What is a Knuckle-Buster
+[[Knuckle-Buster]]
+## What is a [[Knuckle-Buster]]
 
-Knuckle-buster is a slang term for a manual credit card imprinter, a device merchants used to record credit card transactions before the advent of electronic [[point-of-sale terminals]](https://www.investopedia.com/terms/p/point-of-sale-terminal.asp).
+[[Knuckle-Buster|Knuckle-buster]] is a slang term for a manual credit card imprinter, a device merchants used to record credit card transactions before the advent of electronic [[point-of-sale terminals]](https://www.investopedia.com/terms/p/point-of-sale-terminal.asp).
 
-## BREAKING DOWN Knuckle-Buster
+## BREAKING DOWN [[Knuckle-Buster]]
 
-A knuckle-buster is a colloquial term used to describe early manual credit card imprinting devices. Also sometimes known as zip-zap machines, the imprinters became known as knuckle-busters because frequent users of these devices would often skin their knuckles and develop calluses as a result of repeated use.
+A [[Knuckle-Buster|knuckle-buster]] is a colloquial term used to describe early manual credit card imprinting devices. Also sometimes known as zip-zap machines, the imprinters became known as knuckle-busters because frequent users of these devices would often skin their knuckles and develop calluses as a result of repeated use.
 
 Knuckle-busters were ubiquitous for retailers and businesses from the the beginnings of the credit card industry until electronic point-of-sale terminals began to become popular in the 1980’s. 
 
@@ -36,4 +36,4 @@ Carbon copies also tend to be fragile records, and transaction receipts could fr
 
 Nevertheless, knuckle-busters remain an advantageous backup plan for businesses that would like to continue to run transactions when electricity or computer networks become unavailable. They also remain useful for merchants, such as fair vendors, who require a portable method of recording transactions.
 
-Even so, the ongoing utility of knuckle-busters is compromised by a number of factors. The availability of carbon forms is diminishing, making forms more expensive and inaccessible, and employees are often not trained in the use of manual imprinters even whey they are available. For merchants, manual entry of credit card transactions is more time-consuming, and each entry is at risk of not being authenticated. Additionally, credit card companies more and more frequently issue cards which are not embossed with customer data, making the knuckle-buster entirely useless in capturing customer data even when running a manual transaction.
+Even so, the ongoing utility of knuckle-busters is compromised by a number of factors. The availability of carbon forms is diminishing, making forms more expensive and inaccessible, and employees are often not trained in the use of manual imprinters even whey they are available. For merchants, manual entry of credit card transactions is more time-consuming, and each entry is at [[Risk|risk]] of not being authenticated. Additionally, credit card companies more and more frequently issue cards which are not embossed with customer data, making the [[Knuckle-Buster|knuckle-buster]] entirely useless in capturing customer data even when running a manual transaction.

@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/j/jewelry-floater.asp
 author: Jason Fernando
 ---
 
-# Jewelry Floater Definition
+# [[Jewelry Floater Definition]]
 
 > ## Excerpt
 > A jewelry floater is a type of supplemental insurance designed to protect precious jewelry.
 
 ---
 
-Jewelry Floater Definition
+[[Jewelry Floater Definition]]
 ## What Is a Jewelry Floater?
 
 A jewelry floater is a type of supplemental insurance designed to protect precious jewelry. It is often purchased alongside other forms of insurance, such as [[homeowner's insurance]](https://www.investopedia.com/terms/h/homeowners-insurance.asp) or [[renter's insurance]](https://www.investopedia.com/terms/r/renters-insurance.asp). Although these types of insurance policies generally include some coverage for jewelry, jewelry floaters can expand this coverage, making them more suitable for valuable items.
@@ -30,7 +30,7 @@ A jewelry floater is an optional addition to a homeowner's insurance policy that
 
 Aside from jewelry, floaters are also often purchased for other types of valuable assets. Examples include fine art, high-end watches, or even collectibles such as baseball cards. In some cases, investors may even specifically purchase these assets as a type of [[alternative asset]](https://www.investopedia.com/terms/a/alternative_investment.asp) in their portfolios. For these investors, as well as wealthier individuals in general, purchasing floaters might be a worthwhile expense to ensure peace of mind.
 
-In addition to purchasing jewelry floaters, policyholders will often also obtain formal [[appraisals]](https://www.investopedia.com/terms/a/appraisal.asp) of their jewelry's worth. In doing so, they can prove the value of these items in the event that they need to file a claim, reducing the risk of any potential disputes with their insurer. In fact, many insurers will require that a professional appraisal be performed as part of their due diligence on the jewelry floater policy. After all, from the insurance company's perspective, it is important to understand the value of the item so that they can set their [[insurance premiums]](https://www.investopedia.com/terms/i/insurance-premium.asp) at an appropriate level.
+In addition to purchasing jewelry floaters, policyholders [[Will|will]] often also obtain formal [[appraisals]](https://www.investopedia.com/terms/a/appraisal.asp) of their jewelry's worth. In doing so, they can prove the value of these items in the event that they need to file a claim, reducing the [[Risk|risk]] of any potential disputes with their insurer. In fact, many insurers will require that a professional appraisal be performed as part of their due diligence on the jewelry floater policy. After all, from the insurance company's perspective, it is important to understand the value of the item so that they can set their [[insurance premiums]](https://www.investopedia.com/terms/i/insurance-[[Premium|premium]].asp) at an appropriate level.
 
 ## Real World Example of a Jewelry Floater
 

@@ -3,17 +3,17 @@ alias: [Job Openings and Labor Turnover Survey, JOLTS]
 created: 2021-03-02T20:58:32 (UTC +11:00)
 tags: [Job Openings and Labor Turnover Survey (JOLTS) Definition, Job Openings and Labor Turnover Survey (JOLTS) Definition]
 source: https://www.investopedia.com/terms/j/jolts.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Job Openings and Labor Turnover Survey (JOLTS) Definition
+# [[Job Openings and Labor Turnover Survey (JOLTS) Definition]]
 
 > ## Excerpt
 > The job openings and labor turnover survey (JOLTS) is a conducted by the United States Bureau of Labor Statistics (BLS) to help measure job vacancies.
 
 ---
 
-Job Openings and Labor Turnover Survey (JOLTS) Definition
+[[Job Openings and Labor Turnover Survey (JOLTS) Definition]]
 ## What Is the Job Openings and Labor Turnover Survey (JOLTS)?
 
 The job openings and labor turnover survey (JOLTS) is a survey done by the United States [[Bureau of Labor Statistics]](https://www.investopedia.com/terms/b/bls.asp) (BLS) within the Department of Labor to help measure job vacancies.
@@ -22,7 +22,7 @@ The job openings and labor turnover survey (JOLTS) is a survey done by the Unite
 
 -   The JOLTS is a survey that helps measure job vacancies. It is distributed by the Bureau of Labor Statistics within the U.S. Department of Labor.
 -   A job vacancy is considered to be a position that is available, that starts within 30 days, and that the company is actively seeking to fill with a candidate outside the organization.
--   Used along with the Commerce Department's Help-Wanted Index and the Department of Labor's nonfarm payroll report, JOLTS can help give investors a sense regarding broader trends in the U.S. labor market.
+-   Used along with the [[Commerce]] Department's Help-Wanted Index and the Department of Labor's nonfarm [[Payroll|payroll]] report, JOLTS can help give investors a sense regarding broader trends in the U.S. [[Labor Market|labor market]].
 
 ## Understanding the JOLTS
 
@@ -36,6 +36,6 @@ The number of unfilled jobs is considered an important measure of demand for wor
 2.  The job starts within 30 days.
 3.  There are active recruiting efforts to find workers (outside of the organization) to fill the job.2
 
-The job openings and labor turnover survey data has many uses, not least of which is to help guide the government in the formulation of [[economic policy]](https://www.investopedia.com/articles/economics/12/fiscal-or-monetary-policy.asp) through economic research and planning. That's because the availability of unfilled jobs—the job openings rate—can give policymakers a sense regarding tightness in the jobs market. A rise in the demand for workers can (and should) drive wages higher and lead to [[inflation]](https://www.investopedia.com/terms/w/wage-push-inflation.asp). The job openings and labor turnover survey publications also provide data that can help in the analysis of industry retention rates, business cycles, and industry-specific economic research.
+The job openings and labor turnover survey data has many uses, not least of which is to help guide the government in the formulation of [[economic policy]](https://www.investopedia.com/articles/[[Economics|economics]]/12/fiscal-or-monetary-policy.asp) through economic research and planning. That's because the availability of unfilled jobs—the job openings rate—can give policymakers a sense regarding tightness in the jobs market. A rise in the demand for workers can (and should) drive wages higher and lead to [[inflation]](https://www.investopedia.com/terms/w/wage-push-inflation.asp). The job openings and labor turnover survey publications also provide data that can help in the analysis of industry retention rates, business cycles, and industry-specific economic research.
 
-For investors, the job openings and labor turnover survey can be used to confirm other data relative to jobs and employment, with a higher JOLTS number suggesting increasing demand for workers and a falling number pointing to less demand. In addition to [[the Conference Board's]](https://www.investopedia.com/terms/c/conferenceboard.asp) Help-Wanted Index, the Department of Labor releases a monthly payroll report that shows the number of jobs added each month, changes in hourly earnings, and the rate of unemployment.
+For investors, the job openings and labor turnover survey can be used to confirm other data relative to jobs and employment, with a higher JOLTS number suggesting increasing demand for workers and a falling number pointing to less demand. In addition to [[the Conference Board's]](https://www.investopedia.com/terms/c/conferenceboard.asp) Help-Wanted Index, the Department of Labor releases a monthly [[Payroll|payroll]] report that shows the number of jobs added each month, changes in hourly earnings, and the rate of [[Unemployment|unemployment]].

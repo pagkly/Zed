@@ -6,26 +6,26 @@ source: https://www.investopedia.com/terms/j/joseph-schumpeter.asp
 author: Daniel Liberto
 ---
 
-# Joseph Schumpeter
+# [[Joseph Schumpeter]]
 
 > ## Excerpt
-> Joseph Schumpeter is one of the 20th century's great economic thinkers. He is best known for his theories on business cycles and capitalist development.
+> [[Joseph Schumpeter]] is one of the 20th century's great economic thinkers. He is best known for his theories on business cycles and capitalist development.
 
 ---
 
-Joseph Schumpeter
-## Who Is Joseph Schumpeter?
+[[Joseph Schumpeter]]
+## Who Is [[Joseph Schumpeter]]?
 
-Joseph Alois Schumpeter (1883 - 1950) was an [[economist]](https://www.investopedia.com/terms/e/economist.asp) and is regarded as one of the 20th century's greatest intellectuals. He is best known for his theories on [[business cycles]](https://www.investopedia.com/terms/b/businesscycle.asp) and [[capitalist]](https://www.investopedia.com/terms/c/capitalism.asp) development and for introducing the concept of entrepreneurship.
+Joseph Alois Schumpeter (1883 - 1950) was an [[economist]](https://www.investopedia.com/terms/e/economist.asp) and is regarded as one of the 20th century's greatest intellectuals. He is best known for his theories on [[business cycles]](https://www.investopedia.com/terms/b/businesscycle.asp) and [[capitalist]](https://www.investopedia.com/terms/c/[[Capitalism|capitalism]].asp) development and for introducing the concept of entrepreneurship.
 
 ### Key Takeaways
 
--   He is best known for his 1942 book _Capitalism, Socialism, and Democracy_, the theory of creative destruction and for offering the first German and English references to methodological individualism in economics.
+-   He is best known for his 1942 book _Capitalism, [[Socialism]], and Democracy_, the theory of creative destruction and for [[Offering|offering]] the first German and English references to methodological individualism in [[Economics|economics]].
 -   Schumpeter’s work was initially overshadowed by the contrasting theories of his contemporary, John Maynard Keynes.
 
-## Understanding Joseph Schumpeter
+## Understanding [[Joseph Schumpeter]]
 
-Schumpeter was born in what is now the Czech Republic in 1883, learning economics from the progenitors of the [[Austrian school tradition]](https://www.investopedia.com/articles/economics/09/austrian-school-of-economics.asp), including Friedrich von Wieser and Eugen von Bohm-Bawerk. Schumpeter served as minister of finance in the Austrian government, the president of a private bank, and a professor, before being forced to leave his home country, due to the rise of the Nazis.
+Schumpeter was born in what is now the Czech Republic in 1883, learning [[Economics|economics]] from the progenitors of the [[Austrian school tradition]](https://www.investopedia.com/articles/economics/09/austrian-school-of-economics.asp), including Friedrich von Wieser and Eugen von Bohm-Bawerk. Schumpeter served as minister of [[Finance|finance]] in the Austrian government, the president of a private bank, and a professor, before being forced to leave his home country, due to the rise of the Nazis.
 
 In 1932, he moved to the United States to teach at Harvard. Fifteen years later, in 1947, he became the first immigrant to be elected president of the American Economic Association.
 
@@ -35,15 +35,15 @@ Over his many years in public life, Schumpeter developed informal rivalries with
 
 ## Famous Theories
 
-Schumpeter is best known for his 1942 book _Capitalism, Socialism, and Democracy_ as well as the theory of dynamic [economic growth](https://www.investopedia.com/terms/e/economicgrowth.asp) known as [[creative destruction]](https://www.investopedia.com/terms/c/creativedestruction.asp). He is also credited with the first German and English references to methodological individualism in economics.
+Schumpeter is best known for his 1942 book _Capitalism, [[Socialism]], and Democracy_ as well as the theory of dynamic [economic growth](https://www.investopedia.com/terms/e/economicgrowth.asp) known as [[creative destruction]](https://www.investopedia.com/terms/c/creativedestruction.asp). He is also credited with the first German and English references to methodological individualism in [[Economics|economics]].
 
 ### Creative Destruction
 
-Schumpeter made many contributions to economic science and political theory, but by far his most enduring legacy came from a six-page chapter in _Capitalism, Socialism, and Democracy_ entitled “The Process of Creative Destruction.”
+Schumpeter made many contributions to economic science and political theory, but by far his most enduring legacy came from a six-page chapter in _Capitalism, [[Socialism]], and Democracy_ entitled “The Process of Creative Destruction.”
 
 The economist coined the term creative destruction to describe how the old is being constantly replaced by the new. Schumpeter offered a new, unique insight into how economies grow, explaining that economic progress is not gradual and peaceful but rather disjointed and sometimes unpleasant.
 
- “The same process of industrial mutation—if I may use that biological term—that incessantly revolutionizes the economic structure from within, incessantly destroying the old one, incessantly creating a new one. This process of creative destruction is the essential fact about capitalism,” he said.
+ “The same process of industrial mutation—if I may use that biological term—that incessantly revolutionizes the economic structure from within, incessantly destroying the old one, incessantly creating a new one. This process of creative destruction is the essential fact about [[Capitalism|capitalism]],” he said.
 
 ### Entrepreneurship
 
@@ -51,7 +51,7 @@ Schumpeter is believed to be the first scholar to introduce the world to the con
 
 Schumpeter’s arguments sharply deviated from the dominant tradition. He highlighted the fact that markets do not passively tend toward [[equilibrium]](https://www.investopedia.com/terms/e/equilibrium.asp) until [profit margins](https://www.investopedia.com/terms/p/profitmargin.asp) are wiped out. Instead, entrepreneurial innovation and experimentation constantly destroy the old and introduce new equilibria, making possible higher [standards of living](https://www.investopedia.com/terms/s/standard-of-living.asp).
 
-In many respects, Schumpeter saw capitalism as a method of evolution within the social and economic hierarchy. The entrepreneur becomes the revolutionary, upsetting the established order to create dynamic change.
+In many respects, Schumpeter saw [[Capitalism|capitalism]] as a method of evolution within the social and economic hierarchy. The entrepreneur becomes the revolutionary, upsetting the established order to create dynamic change.
 
 ### Business Cycles
 
@@ -59,7 +59,7 @@ These theories tie in with Schumpeter’s belief in the presence of business cyc
 
 "Barring very few cases in which difficulties arise, it is possible to count off, historically as well as statistically, six Juglars \[8-10-year business cycles\] to a Kondratieff \[50-60 years\] and three Kitchins \[40 months\] to a Juglar—not as an average but in every individual case,” wrote Schumpeter in his book _The Theory of Economic Development_, published in 1911.
 
-## Joseph Schumpeter Vs. John Maynard Keynes
+## [[Joseph Schumpeter]] Vs. John Maynard Keynes
 
 Schumpeter was born just a few months before Keynes and, like his contemporary, is considered to be one of the best economists of the 20th century. The pair had radically different views.
 

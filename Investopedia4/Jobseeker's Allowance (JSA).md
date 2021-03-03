@@ -3,32 +3,32 @@ alias: [Jobseeker's Allowance, JSA]
 created: 2021-03-02T20:58:32 (UTC +11:00)
 tags: [Jobseeker's Allowance (JSA), Jobseeker's Allowance (JSA)]
 source: https://www.investopedia.com/terms/j/job-seekers-allowance-jsa.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Jobseeker's Allowance (JSA)
+# [[Jobseeker's Allowance (JSA)]]
 
 > ## Excerpt
 > The Jobseeker’s Allowance is a benefit which is available to unemployed individuals in the UK who are actively seeking work.
 
 ---
 
-Jobseeker's Allowance (JSA)
+[[Jobseeker's Allowance (JSA)]]
 ## What Is Jobseeker's Allowance? (JSA)
 
-The Jobseeker's Allowance (JSA) is a benefit for unemployed individuals in the U.K. who are actively seeking work. The allowance is intended to help minimize the [[cost of living]](https://www.investopedia.com/terms/c/cost-of-living.asp) for those seeking full-time employment. The benefit may also be available to people who work less than 16 hours per week.1
+The [[Jobseeker's Allowance (JSA)]] is a benefit for unemployed individuals in the U.K. who are actively seeking work. The allowance is intended to help minimize the [[cost of living]](https://www.investopedia.com/terms/c/cost-of-living.asp) for those seeking full-time employment. The benefit may also be available to people who work less than 16 hours per week.1
 
-## Understanding Jobseeker's Allowance (JSA)
+## Understanding [[Jobseeker's Allowance (JSA)]]
 
-The Jobseeker's Allowance is a conditions-based benefit, meaning recipients must meet certain conditions in order to retain eligibility for payments. The main requirement for receiving the JSA is the recipient must provide proof on an ongoing basis that they are actively looking for employment. This condition was introduced to prevent [[unemployment benefits]](https://www.investopedia.com/terms/u/unemployment-compensation.asp) from becoming too easily available and accessible.2
+The Jobseeker's Allowance is a conditions-based benefit, meaning recipients must meet certain conditions in order to retain eligibility for payments. The main requirement for receiving the JSA is the recipient must provide proof on an ongoing basis that they are actively looking for employment. This condition was introduced to prevent [[unemployment benefits]](https://www.investopedia.com/terms/u/[[Unemployment|unemployment]]-compensation.asp) from becoming too easily available and accessible.2
 
 ## Precursors to the Jobseeker’s Allowance
 
-The first unemployment benefits in the U.K were paid in 1911 with the passage of the National Insurance Act. The act covered 2.5 million workers and payments were intended as a supplement to other sources of income.3
+The first [[Unemployment|unemployment]] benefits in the U.K were paid in 1911 with the passage of the National Insurance Act. The act covered 2.5 million workers and payments were intended as a supplement to other sources of income.3
 
-High [[unemployment rates]](https://www.investopedia.com/terms/u/unemploymentrate.asp) following the end of World War I led to the creation of the Unemployment Insurance Act of 1920. This provided weekly unemployment benefits for a period of 15 weeks.3
+High [[unemployment rates]](https://www.investopedia.com/terms/u/unemploymentrate.asp) following the end of World War I led to the creation of the [[Unemployment Insurance]] Act of 1920. This provided weekly [[Unemployment|unemployment]] benefits for a period of 15 weeks.3
 
-In 1921, the government introduced the "seeking work" test as a condition to receiving benefits. The test required recipients to show they were genuinely seeking employment and willing to accept any job paying a reasonable wage.3 Unemployment benefits have continued to evolve over the years, leading to the Jobseeker's Allowance.
+In 1921, the government introduced the "seeking work" test as a condition to receiving benefits. The test required recipients to show they were genuinely seeking employment and willing to accept any job paying a reasonable wage.3 [[Unemployment]] benefits have continued to evolve over the years, leading to the Jobseeker's Allowance.
 
 ## Eligibility for JSA
 

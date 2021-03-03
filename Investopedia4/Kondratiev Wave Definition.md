@@ -6,19 +6,19 @@ source: https://www.investopedia.com/terms/k/kondratiev.asp
 author: Investopedia Staff
 ---
 
-# Kondratiev Wave Definition
+# [[Kondratiev Wave Definition]]
 
 > ## Excerpt
 > Kondratiev Wave is a long-term economic cycle, believed to result from technological innovation, that produces a long period of economic prosperity.
 
 ---
 
-Kondratiev Wave Definition
+[[Kondratiev Wave Definition]]
 ## What Is a Kondratiev Wave?
 
-A Kondratiev Wave is a long-term economic cycle in commodity prices and other prices, believed to result from technological innovation, that produces a long period of prosperity alternating with economic decline. This theory was founded by Nikolai D. Kondratiev (also spelled "Kondratieff"), an agricultural economist who noticed agricultural commodity and copper prices experienced long-term cycles. Kondratiev believed that these cycles involved periods of evolution and self-correction.
+A Kondratiev Wave is a long-term economic cycle in commodity prices and other prices, believed to result from technological innovation, that produces a long period of prosperity alternating with economic decline. This theory was founded by Nikolai D. Kondratiev (also spelled "Kondratieff"), an agricultural economist who noticed agricultural commodity and copper prices experienced long-term cycles. Kondratiev believed that these cycles involved periods of evolution and self-[[Correction|correction]].
 
-Also known as "Kondratieff Wave," "supercycle," "K-Wave," "surge" or "long wave."
+Also known as "[[Kondratieff Wave]]," "supercycle," "K-Wave," "surge" or "long wave."
 
 ### Key Takeaway
 
@@ -44,4 +44,4 @@ In his book _Economic Cycles,_ [[Joseph Schumpeter]](https://www.investopedia.co
 
 The existence of Kondratiev Waves is not generally accepted by economists. The somewhat arbitrary and often conflicting views on the timing and nature of Kondratiev’s theory leads to a lack of consensus even among it’s proponents as to what a Kondratiev Wave actually is, and where the economy is on the supposed wave at any given point in time. The relatively long period of the waves compared to the length of the data available (only a few full waves in length) makes firm conclusions on their characteristics inherently murky.
 
-Moreover, a well-known mathematical property of random time series data, known as the Slutsky-Yule Effect, shows that transforming the data by taking successive moving averages and rates-of-change between data points (as Kondratiev did with his raw price data) creates spurious wave-like patterns that do not reflect any underlying trend in the data themselves. This can easily be demonstrated with any series of random numbers. It means that results like Kondratiev’s are almost certainly inadvertent artifacts of statistical massaging of the data, with no actual explanatory or predictive power outside the transformed data (which are necessarily backward looking by the definition of a moving average).
+Moreover, a well-known mathematical property of random time series data, known as the Slutsky-Yule Effect, shows that transforming the data by taking successive moving averages and rates-of-change between data points (as Kondratiev did with his raw price data) creates spurious wave-like patterns that do not reflect any [[Underlying|underlying]] trend in the data themselves. This can easily be demonstrated with any series of random numbers. It means that results like Kondratiev’s are almost certainly inadvertent artifacts of statistical massaging of the data, with no actual explanatory or predictive power outside the transformed data (which are necessarily backward looking by the definition of a moving average).

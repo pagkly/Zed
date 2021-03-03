@@ -13,7 +13,7 @@ author: Julia Kagan
 
 ---
 
-Introduction to Valued Policy Law (VPL) Definition
+[[Introduction to Valued Policy Law (VPL) Definition]]
 ## What Is Valued Policy Law?
 
 Valued policy law (VPL) is a legal statute that requires insurance companies to pay the [[full value]](https://www.investopedia.com/terms/f/full-value.asp) of a policy to the insured in the event of a [[total loss]](https://www.investopedia.com/terms/a/actual-total-loss.asp). Valued policy law does not consider the actual cash value of the insured property at the time of the loss; instead, the law mandates total payment.
@@ -32,8 +32,8 @@ A total loss is a loss that occurs when an [insured](https://www.investopedia.c
 
 Insurance policies generally use one of two methods to determine the value of a loss: actual cash value or [[replacement cost.]](https://www.investopedia.com/terms/r/replacementcost.asp)
 
--   [**Actual cash value**](https://www.investopedia.com/terms/a/actual-cash-value.asp) is the most common standard for determining the amount of insurance needed, the amount of loss to be paid, and the amount upon which any coinsurance or similar requirement will be based. Actual cash value is defined as replacement cost at the time of loss, less depreciation. However, this definition is being rewritten through case law and state legislation by the [[broad evidence rule]](https://www.investopedia.com/terms/b/broad-evidence-rule.asp), which states that the determination of the actual cash value of a loss should include all relevant evidence an expert would use to set the value of the property, including replacement cost less depreciation and fair market value.
--   **[Replacement cost](https://www.investopedia.com/terms/r/replacementcost.asp)** means that the company will pay the cost to repair or replace, after application of the deductible and without any depreciation.
+-   [**Actual cash value**](https://www.investopedia.com/terms/a/actual-cash-value.asp) is the most common standard for determining the amount of insurance needed, the amount of loss to be paid, and the amount upon which any [[Coinsurance|coinsurance]] or similar requirement [[Will|will]] be based. Actual cash value is defined as replacement cost at the time of loss, less depreciation. However, this definition is being rewritten through case law and state legislation by the [[broad evidence rule]](https://www.investopedia.com/terms/b/broad-evidence-rule.asp), which states that the determination of the actual cash value of a loss should include all relevant evidence an expert would use to set the value of the property, including replacement cost less depreciation and fair market value.
+-   **[Replacement cost](https://www.investopedia.com/terms/r/replacementcost.asp)** means that the company [[Will|will]] pay the cost to repair or replace, after application of the deductible and without any depreciation.
 
 In general, valued policy laws require that the amount stated in policy declarations shall be dollar amount paid to the insured at the time of loss. If the value of an insured item at the time of loss is less than the amount of insurance, the insurer has no recourse to contest payment in full. Moreover, in most valued policy states, any policy provision inconsistent with the valued policy law is considered void.
 

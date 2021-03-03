@@ -3,7 +3,7 @@ alias: [Kickback]
 created: 2021-03-02T21:07:17 (UTC +11:00)
 tags: [Kickback Definition, Kickbacks and Warning Signs They Might Be Happening]
 source: https://www.investopedia.com/terms/k/kickback.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Kickback Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-Kickbacks and Warning Signs They Might Be Happening
+[[Kickbacks and Warning Signs They Might Be Happening]]
 ## What Is a Kickback?
 
 A kickback is an illegal payment intended as compensation for preferential treatment or any other type of improper services received. The kickback may be money, a gift, credit, or anything of value. Paying or receiving kickbacks is a corrupt practice that interferes with an employee's or a public official’s ability to make unbiased decisions. Kickbacks are often referred to as a type of bribery.
@@ -46,12 +46,12 @@ These are some common kickback warning signs. They don't necessarily mean that a
 -   Employees continue to use vendors that provide poor products or services
 -   Delivery dates are repeatedly missed
 
-Kickbacks increase the cost of doing business in countries around the world; they also form the basis for much of the world's government corruption. Companies looking to supply products or services to countries known for corruption may find that they have to pay numerous officials in order to be considered for a contract. The perception that a kickback scheme will go unpunished—or that punishment will be light—is a primary driver for officials willing to take bribes. In some cases, they may be poorly paid and see kickbacks as a way to supplement a meager salary.
+Kickbacks increase the cost of doing business in countries around the world; they also form the basis for much of the world's government corruption. Companies looking to [[Supply|supply]] products or services to countries known for corruption may find that they have to pay numerous officials in order to be considered for a contract. The perception that a kickback scheme [[Will|will]] go unpunished—or that punishment will be light—is a primary driver for officials willing to take bribes. In some cases, they may be poorly paid and see kickbacks as a way to supplement a meager salary.
 
-Even if it is the local custom, the U.S. [[Foreign Corrupt Practices Act]](https://www.investopedia.com/terms/f/foreign-corrupt-practices-act.asp) makes bribing foreign officials illegal for all companies listed with the [[Securities and Exchange Commission (SEC)]](https://www.investopedia.com/terms/s/sec.asp), any company organized in the United States, or any citizen or resident.1
+Even if it is the local custom, the U.S. [[Foreign Corrupt Practices Act]](https://www.investopedia.com/terms/f/foreign-corrupt-practices-act.asp) makes bribing foreign officials illegal for all companies [[Listed|listed]] with the [[Securities and Exchange Commission (SEC)]](https://www.investopedia.com/terms/s/sec.asp), any company organized in the United States, or any citizen or resident.1
 
 ## Example of a Kickback
 
-On Wall Street, brokers sometimes route all orders to a particular exchange (even though they are required by law to execute trades with the one that offers the best terms, or [[best-execution]](https://www.investopedia.com/terms/b/bestexecution.asp), for their clients). Rather than choosing the exchange that offers the most competitive price and has the highest likelihood of completing the trade in a timely manner, the broker may take a kickback in exchange for routing all of their trades to that particular exchange. This can ultimately lead to slower execution and higher transaction costs for clients. The industry refers to the practice as "rebates." While rebates may amount to only a fraction of a cent of each share traded, over time, considerable sums can be accrued.
+On Wall Street, brokers sometimes route all orders to a particular exchange (even though they are required by law to execute trades with the one that offers the best terms, or [[best-execution]](https://www.investopedia.com/terms/b/bestexecution.asp), for their clients). Rather than choosing the exchange that offers the most competitive price and has the highest likelihood of completing the trade in a timely manner, the broker may take a kickback in exchange for routing all of their trades to that particular exchange. This can ultimately lead to slower execution and higher [[Transaction Costs|transaction costs]] for clients. The industry refers to the practice as "rebates." While rebates may amount to only a fraction of a cent of each share traded, over time, considerable sums can be accrued.
 
 In the advertising business, kickbacks can take the form of rebates or fraudulent billing for nonexistent services. Clients pay the price with higher costs or a lower level of service than they normally would expect for their money. Shrinking agency fees and a hard-to-understand digital marketplace are providing the motivation and cover for such actions.

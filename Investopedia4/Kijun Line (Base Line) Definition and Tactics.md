@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/k/kijun-line.asp
 author: Cory Mitchell
 ---
 
-# Kijun Line (Base Line) Definition and Tactics
+# [[Kijun Line (Base Line) Definition and Tactics]]
 
 > ## Excerpt
 > The Kijun Line, or Base Line, is a component of the Ichimoku Cloud indicator, and is the mid-point price of the last 26-periods. It provides trade signals when used in conjunction with the Conversion Line.
 
 ---
 
-Kijun Line (Base Line) Definition and Tactics
+[[Kijun Line (Base Line) Definition and Tactics]]
 ## What is the Kijun Line (Base Line)?
 
 The Kijun Line, also called the Base Line or Kijun-sen, is one of five components that make up the [[Ichimoku Cloud]](https://www.investopedia.com/terms/i/ichimoku-cloud.asp) indicator. The Kijun Line is typically used in conjunction with the [[Conversion Line]](https://www.investopedia.com/terms/t/tenkansen.asp) (Tenkan-sen) to generate trade signals when they cross. These signals can be further filtered via the other components of the Ichimoku indicator.
@@ -24,7 +24,7 @@ TradingView.
 
 ### Key Takeaways
 
--   When the price is above the Kijun Line it indicates the recent price [[momentum]](https://www.investopedia.com/terms/m/momentum.asp) is to the upside. When the price is below the Kijun Line, recent price momentum is to the downside.
+-   When the price is above the Kijun Line it indicates the recent price [[momentum]](https://www.investopedia.com/terms/m/[[Momentum|momentum]].asp) is to the [[Upside|upside]]. When the price is below the Kijun Line, recent price momentum is to the downside.
 -   The Kijun Line and Tenkan Line are used together to generate trade signals.
 -   The Base Line is the midpoint price of the last 26-periods.
 -   The Kijun Line is one of five components of the Ichimoku indicator.
@@ -44,7 +44,7 @@ Kijun line (base line)\=12∗(max⁡{t..t−26}\[p\]+min⁡{t..t−26}\[p\])w
 
 The Kijun Line, or Base Line, is part of the Ichimoku Cloud indicator.
 
-The Ichimoku Cloud is a technical indicator that defines [[support and resistance]](https://www.investopedia.com/trading/support-and-resistance-basics/), measures momentum, and provides buy and sell [[signals]](https://www.investopedia.com/terms/t/trade-signal.asp). Its developer, Goichi Hosoda, designed the indicator to be a "one look equilibrium chart".
+The Ichimoku Cloud is a technical indicator that defines [[support and resistance]](https://www.investopedia.com/trading/support-and-resistance-basics/), measures [[Momentum|momentum]], and provides buy and sell [[signals]](https://www.investopedia.com/terms/t/trade-signal.asp). Its developer, Goichi Hosoda, designed the indicator to be a "one look equilibrium chart".
 
 There are several different lines included in the Ichimoku Cloud indicator.
 
@@ -56,19 +56,19 @@ There are several different lines included in the Ichimoku Cloud indicator.
 
 While the "cloud", made up of Leading Span A and B, is the most prominent feature of Ichimoku Cloud indicator, the Kijun Line generates trading signals when it is crossed by the Tenkan Line. The Tenkan Line is the 9-period price mid-point, therefore it moves quicker than the Kinjun line which looks at 26 periods.
 
-When the Tenkan Line crosses above the Kijun Line it signals that the short-term price momentum is moving to the upside, and may be interpreted as a buy signal.
+When the Tenkan Line crosses above the Kijun Line it signals that the short-term price [[Momentum|momentum]] is moving to the [[Upside|upside]], and may be interpreted as a buy signal.
 
-When the Tenkan Line crosses below the Kijun Line it signals momentum has shifted to the downside and may be interpreted as a sell signal.
+When the Tenkan Line crosses below the Kijun Line it signals [[Momentum|momentum]] has shifted to the downside and may be interpreted as a sell signal.
 
 Buy or sell signals should be used within the context of the other components of the Ichimoku indicator. For example, a trader may only wish to trade the buy signals if the price is also above the "cloud" or Leading Span A.
 
-When the Tenkan Line and Kijun Line are crossing back and forth the price lacks a trend, or is moving in a [[choppy]](https://www.investopedia.com/terms/c/choppymarket.asp) fashion, and therefore the crossovers will not produce reliable trade signals.
+When the Tenkan Line and Kijun Line are crossing back and forth the price lacks a trend, or is moving in a [[choppy]](https://www.investopedia.com/terms/c/choppymarket.asp) fashion, and therefore the crossovers [[Will|will]] not produce reliable trade signals.
 
-On its own, the Kijun Line can also be used for analyzing price momentum. With the price is above the Kijun line, it means the price is above 26-period mid-point and therefore has an upward bias. If the price is below the Kijun Line, it is below the mid-point price, and therefore has a downward bias.
+On its own, the Kijun Line can also be used for analyzing price [[Momentum|momentum]]. With the price is above the Kijun line, it means the price is above 26-period mid-point and therefore has an upward bias. If the price is below the Kijun Line, it is below the mid-point price, and therefore has a downward bias.
 
 ## Example of a Kijun Line
 
-The following chart shows an example of an Ichimoku Cloud indicator applied to the SPDR S&P 500 ETF ([SPY](https://www.investopedia.com/markets/quote?tvwidgetsymbol=spy)).
+The following chart shows an example of an Ichimoku Cloud indicator applied to the SPDR S&P 500 ETF ([SPY](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=spy)).
 
 Image by Sabrina Jiang © Investopedia 2020
 
@@ -76,13 +76,13 @@ In the chart above, the Kijun Line is red and the Tenkan Line is blue. After a
 
 ## The Difference Between the Kijun Line and a Moving Average
 
-The Kijun Line is a moving mid-point, based on the high and low over a set number of periods. It is calculated by adding the high and low and dividing by two. A [[moving average]](https://www.investopedia.com/terms/m/movingaverage.asp) (MA) is different. It sums up the closing prices of a set number of periods and then divides that by the number of periods. A 26-period Kijun Line and a 26-period MA will produce different values, and therefore provide traders with different information.
+The Kijun Line is a moving mid-point, based on the high and low over a set number of periods. It is calculated by adding the high and low and dividing by two. A [[moving average]](https://www.investopedia.com/terms/m/movingaverage.asp) (MA) is different. It sums up the closing prices of a set number of periods and then divides that by the number of periods. A 26-period Kijun Line and a 26-period MA [[Will|will]] produce different values, and therefore provide traders with different information.
 
 ## The Limitations of Using the Kijun Line
 
-Unless there is a very strong trend, the Kijun Line will often appear near the price. When the Kijun Line is often intersecting or near the price, it is not as useful for helping to assess the trend direction.
+Unless there is a very strong trend, the Kijun Line [[Will|will]] often appear near the price. When the Kijun Line is often intersecting or near the price, it is not as useful for helping to assess the trend direction.
 
-The same goes for crossovers with the Tenkan Line. When the price trends strongly, crossover signals may be quite profitable. Yet many crossovers signals will be unprofitable if the price fails to trend following the crossover.
+The same goes for crossovers with the Tenkan Line. When the price trends strongly, crossover signals may be quite profitable. Yet many crossovers signals [[Will|will]] be unprofitable if the price fails to trend following the crossover.
 
 The Kijun Line is reactionary, in that it shows what price has done in the past. There are no predictive qualities inherent in the indicator's calculation.
 

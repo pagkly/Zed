@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/k/killerapplication.asp
 author: Investopedia Staff
 ---
 
-# Killer Application Definition
+# [[Killer Application Definition]]
 
 > ## Excerpt
 > A killer application, or "killer app" is a software program, feature, or user-interface perceived as innovative enough to influence trends and sales.
 
 ---
 
-Killer Application Definition
+[[Killer Application Definition]]
 ## What Is a Killer Application?
 
 A killer application—or a killer app—is a software program with a user-interface perceived as innovative enough to influence computing trends and sales. The term dates to the early development of personal computers and software in the 1980s, when accounting, database, and word-processing applications were first being developed for mass use.
@@ -34,8 +34,8 @@ As businesses increasingly adopted stand-alone computers connected by local netw
 
 ## The Value of Killer Applications
 
-Typically, a killer application constitutes such a desirable feature that it drives sales and adoption of the platform on which it runs, such as operating systems or specific devices. The value that the killer application brings to the user may even help other perceived shortcomings of the platform and can raise the switching cost for consumers to leave the platform, increasing longevity and brand loyalty. For example, the popular Halo first-person-shooter game series is widely credited as the killer application that built the success of Microsoft’s Xbox game consoles. It was so popular that it spawned the derivative term “Halo killer”, which is meant to be a first-person-shooter good enough to rival or unseat Halo. 
+Typically, a killer application constitutes such a desirable feature that it drives sales and adoption of the platform on which it runs, such as operating systems or specific devices. The value that the killer application brings to the user may even help other perceived shortcomings of the platform and can raise the switching cost for consumers to leave the platform, increasing longevity and brand loyalty. For example, the popular Halo first-person-shooter game series is widely credited as the killer application that built the success of Microsoft’s Xbox game consoles. It was so popular that it spawned the [[Derivative|derivative]] term “Halo killer”, which is meant to be a first-person-shooter good enough to rival or unseat Halo. 
 
 In the modern economy, development and reliance upon killer applications extends beyond just technology and computing businesses or bridge the gap between pure tech businesses and more traditional goods and services. These are intended to drive sales and growth of the overall business “platform” in the same way as killer apps historically have.
 
-The ubiquity of smartphones and the "always-on-always-connected" culture means that products and industries from healthcare delivery to restaurant food service to fitness centers are all seeking their own killer app to drive online and in-person traffic to their doorstep. These can include everything from online sales and customer appointment scheduling to online social platforms for customers and downloadable apps that interface directly with a physical product. Using or offering software that complements the goods and services that a company provides is now key to driving a superior customer experience and competitive advantage.
+The ubiquity of smartphones and the "always-on-always-connected" culture means that products and industries from healthcare delivery to restaurant food service to fitness centers are all seeking their own killer app to drive online and in-person traffic to their doorstep. These can include everything from online sales and customer appointment scheduling to online social platforms for customers and downloadable apps that interface directly with a physical product. Using or [[Offering|offering]] software that complements the goods and services that a company provides is now key to driving a superior customer experience and competitive advantage.

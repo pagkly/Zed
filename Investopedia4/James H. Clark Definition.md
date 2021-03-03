@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/j/james-h-clark.asp
 author: Lucas Downey
 ---
 
-# James H. Clark Definition
+# [[James H. Clark Definition]]
 
 > ## Excerpt
 > James H. Clark is a serial and successful entrepreneur, perhaps best known for co-founding Netscape in 1994, along with Marc Andreessen.
 
 ---
 
-James H. Clark Definition
+[[James H. Clark Definition]]
 ## Who Is James H. Clark?
 
-James H. Clark is a serial and successful [[entrepreneur]](https://www.investopedia.com/terms/e/entrepreneur.asp) and computer scientist, perhaps best known for co-founding Netscape with Marc Andreessen in 1994.1 Netscape Navigator was the market leader in web browsers in the early days of the internet, becoming the dominant browser in terms of usage share in the 1990s. However, because it was not free to use, it ultimately lost market share to Microsoft's free competitor, Internet Explorer. Netscape was eventually purchased by America Online (AOL) in 1998, making Clark a [[billionaire]](https://www.investopedia.com/terms/b/billionaire.asp).2 Clark started Netscape with a $4.1 million investment and exited the company with a $1.2 billion payout.3
+James H. Clark is a serial and successful [[entrepreneur]](https://www.investopedia.com/terms/e/entrepreneur.asp) and computer scientist, perhaps best known for co-founding Netscape with Marc Andreessen in 1994.1 Netscape Navigator was the [[Market Leader|market leader]] in web browsers in the early days of the internet, becoming the dominant browser in terms of usage share in the 1990s. However, because it was not free to use, it ultimately lost market share to Microsoft's free competitor, Internet Explorer. Netscape was eventually purchased by America Online (AOL) in 1998, making Clark a [[billionaire]](https://www.investopedia.com/terms/b/billionaire.asp).2 Clark started Netscape with a $4.1 million investment and exited the company with a $1.2 billion [[Payout|payout]].3
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ Born in Plainview, Texas on March 23, 1944, James H. Clark joined the Navy after
 
 He later returned to continue his formal education, beginning with taking classes at Tulane University's University College. Although he didn't have a high school degree, he was eventually admitted to the University of New Orleans, where he earned his bachelor's and a master's degree in physics. Clark eventually earned a Ph.D. in computer science from the University of Utah. Clark went on to become an associate professor of electrical engineering at Stanford University and a major benefactor of the James H. Clark Center at Stanford, the location of the bioscience research program at Stanford.6
 
-While Jim Clark is best known as the co-founder of the internet pioneer Netscape, he has since multiplied his wealth through timely tech investments in companies such as Facebook, Apple, Twitter, and Palantir. His latest startup is a venture called CommandScape, an app that controls everything from a building's alarms and cameras to its lighting and thermostat. As of 2021, [[Forbes]](https://www.investopedia.com/terms/f/forbes.asp) estimates that Clark's net worth is over $3 billion, making him one of the wealthiest men in America.7
+While Jim Clark is best known as the co-founder of the internet pioneer Netscape, he has since multiplied his wealth through timely tech investments in companies such as Facebook, Apple, Twitter, and Palantir. His latest startup is a venture called CommandScape, an app that controls everything from a building's alarms and cameras to its lighting and thermostat. As of 2021, [[Forbes]](https://www.investopedia.com/terms/f/forbes.asp) estimates that Clark's [[Net Worth|net worth]] is over $3 billion, making him one of the wealthiest men in America.7
 
 An ocean lover, his yachts include the 300-foot sailing yacht Athena and the 100-foot racing sailboat Comanche. He is also a well-known philanthropist, contributing mainly to institutions of higher education, such as Stanford University and Tulane University. He is also a member of the board of the World Wide Fund for Nature (WWF).
 

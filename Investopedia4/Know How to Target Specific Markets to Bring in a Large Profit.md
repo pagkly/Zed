@@ -13,7 +13,7 @@ author: Evan Tarver
 
 ---
 
-Know How to Target Specific Markets to Bring in a Large Profit
+[[Know How to Target Specific Markets to Bring in a Large Profit]]
 ## What Is Market Segmentation?
 
 Market segmentation is a marketing term that refers to aggregating prospective buyers into groups or segments with common needs and who respond similarly to a marketing action. Market segmentation enables companies to target different categories of consumers who perceive the [[full value]](https://www.investopedia.com/terms/f/full-value.asp) of certain products and services differently from one another.
@@ -28,7 +28,7 @@ Companies can generally use three criteria to identify different market segmen
 
 For example, an athletic footwear company might have market segments for basketball players and long-distance runners. As distinct groups, basketball players and long-distance runners respond to very different advertisements.
 
-Market segmentation is an extension of market research that seeks to identify targeted groups of consumers to tailor products and [[branding]](https://www.investopedia.com/terms/b/brand-personality.asp) in a way that is attractive to the group. The objective of market segmentation is to minimize risk by determining which products have the best chances for gaining a share of a [[target market]](https://www.investopedia.com/terms/t/target-market.asp) and determining the best way to deliver the products to the market. This allows the company to increase its overall efficiency by focusing limited resources on efforts that produce the best return on investment (ROI).
+Market segmentation is an extension of market research that seeks to identify targeted groups of consumers to tailor products and [[branding]](https://www.investopedia.com/terms/b/brand-personality.asp) in a way that is attractive to the group. The objective of market segmentation is to minimize [[Risk|risk]] by determining which products have the best chances for gaining a share of a [[target market]](https://www.investopedia.com/terms/t/target-market.asp) and determining the best way to deliver the products to the market. This allows the company to increase its overall efficiency by focusing limited resources on efforts that produce the best [[Return|return]] on investment (ROI).
 
 Companies can segment markets in several ways:
 
@@ -37,9 +37,9 @@ Companies can segment markets in several ways:
 -   Psychographically by social class, lifestyle, or personality
 -   Behaviorally by benefit, use, or response
 
-The objective is to enable the company to differentiate its products or message according to the common dimensions of the market segment.
+The objective is to enable the company to differentiate its products or message according to the common dimensions of the [[Market Segment|market segment]].
 
-Market segmentation allows a company to increase its overall efficiency by focusing limited resources on efforts that produce the best return on investment (ROI).
+Market segmentation allows a company to increase its overall efficiency by focusing limited resources on efforts that produce the best [[Return|return]] on investment (ROI).
 
 ## Examples of Market Segmentation
 

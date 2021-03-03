@@ -6,23 +6,23 @@ source: https://www.investopedia.com/terms/k/keiretsu.asp
 author: Daniel Liberto
 ---
 
-# Keiretsu Definition
+# [[Keiretsu Definition]]
 
 > ## Excerpt
-> Keiretsu is a business network composed of different independent firms that have close relationships and sometimes take small equity stakes in each other.
+> Keiretsu is a business network composed of different independent firms that have close relationships and sometimes take small [[Equity|equity]] stakes in each other.
 
 ---
 
-Keiretsu Definition
+[[Keiretsu Definition]]
 ## What Is Keiretsu?
 
-Keiretsu is a Japanese term referring to a business network made up of different companies, including [[manufacturers]](https://www.investopedia.com/terms/m/manufacturing.asp), [[supply chain]](https://www.investopedia.com/terms/s/supplychain.asp) partners, distributors, and occasionally financers. They work together, have close relationships and sometimes take small equity stakes in each other, all the while remaining operationally independent. Translated literally, keiretsu means “headless combine."
+Keiretsu is a Japanese term referring to a business network made up of different companies, including [[manufacturers]](https://www.investopedia.com/terms/m/[[Manufacturing|manufacturing]].asp), [[supply chain]](https://www.investopedia.com/terms/s/supplychain.asp) partners, distributors, and occasionally financers. They work together, have close relationships and sometimes take small [[Equity|equity]] stakes in each other, all the while remaining operationally independent. Translated literally, keiretsu means “headless combine."
 
 ### Key Takeaways
 
--   Keiretsu is a Japanese term referring to a business network made up of different companies that have close relationships and sometimes take small equity stakes in each other, all the while remaining operationally independent.
+-   Keiretsu is a Japanese term referring to a business network made up of different companies that have close relationships and sometimes take small [[Equity|equity]] stakes in each other, all the while remaining operationally independent.
 -   This way of doing business rose to prominence after World War II and the destruction of the Japanese zaibatsu.
--   A horizontal keiretsu is an alliance of different companies, led by a bank that provides them with finance.
+-   A horizontal keiretsu is an alliance of different companies, led by a bank that provides them with [[Finance|finance]].
 -   A vertical keiretsu refers to manufacturers, suppliers, and distributors partnering up to cut costs and become more efficient.
 
 ## Understanding Keiretsu
@@ -33,7 +33,7 @@ In fact, decades after its formation, keiretsus still represent major parts of t
 
 Keiretsu has gone on to influence business practices in other countries, albeit in a looser form. In Japan, where companies are expected to cooperate, keiretsus are regulated by specific laws. Outside the country, the term generally refers to informal [[alliances]](https://www.investopedia.com/terms/s/strategicalliance.asp) between more than two organizations.
 
-In 1996, academic Jeffrey Dyer wrote in Harvard Business Review that Chrysler’s teaming up with suppliers to cut the cost of manufacturing cars meant it had created an American keiretsu. Many other companies in the United States and Europe are viewed to have borrowed something from keiretsus.
+In 1996, academic Jeffrey Dyer wrote in Harvard Business Review that Chrysler’s teaming up with suppliers to cut the cost of [[Manufacturing|manufacturing]] cars meant it had created an American keiretsu. Many other companies in the United States and Europe are viewed to have borrowed something from keiretsus.
 
 ## Horizontal Keiretsu vs. Vertical Keiretsu
 
@@ -43,7 +43,7 @@ In contrast, a vertical keiretsu refers to manufacturers, suppliers, and distrib
 
 ## History of Keiretsu
 
-Powerful families, known as zaibatsus, once ran the majority of Japan’s major industries. That all changed after World War II when the United States came in and busted up these structures. Zaibatsus were seen as [[monopolistic]](https://www.investopedia.com/terms/m/monopoly.asp) and undemocratic, reportedly buying politicians in exchange for contracts and using pricing mechanisms that exploited the poor.
+Powerful families, known as zaibatsus, once ran the majority of Japan’s major industries. That all changed after World War II when the United States came in and busted up these structures. Zaibatsus were seen as [[monopolistic]](https://www.investopedia.com/terms/m/[[Monopoly|monopoly]].asp) and undemocratic, reportedly buying politicians in exchange for contracts and using pricing mechanisms that exploited the poor.
 
 Life in Japan was difficult after the war. Companies there responded by reorganizing themselves as keiretsus.
 
@@ -51,14 +51,14 @@ Life in Japan was difficult after the war. Companies there responded by reorgani
 
 Mitsubishi is the driving force behind perhaps the largest and best-known Japanese horizontal keiretsu. The Bank of Tokyo-Mitsubishi sits at the top of the keiretsu. Mitsubishi Motors and Mitsubishi Trust and Banking are also part of the core group, followed by Meiji Mutual Life Insurance Company, which provides [[insurance]](https://www.investopedia.com/terms/i/insurance.asp) to all members. Mitsubishi Shoji is the trading company for the Mitsubishi keiretsu.
 
-Together they aim to help each other distribute goods all over the world. They may seek new markets for keiretsu companies, help incorporate keiretsu companies in other nations and sign contracts with other companies around the globe to supply [commodities](https://www.investopedia.com/terms/c/commodity.asp) used for Japanese industry. As you might have already noticed, many companies within this keiretsu have "Mitsubishi" as part of their name.
+Together they aim to help each other distribute goods all over the world. They may seek new markets for keiretsu companies, help incorporate keiretsu companies in other nations and sign contracts with other companies around the globe to [[Supply|supply]] [commodities](https://www.investopedia.com/terms/c/commodity.asp) used for Japanese industry. As you might have already noticed, many companies within this keiretsu have "Mitsubishi" as part of their name.
 
 ## Advantages and Disadvantages of Keiretsu
 
-Working closely together can bring many benefits. Companies in the keiretsu can leverage each other’s expertise to become stronger and better.
+Working closely together can bring many benefits. Companies in the keiretsu can [[Leverage|leverage]] each other’s expertise to become stronger and better.
 
 Forming an alliance also limits the threat of competition and makes it more difficult for its members to be subject to [[takeover]](https://www.investopedia.com/terms/t/takeover.asp) attempts by outsiders.
 
 However, there are also several drawbacks. Critics point out that their large size makes it difficult for keiretsus to adjust quickly to market changes and that limited competition leads to inefficient practices.
 
-Another potential issue is easy access to capital. Close relationships with a bank might encourage a company to embark in risky, debt-fueled strategies that an outside institution would probably never help to finance.
+Another potential issue is easy access to capital. Close relationships with a bank might encourage a company to embark in risky, [[Debt|debt]]-fueled strategies that an outside institution would probably never help to [[Finance|finance]].

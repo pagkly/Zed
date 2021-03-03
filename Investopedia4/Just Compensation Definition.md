@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/j/just-compensation.asp
 author: Julia Kagan
 ---
 
-# Just Compensation Definition
+# [[Just Compensation Definition]]
 
 > ## Excerpt
 > Just compensation refers to the compensation individuals receive when their property gets seized by the government for public use.
 
 ---
 
-Just Compensation Definition
+[[Just Compensation Definition]]
 ## What Is Just Compensation?
 
 Just compensation refers to the compensation individuals receive when their [[property]](https://www.investopedia.com/terms/p/property.asp) gets seized by the government for public use. For example, when the national highway system was constructed in the 1950s, many homeowners had their property seized because the government needed the land to build the interstate highway system.
@@ -22,16 +22,16 @@ The just compensation remedy is provided by the Fifth Amendment's Takings Clause
 
 ### Key Takeaways
 
--   Just compensation is paid to property owners for the legal seizure of personal property or land.
+-   Just compensation is paid to property owners for the legal seizure of [[Personal Property|personal property]] or land.
 -   It is legally defined under the Takings Clause in the Fifth Amendment.
 -   Property owners are paid fair market value for their property but often determining what fair market value is can be difficult.
 -   There are different methods used to determine the value of a property and these include the market approach, income approach, and the cost approach.
 
 ## Understanding Just Compensation
 
-The idea behind just compensation is to repair the individual's estate, as if the property taking did not occur. This means paying the fair market value for the property.
+The idea behind just compensation is to repair the individual's [[Estate|estate]], as if the property taking did not occur. This means paying the fair market value for the property.
 
-However, individuals who lose their homes through an act of eminent domain may not consider the fair market value of the property to be just compensation for their loss, because it does not take into account the time, stress and cost of moving to a new property. Just compensation also fails to consider the loss of neighborhood social ties or the emotional connection the owner may have to the property. [[Fair value]](https://www.investopedia.com/articles/mortgages-real-estate/08/housing-appreciation.asp) is often disputed in eminent domain cases.
+However, individuals who lose their homes through an act of eminent domain may not consider the fair market value of the property to be just compensation for their loss, because it does not take into account the time, stress and cost of moving to a new property. Just compensation also fails to consider the loss of neighborhood social ties or the emotional connection the owner may have to the property. [[Fair value]](https://www.investopedia.com/articles/mortgages-real-[[Estate|estate]]/08/housing-appreciation.asp) is often disputed in eminent domain cases.
 
 ## Factors of Just Compensation
 

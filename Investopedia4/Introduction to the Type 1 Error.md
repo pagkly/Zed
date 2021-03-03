@@ -3,17 +3,17 @@ alias: [Introduction to the Type 1 Error]
 created: 2021-03-03T00:11:09 (UTC +11:00)
 tags: [Introduction to the Type 1 Error, Introduction to the Type 1 Error]
 source: https://www.investopedia.com/terms/t/type_1_error.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Introduction to the Type 1 Error
+# [[Introduction to the Type 1 Error]]
 
 > ## Excerpt
 > A type I error is a kind of error that occurs when a null hypothesis is rejected, although it is true. Discover more about the type I error.
 
 ---
 
-Introduction to the Type 1 Error
+[[Introduction to the Type 1 Error]]
 A type I error is a kind of fault that occurs during the [[hypothesis testing]](https://www.investopedia.com/terms/h/hypothesistesting.asp) process when a [[null hypothesis]](https://www.investopedia.com/terms/n/null_hypothesis.asp) is rejected, even though it is accurate and should not be rejected.
 
 In hypothesis testing, a null hypothesis is established before the onset of a test. In some cases, the null hypothesis assumes that there's no cause and effect relationship between the item being tested and the stimuli being applied to the test subject to trigger an outcome to the test.
@@ -30,7 +30,7 @@ However, errors can occur whereby the null hypothesis has been rejected, meaning
 
 Hypothesis testing is a process of testing a conjecture by using sample data. The test is designed to provide evidence that the conjecture or hypothesis is supported by the data being tested. A null hypothesis is the belief that there is no statistical significance or effect between the two data sets, variables, or populations being considered in the hypothesis. Typically, a researcher would try to disprove the null hypothesis. 
 
-For example, let's say the null hypothesis states that an investment strategy doesn't perform any better than a market index, such as the S&P 500. The researcher would take samples of data and test the historical performance of the investment strategy to determine if the strategy performed at a higher level than the S&P. If the test results showed that the strategy performed at a higher rate than the index, the null hypothesis would be rejected.
+For example, let's say the null hypothesis states that an investment strategy doesn't perform any better than a [[Market Index|market index]], such as the S&P 500. The researcher would take samples of data and test the historical performance of the investment strategy to determine if the strategy performed at a higher level than the S&P. If the test results showed that the strategy performed at a higher rate than the index, the null hypothesis would be rejected.
 
 This condition is denoted as "n=0." If—when the test is conducted—the result seems to indicate that the stimuli applied to the test subject cause a reaction, the null hypothesis stating that the stimuli do not affect the test subject would, in turn, need to be rejected.
 
@@ -44,6 +44,6 @@ Sometimes, rejecting the null hypothesis that there is no relationship between t
 
 For example, let's look at the trail of an accused criminal. The null hypothesis is that the person is innocent, while the alternative is guilty. A Type I error in this case would mean that the person is not found innocent and is sent to jail, despite actually being innocent.
 
-In medical testing, a type I error would cause the appearance that a treatment for a disease has the effect of reducing the severity of the disease when, in fact, it does not. When a new medicine is being tested, the null hypothesis will be that the medicine does not affect the progression of the disease. Let's say a lab is researching a new cancer drug. Their null hypothesis might be that the drug does not affect the growth rate of cancer cells.
+In medical testing, a type I error would cause the appearance that a treatment for a disease has the effect of reducing the severity of the disease when, in fact, it does not. When a new medicine is being tested, the null hypothesis [[Will|will]] be that the medicine does not affect the progression of the disease. Let's say a lab is researching a new cancer drug. Their null hypothesis might be that the drug does not affect the growth rate of cancer cells.
 
 After applying the drug to the cancer cells, the cancer cells stop growing. This would cause the researchers to reject their null hypothesis that the drug would have no effect. If the drug caused the growth stoppage, the conclusion to reject the null, in this case, would be correct. However, if something else during the test caused the growth stoppage instead of the administered drug, this would be an example of an incorrect rejection of the null hypothesis, i.e., a type I error.

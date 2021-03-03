@@ -1,24 +1,24 @@
 ---
 alias: [Klinger Oscillator]
 created: 2021-03-02T21:07:18 (UTC +11:00)
-tags: [Klinger Oscillator Definition, Klinger Oscillator Definition]
+tags: [Klinger [[Oscillator Definition]], Klinger Oscillator Definition]
 source: https://www.investopedia.com/terms/k/klingeroscillator.asp
 author: Cory Mitchell
 ---
 
-# Klinger Oscillator Definition
+# [[Klinger Oscillator Definition]]
 
 > ## Excerpt
 > The Klinger Oscillator is a technical indicator that combines prices movements with volume. The indicator uses divergence and crossovers to generate trade signals.
 
 ---
 
-Klinger Oscillator Definition
+[[Klinger Oscillator Definition]]
 ## What Is the Klinger Oscillator?
 
-The Klinger oscillator was developed by Stephen Klinger to determine the long-term trend of [[money flow]](https://www.investopedia.com/terms/m/moneyflow.asp) while remaining sensitive enough to detect short-term fluctuations. The indicator compares the [[volume]](https://www.investopedia.com/terms/v/volume.asp) flowing through securities with the security's price movements and then converts the result into an [[oscillator]](https://www.investopedia.com/terms/o/oscillator.asp). The Klinger oscillator shows the difference between two moving averages which are based on more than price. Traders watch for [[divergence]](https://www.investopedia.com/terms/d/divergence.asp) on the indicator to signal potential price reversals. Like other oscillators, a [[signal line]](https://www.investopedia.com/terms/s/signal_line.asp) can be added to provide additional trade signals.
+The Klinger oscillator was developed by Stephen Klinger to determine the long-term trend of [[money flow]](https://www.investopedia.com/terms/m/moneyflow.asp) while remaining sensitive enough to detect short-term fluctuations. The indicator compares the [[volume]](https://www.investopedia.com/terms/v/volume.asp) flowing through securities with the [[Security|security]]'s price movements and then converts the result into an [[oscillator]](https://www.investopedia.com/terms/o/oscillator.asp). The Klinger oscillator shows the difference between two moving averages which are based on more than price. Traders watch for [[divergence]](https://www.investopedia.com/terms/d/divergence.asp) on the indicator to signal potential price reversals. Like other oscillators, a [[signal line]](https://www.investopedia.com/terms/s/signal_line.asp) can be added to provide additional trade signals.
 
-Traders will use tools such as [[trendlines]](https://www.investopedia.com/terms/t/trendline.asp), moving averages, and other indicators to confirm trade signals. In addition, traders may use the oscillator in conjunction with chart patterns, such as [[price channels]](https://www.investopedia.com/terms/p/price-channel.asp) or [[triangles]](https://www.investopedia.com/terms/t/triangle.asp), as a way to confirm a breakout or breakdown. Crossovers occur frequently, as do divergences, so the indicator is best used in conjunction with these other technical trading methods.
+Traders [[Will|will]] use tools such as [[trendlines]](https://www.investopedia.com/terms/t/trendline.asp), moving averages, and other indicators to confirm trade signals. In addition, traders may use the oscillator in conjunction with chart patterns, such as [[price channels]](https://www.investopedia.com/terms/p/price-channel.asp) or [[triangles]](https://www.investopedia.com/terms/t/triangle.asp), as a way to confirm a breakout or breakdown. Crossovers occur frequently, as do divergences, so the indicator is best used in conjunction with these other technical trading methods.
 
 ## Formula for the Klinger Oscillator
 
@@ -48,7 +48,7 @@ A [[signal line]](https://www.investopedia.com/terms/s/signal_line.asp) (13-peri
 
 When an asset is in an overall uptrend—such as when it is above its 100-period moving average and the Klinger is above zero or moving above zero—traders could buy when the Klinger oscillator moves above the signal line from below.
 
-Klinger noted that when a stock was in an uptrend, and then dropped to unusually low levels below zero, and then moved above its signal line, this was a favorable long position to take.
+Klinger noted that when a [[Stock|stock]] was in an uptrend, and then dropped to unusually low levels below zero, and then moved above its signal line, this was a favorable long position to take.
 
 ### The Downtrend
 
@@ -58,7 +58,7 @@ The zero line is also used by some traders to mark the transition from an uptren
 
 ### Klinger Oscillator and Divergence
 
-The Klinger oscillator also uses divergence to identify when the indicator's inputs are not confirming the direction of the price move. It's a [[bullish]](https://www.investopedia.com/terms/b/bull.asp) sign when the value of the indicator is heading upward while the price of the security continues to fall. It is a [[bearish]](https://www.investopedia.com/terms/b/bear.asp) signal when the price is rising but the indicator is falling. Divergence can be coupled with signal line crossovers to generate trades. For example, if a bearish divergence forms, a sell or short-sell could be initiated the next time the Klinger crosses below the signal line.
+The Klinger oscillator also uses divergence to identify when the indicator's inputs are not confirming the direction of the price move. It's a [[bullish]](https://www.investopedia.com/terms/b/bull.asp) sign when the value of the indicator is heading upward while the price of the [[Security|security]] continues to fall. It is a [[bearish]](https://www.investopedia.com/terms/b/bear.asp) signal when the price is rising but the indicator is falling. Divergence can be coupled with signal line crossovers to generate trades. For example, if a bearish divergence forms, a sell or short-sell could be initiated the next time the Klinger crosses below the signal line.
 
 ## Klinger Oscillator vs. On Balance Volume
 
@@ -70,14 +70,14 @@ Crossovers and divergence, the two main functions of the oscillator, are prone t
 
 Signal line crossovers are so frequent that it is hard to filter out which ones are worth trading and which ones aren't. Zero line crossovers also have issues, as the indicator may criss-cross the zero line multiple times before moving in a sustained direction, or the indicator may fail to move with the price resulting in a missed trading opportunity.
 
-Divergence can be useful, but often occurs too early, resulting in the trader missing a large chunk of the trend, or the divergence fails to result in a price reversal at all. Also, divergence is not present at all price reversals, so it is not a reliable tool for spotting all possible price reversals.
+Divergence can be useful, but often occurs too early, resulting in the trader missing a large chunk of the trend, or the divergence fails to result in a price [[Reversal|reversal]] at all. Also, divergence is not present at all price reversals, so it is not a reliable tool for spotting all possible price reversals.
 
 Use the Klinger oscillator only in conjunction with other technical indicators or [[price action]](https://www.investopedia.com/terms/p/price-action.asp) analysis.
 
 ## Klinger Oscillator Example
 
-The following chart shows an example of the Klinger Oscillator on the SPDR S&P 500 ETF ([SPY](https://www.investopedia.com/markets/quote?tvwidgetsymbol=spy)).
+The following chart shows an example of the Klinger Oscillator on the SPDR S&P 500 ETF ([SPY](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=spy)).
 
-In the above chart, the Klinger Oscillator appears below the price chart and consists of the reading and the signal line. In late-January, the crossover of the Klinger Oscillator below the signal line would have created a timely sell signal that would have enabled traders to exit near the [[peak]](https://www.investopedia.com/terms/p/peak.asp) of the [[rally]](https://www.investopedia.com/terms/r/rally.asp).
+In the above chart, the Klinger Oscillator appears below the price chart and consists of the reading and the signal line. In late-January, the crossover of the Klinger Oscillator below the signal line would have created a timely sell signal that would have enabled traders to exit near the [[peak]](https://www.investopedia.com/terms/p/peak.asp) of the [[rally]](https://www.investopedia.com/terms/r/[[Rally|rally]].asp).
 
 A strong bullish divergence also pointed to an eventual price rise. In April the price dropped back toward the February low, yet the Klinger made a significantly higher low and continued to rise, indicating a build up in buying pressure. While the overall direction of the Klinger, and the divergence, was helpful in this case, crossover signals were frequent and of little use.

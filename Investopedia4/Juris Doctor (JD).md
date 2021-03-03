@@ -6,21 +6,21 @@ source: https://www.investopedia.com/terms/j/juris-doctor.asp
 author: James Chen
 ---
 
-# Juris Doctor (JD)
+# [[Juris Doctor (JD)]]
 
 > ## Excerpt
 > A Juris Doctor degree is the highest law degree in the United States and was originally a replacement to the Bachelor of Laws degree.
 
 ---
 
-Juris Doctor (JD)
+[[Juris Doctor (JD)]]
 ## What Is a Juris Doctor?
 
 A Juris Doctor degree is the highest law degree in the United States and was originally a replacement to the Bachelor of Laws degree. A Juris Doctor or Juris Doctorate degree represents professional recognition that the holder has a doctoral degree in law. Due to the length of study required in the United States to attain a law degree, the name change reflected its status as a professional degree.
 
-## Understanding the Juris Doctor (JD)
+## Understanding the [[Juris Doctor (JD)]]
 
-Some schools offer a joint J.D. and [[MBA]](https://www.investopedia.com/articles/personal-finance/011415/when-mba-worth-it.asp) so students can complete both degrees in less time than it would take to complete each separately. Other combined graduate degrees include public policy, medicine, and bioengineering.
+Some schools [[Offer|offer]] a [[Joint|joint]] J.D. and [[MBA]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/011415/when-mba-worth-it.asp) so students can complete both degrees in less time than it would take to complete each separately. Other combined graduate degrees include public policy, medicine, and bioengineering.
 
 Law school applicants must already have a [[bachelor's degree]](https://www.investopedia.com/articles/professionaleducation/11/accelerated-bachelors-masters-degree.asp). It typically takes three years to complete the J.D., after which the graduate must pass the [[bar]](https://www.investopedia.com/terms/b/bar.asp) exam to practice law. Each state and the District of Columbia has its own bar exam.
 
@@ -36,4 +36,4 @@ The Master of Law program is an advanced degree usually undertaken by a speciali
 
 ## Two-year J.D. Degrees
 
-Job prospects for lawyers fell sharply following the 2008 [[financial market]](https://www.investopedia.com/terms/f/financial-market.asp) collapse, and law school enrollment dropped by 24 percent from 2010 to 2013. With tuition continuing to rise, some schools have looked at shortening the program. Brooklyn Law School, Drexel, and Pepperdine are among the schools that offer a two-year J.D. option. A few universities allow students to start their first year of law school after completing the third year of college.
+Job prospects for lawyers fell sharply following the 2008 [[financial market]](https://www.investopedia.com/terms/f/financial-market.asp) collapse, and law school enrollment dropped by 24 percent from 2010 to 2013. With tuition continuing to rise, some schools have looked at shortening the program. Brooklyn Law School, Drexel, and Pepperdine are among the schools that [[Offer|offer]] a two-year J.D. option. A few universities allow students to start their first year of law school after completing the third year of college.

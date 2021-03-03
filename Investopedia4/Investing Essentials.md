@@ -9,34 +9,34 @@ author:
 # The Essentials of Investing
 
 > ## Excerpt
-> Investing is a slow and steady process of saving and investing for the long-term. Markets will go up and down, but keep investing for the long run.
+> Investing is a slow and steady process of saving and investing for the long-term. Markets [[Will|will]] go up and down, but keep investing for the long run.
 
 ---
 
-Investing Essentials
+[[Investing Essentials]]
 [Investing](https://www.investopedia.com/investing-4427685)
 
 [Investing Essentials](https://www.investopedia.com/investing-essentials-4689754)
 
-## Investing requires saving money to invest, then developing a diversified portfolio. Portfolios need to be adjusted periodically based on life changes, but the focus should remain on the long term.
+## Investing requires saving money to invest, then developing a diversified [[Portfolio|portfolio]]. Portfolios need to be adjusted periodically based on life changes, but the focus should remain on the [[Long Term|long term]].
 
 [Investing](https://www.investopedia.com/investing-4427685)
 
 -   [[Affluent Millennial Investing Survey]](https://www.investopedia.com/the-investopedia-affluent-millennials-study-4769751)
 -   [[How to Invest with Confidence]](https://www.investopedia.com/articles/basics/11/3-s-simple-investing.asp)
 -   [[Investing Essentials]](https://www.investopedia.com/investing-essentials-4689754)
--   [[Portfolio Management]](https://www.investopedia.com/portfolio-management-4689745)
+-   [[Portfolio Management]](https://www.investopedia.com/[[Portfolio|portfolio]]-management-4689745)
 -   [[Financial Technology & Automated Investing]](https://www.investopedia.com/financial-technology-and-automated-investing-4689759)
 -   [[Fundamental Analysis]](https://www.investopedia.com/fundamental-analysis-4689757)
 -   [[Alternative Investments]](https://www.investopedia.com/alternative-investments-4427781)
 -   [[Sustainable Investing]](https://www.investopedia.com/sustainable-investing-4427774)
--   [[Stocks]](https://www.investopedia.com/stocks-4427785)
+-   [[Stocks]](https://www.investopedia.com/[[Stocks|stocks]]-4427785)
 -   [[Mutual Funds]](https://www.investopedia.com/mutual-funds-4427787)
 -   [[ETFs]](https://www.investopedia.com/etfs-4427784)
 -   [[Bonds]](https://www.investopedia.com/bonds-4689778)
 -   [[Commodities]](https://www.investopedia.com/commodities-4427780)
 -   [[Markets]](https://www.investopedia.com/markets-4689752)
--   [[Cryptocurrency]](https://www.investopedia.com/cryptocurrency-4427699)
+-   [[Cryptocurrency]](https://www.investopedia.com/[[Cryptocurrency|cryptocurrency]]-4427699)
 -   [[Brokers]](https://www.investopedia.com/brokers-4689772)
 -   [[Laws & Regulations]](https://www.investopedia.com/laws-and-regulations-4427769)
 
