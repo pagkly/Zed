@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/o/organizedlabor.asp
 author: Daniel Liberto
 ---
 
-# Organized Labor Definition
+# [[Organized Labor Definition]]
 
 > ## Excerpt
 > Organized labor is an association that engages in collective bargaining to improve workers' economic status and working conditions.
 
 ---
 
-Organized Labor Definition
+[[Organized Labor Definition]]
 ## What Is Organized Labor?
 
 Organized labor is an association of workers united as a single, representative entity to improve the economic status and working conditions of employees through [collective bargaining](https://www.investopedia.com/terms/c/collective-bargaining.asp) with company management. Organized labor groups are also known as unions.
@@ -23,17 +23,17 @@ Organized labor is an association of workers united as a single, representative 
 -   Organized labor is an association that engages in collective bargaining to improve workers' economic status and working conditions.
 -   In most countries, the union formation process is regulated by a government agency, such as the National Labor Relations Board (NLRB) in the United States.
 -   To form a union, it is usually necessary to collect a set number of signatures and then win approval from the majority of employees.
--   Companies sometimes discourage workers from forming unions, including Walmart, which claims that the subsequent cost savings enable it to offer lower prices to customers.
+-   Companies sometimes discourage workers from forming unions, including Walmart, which claims that the subsequent cost savings enable it to [[Offer|offer]] lower prices to customers.
 
 ## How Organized Labor Works
 
 In most countries, the union formation process is regulated by a government agency, such as the National Labor Relations Board (NLRB) in the United States.
 
-Any group of employees wanting to form a union usually needs to collect a set number of signatures, with the amount being dependent on the jurisdiction it wants to form in. If enough signatures are obtained, all employees are given the opportunity to have their say on whether they want organized labor or not. If the union secures an adequate number of votes, it will be given the power to negotiate on their behalf with company management.
+Any group of employees wanting to form a union usually needs to collect a set number of signatures, with the amount being dependent on the jurisdiction it wants to form in. If enough signatures are obtained, all employees are given the opportunity to have their say on whether they want organized labor or not. If the union secures an adequate number of votes, it [[Will|will]] be given the power to negotiate on their behalf with company management.
 
 There are two types of unions: the horizontal union, in which all members share a common skill, and the vertical union, composed of workers from across the same industry.
 
-The [National Education Association](http://www.nea.org/) (NEA) is the largest labor union in the United States, with nearly three million members. Its goal is to advocate for education professionals and unite its members to fulfill the promise of public education.
+The [National Education Association](http://www.nea.org/) (NEA) is the largest [[Labor Union|labor union]] in the United States, with nearly three million members. Its goal is to advocate for education professionals and unite its members to fulfill the promise of public education.
 
 ## History of Organized Labor
 
@@ -43,7 +43,7 @@ It was not uncommon in the early days of [[industrialization]](https://www.inves
 
 If an employee was injured on an assembly line and unable to continue working, the company might have fired him or her. Likewise, women who became pregnant may have been fired and left without salaries or health coverage. It was also common for children as young as 8 years old to work long hours in factories, forcing them to skip school.
 
-The formation of organized labor unions was one of the steps that established standards for acceptable working conditions. However, this process did not happen overnight. At first, company bosses threatened unions, sometimes even with violence, in an attempt to prevent them from taking hold.
+The formation of organized labor unions was one of the steps that established standards for acceptable working conditions. However, this process did not happen overnight. At first, company bosses threatened unions, sometimes even with violence, in an attempt to prevent them from taking [[Hold|hold]].
 
 ## Advantages and Disadvantages of Unions
 
@@ -57,6 +57,6 @@ Naturally, companies are less enthusiastic about organized labor. Some claim uni
 
 Retailers and supermarkets typically have employees who belong to organized labor groups. However, some of these companies actively seek to discourage workers from forming unions.
 
-Walmart Inc. ([WMT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wmt)) is a classic example. The [[big-box discount retailer]](https://www.investopedia.com/terms/b/big_box_retailer.asp) claims that the savings it generates from limiting the power of organized labor enable it to offer lower prices to its customers.
+Walmart Inc. ([WMT](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=wmt)) is a classic example. The [[big-box discount retailer]](https://www.investopedia.com/terms/b/big_box_retailer.asp) claims that the savings it generates from limiting the power of organized labor enable it to [[Offer|offer]] lower prices to its customers.
 
-Other retailers may feel compelled by Walmart’s example to renegotiate terms with the chapters of organized labor that represent their workers. The contention the retailers often present is that they will be forced to cut salaries or eliminate jobs to remain competitive with Walmart if the unions do not renegotiate. This is known as the [[Walmart effect]](https://www.investopedia.com/terms/w/walmart-effect.asp).
+Other retailers may feel compelled by Walmart’s example to renegotiate terms with the chapters of organized labor that represent their workers. The contention the retailers often present is that they [[Will|will]] be forced to cut salaries or eliminate jobs to remain competitive with Walmart if the unions do not renegotiate. This is known as the [[Walmart effect]](https://www.investopedia.com/terms/w/walmart-effect.asp).

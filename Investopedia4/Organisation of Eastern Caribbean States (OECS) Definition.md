@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/o/organisation-eastern-caribbean-stat
 author: Clay Halton
 ---
 
-# Organisation of Eastern Caribbean States (OECS) Definition
+# [[Organisation of Eastern Caribbean States (OECS) Definition]]
 
 > ## Excerpt
 > The Organisation of Eastern Caribbean States (OECS) is an economic union comprising of ten islands located in the Eastern Caribbean that promote the unification of economic and trade policies between its member-states.
 
 ---
 
-Organisation of Eastern Caribbean States (OECS) Definition
+[[Organisation of Eastern Caribbean States (OECS) Definition]]
 ## What is the Organisation of Eastern Caribbean States (OECS)
 
-The Organisation of Eastern Caribbean States (OECS) is an economic union comprising ten islands located in the Eastern Caribbean that promote the unification of economic and trade policies between its member-states. It is dedicated to economic integration and harmony among independent and non-independent Eastern Caribbean states, as well as protecting the legal and human rights of citizens of said states, and promoting the good governance of independent and non-independent Eastern Caribbean states. In the event of a natural disaster affecting states in the sub-region, the OECS plays a role in distributing liability and responsibility for recovery among the various nations and dependencies of the Eastern Caribbean.
+The Organisation of Eastern Caribbean States (OECS) is an economic union comprising ten islands located in the Eastern Caribbean that promote the unification of economic and trade policies between its member-states. It is dedicated to economic integration and harmony among independent and non-independent Eastern Caribbean states, as well as protecting the legal and human rights of citizens of said states, and promoting the good governance of independent and non-independent Eastern Caribbean states. In the event of a natural disaster affecting states in the sub-region, the OECS plays a role in distributing [[Liability|liability]] and responsibility for recovery among the various nations and dependencies of the Eastern Caribbean.
 
 ### Key Takeaways
 

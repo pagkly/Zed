@@ -3,17 +3,17 @@ alias: [Over-Selling]
 created: 2021-03-02T22:31:35 (UTC +11:00)
 tags: [Over-Selling Definition, Over-Selling Definition]
 source: https://www.investopedia.com/terms/o/over-selling.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Over-Selling Definition
+# [[Over-Selling Definition]]
 
 > ## Excerpt
 > Over-selling is a common mistake made by salespeople who, in their eagerness for increasing their sale, push the customer to purchase more than they want.
 
 ---
 
-Over-Selling Definition
+[[Over-Selling Definition]]
 ## What Is Over-Selling?
 
 Over-selling occurs when a salesperson continues their sales pitch after the customer has already decided to make a purchase. This mistake can sometimes annoy the customer and could potentially cause the customer to change their mind, resulting in the deal falling through. Over-selling also means trying to [[upsell]](https://www.investopedia.com/terms/s/suggestive-selling.asp) a customer on more than they need or want; this may also have the effect of making the customer unconformable.
@@ -28,9 +28,9 @@ Over-selling occurs when a salesperson continues their sales pitch after the cus
 
 Over-selling may be an effort to convince a customer that an extra item would enhance what they are looking to buy, or that a more expensive version might be a better option.
 
-Over-selling is most common in retail outlets where associates work on a [commission](https://www.investopedia.com/terms/c/commission.asp) basis or through sales-linked bonuses. The salesperson has an incentive to sell as much as possible, regardless of the customers' needs.
+Over-selling is most common in retail outlets where associates work on a [commission](https://www.investopedia.com/terms/c/[[Commission|commission]].asp) basis or through sales-linked bonuses. The salesperson has an incentive to sell as much as possible, regardless of the customers' needs.
 
-Car dealerships are often accused of over-selling. Their sales associates sometimes fail to recognize that they can generate significantly more revenue through return customers and referrals than they can by misleading customers into paying for extras that they neither need nor want. Some associates at car dealerships are willing to sacrifice long-term brand equity for short-term sales by selling customers on anything and everything. 
+Car dealerships are often accused of over-selling. Their sales associates sometimes fail to recognize that they can generate significantly more revenue through [[Return|return]] customers and referrals than they can by misleading customers into paying for extras that they neither need nor want. Some associates at car dealerships are willing to sacrifice long-term brand [[Equity|equity]] for short-term sales by selling customers on anything and everything. 
 
 ## Disadvantages of Over-Selling
 
@@ -48,6 +48,6 @@ This access to information has changed the sales dynamic; sales representatives 
 
 Suppose there is a college student without a lot of money. They need a used, cheap, and reliable car for getting to and from a part-time job. They only have $1,500 to spend on the car and they tell the salesperson this upfront.
 
-Immediately the salesperson starts showing them cars priced at $5,000 to $10,000, telling the student they can get "...easy financing to afford these much better cars." The student, who already has a bunch of [[student loans]](https://www.investopedia.com/student-loans-4689727) doesn't like the idea of taking on more debt. They relay this information to the salesperson, who continues to talk about how the low the interest rate is, and how filling out the forms will only take a few minutes.
+Immediately the salesperson starts showing them cars priced at $5,000 to $10,000, telling the student they can get "...easy financing to afford these much better cars." The student, who already has a bunch of [[student loans]](https://www.investopedia.com/student-loans-4689727) doesn't like the idea of taking on more [[Debt|debt]]. They relay this information to the salesperson, who continues to talk about how the low the interest rate is, and how filling out the forms [[Will|will]] only take a few minutes.
 
-The student, uncomfortable with the overselling, leaves and goes to another dealership or to another salesperson who will show them what they are asking for.
+The student, uncomfortable with the overselling, leaves and goes to another dealership or to another salesperson who [[Will|will]] show them what they are asking for.

@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/o/overhead-rate.asp
 author: Adam Hayes
 ---
 
-# Overhead Rate Definition
+# [[Overhead Rate Definition]]
 
 > ## Excerpt
 > An overhead rate is a cost allocated to the production of a product or service. Overhead costs are expenses that are not directly tied to production such as the cost of the corporate office.
 
 ---
 
-Overhead Rate Definition
+[[Overhead Rate Definition]]
 ## What Is the Overhead Rate?
 
 The overhead rate is a cost allocated to the production of a product or service. Overhead costs are expenses that are not directly tied to production such as the cost of the [[corporate]](https://www.investopedia.com/terms/c/corporation.asp) office. To allocate overhead costs, an overhead rate is applied to the direct costs tied to production by spreading or allocating the overhead costs based on specific measures.
@@ -23,7 +23,7 @@ For example, overhead costs may be applied at a set rate based on the number of 
 ### Key Takeaways
 
 -   Overhead rate is a cost allocated to the production of a product or service. Overhead costs are expenses that are not directly tied to production such as the cost of the corporate office.
--   By analyzing how much it costs in overhead for every hour the machine is producing the company's goods, management can properly price the product to make sure there's enough profit margin to compensate for its indirect costs.
+-   By analyzing how much it costs in overhead for every hour the machine is producing the company's goods, management can properly price the product to make sure there's enough [[Profit Margin|profit margin]] to compensate for its indirect costs.
 -   A company that excels at monitoring and improving its overhead rate can improve its [[bottom line]](https://www.investopedia.com/terms/b/bottomline.asp) or profitability.
 
 ## Overhead Rate Formula and Calculation
@@ -43,19 +43,19 @@ The calculation of the overhead rate has a basis on a specific period. So, if yo
 
 The overhead rate is a cost added on to the [[direct costs]](https://www.investopedia.com/terms/d/directcost.asp) of production in order to more accurately assess the profitability of each product. In more complicated cases, a combination of several cost drivers may be used to approximate overhead costs.
 
-Overhead expenses are generally fixed costs, meaning they're incurred whether or not a factory produces a single item or a retail store sells a single product. Fixed costs would include building or office space rent, utilities, insurance, supplies, maintenance, and repair. Overhead costs also include administrative salaries and some professional and miscellaneous fees that are tucked under [[selling, general, and administrative]](https://www.investopedia.com/terms/s/sga.asp) (SG&A) within a firm's operating expenses on the [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp). Unless a cost can be directly attributable to a specific revenue-generating product or service, it will be classified as overhead, or as an indirect expense.
+Overhead expenses are generally fixed costs, meaning they're incurred whether or not a factory produces a single item or a retail store sells a single product. Fixed costs would include building or office space rent, utilities, insurance, supplies, maintenance, and repair. Overhead costs also include administrative salaries and some professional and miscellaneous fees that are tucked under [[selling, general, and administrative]](https://www.investopedia.com/terms/s/sga.asp) (SG&A) within a firm's operating expenses on the [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp). Unless a cost can be directly attributable to a specific revenue-generating product or service, it [[Will|will]] be classified as overhead, or as an indirect expense.
 
-It is often difficult to assess precisely the amount of overhead costs that should be attributed to each production process. Costs must thus be estimated based on an overhead rate for each cost driver or activity. It is important to include indirect costs that are based on this overhead rate in order to price a product or service appropriately. If a company prices its products so low that revenues do not cover its overhead costs, the business will be unprofitable.
+It is often difficult to assess precisely the amount of overhead costs that should be attributed to each production process. Costs must thus be estimated based on an overhead rate for each cost driver or activity. It is important to include indirect costs that are based on this overhead rate in order to price a product or service appropriately. If a company prices its products so low that revenues do not cover its overhead costs, the business [[Will|will]] be unprofitable.
 
 ## Direct Costs vs. the Overhead Rate
 
-[Direct costs](https://www.investopedia.com/terms/d/directcost.asp) are costs directly tied to a product or service that a company produces. Direct costs can be easily traced to their cost objects. Cost objects can include goods, services, [[departments]](https://www.investopedia.com/terms/d/departmental-rate.asp), or projects. Direct costs include direct labor, direct materials, manufacturing supplies, and wages tied to production.
+[Direct costs](https://www.investopedia.com/terms/d/directcost.asp) are costs directly tied to a product or service that a company produces. Direct costs can be easily traced to their cost objects. Cost objects can include goods, services, [[departments]](https://www.investopedia.com/terms/d/departmental-rate.asp), or projects. Direct costs include direct labor, direct materials, [[Manufacturing|manufacturing]] supplies, and wages tied to production.
 
 The overhead rate allocates indirect costs to the direct costs tied to production by spreading or allocating the overhead costs based on the dollar amount for direct costs, total labor hours, or even machine hours.
 
 ## Limitations of the Overhead Rate
 
-The overhead rate has limitations when applying it to companies that have few overhead costs or when their costs are mostly tied to production. Also, it's important to compare the overhead rate to companies within the same industry. A large company with a corporate office, a benefits department, and a human resources division will have a higher overhead rate than a company that's far smaller and with less indirect costs.
+The overhead rate has limitations when applying it to companies that have few overhead costs or when their costs are mostly tied to production. Also, it's important to compare the overhead rate to companies within the same industry. A large company with a corporate office, a benefits department, and a human resources division [[Will|will]] have a higher overhead rate than a company that's far smaller and with less indirect costs.
 
 ## Examples of Overhead Rates
 
@@ -79,6 +79,6 @@ To calculate the overhead rate:
 -   Divide $500,000 (indirect costs) by 30,000 (machine hours).
 -   Overhead rate = $16.66, meaning that it costs the company $16.66 in overhead costs for every hour the machine is in production.
 
-By analyzing how much it costs in overhead for every hour the machine is producing the company's goods, management can properly price the product to make sure there's enough profit margin to compensate for the $16.66 per hour in indirect costs.
+By analyzing how much it costs in overhead for every hour the machine is producing the company's goods, management can properly price the product to make sure there's enough [[Profit Margin|profit margin]] to compensate for the $16.66 per hour in indirect costs.
 
 Of course, management also has to price the product to cover the direct costs involved in the production, including direct labor, electricity, and raw materials. A company that excels at monitoring and improving its overhead rate can improve its [[bottom line]](https://www.investopedia.com/terms/b/bottomline.asp) or profitability.

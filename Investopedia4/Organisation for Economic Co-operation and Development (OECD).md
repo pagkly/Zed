@@ -3,30 +3,30 @@ alias: [Organisation for Economic Co-operation and Development, OECD]
 created: 2021-03-02T22:29:29 (UTC +11:00)
 tags: [Organisation for Economic Co-operation and Development (OECD) Definition, Organisation for Economic Co-operation and Development (OECD)]
 source: https://www.investopedia.com/terms/o/oecd.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Organisation for Economic Co-operation and Development (OECD) Definition
+# [[Organisation for Economic Co-operation and Development (OECD)]] Definition
 
 > ## Excerpt
-> The Organisation for Economic Co-operation and Development (OECD) is a group of 37 member countries that discuss and develop economic and social policy.
+> The [[Organisation for Economic Co-operation and Development (OECD)]] is a group of 37 member countries that discuss and develop economic and social policy.
 
 ---
 
-Organisation for Economic Co-operation and Development (OECD)
-## What Is the Organisation for Economic Co-operation and Development (OECD)?
+[[Organisation for Economic Co-operation and Development (OECD)]]
+## What Is the [[Organisation for Economic Co-operation and Development (OECD)]]?
 
-The Organisation for Economic Co-operation and Development (OECD) is a group of 37 member countries that discuss and develop economic and social policy.12 OECD members are typically democratic countries that support free-market economies.
+The [[Organisation for Economic Co-operation and Development (OECD)]] is a group of 37 member countries that discuss and develop economic and social policy.12 OECD members are typically democratic countries that support free-market economies.
 
 ### Key Takeaways
 
--   The Organisation for Economic Co-operation and Development (OECD) is a group of 37 member countries that discuss and develop economic and social policy.
--   Members of the Organisation for Economic Co-operation and Development (OECD) are typically democratic countries that support free-market economies.
--   The stated goal of the Organisation for Economic Co-operation and Development (OECD) is to shape policies that foster prosperity, equality, opportunity and well-being for all.1
--   The Organisation for Economic Co-operation and Development (OECD) was established on Dec. 14, 1960, by 18 European nations, plus the United States and Canada.3
+-   The [[Organisation for Economic Co-operation and Development (OECD)]] is a group of 37 member countries that discuss and develop economic and social policy.
+-   Members of the [[Organisation for Economic Co-operation and Development (OECD)]] are typically democratic countries that support free-market economies.
+-   The stated goal of the [[Organisation for Economic Co-operation and Development (OECD)]] is to shape policies that foster prosperity, equality, opportunity and well-being for all.1
+-   The [[Organisation for Economic Co-operation and Development (OECD)]] was established on Dec. 14, 1960, by 18 European nations, plus the United States and Canada.3
 -   The organization is headquartered in the Chateau de la Muette in Paris, France.4
 
-## Understanding the Organisation for Economic Co-operation and Development (OECD)
+## Understanding the [[Organisation for Economic Co-operation and Development (OECD)]]
 
 The OECD is variously referred to as a think tank or a monitoring group. Its stated goal is to shape policies that foster prosperity, equality, opportunity and well-being for all.1 Over the years, it has dealt with a range of issues, including raising the [[standard of living]](https://www.investopedia.com/terms/s/standard-of-living.asp) in member countries, contributing to the expansion of world trade, and promoting economic stability.
 

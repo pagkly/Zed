@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/o/overhead.asp
 author: Alicia Tuovila
 ---
 
-# Overhead Definition
+# [[Overhead Definition]]
 
 > ## Excerpt
 > Overhead refers to the ongoing business expenses not directly attributed to creating a product or service.
 
 ---
 
-Overhead Definition
+[[Overhead Definition]]
 ## What Is Overhead?
 
 Overhead refers to the ongoing [[business expenses]](https://www.investopedia.com/terms/b/businessexpenses.asp) not directly attributed to creating a product or service. It is important for budgeting purposes but also for determining how much a company must charge for its products or services to make a [[profit]](https://www.investopedia.com/terms/p/profit.asp). In short, overhead is any expense incurred to support the business while not being directly related to a specific product or service.
@@ -43,4 +43,4 @@ Overhead is typically a general expense, meaning it applies to the company's ope
 
 Overhead expenses may apply to a variety of [[operational categories]](https://www.investopedia.com/terms/o/operatingratio.asp). [[General and administrative]](https://www.investopedia.com/terms/g/general-and-administrative-expenses.asp) overhead traditionally includes costs related to the general management and administration of a company, such as the need for accountants, human resources, and receptionists. [[Selling]](https://www.investopedia.com/terms/s/sga.asp) overhead relates to activities involved in marketing and selling the good or service. This can include printed materials and television commercials, as well as the commissions of sales personnel.
 
-Depending on the nature of the business, other categories may be appropriate, such as research overhead, maintenance overhead, manufacturing overhead, or transportation overhead.
+Depending on the nature of the business, other categories may be appropriate, such as research overhead, maintenance overhead, [[Manufacturing|manufacturing]] overhead, or transportation overhead.

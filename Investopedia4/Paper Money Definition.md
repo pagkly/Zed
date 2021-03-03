@@ -1,30 +1,30 @@
 ---
 alias: [Paper Money]
 created: 2021-03-02T22:36:05 (UTC +11:00)
-tags: [Paper Money Definition, Paper Money Definition]
+tags: [Paper [[Money Definition]], Paper Money Definition]
 source: https://www.investopedia.com/terms/p/paper_money.asp
 author: Adam Barone
 ---
 
-# Paper Money Definition
+# [[Paper Money Definition]]
 
 > ## Excerpt
 > The physical notes or currency of a country that is used as a medium of exchange is known as paper money.
 
 ---
 
-Paper Money Definition
+[[Paper Money Definition]]
 ## What Is Paper Money?
 
 Paper money is a country's official, paper currency that is circulated for the transactions involved in acquiring goods and services. The printing of paper money is typically regulated by a country's central bank or treasury in order to keep the flow of funds in line with [[monetary policy]](https://www.investopedia.com/terms/m/monetarypolicy.asp).
 
-Paper money tends to be updated with new versions that contain security features and attempt to make it more difficult for counterfeiters to create illegal copies.
+Paper money tends to be updated with new versions that contain [[Security|security]] features and attempt to make it more difficult for counterfeiters to create illegal copies.
 
 ### Key Takeaways
 
 -   Paper money is a country's official, paper currency that is circulated for the transactions involved in acquiring goods and services.
 -   The printing of paper money is typically regulated by a country's central bank or treasury in order to keep the flow of funds in line with monetary policy.
--   Paper money tends to be updated with new versions that contain security features and attempt to make it more difficult for counterfeiters to create illegal copies.
+-   Paper money tends to be updated with new versions that contain [[Security|security]] features and attempt to make it more difficult for counterfeiters to create illegal copies.
 
 ## Understanding Paper Money
 
@@ -44,4 +44,4 @@ The euro is another form of paper money that is used in multiple countries. As o
 
 ## Special Considerations
 
-While paper money is the most accepted medium of exchange, companies often issue shares of their own company to purchase other companies and reward their staff. Shares are units of ownership in a company that entitle the shareholder to an equal distribution in any profits. Of all accepted mediums of exchange, shares are closest to paper money because they can be exchanged on the open market for cash.
+While paper money is the most accepted medium of exchange, companies often issue [[Shares|shares]] of their own company to purchase other companies and reward their staff. Shares are units of ownership in a company that entitle the shareholder to an equal distribution in any profits. Of all accepted mediums of exchange, shares are closest to paper money because they can be exchanged on the open market for cash.

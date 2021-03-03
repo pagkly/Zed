@@ -6,14 +6,14 @@ source: https://www.investopedia.com/options-trading-strategy-and-education-4689
 author: 
 ---
 
-# Options Trading Strategy & Education
+# [[Options Trading Strategy & Education]]
 
 > ## Excerpt
 > Learn the basics of options trading and see how options can be used to improve a trading strategy or to speculate in the financial markets.
 
 ---
 
-Options Trading Strategy & Education
+[[Options Trading Strategy & Education]]
 Understanding How Options Are Priced
 
 Before venturing into the world of trading options, investors should have a good understanding of the factors determining the value of an op...

@@ -2,28 +2,28 @@
 alias: [Overextension]
 created: 2021-03-02T22:33:43 (UTC +11:00)
 tags: [Overextension, Overextension]
-source: https://www.investopedia.com/terms/o/overextension.asp
-author: Will Kenton
+source: https://www.investopedia.com/terms/o/[[Overextension|overextension]].asp
+author: [[Will]] Kenton
 ---
 
-# Overextension
+# [[Overextension]]
 
 > ## Excerpt
-> Overextension describes a loan or extension of credit that is larger than what the borrower can repay comfortably.
+> [[Overextension]] describes a [[Loan|loan]] or extension of credit that is larger than what the borrower can repay comfortably.
 
 ---
 
-Overextension
-## What Is Overextension?
+[[Overextension]]
+## What Is [[Overextension]]?
 
-Overextension describes a loan or extension of credit that is larger than what the borrower can repay. Overextensions can require the borrower to consolidate their debts into a single loan. Consumers who must use more than a third of their net income to repay debt other than their mortgage are generally considered to be overextended.
+[[Overextension]] describes a [[Loan|loan]] or extension of credit that is larger than what the borrower can repay. Overextensions can require the borrower to consolidate their debts into a single loan. Consumers who must use more than a third of their net income to repay [[Debt|debt]] other than their mortgage are generally considered to be overextended.
 
-## Understanding Overextension
+## Understanding [[Overextension]]
 
-For securities traders and investors, overextension represents [[leverage]](https://www.investopedia.com/terms/l/leverage.asp) in excess of their account equity and buying power. This can greatly amplify losses in a [[bear market]](https://www.investopedia.com/terms/b/bearmarket.asp) and force the trader to meet steep margin calls. The inability to do this can result in forced liquidation of securities and the freezing of the account.
+For securities traders and investors, [[Overextension|overextension]] represents [[leverage]](https://www.investopedia.com/terms/l/[[Leverage|leverage]].asp) in excess of their account [[Equity|equity]] and buying power. This can greatly amplify losses in a [[bear market]](https://www.investopedia.com/terms/b/bearmarket.asp) and force the trader to meet steep margin calls. The inability to do this can result in forced liquidation of securities and the freezing of the account.
 
-The idea of overextension will vary based on the financial characteristics of a borrower. Wealthy individuals and cash-rich businesses can take on proportionally more debt than weaker borrowers without overextending themselves.
+The idea of [[Overextension|overextension]] [[Will|will]] vary based on the financial characteristics of a borrower. Wealthy individuals and cash-rich businesses can take on proportionally more [[Debt|debt]] than weaker borrowers without overextending themselves.
 
-At times, becoming overextended can be out of the control of a firm's management. For example, during a steep economic downturn, such as a [[recession]](https://www.investopedia.com/terms/r/recession.asp), a company's financial condition can materially deteriorate largely out of the company's control. During a rough economic environment, it is not uncommon for a once healthy business to become overextended as conditions move out of their favor. This can happen to entire sectors even during robust economic climates. For instance, traditional brick-and-mortar retailers have struggled to adjust to online and e-commerce competition—despite record growth in many segments of the economy.
+At times, becoming overextended can be out of the control of a firm's management. For example, during a steep economic downturn, such as a [[recession]](https://www.investopedia.com/terms/r/recession.asp), a company's financial condition can materially deteriorate largely out of the company's control. During a rough economic environment, it is not uncommon for a once healthy business to become overextended as conditions move out of their favor. This can happen to entire sectors even during [[Robust|robust]] economic climates. For instance, traditional brick-and-mortar retailers have struggled to adjust to online and e-[[Commerce|commerce]] competition—despite record growth in many segments of the economy.
 
-Credit, debt, and overextension are tricky to model financially. Because these factors have something of a snowball effect, where conditions pile onto one another, conventional linear models do not account for the nonlinear, exponential nature of credit risk. Often, once strong credit issuers or borrowers can rapidly deteriorate to weak credits as Murphy's law works against an individual or business: Anything that can go wrong will go wrong.
+Credit, [[Debt|debt]], and [[Overextension|overextension]] are tricky to model financially. Because these factors have something of a snowball effect, where conditions pile onto one another, conventional linear models do not account for the nonlinear, exponential nature of credit [[Risk|risk]]. Often, once strong credit issuers or borrowers can rapidly deteriorate to weak credits as Murphy's law works against an individual or business: Anything that can go wrong [[Will|will]] go wrong.

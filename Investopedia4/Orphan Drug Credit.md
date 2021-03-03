@@ -6,36 +6,36 @@ source: https://www.investopedia.com/terms/o/orphan-drug-credit.asp
 author: Julia Kagan
 ---
 
-# Orphan Drug Credit Definition
+# [[Orphan Drug Credit]] Definition
 
 > ## Excerpt
-> The orphan drug credit helps pharmaceutical companies absorb the costs of developing drugs and treatments for exceedingly rare diseases.
+> The [[Orphan Drug Credit|orphan drug credit]] helps pharmaceutical companies absorb the costs of developing drugs and treatments for exceedingly rare diseases.
 
 ---
 
-Orphan Drug Credit
-## What Is the Orphan Drug Credit?
+[[Orphan Drug Credit]]
+## What Is the [[Orphan Drug Credit]]?
 
-The orphan drug credit is a federal [[tax credit]](https://www.investopedia.com/terms/t/taxcredit.asp) that gives pharmaceutical companies incentives to develop medications and treatments for rare diseases that affect small populations. The credit is designed to help pharmaceutical companies lower their developmental costs.
+The [[Orphan Drug Credit|orphan drug credit]] is a federal [[tax credit]](https://www.investopedia.com/terms/t/taxcredit.asp) that gives pharmaceutical companies incentives to develop medications and treatments for rare diseases that affect small populations. The credit is designed to help pharmaceutical companies lower their developmental costs.
 
 The credit is for 25% of qualified clinical testing expenses. A rare disease is one that affects less than 200,000 people in the United States, or one that affects more than 200,000 people but for which there is no reasonable expectation that a treatment can be profitably developed.1
 
 ### Key Takeaways
 
 -   The Orphan Drug Act gives drug companies incentives to develop treatments for rare diseases, including a 25% tax credit on qualified clinical trials.
--   Other incentives include a rebate on application fees and a seven-year window of drug exclusivity.
+-   Other incentives include a [[Rebate|rebate]] on application fees and a seven-year window of drug exclusivity.
 -   The act was adopted in 1983 and has led to approvals for more than 780 products to treat more than 250 rare diseases.
 -   About half of the approved treatments are in the field of oncology (the treatment of cancer).2
 
-## Understanding the Orphan Drug Credit
+## Understanding the [[Orphan Drug Credit]]
 
-The orphan drug credit can be claimed whether the pharmaceutical company performs clinical tests itself or contracts out to a third party. In most cases, testing must take place in the U.S.1 [[Orphan drugs]](https://www.investopedia.com/ask/answers/06/orphandrugstatus.asp) are drugs developed to treat so-called "orphan diseases," which is a term to describe extremely rare medical conditions such as Gaucher's disease, Tourette's syndrome, Huntington's disease, and many other disorders.3
+The [[Orphan Drug Credit|orphan drug credit]] can be claimed whether the pharmaceutical company performs clinical tests itself or contracts out to a [[Third Party|third party]]. In most cases, testing must take place in the U.S.1 [[Orphan drugs]](https://www.investopedia.com/ask/answers/06/orphandrugstatus.asp) are drugs developed to treat so-called "orphan diseases," which is a term to describe extremely rare medical conditions such as Gaucher's disease, Tourette's syndrome, Huntington's disease, and many other disorders.3
 
 Despite being rare, orphan diseases affect a large number of people. An estimated 30 million people in the U.S. suffer from 7,000 rare diseases, yet 95% of these diseases have no treatment or cure.4
 
 The orphan drug tax credit is designed to encourage the development of treatments for these rare diseases. Without these tax credits, pharmaceutical companies would be forced to charge high prices that affected patients could never afford.
 
-## History of the Orphan Drug Credit
+## History of the [[Orphan Drug Credit]]
 
 In 1982, the U.S. [Food and Drug Administration](https://www.investopedia.com/terms/f/fda.asp) (FDA) recognized the lack of incentive for pharmaceutical companies to develop cures for rare diseases. From this realization, the Orphan Drug Act of 1983 was born.3
 
