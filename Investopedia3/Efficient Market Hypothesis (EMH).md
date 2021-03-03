@@ -41,7 +41,7 @@ The January 10, 2020 share price of the most expensive stock in the world: Berks
 
 While academics point to a large body of evidence in support of EMH, an equal amount of dissension also exists. For example, investors such as Warren Buffett have consistently beaten the market over long periods, which by definition is impossible according to the EMH.
 
-Detractors of the EMH also point to events such as the 1987 stock market crash, when the Dow Jones Industrial Average (DJIA) fell by over 20 percent in a single day, and asset bubbles as evidence that stock prices can seriously deviate from their fair values.
+Detractors of the EMH also point to events such as the 1987 [[Investopedia3/Stock Market Crash Definition|stock market crash]], when the Dow Jones Industrial Average (DJIA) fell by over 20 percent in a single day, and asset bubbles as evidence that stock prices can seriously deviate from their fair values.
 
 The assumption that markets are efficient is a cornerstone of modern financial economics.
 

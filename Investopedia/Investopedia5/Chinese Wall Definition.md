@@ -44,7 +44,7 @@ The concept of a Chinese wall exists in other professions. They may be temporary
 
 ## Special Considerations
 
-The Chinese wall got its name from the Great Wall of China, the impervious structure erected in ancient times to protect China from its enemies. The term entered the language shortly after the [stock market crash of 1929](https://www.investopedia.com/terms/s/stock-market-crash-1929.asp) when Congress began debating the need to put regulatory barriers between brokers and investment bankers.
+The Chinese wall got its name from the Great Wall of China, the impervious structure erected in ancient times to protect China from its enemies. The term entered the language shortly after the [[[Investopedia3/Stock Market Crash Definition|stock market crash]] of 1929](https://www.investopedia.com/terms/s/stock-market-crash-1929.asp) when Congress began debating the need to put regulatory barriers between brokers and investment bankers.
 
 In more recent times, the term has been denounced as culturally insensitive. In 1988, Justice Low, a judge in [Peat, Marwick, Mitchell & Co. vs. the Superior Court](https://law.justia.com/cases/california/court-of-appeal/3d/200/272.html), wrote extensively about the offensiveness of the phrase and its negative connotation towards Chinese culture and business practices.
 

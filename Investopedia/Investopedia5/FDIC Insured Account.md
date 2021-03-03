@@ -62,7 +62,7 @@ If Mr. Doe transfers the $150,000 to Bank A, he loses coverage on $100,000 since
 
 The FDIC was created as part of the [Banking Act of 1933](https://www.investopedia.com/terms/e/emergencybankingact.asp) after a four-year period that saw nearly 10,000 U.S. banks fail or suspend operations. Most of these closures resulted from a run on the bank; banks did not possess enough money in their vaults to meet depositors' withdrawal demands, so they had to close their doors, leaving many families without their savings.
 
-The purpose of the FDIC was to restore the faith of panicked Americans following the [Stock Market Crash of 1929](https://www.investopedia.com/terms/s/stock-market-crash-1929.asp) and the onset of the [Great Depression](https://www.investopedia.com/terms/g/great_depression.asp). Conceptually, the FDIC serves as a bulwark against future banking panics. The FDIC "insures," or guarantees, the value of all bank demand deposits up to a certain amount, with the total figure covered steadily growing since its inception.
+The purpose of the FDIC was to restore the faith of panicked Americans following the [[[Investopedia3/Stock Market Crash Definition|Stock Market Crash]] of 1929](https://www.investopedia.com/terms/s/stock-market-crash-1929.asp) and the onset of the [Great Depression](https://www.investopedia.com/terms/g/great_depression.asp). Conceptually, the FDIC serves as a bulwark against future banking panics. The FDIC "insures," or guarantees, the value of all bank demand deposits up to a certain amount, with the total figure covered steadily growing since its inception.
 
 In Oct. 2008, Congress increased the amount covered by FDIC deposit insurance from $100,000 to the current $250,000.
 

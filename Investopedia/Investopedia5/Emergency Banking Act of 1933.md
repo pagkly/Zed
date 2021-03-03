@@ -16,7 +16,7 @@ author: Adam Hayes
 Emergency Banking Act of 1933
 ## What Was the Emergency Banking Act of 1933?
 
-The Emergency Banking Act of 1933 was a bill passed in the midst of the [Great Depression](https://www.investopedia.com/terms/g/great_depression.asp) that took steps to stabilize and restore confidence in the U.S. banking system. It came in the wake of a series of bank runs following the [stock market crash of 1929](https://www.investopedia.com/terms/s/stock-market-crash-1929.asp).
+The Emergency Banking Act of 1933 was a bill passed in the midst of the [Great Depression](https://www.investopedia.com/terms/g/great_depression.asp) that took steps to stabilize and restore confidence in the U.S. banking system. It came in the wake of a series of bank runs following the [[[Investopedia3/Stock Market Crash Definition|stock market crash]] of 1929](https://www.investopedia.com/terms/s/stock-market-crash-1929.asp).
 
 Among its major measures the Act created the [Federal Deposit Insurance Corporation (FDIC)](https://www.investopedia.com/terms/f/fdic.asp), which began insuring bank accounts at no cost for up to $2,500. Additionally, the presidency was given executive power to operate independently of the Federal Reserve during times of financial crisis.
 
@@ -50,7 +50,7 @@ The loss of personal savings from bank failures and [bank runs](https://www.inve
 
 The Emergency Banking Act was preceded, and has been succeeded, by other pieces of legislation designed to stabilize and restore trust in the U.S. financial system. Approved during Herbert Hoover's administration, the [Reconstruction Finance Corporation Act](https://www.investopedia.com/terms/r/rfc.asp) sought to provide aid for financial institutions and companies that were in danger of shutting down due to the ongoing economic effects of the Depression. The [Federal Home Loan Bank Act of 1932](https://www.investopedia.com/terms/f/federal-home-loan-bank-act.asp) similarly sought to strengthen the banking industry and the Federal Reserve.
 
-A few related pieces of legislation were passed shortly after the Emergency Banking Act. The [Glass-Steagall Act](https://www.investopedia.com/terms/g/glass_steagall_act.asp), also passed in 1933, separated investment banking from commercial banking in order to combat the corruption of commercial banks by speculative investing, which had been recognized as a key cause of the stock market crash.
+A few related pieces of legislation were passed shortly after the Emergency Banking Act. The [Glass-Steagall Act](https://www.investopedia.com/terms/g/glass_steagall_act.asp), also passed in 1933, separated investment banking from commercial banking in order to combat the corruption of commercial banks by speculative investing, which had been recognized as a key cause of the [[Investopedia3/Stock Market Crash Definition|stock market crash]].
 
 Glass-Steagall was repealed in 1999, however, and some believed its demise helped contribute to the [2008 global credit crisis](https://www.investopedia.com/terms/c/credit-crisis.asp).
 

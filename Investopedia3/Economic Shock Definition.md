@@ -50,7 +50,7 @@ A crash in [[stock]](https://www.investopedia.com/terms/s/stock.asp) or home pri
 
 A financial shock is one that originates from the [[financial sector]](https://www.investopedia.com/terms/f/financial_sector.asp) of the economy. Because modern economies are so deeply dependent on the flow of liquidity and [[credit]](https://www.investopedia.com/terms/c/credit.asp) to fund normal operations and payrolls, financial shocks can impact every industry in an economy.
 
-A stock market crash, a [[liquidity crisis]](https://www.investopedia.com/terms/l/liquidity-crisis.asp) in the banking system, unpredictable changes in monetary policy, or the rapid [[devaluation]](https://www.investopedia.com/terms/d/devaluation.asp) of a currency would be examples of financial shocks. Financial shocks are the primary form of nominal shocks, though their effects clearly can have a serious impact on real economic activity.
+A [[Investopedia3/Stock Market Crash Definition|stock market crash]], a [[liquidity crisis]](https://www.investopedia.com/terms/l/liquidity-crisis.asp) in the banking system, unpredictable changes in monetary policy, or the rapid [[devaluation]](https://www.investopedia.com/terms/d/devaluation.asp) of a currency would be examples of financial shocks. Financial shocks are the primary form of nominal shocks, though their effects clearly can have a serious impact on real economic activity.
 
 ### Policy Shocks
 

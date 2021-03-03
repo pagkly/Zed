@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia3/Cboe Volatility Index (VIX).md",
+            "file": "Investopedia3/Stock Market Crash Definition.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia3/Cboe Volatility Index (VIX).md",
+                "file": "Investopedia3/Stock Market Crash Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia3/Cboe Volatility Index (VIX).md"
+                "file": "Investopedia3/Stock Market Crash Definition.md"
               }
             }
           },
@@ -138,6 +138,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia3/Stock Market Crash Definition.md",
     "Investopedia3/Cboe Volatility Index (VIX).md",
     "Investopedia3/Cboe Options Exchange.md",
     "Investopedia3/CBOE Nasdaq Volatility Index (VXN) Definition.md",
@@ -146,7 +147,6 @@
     "Investopedia3/Decoupling.md",
     "Investopedia/Investopedia5/A Closer Look at Grace Periods.md",
     "Investopedia3/Default.md",
-    "Investopedia3/1913 Federal Reserve Act.md",
-    "dual mandate.md"
+    "Investopedia3/1913 Federal Reserve Act.md"
   ]
 }

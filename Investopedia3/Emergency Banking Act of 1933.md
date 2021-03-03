@@ -50,7 +50,7 @@ The loss of personal savings from bank failures and [[bank runs]](https://www.in
 
 The Emergency Banking Act was preceded, and has been succeeded, by other pieces of legislation designed to stabilize and restore trust in the U.S. financial system. Approved during Herbert Hoover's administration, the [Reconstruction Finance Corporation Act](https://www.investopedia.com/terms/r/rfc.asp) sought to provide aid for financial institutions and companies that were in danger of shutting down due to the ongoing economic effects of the Depression. The [[Federal Home Loan Bank Act of 1932]](https://www.investopedia.com/terms/f/federal-home-loan-bank-act.asp) similarly sought to strengthen the banking industry and the Federal Reserve.
 
-A few related pieces of legislation were passed shortly after the Emergency Banking Act. The [[Glass-Steagall Act]](https://www.investopedia.com/terms/g/glass_steagall_act.asp), also passed in 1933, separated investment banking from commercial banking in order to combat the corruption of commercial banks by speculative investing, which had been recognized as a key cause of the stock market crash.
+A few related pieces of legislation were passed shortly after the Emergency Banking Act. The [[Glass-Steagall Act]](https://www.investopedia.com/terms/g/glass_steagall_act.asp), also passed in 1933, separated investment banking from commercial banking in order to combat the corruption of commercial banks by speculative investing, which had been recognized as a key cause of the [[Investopedia3/Stock Market Crash Definition|stock market crash]].
 
 Glass-Steagall was repealed in 1999, however, and some believed its demise helped contribute to the [2008 global credit crisis](https://www.investopedia.com/terms/c/credit-crisis.asp).
 

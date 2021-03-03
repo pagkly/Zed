@@ -51,7 +51,7 @@ Traders may use the Dark Cloud Cover pattern in conjunction with other forms of 
 
 ## Example of Dark Cloud Cover
 
-The following chart shows an example of the Dark Cloud Cover pattern in the VelocityShares Daily 2X VIX Short Term ETN ([TVIX](https://www.investopedia.com/markets/quote?tvwidgetsymbol=tvix)):
+The following chart shows an example of the Dark Cloud Cover pattern in the VelocityShares Daily 2X [[Investopedia3/Cboe Volatility Index (VIX)|VIX]] Short Term ETN ([TVIX](https://www.investopedia.com/markets/quote?tvwidgetsymbol=tvix)):
 
 Dark Cloud Cover Pattern.  StockCharts.com
 
