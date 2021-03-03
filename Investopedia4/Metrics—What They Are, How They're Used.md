@@ -13,10 +13,10 @@ author: Julie Young
 
 ---
 
-Metrics—What They Are, How They're Used
+[[Metrics—What They Are, How They're Used]]
 ## What Are Metrics?
 
-Metrics are measures of [[quantitative assessment]](https://www.investopedia.com/articles/investing/041114/simple-overview-quantitative-analysis.asp) commonly used for assessing, comparing, and tracking performance or production. Generally, a group of metrics will typically be used to build a dashboard that management or analysts review on a regular basis to maintain performance assessments, opinions, and business strategies. 
+Metrics are measures of [[quantitative assessment]](https://www.investopedia.com/articles/investing/041114/simple-overview-quantitative-analysis.asp) commonly used for assessing, comparing, and tracking performance or production. Generally, a group of metrics [[Will|will]] typically be used to build a dashboard that management or analysts review on a regular basis to maintain performance assessments, opinions, and business strategies. 
 
 ## Understanding Metrics
 
@@ -24,19 +24,19 @@ Metrics have been used in accounting, operations, and performance analysis throu
 
 Metrics come in a wide range of varieties with industry standards and proprietary models often governing their use.
 
-Executives use them to analyze corporate finance and operational strategies. Analysts use them to form opinions and investment recommendations. Portfolio managers use metrics to guide their investing portfolios. Furthermore, project managers also find them essential in leading and managing strategic projects of all kinds.
+Executives use them to analyze corporate [[Finance|finance]] and operational strategies. Analysts use them to form opinions and investment recommendations. [[Portfolio]] managers use metrics to guide their investing portfolios. Furthermore, project managers also find them essential in leading and managing strategic projects of all kinds.
 
 Overall, metrics refer to a [[wide variety]](https://www.investopedia.com/terms/w/wide-variety.asp) of data points generated from a multitude of methods. Best practices across industries have created a common set of comprehensive metrics used in ongoing evaluations. However, individual cases and scenarios typically guide the choice of metrics used.
 
 ## Choosing Metrics
 
-Every business executive, analyst, portfolio manager, and the project manager has a range of data sources available to them for building and structuring their own metric analysis. This can potentially make it difficult to choose the best metrics needed for important assessments and evaluations. Generally, managers seek to build a dashboard of what has come to be known as [[key performance indicators]](https://www.investopedia.com/terms/k/kpi.asp) (KPIs).
+Every business executive, analyst, [[Portfolio Manager|portfolio manager]], and the project manager has a range of data sources available to them for building and structuring their own metric analysis. This can potentially make it difficult to choose the best metrics needed for important assessments and evaluations. Generally, managers seek to build a dashboard of what has come to be known as [[key performance indicators]](https://www.investopedia.com/terms/k/kpi.asp) (KPIs).
 
  In order to establish a useful metric, a manager must first assess its goals. From there, it is important to find the best outputs that measure the activities related to these goals. A final step is also setting goals and targets for KPI metrics that are integrated with business decisions.
 
-Academics and corporate researchers have defined many industry metrics and methods that can help shape the building of KPIs and other metric dashboards. An entire decision analysis method called applied information economics was developed by Douglas Hubbard for analyzing metrics in a variety of business applications. Other popular decision analysis methods include [[cost-benefit analysis]](https://www.investopedia.com/terms/c/cost-benefitanalysis.asp), forecasting, and [[Monte Carlo simulation]](https://www.investopedia.com/terms/m/montecarlosimulation.asp).
+Academics and corporate researchers have defined many industry metrics and methods that can help shape the building of KPIs and other metric dashboards. An entire decision analysis method called applied information [[Economics|economics]] was developed by Douglas Hubbard for analyzing metrics in a variety of business applications. Other popular decision analysis methods include [[cost-benefit analysis]](https://www.investopedia.com/terms/c/cost-benefitanalysis.asp), forecasting, and [[Monte Carlo simulation]](https://www.investopedia.com/terms/m/montecarlosimulation.asp).
 
-Several businesses have also popularized certain methods that have become industry standards in many sectors. DuPont began using metrics to better their own business and in the process came up with the popular [[DuPont analysis]](https://www.investopedia.com/terms/d/dupontanalysis.asp) which closely isolates variables involved in the return on equity (ROE) metric. GE has also commissioned a set of metrics known as [[Six Sigma]](https://www.investopedia.com/terms/s/six-sigma.asp) that are commonly used today, with metrics tracked in [[six key areas]](https://www.ge.com/): critical to quality; defects; process capability; variation; stable operations; and, design for Six Sigma.
+Several businesses have also popularized certain methods that have become industry standards in many sectors. DuPont began using metrics to better their own business and in the process came up with the popular [[DuPont analysis]](https://www.investopedia.com/terms/d/dupontanalysis.asp) which closely isolates variables involved in the [[Return|return]] on [[Equity|equity]] (ROE) metric. GE has also commissioned a set of metrics known as [[Six Sigma]](https://www.investopedia.com/terms/s/six-sigma.asp) that are commonly used today, with metrics tracked in [[six key areas]](https://www.ge.com/): critical to quality; defects; process capability; variation; stable operations; and, design for Six Sigma.
 
 ## Examples of Metrics
 
@@ -46,11 +46,11 @@ _Economic Metrics_
 
 -   [[Gross domestic product (GDP)]](https://www.investopedia.com/terms/g/gdp.asp)
 -   Inflation
--   Unemployment rate
+-   [[Unemployment]] rate
 
 _Operational Company Metrics_
 
-From a comprehensive perspective, executives, industry analysts, and individual investors often look at key operational performance measures of a company, all from different perspectives. Some top-level operational metrics include measures derived from the analysis of a company’s financial statements. Key financial statement metrics include sales, [[earnings before interest and tax (EBIT)]](https://www.investopedia.com/terms/e/ebit.asp), net income, earnings per share, margins, efficiency ratios, [[liquidity ratios]](https://www.investopedia.com/terms/l/liquidityratios.asp), leverage ratios, and rates of return. Each of these metrics provides a different insight into the operational efficiency of a company.
+From a comprehensive perspective, executives, industry analysts, and individual investors often look at key operational performance measures of a company, all from different perspectives. Some top-level operational metrics include measures derived from the analysis of a company’s financial statements. Key financial statement metrics include sales, [[earnings before interest and tax (EBIT)]](https://www.investopedia.com/terms/e/ebit.asp), net income, earnings per share, margins, efficiency ratios, [[liquidity ratios]](https://www.investopedia.com/terms/l/liquidityratios.asp), [[Leverage|leverage]] ratios, and rates of [[Return|return]]. Each of these metrics provides a different insight into the operational efficiency of a company.
 
 Executives use these operational metrics to make corporate decisions involving costs, labor, financing, and investing. Executives and analysts also build complex financial models to identify future growth and value prospects, integrating both economic and operational metric forecasts.
 
@@ -58,11 +58,11 @@ There are several metrics that are key to comparing the financial position of co
 
 _Portfolio Management_
 
-Portfolio managers use metrics to identify investing allocations in a portfolio. All types of metrics are also used for analyzing and investing in securities that fit a specific portfolio strategy. For example, [[environmental, social and governance (ESG)]](https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp) criteria are a set of standards for a company's operations that socially conscious investors use to screen potential investments.
+[[Portfolio]] managers use metrics to identify investing allocations in a portfolio. All types of metrics are also used for analyzing and investing in securities that fit a specific portfolio strategy. For example, [[environmental, social and governance (ESG)]](https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp) criteria are a set of standards for a company's operations that socially conscious investors use to screen potential investments.
 
 _Project Management Metrics_
 
-In project management, metrics are essential in measuring project progression, output targets, and overall project success. Some of the areas where metric analysis is often needed include resources, cost, time, scope, quality, safety, and actions. Project managers have the responsibility to choose metrics that provide the best analysis and directional insight for a project. Metrics are followed in order to measure the overall progression, production, and performance.
+In [[Project Management|project management]], metrics are essential in measuring project progression, output targets, and overall project success. Some of the areas where metric analysis is often needed include resources, cost, time, [[Scope|scope]], quality, safety, and actions. Project managers have the responsibility to choose metrics that provide the best analysis and directional insight for a project. Metrics are followed in order to measure the overall progression, production, and performance.
 
 ### Key Takeaways
 

@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/m/managerialaccounting.asp
 author: Alicia Tuovila
 ---
 
-# Managerial Accounting Definition
+# [[Managerial Accounting Definition]]
 
 > ## Excerpt
 > Managerial accounting is the practice of analyzing and communicating financial data to managers, who use the information to make business decisions.
 
 ---
 
-Managerial Accounting Definition
+[[Managerial Accounting Definition]]
 ## What Is Managerial Accounting?
 
-Managerial accounting is the practice of identifying, measuring, analyzing, interpreting, and communicating financial information to managers for the pursuit of an organization's goals. It varies from financial accounting because the intended purpose of managerial accounting is to assist users internal to the company in making well-informed business decisions.
+Managerial accounting is the practice of identifying, measuring, analyzing, interpreting, and communicating financial information to managers for the pursuit of an organization's goals. It varies from [[Financial Accounting|financial accounting]] because the intended purpose of managerial accounting is to assist users internal to the company in making well-informed business decisions.
 
 ## How Managerial Accounting Works
 
@@ -24,18 +24,18 @@ Managerial accounting encompasses many facets of accounting aimed at improving t
 
 Read more about the [[common concepts and techniques of managerial accounting]](https://www.investopedia.com/ask/answers/062915/what-are-common-concepts-and-techniques-managerial-accounting.asp).
 
-## Managerial Accounting vs. Financial Accounting
+## Managerial Accounting vs. [[Financial Accounting]]
 
-The key difference between managerial accounting and financial accounting relates to the intended users of the information. Managerial accounting information is aimed at helping managers within the organization make well-informed business decisions, while financial accounting is aimed at providing financial information to parties outside the organization.
+The key difference between managerial accounting and [[Financial Accounting|financial accounting]] relates to the intended users of the information. Managerial accounting information is aimed at helping managers within the organization make well-informed business decisions, while financial accounting is aimed at providing financial information to parties outside the organization.
 
-Financial accounting must conform to certain standards, such as generally accepted accounting principles (GAAP). All publicly held companies are required to complete their financial statements in accordance with GAAP as a requisite for maintaining their publicly traded status. Most other companies in the U.S. conform to GAAP in order to meet debt covenants often required by financial institutions offering lines of credit.
+[[Financial Accounting|Financial accounting]] must conform to certain standards, such as generally accepted accounting principles (GAAP). All publicly held companies are required to complete their financial statements in accordance with GAAP as a requisite for maintaining their publicly traded status. Most other companies in the U.S. conform to GAAP in order to meet [[Debt|debt]] covenants often required by financial institutions [[Offering|offering]] lines of credit.
 
-Because managerial accounting is not for external users, it can be modified to meet the needs of its intended users. This may vary considerably by company or even by [[department]](https://www.investopedia.com/terms/d/departmental-rate.asp) within a company. For example, managers in the production department may want to see their financial information displayed as a percentage of units produced in the period. The HR department manager may be interested in seeing a graph of salaries by employee over a period of time. Managerial accounting is able to meet the needs of both departments by offering information in whatever format is most beneficial to that specific need.
+Because managerial accounting is not for external users, it can be modified to meet the needs of its intended users. This may vary considerably by company or even by [[department]](https://www.investopedia.com/terms/d/departmental-rate.asp) within a company. For example, managers in the production department may want to see their financial information displayed as a percentage of units produced in the period. The HR department manager may be interested in seeing a graph of salaries by employee over a period of time. Managerial accounting is able to meet the needs of both departments by [[Offering|offering]] information in whatever format is most beneficial to that specific need.
 
 ### Key Takeaways
 
 -   Managerial accounting involves the presentation of financial information for internal purposes to be used by management in making key business decisions.
--   Techniques used by managerial accountants are not dictated by accounting standards, unlike financial accounting.
+-   Techniques used by managerial accountants are not dictated by accounting standards, unlike [[Financial Accounting|financial accounting]].
 -   The presentation of managerial accounting data can be modified to meet the specific needs of its end-user.
 -   Managerial accounting encompasses many facets of accounting, including product costing, budgeting, forecasting, and various financial analysis.
 
@@ -49,32 +49,32 @@ Managerial accountants calculate and allocate overhead charges to assess the ful
 
 Marginal costing (sometimes called [cost-volume-profit analysis](https://www.investopedia.com/terms/c/cost-volume-profit-analysis.asp)) is the impact on the cost of a product by adding one additional unit into production. It is useful for short-term economic decisions. The contribution margin of a specific product is its impact on the overall profit of the company. Margin analysis flows into break-even analysis, which involves calculating the contribution margin on the sales mix to determine the unit volume at which the business’s gross sales equal total expenses. Break-even point analysis is useful for determining price points for products and services.
 
-### Cash Flow Analysis
+### [[Cash Flow]] Analysis
 
-Managerial accountants perform cash flow analysis in order to determine the cash impact of business decisions. Most companies record their financial information on the accrual basis of accounting. Although accrual accounting provides a more accurate picture of a company's true financial position, it also makes it harder to see the true cash impact of a single financial transaction. A managerial accountant may implement working capital management strategies in order to optimize cash flow and ensure the company has enough liquid assets to cover short-term obligations.
+Managerial accountants perform [[Cash Flow|cash flow]] analysis in order to determine the cash impact of business decisions. Most companies record their financial information on the accrual basis of accounting. Although accrual accounting provides a more accurate picture of a company's true financial position, it also makes it harder to see the true cash impact of a single financial transaction. A managerial accountant may implement working capital management strategies in order to optimize cash flow and ensure the company has enough liquid assets to cover short-term obligations.
 
-When a managerial accountant performs cash flow analysis, he will consider the cash inflow or outflow generated as a result of a specific business decision. For example, if a department manager is considering purchasing a company vehicle, he may have the option to either buy the vehicle outright or get a loan. A managerial accountant may run different scenarios by the department manager depicting the cash outlay required to purchase outright upfront versus the cash outlay over time with a loan at various [[interest rates]](https://www.investopedia.com/terms/i/interestrate.asp).
+When a managerial accountant performs [[Cash Flow|cash flow]] analysis, he [[Will|will]] consider the cash inflow or outflow generated as a result of a specific business decision. For example, if a department manager is considering purchasing a company vehicle, he may have the option to either buy the vehicle outright or get a [[Loan|loan]]. A managerial accountant may run different scenarios by the department manager depicting the cash outlay required to purchase outright upfront versus the cash outlay over time with a loan at various [[interest rates]](https://www.investopedia.com/terms/i/interestrate.asp).
 
 ### Inventory Turnover Analysis
 
-Inventory turnover is a calculation of how many times a company has sold and replaced inventory in a given time period. Calculating inventory turnover can help businesses make better decisions on pricing, manufacturing, marketing, and purchasing new inventory. A managerial accountant may identify the carrying cost of inventory, which is the amount of expense a company incurs to store unsold items. If the company is carrying an excessive amount of inventory, there could be efficiency improvements made to reduce storage costs and free up cash flow for other business purposes.
+Inventory turnover is a calculation of how many times a company has sold and replaced inventory in a given time period. Calculating inventory turnover can help businesses make better decisions on pricing, [[Manufacturing|manufacturing]], marketing, and purchasing new inventory. A managerial accountant may identify the carrying cost of inventory, which is the amount of expense a company incurs to store unsold items. If the company is carrying an excessive amount of inventory, there could be efficiency improvements made to reduce storage costs and free up [[Cash Flow|cash flow]] for other business purposes.
 
 ### Constraint Analysis
 
-Managerial accounting also involves reviewing the constraints within a production line or sales process. Managerial accountants help determine where bottlenecks occur and calculate the impact of these constraints on revenue, profit, and cash flow. Managers can then use this information to implement changes and improve efficiencies in the production or sales process.
+Managerial accounting also involves reviewing the constraints within a production line or sales process. Managerial accountants help determine where bottlenecks occur and calculate the impact of these constraints on revenue, profit, and [[Cash Flow|cash flow]]. Managers can then use this information to implement changes and improve efficiencies in the production or sales process.
 
-### Financial Leverage Metrics
+### Financial [[Leverage]] Metrics
 
-Financial leverage refers to a company's use of borrowed capital in order to acquire assets and increase its return on investments. Through [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp) analysis, managerial accountants can provide management with the tools they need to study the company's debt and equity mix in order to put leverage to its most optimal use. Performance measures such as return on equity, debt to equity, and return on invested capital help management identify key information about borrowed capital, prior to relaying these statistics to outside sources. It is important for management to review ratios and statistics regularly to be able to appropriately answer questions from its board of directors, investors, and creditors.
+Financial [[Leverage|leverage]] refers to a company's use of borrowed capital in order to acquire assets and increase its [[Return|return]] on investments. Through [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp) analysis, managerial accountants can provide management with the tools they need to study the company's [[Debt|debt]] and [[Equity|equity]] mix in order to put leverage to its most optimal use. Performance measures such as return on equity, debt to equity, and return on invested capital help management identify key information about borrowed capital, prior to relaying these statistics to outside sources. It is important for management to review ratios and statistics regularly to be able to appropriately answer questions from its board of directors, investors, and creditors.
 
 ### Accounts Receivable (AR) Management
 
 Appropriately managing accounts receivable (AR) can have positive effects on a company's bottom line. An accounts receivable aging report categorizes AR invoices by the length of time they have been outstanding. For example, an AR aging report may list all outstanding receivables less than 30 days, 30 to 60 days, 60 to 90 days, and 90+ days. Through a review of outstanding receivables, managerial accountants can indicate to appropriate department managers if certain customers are becoming credit risks. If a customer routinely pays late, management may reconsider doing any future business on credit with that customer.
 
-### Budgeting, Trend Analysis, and Forecasting
+### Budgeting, [[Trend Analysis]], and Forecasting
 
 [Budgets](https://www.investopedia.com/terms/b/budget.asp) are extensively used as a quantitative expression of the company's plan of operation. Managerial accountants utilize performance reports to note deviations of actual results from budgets. The positive or negative deviations from a budget also referred to as budget-to-actual variances, are analyzed in order to make appropriate changes going forward.
 
-Managerial accountants analyze and relay information related to capital expenditure decisions. This includes the use of standard capital budgeting metrics, such as net present value and [[internal rate of return]](https://www.investopedia.com/terms/i/irr.asp), to assist decision-makers on whether to embark on capital-intensive projects or purchases. Managerial accounting involves examining proposals, deciding if the products or services are needed, and finding the appropriate way to finance the purchase. It also outlines payback periods so management is able to anticipate future economic benefits.
+Managerial accountants analyze and relay information related to capital expenditure decisions. This includes the use of standard capital budgeting metrics, such as net present value and [[internal rate of return]](https://www.investopedia.com/terms/i/irr.asp), to assist decision-makers on whether to embark on capital-intensive projects or purchases. Managerial accounting involves examining proposals, deciding if the products or services are needed, and finding the appropriate way to [[Finance|finance]] the purchase. It also outlines payback periods so management is able to anticipate future economic benefits.
 
 Managerial accounting also involves reviewing the trendline for certain expenses and investigating unusual variances or deviations. It is important to review this information regularly because expenses that vary considerably from what is typically expected are commonly questioned during external financial audits. This field of accounting also utilizes previous period information to calculate and project future financial information. This may include the use of historical pricing, sales volumes, geographical locations, customer tendencies, or financial information.

@@ -1,52 +1,52 @@
 ---
-alias: [Modified Adjusted Gross Income, MAGI]
+alias: [Modified Adjusted [[Gross Income]], MAGI]
 created: 2021-03-02T22:07:28 (UTC +11:00)
-tags: [Modified Adjusted Gross Income (MAGI) Definition, Modified Adjusted Gross Income (MAGI)]
+tags: [Modified Adjusted [[Gross Income]] (MAGI) Definition, Modified Adjusted Gross Income (MAGI)]
 source: https://www.investopedia.com/terms/m/magi.asp
 author: Jason Fernando
 ---
 
-# Modified Adjusted Gross Income (MAGI) Definition
+# [[Modified Adjusted Gross Income (MAGI)]] Definition
 
 > ## Excerpt
-> The IRS uses your modified adjusted gross income (MAGI) to determine if you qualify for certain tax benefits.
+> The IRS uses your [[Modified Adjusted Gross Income (MAGI)|modified adjusted gross income (MAGI)]] to determine if you qualify for certain tax benefits.
 
 ---
 
-Modified Adjusted Gross Income (MAGI)
-## What Is Modified Adjusted Gross Income (MAGI)?
+[[Modified Adjusted Gross Income (MAGI)]]
+## What Is [[Modified Adjusted Gross Income (MAGI)]]?
 
-Modified adjusted gross income (MAGI) is an important number. First of all, it determines whether you can contribute to a [[Roth IRA]](https://www.investopedia.com/terms/r/rothira.asp) and if you can deduct IRA contributions.1 2 It also factors into your eligibility for certain education tax benefits and income tax credits.3 Furthermore, it establishes your eligibility for income-based [[Medicaid]](https://www.investopedia.com/terms/m/medicaid.asp) and subsidized health insurance plans on the Health Insurance Marketplace.4
+[[Modified Adjusted Gross Income (MAGI)|Modified adjusted gross income (MAGI)]] is an important number. First of all, it determines whether you can contribute to a [[Roth IRA]](https://www.investopedia.com/terms/r/rothira.asp) and if you can deduct IRA contributions.1 2 It also factors into your eligibility for certain education tax benefits and income tax credits.3 Furthermore, it establishes your eligibility for income-based [[Medicaid]](https://www.investopedia.com/terms/m/[[Medicaid|medicaid]].asp) and subsidized health insurance plans on the Health Insurance Marketplace.4
 
-Still, as important as this number is, you won’t find it on your tax return.5 You’ll have to crunch some numbers to find your MAGI.
+Still, as important as this number is, you won’t find it on your [[Tax Return|tax return]].5 You’ll have to crunch some numbers to find your MAGI.
 
-MAGI can be defined as your household’s adjusted gross income with any tax-exempt interest income and certain deductions added back.5 The [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS) uses MAGI to establish if you qualify for certain tax benefits. Most notably, MAGI determines:
+MAGI can be defined as your household’s adjusted [[Gross Income|gross income]] with any [[Tax-Exempt Interest|tax-exempt interest]] income and certain deductions added back.5 The [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS) uses MAGI to establish if you qualify for certain tax benefits. Most notably, MAGI determines:
 
 -   If you can contribute to a Roth IRA2
 -   If you can deduct your traditional IRA contributions if you and/or your spouse has a retirement plan at work1
--   Your eligibility for the premium tax credit, [[which lowers your health insurance premiums]](https://www.investopedia.com/articles/personal-finance/101413/lowering-your-costs-marketplace-health-insurance-coverage.asp) if you buy a plan on the [[Health Insurance Marketplace]](https://www.healthcare.gov/)6
+-   Your eligibility for the [[Premium|premium]] tax credit, [[which lowers your health insurance premiums]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/101413/lowering-your-costs-marketplace-health-insurance-coverage.asp) if you buy a plan on the [[Health Insurance Marketplace]](https://www.healthcare.gov/)6
 
-For example, you can contribute to a traditional IRA no matter how much money you earn.7 However, you can’t deduct those contributions when you file your tax return if your MAGI exceeds limits set by the IRS and you and/or your spouse have a retirement plan at work.1
+For example, you can contribute to a traditional IRA no matter how much money you earn.7 However, you can’t deduct those contributions when you file your [[Tax Return|tax return]] if your MAGI exceeds limits set by the IRS and you and/or your spouse have a retirement plan at work.1
 
 ### Key Takeaways
 
 -   Your MAGI determines if—and how much—you can contribute to a Roth IRA and whether you can deduct your traditional IRA contributions.28
--   To calculate your modified adjusted gross income (MAGI), take your adjusted gross income (AGI) and add back certain deductions.5
+-   To calculate your [[Modified Adjusted Gross Income (MAGI)|modified adjusted gross income (MAGI)]], take your adjusted [[Gross Income|gross income]] (AGI) and add back certain deductions.5
 -   It’s normal for your AGI and MAGI to be similar.9
 
-#### Modified Adjusted Gross Income (MAGI)
+#### [[Modified Adjusted Gross Income (MAGI)]]
 
-## How Modified Adjusted Gross Income Works
+## How Modified Adjusted [[Gross Income]] Works
 
 Determining your MAGI is a three-step process:
 
-1.  Figure your gross income for the year
+1.  Figure your [[Gross Income|gross income]] for the year
 2.  Calculate your [[adjusted gross income]](https://www.investopedia.com/terms/a/agi.asp) (AGI)
 3.  Add back certain deductions to find your MAGI5
 
-### Figure Your Gross Income
+### Figure Your [[Gross Income]]
 
-Your gross income includes everything you earned during the year from:
+Your [[Gross Income|gross income]] includes everything you earned during the year from:
 
 -   Alimony10
 -   Business income
@@ -59,25 +59,25 @@ Your gross income includes everything you earned during the year from:
 -   Tips
 -   Wages12 13
 
-Note: There are two scenarios in which alimony payments are not considered gross income. The first is if your divorce agreement was executed after 2018. The second is if your divorce agreement was executed before 2019 but later modified to expressly state that such payments are not deductible for the payer.14
+Note: There are two scenarios in which alimony payments are not considered [[Gross Income|gross income]]. The first is if your divorce agreement was executed after 2018. The second is if your divorce agreement was executed before 2019 but later modified to expressly state that such payments are not deductible for the payer.14
 
-Your gross income appears on line 9 of [Form 1040](https://www.irs.gov/forms-pubs/about-form-1040).12
+Your [[Gross Income|gross income]] appears on line 9 of [Form 1040](https://www.irs.gov/forms-pubs/about-form-1040).12
 
-### Calculate Your AGI (or Find It on Your Tax Return)
+### Calculate Your AGI (or Find It on Your [[Tax Return]])
 
-Your adjusted gross income (AGI) is important because it’s the total taxable income calculated before itemized or standard deductions, exemptions, and credits are taken into account.13 It dictates how you can use various tax credits and exemptions. For example, AGI affects the amount of money you can claim for the [[child tax credit]](https://www.investopedia.com/terms/c/childtaxcredit.asp).15
+Your adjusted [[Gross Income|gross income]] (AGI) is important because it’s the total [[Taxable Income|taxable income]] calculated before itemized or standard deductions, exemptions, and credits are taken into account.13 It dictates how you can use various tax credits and exemptions. For example, AGI affects the amount of money you can claim for the [[child tax credit]](https://www.investopedia.com/terms/c/childtaxcredit.asp).15
 
-Your adjusted gross income is equal to your gross income, less certain tax-deductible expenses, including:
+Your adjusted [[Gross Income|gross income]] is equal to your gross income, less certain tax-deductible expenses, including:
 
 -   Certain business expenses for performing artists, reservists, and fee-basis government officials
 -   Educator expenses
--   Half of any self-employment taxes16
+-   Half of any [[Self-Employment|self-employment]] taxes16
 -   Health insurance premiums (if you’re self-employed)
--   Health savings account (HSA) contributions
+-   [[Health Savings Account (HSA)|Health savings account (HSA)]] contributions
 -   Moving expenses for members of the Armed Forces moving due to active duty
 -   Penalties on early withdrawal of savings
 -   Retirement plan contributions (including IRAs and self-employed retirement plan contributions)
--   Student loan interest
+-   Student [[Loan|loan]] interest
 -   Tuition and fees12 17
 
 You can do the math to figure out your AGI, or you can find it on line 11 of Form 1040.12
@@ -86,11 +86,11 @@ You can do the math to figure out your AGI, or you can find it on line 11 of Fo
 
 To find your MAGI, take your AGI and add back:
 
--   Any deductions you took for IRA contributions and taxable Social Security payments18
+-   Any deductions you took for IRA contributions and taxable [[Social Security]] payments18
 -   Excluded foreign income5
 -   Interest from EE savings bonds used to pay for higher education expenses19
 -   Losses from a partnership20
--   Passive income or loss
+-   [[Passive Income|Passive income]] or loss
 -   Rental losses21
 -   The exclusion for adoption expenses22
 
@@ -130,7 +130,7 @@ $203,000 or more
 
 Zero
 
-Single, head of household, or married filing separately and you didn't live with your spouse at any time during the year
+Single, head of household, or [[Married Filing Separately|married filing separately]] and you didn't live with your spouse at any time during the year
 
 Less than $122,000
 
@@ -148,7 +148,7 @@ $137,000 or more
 
 Zero
 
-Married filing separately and you lived with your spouse at any time during the year
+[[Married Filing Separately|Married filing separately]] and you lived with your spouse at any time during the year
 
 Less than $10,000
 
@@ -188,7 +188,7 @@ $206,000 or more
 
 Zero
 
-Single, head of household, or married filing separately and you didn't live with your spouse at any time during the year
+Single, head of household, or [[Married Filing Separately|married filing separately]] and you didn't live with your spouse at any time during the year
 
 Less than $124,000
 
@@ -206,7 +206,7 @@ $139,000 or more
 
 Zero
 
-Married filing separately and you lived with your spouse at any time during the year
+[[Married Filing Separately|Married filing separately]] and you lived with your spouse at any time during the year
 
 Less than $10,000
 
@@ -294,7 +294,7 @@ $74,000 or more
 
 No deduction
 
-**Married filing separately** and either spouse is covered by a plan at work
+**[[Married Filing Separately|Married filing separately]]** and either spouse is covered by a plan at work
 
 Less than $10,000
 
@@ -376,7 +376,7 @@ $75,000 or more
 
 No deduction
 
-**Married filing separately** and either spouse is covered by a plan at work
+**[[Married Filing Separately|Married filing separately]]** and either spouse is covered by a plan at work
 
 Less than $10,000
 
@@ -392,14 +392,14 @@ Tax laws are complicated and do change periodically. If you need help figuring o
 
 ## Frequently Asked Questions
 
-### How do I calculate my Modified Adjusted Gross Income (MAGI)?
+### How do I calculate my [[Modified Adjusted Gross Income (MAGI)]]?
 
-Calculating your MAGI is relatively straightforward. To do so, first calculate your adjusted gross income (AGI) and then add back any of the deductions specified by the IRS that apply to your situation. Examples of these deductions include income from foreign sources, interest from certain savings bonds, and expenses related to adopting a child. Because MAGI involves adding back these deductions, MAGI will always be greater than or equal to AGI.
+Calculating your MAGI is relatively straightforward. To do so, first calculate your adjusted [[Gross Income|gross income]] (AGI) and then add back any of the deductions specified by the IRS that apply to your situation. Examples of these deductions include income from foreign sources, interest from certain savings bonds, and expenses related to adopting a child. Because MAGI involves adding back these deductions, MAGI [[Will|will]] always be greater than or equal to AGI.
 
 ### What is MAGI used for?
 
 MAGI is used by the IRS to determine whether you qualify for certain tax programs and benefits. For instance, it helps determine the size of your Roth IRA contributions. Knowing your MAGI can also help avoid facing tax penalties, since over-contributing to these programs and others like them can trigger interest payments and fines. Your magine can also determine eligibility for certain government programs, such as the subsidized insurance plans available on the Health Insurance Marketplace. 
 
-### Can MAGI and adjusted gross income (AGI) be the same?
+### Can MAGI and adjusted [[Gross Income|gross income]] (AGI) be the same?
 
-Yes, MAGI and AGI can be the same. For many people, the list of deductions that need to be added back to AGI in order to calculate MAGI will not be relevant. For instance, those who did not earn any foreign income would have no reason to use that deduction and would not add back those earnings to their AGI. For them, AGI and MAGI would therefore be the same number.
+Yes, MAGI and AGI can be the same. For many people, the list of deductions that need to be added back to AGI in order to calculate MAGI [[Will|will]] not be relevant. For instance, those who did not earn any foreign income would have no reason to use that deduction and would not add back those earnings to their AGI. For them, AGI and MAGI would therefore be the same number.

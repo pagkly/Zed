@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/m/mass-production.asp
 author: Caroline Banton
 ---
 
-# Mass Production Definition
+# [[Mass Production Definition]]
 
 > ## Excerpt
-> Mass production is the manufacturing of large quantities of standardized products, often using assembly lines or automated technology.
+> Mass production is the [[Manufacturing|manufacturing]] of large quantities of standardized products, often using assembly lines or automated technology.
 
 ---
 
-Mass Production Definition
+[[Mass Production Definition]]
 ## What Is Mass Production?
 
-Mass production is the manufacturing of large quantities of standardized products, often using [assembly lines](https://www.investopedia.com/assembly-line-definition-4684004) or automation technology. Mass production facilitates the efficient production of a large number of similar products.
+Mass production is the [[Manufacturing|manufacturing]] of large quantities of standardized products, often using [assembly lines](https://www.investopedia.com/assembly-line-definition-4684004) or automation technology. Mass production facilitates the efficient production of a large number of similar products.
 
 Mass production is also referred to as flow production, repetitive flow production, series production, or serial production.
 
@@ -24,7 +24,7 @@ In mass production, mechanization is used to achieve high volume, detailed organ
 
 ### Key Takeaways
 
--   Mass production is the manufacturing of large quantities of standardized products, often using assembly lines or automation technology.
+-   Mass production is the [[Manufacturing|manufacturing]] of large quantities of standardized products, often using assembly lines or automation technology.
 -   Mass production has many advantages, such as producing a high level of precision, lower costs from automation and fewer workers, higher levels of efficiency, and prompt distribution and marketing of an organization's products.
 -   Henry Ford, founder of the Ford Motor Company, developed the assembly line technique of mass production in 1913.
 
@@ -32,7 +32,7 @@ In mass production, mechanization is used to achieve high volume, detailed organ
 
 Mass production has many advantages. If production is stringently monitored, mass production can result in a high level of precision because production line machines have preset parameters. Mass production also results in lower costs because the automated assembly line production process requires fewer workers.
 
-In addition, mass production can create higher levels of efficiency because mass-produced items can be assembled at a quicker rate through automation. Rapid assembly aids the prompt distribution and marketing of an organization's products that, in turn, can create a [[competitive advantage]](https://www.investopedia.com/terms/c/competitive_advantage.asp) and higher profits for a company. For example, McDonald's ([MCD](https://www.investopedia.com/markets/quote?tvwidgetsymbol=mcd)) has a competitive advantage in the fast-food industry because of the speed at which it can produce a meal for time-conscious customers.
+In addition, mass production can create higher levels of efficiency because mass-produced items can be assembled at a quicker rate through automation. Rapid assembly aids the prompt distribution and marketing of an organization's products that, in turn, can create a [[competitive advantage]](https://www.investopedia.com/terms/c/competitive_advantage.asp) and higher profits for a company. For example, McDonald's ([MCD](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=mcd)) has a competitive advantage in the fast-food industry because of the speed at which it can produce a meal for time-conscious customers.
 
 ## Disadvantages of Mass Production
 
@@ -46,7 +46,7 @@ Manufacturers are experimenting with the integration of three-dimensional (3-D) 
 
 ## Example of Mass Production
 
-Henry Ford, founder of the Ford Motor Company, developed the assembly line technique of mass production. In 1913, he pioneered the moving assembly line for the production of the Ford Model T automobile. The reduced manufacturing time for parts allowed the company to apply the same method to chassis assembly and drastically reduced the time it took to build the Model T automobile.
+Henry Ford, founder of the Ford Motor Company, developed the assembly line technique of mass production. In 1913, he pioneered the moving assembly line for the production of the Ford Model T automobile. The reduced [[Manufacturing|manufacturing]] time for parts allowed the company to apply the same method to chassis assembly and drastically reduced the time it took to build the Model T automobile.
 
 Ford continued to refine the process, even hiring someone who studied the way people moved most efficiently. Between 1908 and 1927, Ford built 15 million Model T cars. As a result of Ford's mass production, cars became something that the general public could afford, rather than a luxury item that only a limited number of people had access to.
 

@@ -1,7 +1,7 @@
 ---
 alias: [Maximum Foreseeable Loss – MFL]
 created: 2021-03-02T22:01:11 (UTC +11:00)
-tags: [Maximum Foreseeable Loss – MFL Definition, Maximum Foreseeable Loss – MFL Is a Worst-Case Insurance Risk Measurement]
+tags: [Maximum Foreseeable Loss – MFL Definition, Maximum Foreseeable Loss – MFL Is a Worst-Case Insurance [[Risk]] Measurement]
 source: https://www.investopedia.com/terms/m/maximum-foreseeable-loss.asp
 author:  Alexandra Twin
 ---
@@ -13,7 +13,7 @@ author:  Alexandra Twin
 
 ---
 
-Maximum Foreseeable Loss – MFL Is a Worst-Case Insurance Risk Measurement
+[[Maximum Foreseeable Loss – MFL Is a Worst-Case Insurance Risk Measurement]]
 ## What Is Maximum Foreseeable Loss – MFL?
 
 The maximum foreseeable loss is an insurance term most frequently used in the [[insurance of businesses]](https://www.investopedia.com/terms/b/business-insurance.asp) and business property. MFL is a worst-case situation in which the claim for damages and losses are significant.
@@ -22,7 +22,7 @@ The maximum foreseeable loss is a reference to the most substantial financial hi
 
 ## Claiming MFL Losses
 
-A claim for a maximum foreseeable loss is extensive, as it will include not just physical losses, such as the property housing the business and the products, supplies, and equipment owned by the company, but also the impact the adverse event had on the day-to-day running of the operations.
+A claim for a maximum foreseeable loss is extensive, as it [[Will|will]] include not just physical losses, such as the property housing the business and the products, supplies, and equipment owned by the company, but also the impact the adverse event had on the day-to-day running of the operations.
 
 The policy acknowledges the potential loss of business, called [[business interruption]](https://www.investopedia.com/terms/b/business-interruption-insurance.asp), which is likely unavoidable while repairs to the property are ongoing. Depending on the size of the property and the extent of the business, repairs could take weeks or months. The business interruption might be complete (100%) or partial (say, 50%) depending on whether it’s possible to resume business at another physical location or in some cases, digitally. The maximum foreseeable loss refers to the worst-case scenario that a company might potentially face should an adverse event occur.
 
@@ -46,9 +46,9 @@ A smaller allowance would be the [[normal loss expectancy]](https://www.investop
 
 ## Determining Maximum Foreseeable Loss – MFL
 
-The percentage of the property’s total insured value at risk to be decimated by a particular type of loss varies with each policy based on factors which include building construction, the combustibability of the building's contents, the ease with which the contents may be damaged and existing firefighting services in the immediate area.
+The percentage of the property’s total insured value at [[Risk|risk]] to be decimated by a particular type of loss varies with each policy based on factors which include building construction, the combustibability of the building's contents, the ease with which the contents may be damaged and existing firefighting services in the immediate area.
 
-Calculating different loss estimates is essential in helping insurers determine how much coverage their clients need to purchase and how much the insurers are at risk of paying out under different types of claims.
+Calculating different loss estimates is essential in helping insurers determine how much coverage their clients need to purchase and how much the insurers are at [[Risk|risk]] of paying out under different types of claims.
 
 ## Real World Example
 

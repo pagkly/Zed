@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/m/mode.asp
 author: Adam Hayes
 ---
 
-# Mode Definition
+# [[Mode Definition]]
 
 > ## Excerpt
 > The mode is a statistical term that refers to the most frequently occurring number found in a set of numbers.
 
 ---
 
-Mode Definition
+[[Mode Definition]]
 ## What Is the Mode?
 
 The mode is the value that appears most frequently in a data set. A set of data may have one mode, more than one mode, or no mode at all. Other popular measures of central tendency include the mean, or the average of a set, and the [[median]](https://www.investopedia.com/terms/m/median.asp), the middle value in a set.
@@ -29,8 +29,8 @@ Mode is most useful as a measure of central tendency when examining categorical 
 ### Key Takeaways
 
 -   In statistics, the mode is the most commonly observed value in a set of data.
--   For the normal distribution, the mode is also the same value as the mean and median.
--   In many cases, the modal value will differ from the average value in the data.
+-   For the [[Normal Distribution|normal distribution]], the mode is also the same value as the mean and median.
+-   In many cases, the modal value [[Will|will]] differ from the average value in the data.
 
 ## Examples of the Mode
 

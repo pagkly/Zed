@@ -21,23 +21,23 @@ Delivered Duty Unpaid (DDU) is an old international trade term indicating that�
 ### Key Takeaways
 
 -   Delivered Duty Unpaid (DDU) is an international trade term meaning the seller is responsible for ensuring goods arrive safely to a destination; the buyer is responsible for import duties.
--   By contrast, Delivered Duty Paid (DDP) indicates that the seller must cover duties, import clearance, and any taxes.
--   DDU is still commonly used in transportation contracts, even though the International Chamber of Commerce has officially replaced it with the term Delivered-at-Place (DAP).
+-   By contrast, [[Delivered Duty Paid (DDP)]] indicates that the seller must cover duties, import clearance, and any taxes.
+-   DDU is still commonly used in transportation contracts, even though the International Chamber of [[Commerce]] has officially replaced it with the term Delivered-at-Place (DAP).
 
 #### Delivery Duty Unpaid (DDU)
 
 ## Understanding Delivered Duty Unpaid (DDU)
 
-Delivered Duty Unpaid (DDU) was actually not included in the most recent (2010) edition of the International Chamber of Commerce's [Incoterms](https://www.investopedia.com/terms/i/incoterms.asp); the current official term that best describes the function of DDU is [Delivered-at-Place](https://www.investopedia.com/terms/d/delivered-place-dap.asp) (DAP). However, DDU is still commonly used in international trade parlance. On paper, the term is followed by the location of delivery; for example, "DDU: Port of Los Angeles." 
+Delivered Duty Unpaid (DDU) was actually not included in the most recent (2010) edition of the International Chamber of [[Commerce]]'s [Incoterms](https://www.investopedia.com/terms/i/incoterms.asp); the current official term that best describes the function of DDU is [Delivered-at-Place](https://www.investopedia.com/terms/d/delivered-place-dap.asp) (DAP). However, DDU is still commonly used in international trade parlance. On paper, the term is followed by the location of delivery; for example, "DDU: Port of Los Angeles." 
 
 With DDU, the seller assumes all risks until the goods are delivered to the specified location; then the risks are assumed by the buyer.
 
-According to DDU arrangements, the seller secures licenses and takes care of other formalities involved in exporting a good; it is also responsible for all licenses and costs incurred in transit countries, as well as providing an invoice at its own cost. The seller assumes all risk until the goods are delivered to the specified location, but it has no obligation to obtain insurance on the goods. 
+According to DDU arrangements, the seller secures licenses and takes care of other formalities involved in exporting a good; it is also responsible for all licenses and costs incurred in transit countries, as well as providing an invoice at its own cost. The seller assumes all [[Risk|risk]] until the goods are delivered to the specified location, but it has no obligation to obtain insurance on the goods. 
 
 The buyer is responsible for obtaining all necessary licenses for importing the goods and paying all relevant taxes, [[duties]](https://www.investopedia.com/terms/d/duty.asp), and inspection costs. All risks involved in this process are borne by the buyer. Once the goods are placed at the disposal of the buyer, all further transportation costs and risks fall on the buyer.
 
 ## Special Considerations
 
-The [[International Chamber of Commerce]](https://www.investopedia.com/terms/i/international-chamber-of-commerce-icc.asp) (ICC) is an organization that was originally formed after World War I with the goal of fostering prosperity in Europe by setting standards for international trade. It was this group that, in 1936, published a set of standardized terms for different types of shipping agreements, known as Incoterms.
+The [[International Chamber of Commerce]](https://www.investopedia.com/terms/i/international-chamber-of-[[Commerce|commerce]]-icc.asp) (ICC) is an organization that was originally formed after World War I with the goal of fostering prosperity in Europe by setting standards for international trade. It was this group that, in 1936, published a set of standardized terms for different types of shipping agreements, known as Incoterms.
 
 Incoterms are contract specifications outlining who bears the costs and risks of [[international transactions]](https://www.investopedia.com/insights/what-is-international-trade/); they are subject to change at the discretion of the ICC. Because of the legal and logistical intricacies of international shipping, the ICC seeks to simplify matters for businesses by standardizing its terms. 2020 Incoterms revision is [[available for purchase]](https://2go.iccwbo.org/incoterms-2020-eng-config+book_version-eBook) direct from the site.

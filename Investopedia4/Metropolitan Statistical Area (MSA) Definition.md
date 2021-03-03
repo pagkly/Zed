@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/m/msa.asp
 author: Akhilesh Ganti
 ---
 
-# Metropolitan Statistical Area (MSA) Definition
+# [[Metropolitan Statistical Area (MSA) Definition]]
 
 > ## Excerpt
 > Metropolitan statistical areas (MSA) are delineated by the U.S. OMB as having at least one urbanized area with a minimum population of 50,000.
 
 ---
 
-Metropolitan Statistical Area (MSA) Definition
+[[Metropolitan Statistical Area (MSA) Definition]]
 ## What Is a Metropolitan Statistical Area (MSA)?
 
 Metropolitan statistical areas (MSA) are delineated by the U.S. Office of Management and Budget (OMB) as having at least one urbanized area with a minimum population of 50,000.
@@ -40,7 +40,7 @@ In contrast to micropolitan statistical areas, which center on towns and smaller
 
 The [[Bureau of Labor Statistics]](https://www.investopedia.com/terms/b/bls.asp) (BLS) uses MSA data to analyze [[labor market]](https://www.investopedia.com/terms/l/labor-market.asp) conditions within a geographical area. Within a metropolitan statistical area, workers can presumably change jobs without having to move to a new location, creating a relatively stable labor force.
 
-Statistical data about MSAs also helps government officials and businesses review information about [[per capita]](https://www.investopedia.com/terms/p/percapita.asp) income, spending patterns, and unemployment rates. The resulting data can be used to formulate policies designed to stimulate [[economic growth]](https://www.investopedia.com/terms/e/economicgrowth.asp) in the region.
+Statistical data about MSAs also helps government officials and businesses review information about [[per capita]](https://www.investopedia.com/terms/p/percapita.asp) income, spending patterns, and [[Unemployment|unemployment]] rates. The resulting data can be used to formulate policies designed to stimulate [[economic growth]](https://www.investopedia.com/terms/e/economicgrowth.asp) in the region.
 
 For example, the Atlanta-Sandy Springs-Roswell metropolitan statistical area exerts a significant influence on the economic health of the region. It is the most populous area of Georgia. Companies seeking to relocate or establish new companies in the Atlanta-Sandy Springs-Roswell region can use statistical data about the area to project the viability of their intended business.
 

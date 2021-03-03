@@ -3,7 +3,7 @@ alias: [Memorandum of Understanding, MOU]
 created: 2021-03-02T22:03:18 (UTC +11:00)
 tags: [Memorandum of Understanding (MOU) Definition, Memorandum of Understanding (MOU): What You Need to Know]
 source: https://www.investopedia.com/terms/m/mou.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Memorandum of Understanding (MOU) Definition
@@ -18,7 +18,7 @@ Memorandum of Understanding (MOU): What You Need to Know
 
 A memorandum of understanding is an agreement between two or more parties outlined in a formal document. It is not legally binding but signals the willingness of the parties to move forward with a contract.
 
-The MOU can be seen as the starting point for negotiations as it defines the scope and purpose of the talks. Such memoranda are most often seen in international treaty negotiations but also may be used in high-stakes business dealings such as merger talks.
+The MOU can be seen as the starting point for negotiations as it defines the [[Scope|scope]] and purpose of the talks. Such memoranda are most often seen in international treaty negotiations but also may be used in high-stakes business dealings such as merger talks.
 
 #### Memorandum Of Understanding (MOU)
 
@@ -35,15 +35,15 @@ An MOU is an expression of agreement to proceed. It indicates that the parties h
 
 Under U.S. law, an MOU is the same as a [[letter of intent]](https://www.investopedia.com/terms/l/letterofintent.asp). In fact, arguably a memorandum of understanding, a memorandum of agreement, and a letter of intent are virtually indistinguishable. All communicate an agreement on a mutually beneficial goal and a desire to see it through to completion.
 
-MOUs communicate the mutually accepted expectations of the people, organizations, or [[governments]](https://www.investopedia.com/articles/investing/102413/why-and-when-do-countries-default.asp) involved. They are most often used in international relations because, unlike treaties, they can be produced relatively quickly and in secret. They also are in use in many U.S. and state government agencies, particularly when major contracts are in the planning stages.
+MOUs communicate the mutually accepted expectations of the people, organizations, or [[governments]](https://www.investopedia.com/articles/investing/102413/why-and-when-do-countries-[[Default|default]].asp) involved. They are most often used in international relations because, unlike treaties, they can be produced relatively quickly and in secret. They also are in use in many U.S. and state government agencies, particularly when major contracts are in the planning stages.
 
 ## Contents of a Memorandum of Understanding (MOU)
 
-An MOU clearly outlines specific points of understanding. It names the parties, describes the project on which they are agreeing, defines its scope, and details each party's roles and responsibilities.
+An MOU clearly outlines specific points of understanding. It names the parties, describes the project on which they are agreeing, defines its [[Scope|scope]], and details each party's roles and responsibilities.
 
 While not a legally enforceable document, the MOU is a significant step because of the time and effort involved in negotiating and drafting an effective document. To produce an MOU, the participating parties need to reach a mutual understanding. In the process, each side learns what is most important to the others before moving forward.
 
-The process often begins with each party effectively drafting its own best-case MOU. It considers its ideal or preferred outcome, what it believes it has to offer to the other parties, and what points may be non-negotiable on its side. This is each party's starting position for negotiations.
+The process often begins with each party effectively drafting its own best-case MOU. It considers its ideal or preferred outcome, what it believes it has to [[Offer|offer]] to the other parties, and what points may be non-negotiable on its side. This is each party's starting position for negotiations.
 
 An MOU communicates the mutually accepted expectations of the people, organizations, or governments involved.
 
@@ -69,7 +69,7 @@ An MOU is a document that describes very broad concepts of mutual understanding,
 
 ### How Do You Write an MOU?
 
-An MOU should clearly state the following: what parties are involved, the context of the agreement, the proposed date of when the agreement will become effective, the contact details of all relevant parties, the broad purpose of the agreement, what each party is hoping to achieve, as well as a space for all necessary signatures.
+An MOU should clearly state the following: what parties are involved, the context of the agreement, the proposed date of when the agreement [[Will|will]] become effective, the contact details of all relevant parties, the broad purpose of the agreement, what each party is hoping to achieve, as well as a space for all necessary signatures.
 
 ### Why Is an MOU Important?
 
@@ -77,4 +77,4 @@ An MOU is important because it allows each party to clearly state their objectiv
 
 ## The Bottom Line
 
-Although an MOU is not legally binding, it allows parties to prepare for signing a contract by explaining the broad concepts and expectations of their agreement. Communicating in clear terms what each party hopes to gain from an agreement can be essential to the smooth execution of signing a legal contract in the future.
+Although an MOU is not legally binding, it allows parties to prepare for signing a contract by explaining the broad concepts and expectations of their agreement. Communicating in clear terms what each party hopes to [[Gain|gain]] from an agreement can be essential to the smooth execution of signing a legal contract in the future.

@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/m/median.asp
 author: Akhilesh Ganti
 ---
 
-# Median Definition
+# [[Median Definition]]
 
 > ## Excerpt
 > The median is the middle number in a sorted, ascending or descending, list of numbers and can be more descriptive of that data set than the average.
 
 ---
 
-Median Definition
+[[Median Definition]]
 ## What is the Median?
 
 The median is the middle number in a sorted, ascending or descending, list of numbers and can be more descriptive of that data set than the average.

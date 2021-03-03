@@ -6,24 +6,24 @@ source: https://www.investopedia.com/terms/m/mark-zuckerberg.asp
 author: Lucas Downey
 ---
 
-# Mark Zuckerberg Definition
+# [[Mark Zuckerberg Definition]]
 
 > ## Excerpt
 > Mark Zuckerberg is a self-taught computer programmer, self-made billionaire, and the CEO of Facebook, which he co-founded in his dorm room in 2004.
 
 ---
 
-Mark Zuckerberg Definition
+[[Mark Zuckerberg Definition]]
 ## Who Is Mark Zuckerberg?
 
-Mark Zuckerberg is a self-taught computer programmer and co-founder, chairman, and [[chief executive officer]](https://www.investopedia.com/terms/c/ceo.asp) of Facebook ([FB](https://www.investopedia.com/markets/quote?tvwidgetsymbol=fb)), which he founded in his Harvard University dorm room in 2004 along with Andrew McCollum, Dustin Moskovitz, Chris Hughes, and Eduardo Saverin.
+Mark Zuckerberg is a self-taught computer programmer and co-founder, chairman, and [[chief executive officer]](https://www.investopedia.com/terms/c/ceo.asp) of Facebook ([FB](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=fb)), which he founded in his Harvard University dorm room in 2004 along with Andrew McCollum, Dustin Moskovitz, Chris Hughes, and Eduardo Saverin.
 
 Facebook reported 2.74 billion monthly active users in the third quarter of 2020.1 According to _Forbes_, Zuckerberg's [[net worth]](https://www.investopedia.com/terms/n/networth.asp) as of December 2020 was about $100 billion.2
 
 ### Key Takeaways
 
 -   Mark Zuckerberg is a self-taught computer programmer and the co-founder, chairman, and CEO of Facebook.
--   According to Forbes, as of December 2020, Zuckerberg's net worth was about $100 billion.2
+-   According to Forbes, as of December 2020, Zuckerberg's [[Net Worth|net worth]] was about $100 billion.2
 -   Facebook reported 2.74 billion monthly active users in the third quarter of 2020, making it the biggest social network in the world.1
 
 ## Understanding Mark Zuckerberg
@@ -42,9 +42,9 @@ In 2012, Facebook went [[public]](https://www.investopedia.com/terms/p/publiccom
 
 ## Chan Zuckerberg Initiative
 
-Zuckerberg has made headlines for his [[philanthropy]](https://www.investopedia.com/terms/p/philanthropy.asp), including his 2010 donation of $100 million to help schools in Newark, N.J.5 In 2014, the publication [_Philanthropy_](https://www.philanthropy.com/article/No-1-Mark-Zuckerberg-and/153685) ranked Zuckerberg and Chan the most generous American donors of the previous year, after they donated 18 million shares of Facebook stock to the Silicon Valley Community Foundation, in Mountain View, Calif. 
+Zuckerberg has made headlines for his [[philanthropy]](https://www.investopedia.com/terms/p/philanthropy.asp), including his 2010 donation of $100 million to help schools in Newark, N.J.5 In 2014, the publication [_Philanthropy_](https://www.philanthropy.com/article/No-1-Mark-Zuckerberg-and/153685) ranked Zuckerberg and Chan the most generous American donors of the previous year, after they donated 18 million [[Shares|shares]] of Facebook [[Stock|stock]] to the Silicon Valley Community Foundation, in Mountain View, Calif. 
 
-On December 1, 2015, Zuckerberg and Chan published a letter to their daughter Max, in which they announced the creation of the Chan Zuckerberg Initiative "to join people across the world to advance human potential and promote equality for all children in the next generation." In the post, Zuckerberg and Chan said the "initial areas of focus will be personalized learning, curing disease, connecting people and building strong communities" and that "we will give 99% of our Facebook shares—currently about $45 billion—during our lives to advance this mission."6
+On December 1, 2015, Zuckerberg and Chan published a letter to their daughter Max, in which they announced the creation of the Chan Zuckerberg Initiative "to join people across the world to advance human potential and promote equality for all children in the next generation." In the post, Zuckerberg and Chan said the "initial areas of focus [[Will|will]] be personalized learning, curing disease, connecting people and building strong communities" and that "we will give 99% of our Facebook [[Shares|shares]]—currently about $45 billion—during our lives to advance this mission."6
 
 ## Controversy and Cambridge Analytica
 
@@ -58,4 +58,4 @@ Later that month, Zuckerberg appeared before on Capitol Hill to testify before 
 
 ## Facebook Acquisitions
 
-Facebook has acquired dozens of companies over the years, including Instagram for $1 billion in 2012,9 WhatsApp for $22 billion in cash and shares in 2014,10 Oculus VR for $2 billion in 2014,11 and a number of other companies ranging from [[artificial intelligence]](https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp) (AI) to identification platforms.
+Facebook has acquired dozens of companies over the years, including Instagram for $1 billion in 2012,9 WhatsApp for $22 billion in cash and [[Shares|shares]] in 2014,10 Oculus VR for $2 billion in 2014,11 and a number of other companies ranging from [[artificial intelligence]](https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp) (AI) to identification platforms.

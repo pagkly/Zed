@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/m/middle-income-countries.asp
 author: Investopedia Staff
 ---
 
-# Middle-Income Countries (MICs) Definition
+# [[Middle-Income Countries (MICs) Definition]]
 
 > ## Excerpt
 > Middle-income countries (MICs) is one of the income categories that the World Bank uses to classify countries' economies for operational and analytical purposes.
 
 ---
 
-Middle-Income Countries (MICs) Definition
+[[Middle-Income Countries (MICs) Definition]]
 ## What Is a Middle-Income Country? (MIC)
 
 According to the [[World Bank]](https://www.investopedia.com/terms/w/worldbank.asp), [[middle-income countries]](https://www.worldbank.org/en/country/mic) (MICs) are defined as economies with a [[gross national income (GNI)]](https://www.investopedia.com/terms/g/gross-national-income-gni.asp) per capita between $1,036 and $12,535.1 MICs are one of the income categories that the World Bank uses to classify [[economies]](https://www.investopedia.com/terms/e/economy.asp) for operational and analytical purposes.
@@ -36,7 +36,7 @@ There are 53 lower-middle income economies and 56 upper-middle economies. The di
 
 ## The Significance of Middle Income Countries (MICs)
 
-MICs are essential for continued global [[economic growth]](https://www.investopedia.com/terms/e/economicgrowth.asp) and stability. According to the World Bank, sustainable growth and development in MICs have positive spillovers to the rest of the world. Examples are poverty reduction, international financial stability, and global cross-border issues, including climate change, sustainable energy development, food and water security, and international trade.
+MICs are essential for continued global [[economic growth]](https://www.investopedia.com/terms/e/economicgrowth.asp) and stability. According to the World Bank, sustainable growth and development in MICs have positive spillovers to the rest of the world. Examples are [[Poverty|poverty]] reduction, international financial stability, and global cross-border issues, including climate change, sustainable energy development, food and water [[Security|security]], and international trade.
 
 MICs have a combined population of five billion, or over 70% of the world's seven billion people, hosting 73% of the world's economically disadvantaged. Representing about one-third of global GDP, MICs are a major engine of global economic growth.
 

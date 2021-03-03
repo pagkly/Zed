@@ -6,25 +6,25 @@ source: https://www.investopedia.com/terms/m/marginal-propensity-save.asp
 author: Julia Kagan
 ---
 
-# Marginal Propensity to Save (MPS) Definition
+# [[Marginal Propensity to Save (MPS) Definition]]
 
 > ## Excerpt
 > Marginal propensity to save (MPS) refers to the proportion of a pay raise that a consumer saves rather than spends on immediate consumption.
 
 ---
 
-Marginal Propensity to Save (MPS) Definition
+[[Marginal Propensity to Save (MPS) Definition]]
 ## What Is the Marginal Propensity to Save (MPS)?
 
 In [[Keynesian economic theory]](https://www.investopedia.com/terms/k/keynesianeconomics.asp), the marginal propensity to save (MPS) refers to the proportion of an aggregate raise in income that a consumer saves rather than spends on the consumption of goods and services. Put differently, the marginal propensity to save is the proportion of each added dollar of income that is saved rather than spent. MPS is a component of Keynesian macroeconomic theory and is calculated as the change in savings divided by the change in income, or as the complement of the [[marginal propensity to consume (MPC)]](https://www.investopedia.com/terms/m/marginalpropensitytoconsume.asp).
 
-MPS is depicted by a savings line: a sloped line created by plotting change in savings on the vertical y-axis and change in income on the horizontal x-axis.
+MPS is depicted by a savings line: a sloped line created by plotting change in savings on the vertical [[Y|y]]-axis and change in income on the horizontal x-axis.
 
 ### Key Takeaways
 
 -   Marginal propensity to save is the proportion of an increase in income that gets saved instead of spent on consumption.
 -   MPS varies by income level. MPS is typically higher at higher incomes.
--   MPS helps determine the Keynesian multiplier, which describes the effect of increased investment or government spending as an economic stimulus.
+-   MPS helps determine the Keynesian multiplier, which describes the effect of increased investment or government spending as an [[Economic Stimulus|economic stimulus]].
 
 #### Marginal Propensity To Save
 
@@ -40,6 +40,6 @@ The marginal propensity to save is generally assumed to be higher for wealthier 
 
 Given data on [[household income]](https://www.investopedia.com/terms/h/household_income.asp) and household saving, [[economists]](https://www.investopedia.com/terms/e/economist.asp) can calculate households' MPS by income level. This calculation is important because MPS is not constant; it varies by income level. Typically, the higher the income, the higher the MPS, because as wealth increases, so does the ability to satisfy needs and wants, and so each additional dollar is less likely to go toward additional spending. However, the possibility remains that a consumer might alter savings and consumption habits with an increase in pay.
 
-Naturally, with an increase in salary comes the ability to cover household expenses more easily, allowing for more leeway to save. With a higher salary also comes access to goods and services that require greater expenditures. This may include the procurement of higher-end or luxury vehicles or relocation to a new, pricier residence.
+Naturally, with an increase in salary comes the ability to cover [[Household Expenses|household expenses]] more easily, allowing for more leeway to save. With a higher salary also comes access to goods and services that require greater expenditures. This may include the procurement of higher-end or luxury vehicles or relocation to a new, pricier residence.
 
-If economists know what consumers' MPS is, they can determine how increases in government spending or investment spending will influence saving. MPS is used to calculate the expenditures multiplier using the formula: 1/MPS. The expenditures multiplier tells us how changes in consumers’ marginal propensity to save influences the rest of the economy. The smaller the MPS, the larger the multiplier and the more economic impact a change in government spending or investment will have.
+If economists know what consumers' MPS is, they can determine how increases in government spending or investment spending [[Will|will]] influence saving. MPS is used to calculate the expenditures multiplier using the formula: 1/MPS. The expenditures multiplier tells us how changes in consumers’ marginal propensity to save influences the rest of the economy. The smaller the MPS, the larger the multiplier and the more economic impact a change in government spending or investment will have.
