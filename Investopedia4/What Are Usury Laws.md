@@ -1,24 +1,24 @@
 ---
 alias: [Usury Laws]
 created: 2021-03-03T00:32:19 (UTC +11:00)
-tags: [Usury Laws Definition, What Are Usury Laws?]
+tags: [Usury Laws Definition, [[What Are Usury Laws]]?]
 source: https://www.investopedia.com/terms/u/usury-laws.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Usury Laws Definition
 
 > ## Excerpt
-> Usury laws determine how much interest can be charged on a loan. These regulations exist for the sake of protecting borrowers.
+> Usury laws determine how much interest can be charged on a [[Loan|loan]]. These regulations exist for the sake of protecting borrowers.
 
 ---
 
-What Are Usury Laws?
-## What Are Usury Laws?
+[[What Are Usury Laws]]?
+## [[What Are Usury Laws]]?
 
-Usury laws are regulations governing the amount of interest that can be charged on a loan. [[Usury]](https://www.investopedia.com/terms/u/usury.asp) laws specifically target the practice of charging excessively high rates on loans by setting caps on [[the maximum amount of interest that can be levied]](https://www.investopedia.com/terms/l/legal-rate-of-interest.asp). These laws are designed to protect consumers.
+Usury laws are regulations governing the amount of interest that can be charged on a [[Loan|loan]]. [[Usury]](https://www.investopedia.com/terms/u/usury.asp) laws specifically target the practice of charging excessively high rates on loans by setting caps on [[the maximum amount of interest that can be levied]](https://www.investopedia.com/terms/l/legal-rate-of-interest.asp). These laws are designed to protect consumers.
 
-In the United States, individual states are responsible for setting their own usury laws.1 Though this type of financial activity could fall under the Constitution's commerce clause, [[Congress]](https://www.investopedia.com/terms/c/congress.asp) has not traditionally focused on usury. The government does consider the collection of usury through violent means a federal offense.2
+In the United States, individual states are responsible for setting their own usury laws.1 Though this type of financial activity could fall under the Constitution's [[Commerce|commerce]] clause, [[Congress]](https://www.investopedia.com/terms/c/congress.asp) has not traditionally focused on usury. The government does consider the collection of usury through violent means a federal offense.2
 
 ### Key Takeaways
 
@@ -35,6 +35,6 @@ Delaware, in particular, is frequently chosen as the state of incorporation for 
 
 ## Special Considerations
 
-There is some debate on the effectiveness of usury laws after decisions by the U.S. Supreme Court and legislation gave financial institutions the capacity to circumvent the limits. The high court’s decisions in the case of Marquette National Bank v. First of Omaha Corp. allowed credit companies to charge customers who were out of state at the same interest rates the companies could charge in the states where they were incorporated.3
+There is some debate on the effectiveness of usury laws after decisions by the U.S. Supreme Court and legislation gave financial institutions the capacity to circumvent the limits. The high court’s decisions in the case of Marquette [[National Bank]] v. First of Omaha Corp. allowed credit companies to charge customers who were out of state at the same interest rates the companies could charge in the states where they were incorporated.3
 
-Delaware’s introduction of the _[Financial Center Development Act](http://www.djcl.org/wp-content/uploads/2014/07/Legislation-Vol.6-1-1.pdf),_ which largely eliminated limits in the state on fees and interest that can be charged on consumer lending, further amplified the desire among financial institutions to move there.4 Banks simply had to establish subsidiaries or meet other terms for incorporation in the state to benefit from the law and thereby circumvent usury laws in other states. In response to this activity, some other states changed their usury laws to grant locally-based financial institutions the ability to charge interest rates on a par with out-of-state lenders.
+Delaware’s introduction of the _[Financial Center Development Act](http://www.djcl.org/wp-content/uploads/2014/07/Legislation-Vol.6-1-1.pdf),_ which largely eliminated limits in the state on fees and interest that can be charged on consumer lending, further amplified the desire among financial institutions to move there.4 Banks simply had to establish subsidiaries or meet other terms for incorporation in the state to benefit from the law and thereby circumvent usury laws in other states. In response to this activity, some other states changed their usury laws to [[Grant|grant]] locally-based financial institutions the ability to charge interest rates on a par with out-of-state lenders.

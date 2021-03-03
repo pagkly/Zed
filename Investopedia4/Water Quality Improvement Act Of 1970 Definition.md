@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/w/water-quality-improvement-act-of-19
 author: Adam Hayes
 ---
 
-# Water Quality Improvement Act Of 1970 Definition
+# [[Water Quality Improvement Act Of 1970 Definition]]
 
 > ## Excerpt
 > The Water Quality Improvement Act Of 1970 expanded the federal government's authority over water quality standards and water polluters.
 
 ---
 
-Water Quality Improvement Act Of 1970 Definition
+[[Water Quality Improvement Act Of 1970 Definition]]
 ## What Is the Water Quality Improvement Act of 1970?
 
 The Water Quality Improvement Act of 1970 was a piece of U.S. legislation that expanded the federal government's authority over water quality standards and water polluters.
@@ -42,8 +42,8 @@ The act's very first goal was to stop all pollutants from entering any of the na
 
 Although water pollution has been reduced substantially since the 1970s, there is still much that needs to be done. Nitrogen and phosphorous are commonly found in water and provide marine wildlife with much-needed nutrition. But when waterways are found with excessive levels of these elements, it can become dangerous.
 
-A major cause of pollution is now pesticides, whereas in the early 1970s it was the direct dumping of chemicals and other pollutants into the water by [[industries]](https://www.investopedia.com/terms/i/industry.asp). According to the EPA, nitrogen "pollution has impacted many streams, rivers, lakes, bays, and coastal waters for the past several decades, resulting in serious environmental and human health issues, and impacting the economy."2
+A major cause of pollution is now pesticides, whereas in the early 1970s it was the direct [[Dumping|dumping]] of chemicals and other pollutants into the water by [[industries]](https://www.investopedia.com/terms/i/industry.asp). According to the EPA, nitrogen "pollution has impacted many streams, rivers, lakes, bays, and coastal waters for the past several decades, resulting in serious environmental and human health issues, and impacting the economy."2
 
 Potential polluters can purchase marine pollution insurance to protect themselves from liabilities they may face under federal water regulations.
 
-Potential accidental water polluters can protect themselves from the [[liabilities]](https://www.investopedia.com/terms/l/liability.asp) they face under federal water regulations by purchasing marine pollution [[insurance]](https://www.investopedia.com/terms/i/insurance.asp). This insurance covers losses such as cleanup, damage to natural resources, legal defense, and civil penalties. Mobile drilling units, cargo owners and operators, shipyards, and marina owners and operators are examples of businesses that can benefit from having this type of insurance coverage.
+Potential accidental water polluters can protect themselves from the [[liabilities]](https://www.investopedia.com/terms/l/[[Liability|liability]].asp) they face under federal water regulations by purchasing marine pollution [[insurance]](https://www.investopedia.com/terms/i/insurance.asp). This insurance covers losses such as cleanup, damage to natural resources, legal defense, and civil penalties. Mobile drilling units, cargo owners and operators, shipyards, and marina owners and operators are examples of businesses that can benefit from having this type of insurance coverage.

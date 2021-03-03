@@ -6,23 +6,23 @@ source: https://www.investopedia.com/terms/w/waterfallconcept.asp
 author: Jason Fernando
 ---
 
-# Waterfall Concept Definition
+# [[Waterfall Concept Definition]]
 
 > ## Excerpt
 > A waterfall concept is a method of intergenerational wealth transfer that utilizes a rollover of a life insurance policy to a child or grandchild.
 
 ---
 
-Waterfall Concept Definition
+[[Waterfall Concept Definition]]
 ## What Is a Waterfall Concept?
 
-The term “waterfall concept” refers to a popular [[estate planning]](https://www.investopedia.com/estate-planning-4427729) strategy in which a [[whole-life insurance policy]](https://www.investopedia.com/terms/w/wholelife.asp) is transfered一or “rolled over”一from the policyholder to their child or grandchild.
+The term “waterfall concept” refers to a popular [[estate planning]](https://www.investopedia.com/[[Estate|estate]]-planning-4427729) strategy in which a [[whole-life insurance policy]](https://www.investopedia.com/terms/w/wholelife.asp) is transfered一or “rolled over”一from the policyholder to their child or grandchild.
 
 ### Key Takeaways
 
--   The waterfall concept is an estate planning strategy that uses whole-life insurance contracts to efficiently transfer wealth between generations.
+-   The waterfall concept is an [[Estate Planning|estate planning]] strategy that uses whole-life insurance contracts to efficiently transfer wealth between generations.
 -   It can only be used to transfer wealth from an older generation to a younger one, such as in the case of a grandparent giving to their child or grandchild.
--   In addition to their tax benefits, waterfall concepts can also help reduce probate issues and legal costs.
+-   In addition to their tax benefits, waterfall concepts can also help reduce [[Probate|probate]] issues and legal costs.
 
 ## How Waterfall Concepts Work
 
@@ -36,4 +36,4 @@ In addition to its tax advantages, the waterfall concept can help avoid some of 
 
 A typical example of the waterfall concept would be one in which the policy is transferred from a grandparent to a grandchild. The grandchild would then pay taxes only when withdrawing funds from the policy. To the extent that the grandchild’s tax rate is lower than that of their grandparent, this would result in tax savings overall.
 
-When using the waterfall concept, it is important to structure the policy in a manner that protects against the risk that the original policyholder might die before the policy is transferred. One method to do so is by designating a third party, such as the child’s parent, as a contingent or irrevocable beneficiary, with the intention that the parent would then transfer the policy to the grandchild once he or she comes of age. This process could be entirely stipulated using the terms of the life insurance contract itself, without requiring the use of a [[trust]](https://www.investopedia.com/terms/t/trust.asp) or other such legal entity.
+When using the waterfall concept, it is important to structure the policy in a manner that protects against the [[Risk|risk]] that the original policyholder might die before the policy is transferred. One method to do so is by designating a [[Third Party|third party]], such as the child’s parent, as a contingent or irrevocable beneficiary, with the intention that the parent would then transfer the policy to the grandchild once he or she comes of age. This process could be entirely stipulated using the terms of the life insurance contract itself, without requiring the use of a [[trust]](https://www.investopedia.com/terms/t/trust.asp) or other such legal entity.

@@ -1,7 +1,7 @@
 ---
 alias: [National Insurance Contributions, NIC]
 created: 2021-03-02T21:32:17 (UTC +11:00)
-tags: [National Insurance Contributions (NIC) Definition, What Are National Insurance Contributions (NIC)?]
+tags: [National Insurance Contributions (NIC) Definition, [[What Are National Insurance Contributions (NIC)]]?]
 source: https://www.investopedia.com/terms/n/national-insurance-contributions-nic.asp
 author: Julia Kagan
 ---
@@ -13,21 +13,21 @@ author: Julia Kagan
 
 ---
 
-What Are National Insurance Contributions (NIC)?
+[[What Are National Insurance Contributions (NIC)]]?
 ## National Insurance Contributions (NIC): An Overview
 
-National Insurance Contributions (NIC) are taxes paid by British employees and employers to fund government benefits programs, including state pensions. The contributions are made through payroll deductions.
+National Insurance Contributions (NIC) are taxes paid by British employees and employers to fund government benefits programs, including state pensions. The contributions are made through [[Payroll|payroll]] deductions.
 
-The NIC deduction works much like the FICA withholding system in the U.S. (FICA stands for Federal Insurance Contributions Act. The funds withheld pay Social Security and Medicare benefits.)
+The NIC deduction works much like the FICA withholding system in the U.S. (FICA stands for Federal Insurance Contributions Act. The funds withheld pay [[Social Security]] and Medicare benefits.)
 
 ## Understanding the NIC
 
-The National Insurance (NI) system was created in 1911 to provide assistance to workers who were sick and unemployed. A series of expansions in the 20th century extended its reach to add funding for the National Health Service, the public retiree pension plan, and unemployment benefits.
+The National Insurance (NI) system was created in 1911 to provide assistance to workers who were sick and unemployed. A series of expansions in the 20th century extended its reach to add funding for the National Health Service, the public retiree [[Pension Plan|pension plan]], and [[Unemployment|unemployment]] benefits.
 
 ### Key Takeaways
 
 -   National Insurance Contributions are taxes paid by employees and employers in the U.K.
--   National Insurance is an umbrella term for universal health care, the public pension program, and unemployment benefits.
+-   National Insurance is an umbrella term for universal health care, the public pension program, and [[Unemployment|unemployment]] benefits.
 -   Employees may make additional voluntary payments to increase the pension amount they're eventually entitled to receive.
 
 British workers pay their share of NI contributions to build up an entitlement over time for later payment of a pension and other government benefits such as a maternity allowance.
@@ -38,11 +38,11 @@ The maximum regular pension benefit was about $215 per week as of 2020.
 
 Employees can make voluntary additional NI contributions in order to qualify later for a higher pension amount. Self-employed people and British citizens working outside the country also can make voluntary contributions to build towards pension eligibility.
 
-An employee who works or expects to work fewer than 35 years will not qualify for the maximum pension benefit without making additional voluntary payments. The maximum pension benefit in 2020 was about $215 per week. The payout may be higher for employees who make voluntary contributions or defer taking the benefit until a later age.
+An employee who works or expects to work fewer than 35 years [[Will|will]] not qualify for the maximum pension benefit without making additional voluntary payments. The maximum pension benefit in 2020 was about $215 per week. The [[Payout|payout]] may be higher for employees who make voluntary contributions or defer taking the benefit until a later age.
 
 ### A Short History of NIC
 
-The current system of National Insurance in the United Kingdom began with the National Insurance Act 1911 and was limited to a government-funded unemployment benefit.
+The current system of National Insurance in the United Kingdom began with the National Insurance Act 1911 and was limited to a government-funded [[Unemployment|unemployment]] benefit.
 
 At that time, health insurance and pension benefits were administered by private trade unions and "approved societies," or professional associations. An Old Age Pension was paid to people over age 70, at a time when only one in four Britons lived that long.
 

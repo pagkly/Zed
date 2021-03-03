@@ -13,7 +13,7 @@ author: Andrew Bloomenthal
 
 ---
 
-What Chief Operating Officers Do
+[[What Chief Operating Officers Do]]
 ## What Is a Chief Operating Officer (COO)?
 
 The chief operating officer (COO) is a senior executive tasked with overseeing the day-to-day administrative and operational functions of a business. The COO typically reports directly to the [[chief executive officer]](https://www.investopedia.com/terms/c/ceo.asp) (CEO) and is considered to be second in the chain of command.
@@ -50,7 +50,7 @@ Consequently, COOs often design operations strategies, communicate policies to e
 
 ## Types of Chief Operating Officers (COOs)
 
-Every company is different and in a different stage of growth. A new company will have very different needs than a company that has been around for 100 years and has a large market share of its industry. Depending on the company, its needs, the stage of its cycle, and the characteristics of the specific company, it will require a specific type of COO to help it realize its goals.
+Every company is different and in a different stage of growth. A new company [[Will|will]] have very different needs than a company that has been around for 100 years and has a large market share of its industry. Depending on the company, its needs, the stage of its cycle, and the characteristics of the specific company, it will require a specific type of COO to help it realize its goals.
 
 There are generally seven types of COOs:
 
@@ -60,13 +60,13 @@ There are generally seven types of COOs:
 -   An "MVP" COO who is promoted internally to ensure that they don't defect to a rival company.
 -   The COO, who is brought in to complement the CEO (This is a person who has the opposite characteristics and abilities as the CEO.)
 -   The partner COO, who is brought in as another version of the CEO
--   The heir apparent, who becomes the COO to learn from the CEO, in order to ultimately assume the CEO position1
+-   The [[Heir|heir]] apparent, who becomes the COO to learn from the CEO, in order to ultimately assume the CEO position1
 
 ## Qualifications for a Chief Operating Officer (COO)
 
 A COO typically has extensive experience within the field in which a given company operates. COOs often work for at least 15 years, climbing the corporate ladder. This slow build helps prepare COOs for their roles, by letting them cultivate extensive experience in the practices, policies, and procedures of their chosen field.
 
-Also, because they're traditionally responsible for directing multiple departments, COOs must be resourceful problem solvers and must possess strong leadership skills. Educationally, COOs typically at a minimum hold bachelor's degrees, while often also holding Master's in Business Administration (MBA) degrees and other certifications.
+Also, because they're traditionally responsible for directing multiple departments, COOs must be resourceful problem solvers and must possess strong leadership skills. Educationally, COOs typically at a minimum [[Hold|hold]] bachelor's degrees, while often also holding Master's in Business Administration (MBA) degrees and other certifications.
 
 ## Examples of a Chief Operating Officer (COO)
 
@@ -74,19 +74,19 @@ Also, because they're traditionally responsible for directing multiple departmen
 
 Oracle is a technology firm that began in 1977. It sells database software, cloud technology, management systems, and a variety of other products.2 Oracle had been performing well as a company but then hit a growth cap and couldn't increase annual revenue past $1 billion for a period of time.
 
-In 1992, Larry Ellison, then CEO and now Executive Chairman and [[CTO]](https://www.investopedia.com/terms/c/chief-technology-officer.asp), brought in Ray Lane to turn the company's fortunes around. Lane joined as Senior Vice President and President of Oracle USA. He became COO in 1996.3
+In 1992, [[Larry Ellison]], then CEO and now Executive Chairman and [[CTO]](https://www.investopedia.com/terms/c/chief-technology-officer.asp), brought in Ray Lane to turn the company's fortunes around. Lane joined as Senior Vice President and President of Oracle USA. He became COO in 1996.3
 
 When Lane came on board, he integrated packaged software and high-margin professional service. In this aspect, he was selling two products in one cycle, increasing revenues from one sale. And according to him, because the people providing the professional service were experts on the product, the company could charge a high price for it resulting in a high [[margin]](https://www.investopedia.com/terms/p/profitmargin.asp).
 
 In 1992, Oracle had sales of $1.8 billion and profits of $61.5 million. In 1997, it had $5.7 billion in sales and profits of $821.5 million.4
 
-In 1999, Lane received a salary of $1 million and a $2.25 million bonus. He was also given 1.125 million in stock options, at the time valued between $11.8 million and $30 million.5
+In 1999, Lane received a salary of $1 million and a $2.25 million bonus. He was also given 1.125 million in [[Stock|stock]] options, at the time valued between $11.8 million and $30 million.5
 
 ### Mort Topfer (Dell)
 
 The history of Dell Computers is quite famous, with Michael Dell having started the company in his dorm room in 1984. It was the first company to sell personal computers directly to consumers. The company had been performing well until about 1993 when business started to flounder.
 
-The company's stock fell from $49 to $16 and the CFO had resigned. The problems of the company were due to rapid growth that it could just not keep up with. It had a planned launch of notebook computers that was eventually stopped because of poor production planning. At the time, the company didn't know what product lines its profits and losses were coming from. In essence, its operations were a mess.6
+The company's [[Stock|stock]] fell from $49 to $16 and the CFO had resigned. The problems of the company were due to rapid growth that it could just not keep up with. It had a planned launch of notebook computers that was eventually stopped because of poor production planning. At the time, the company didn't know what product lines its profits and losses were coming from. In essence, its operations were a mess.6
 
 With the company [[falling apart]](https://www.investopedia.com/ask/answers/052015/who-are-dells-main-competitors.asp), Dell decided to bring on people with experience, older than him who had the managerial chops to turn things around. The key hire was Mort Topfer. Though he did not have the title of COO, it was Vice Chairman, he did the job of COO and was Dell's mentor. He was the CEO's right-hand man.
 
@@ -112,11 +112,11 @@ A CEO is the top-most ranking person at a firm that is responsible for the long-
 
 ### What does it take to be a COO?
 
-COOs have a strong educational background combined with extensive work experience. A strong COO will have worked in a variety of positions, particularly in a specific organization, to understand all of the different parts of a business and how they work together. This allows them to pinpoint specific issues and gaps within the organization. Having experience managing people and teams is also imperative to be a COO. In addition, COOs should be great at communication, flexible, and strong leaders.
+COOs have a strong educational background combined with extensive work experience. A strong COO [[Will|will]] have worked in a variety of positions, particularly in a specific organization, to understand all of the different parts of a business and how they work together. This allows them to pinpoint specific issues and gaps within the organization. Having experience managing people and teams is also imperative to be a COO. In addition, COOs should be great at communication, flexible, and strong leaders.
 
 ### How much money does a COO make?
 
-The salary of a COO will vary greatly depending on a variety of factors. These factors include the company they work for, their experience, and their contract. According to PayScale, the average COO salary is $144,313. The base salary ranges from $73,000 to $246,000. On top of that, COOs are paid bonuses and [[profit-sharing]](https://www.investopedia.com/terms/p/profitsharingplan.asp) plans.9
+The salary of a COO [[Will|will]] vary greatly depending on a variety of factors. These factors include the company they work for, their experience, and their contract. According to PayScale, the average COO salary is $144,313. The base salary ranges from $73,000 to $246,000. On top of that, COOs are paid bonuses and [[profit-sharing]](https://www.investopedia.com/terms/p/profitsharingplan.asp) plans.9
 
 ## The Bottom Line 
 

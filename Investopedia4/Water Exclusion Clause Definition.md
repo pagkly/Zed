@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/w/water-exclusion-clause.asp
 author: Troy Segal
 ---
 
-# Water Exclusion Clause Definition
+# [[Water Exclusion Clause Definition]]
 
 > ## Excerpt
 > A water exclusion clause in a homeowner's or renter's insurance policy denies coverage for certain water-related claims.
 
 ---
 
-Water Exclusion Clause Definition
+[[Water Exclusion Clause Definition]]
 ## What Is a Water Exclusion Clause?
 
 A water exclusion clause is a restriction in [[homeowners]](https://www.investopedia.com/terms/h/homeowners-insurance.asp) and [[renter's]](https://www.investopedia.com/terms/r/renters-insurance.asp) insurance policies that denies coverage for some water-related claims. Events that are likely to fall under a water exclusion clause include damage caused by flood, tsunamis, standing water, groundwater, and drain or sewage backups.
@@ -31,7 +31,7 @@ Homeowners and renters may be able to add some types of [[water damage coverage]
 
 A water exclusion clause is common in most property [[insurance policies]](https://www.investopedia.com/terms/i/insurance-coverage.asp). The reasoning is that only specific areas are prone to water-related natural disaster events, such as floods, tidal waves, or tsunamis. Water exclusion is one of several types of exclusion clauses found in homeowners and renter insurance contracts. Other standard exclusions include movements of the earth (quakes, landslides), wars and certain other government actions, and nuclear hazards and events.
 
-However, water-related perils aren't totally excluded by homeowners insurance. Most policies routinely do cover [[water damage]](https://www.investopedia.com/terms/w/water-damage-insurance.asp) that occurs for specific reasons—usually a sudden or accidental event that occurs within the structure, such as a burst pipe or malfunctioning dishwasher or other plumbing/water supply-related problems. Gradual damage or wear and tear that happens over time generally isn't covered, though.
+However, water-related perils aren't totally excluded by homeowners insurance. Most policies routinely do cover [[water damage]](https://www.investopedia.com/terms/w/water-damage-insurance.asp) that occurs for specific reasons—usually a sudden or accidental event that occurs within the structure, such as a burst pipe or malfunctioning dishwasher or other plumbing/water [[Supply|supply]]-related problems. Gradual damage or wear and tear that happens over time generally isn't covered, though.
 
 Destruction arising out of certain weather events—such as thunderstorms that send a tree crashing through a wall, or snow that collapses a roof, allowing water to pour in—generally are covered (at least, the water damage they cause is; ironically, the cost of repairing the wall or roof may not be). Some types of hurricane-related damage may also be covered, though in 19 states and the District of Columbia policyholders must pay an additional [[hurricane deductible]](https://www.investopedia.com/terms/h/hurricane-deductible.asp) before coverage kicks in.1
 
@@ -45,7 +45,7 @@ Despite the legal debate, the bottom line is that a flood from an external sourc
 
 Average losses to homeowners due to water damage and freezing in 2018, according to the Insurance Information Institute.2
 
-sually, that means purchasing a separate policy for protection against flood damage, known as [[flood insurance]](https://www.investopedia.com/terms/f/flood-insurance.asp). In fact, for properties in high-risk areas, lenders sometimes require [[mortgaged]](https://www.investopedia.com/terms/m/mortgage.asp) homeowners to carry flood insurance—at least to protect the structure of the dwelling. (Unlike a standard homeowners policy, flood insurance requires that a policyholder buy separate policies to cover the property and the property's contents.) Homes financed by a federally backed lender, for example, require flood insurance if they are located in a government-designated flood hazard zone.3
+sually, that means purchasing a separate policy for protection against flood damage, known as [[flood insurance]](https://www.investopedia.com/terms/f/flood-insurance.asp). In fact, for properties in high-[[Risk|risk]] areas, lenders sometimes require [[mortgaged]](https://www.investopedia.com/terms/m/mortgage.asp) homeowners to carry flood insurance—at least to protect the structure of the dwelling. (Unlike a standard homeowners policy, flood insurance requires that a policyholder buy separate policies to cover the property and the property's contents.) Homes financed by a federally backed [[Lender|lender]], for example, require flood insurance if they are located in a government-designated flood hazard zone.3
 
 Flood insurance policies are available for both residential and [commercial properties](https://www.investopedia.com/terms/c/commercial-property.asp). Renters can also purchase flood insurance policies that cover their [personal property](https://www.investopedia.com/terms/p/personalproperty.asp) in a single-family home, apartment, condominium, or business property.4
 

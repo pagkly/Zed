@@ -1,7 +1,7 @@
 ---
 alias: [Compensatory Damages]
 created: 2021-03-02T18:55:43 (UTC +11:00)
-tags: [Compensatory Damages Definition, What Are Compensatory Damages?]
+tags: [Compensatory Damages Definition, [[What Are Compensatory Damages]]?]
 source: https://www.investopedia.com/terms/c/compensatory-damages.asp
 author: Julia Kagan
 ---
@@ -13,8 +13,8 @@ author: Julia Kagan
 
 ---
 
-What Are Compensatory Damages?
-## What Are Compensatory Damages?
+[[What Are Compensatory Damages]]?
+## [[What Are Compensatory Damages]]?
 
 Compensatory damages are money awarded to a plaintiff to compensate for damages, injury, or another incurred loss. Compensatory damages are awarded in civil court cases where loss has occurred as a result of the negligence or unlawful conduct of another party.
 
@@ -62,7 +62,7 @@ To be awarded actual compensatory damages, the plaintiff must prove that losses
 
 General compensatory damages, meanwhile, include estimates of loss not involving actual monetary expenditure. Some courts use the "multiplier method," which calculates general damages by multiplying the sum total of one's actual damages by a number that signifies the seriousness of the injury.
 
-In other jurisdictions, courts will use the "per diem" method, which attaches a dollar value to each day a plaintiff suffers and adds the value of all those days together. In some cases, a court will use a hybrid of these two methods to calculate general compensatory damages. These general compensatory damages include:
+In other jurisdictions, courts [[Will|will]] use the "per diem" method, which attaches a dollar value to each day a plaintiff suffers and adds the value of all those days together. In some cases, a court will use a hybrid of these two methods to calculate general compensatory damages. These general compensatory damages include:
 
 -   Mental anguish
 -   Disfigurement
@@ -74,4 +74,4 @@ In other jurisdictions, courts will use the "per diem" method, which attaches a 
 -   Loss of enjoyment of life
 -   Loss of opportunity
 
-Compensatory damages are typically awarded in medical malpractice lawsuits, usually for medical bills, hospital bills, rehabilitation expenses, and compensation for lost earnings. Some compensatory damages can be difficult to assess. For example, the value of lost wages will be much higher for a more affluent member of society versus someone who is poor or retired.
+Compensatory damages are typically awarded in medical malpractice lawsuits, usually for medical bills, hospital bills, rehabilitation expenses, and compensation for lost earnings. Some compensatory damages can be difficult to assess. For example, the value of lost wages [[Will|will]] be much higher for a more affluent member of society versus someone who is poor or retired.

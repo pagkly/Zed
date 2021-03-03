@@ -1,7 +1,7 @@
 ---
 alias: [Earnings]
 created: 2021-03-02T19:29:08 (UTC +11:00)
-tags: [Earnings Definition, What Are a Company's Earnings?]
+tags: [Earnings Definition, [[What Are a Company's Earnings]]?]
 source: https://www.investopedia.com/terms/e/earnings.asp
 author: Alicia Tuovila
 ---
@@ -13,7 +13,7 @@ author: Alicia Tuovila
 
 ---
 
-What Are a Company's Earnings?
+[[What Are a Company's Earnings]]?
 ## What Are Earnings?
 
 A company's earnings are its after-tax [[net income]](https://www.investopedia.com/terms/n/netincome.asp). This is the company's [[bottom line]](https://www.investopedia.com/terms/b/bottomline.asp) or its [[profits]](https://www.investopedia.com/terms/p/profit.asp).
@@ -25,15 +25,15 @@ Earnings are the main determinant of a public company's share price because they
 ### Key Takeaways
 
 -   Earnings refer to a company's profits in a given quarter or fiscal year.
--   Earnings are a key figure used to determine a stock's value.
+-   Earnings are a key figure used to determine a [[Stock|stock]]'s value.
 -   A company's earnings are used in many common ratios.
--   Earnings have a big impact on stock price, and as a result, the numbers are subject to potential manipulation.
+-   Earnings have a big impact on [[Stock|stock]] price, and as a result, the numbers are subject to potential manipulation.
 
 ## Understanding Earnings
 
 Earnings are the profit that a company produces in a specific period, usually defined as a quarter or a year. After the end of each quarter, analysts wait for the earnings of the companies they follow to be released. Earnings are studied because they represent a direct link to company performance.
 
-Earnings that deviate from the expectations of the analysts that follow that stock can have a great impact on the [[stock]](https://www.investopedia.com/terms/s/stock.asp)'s price, at least in the short term. For instance, if analysts on average estimate that earnings will be $1 per share and they come in at $0.80 per share, the price of the stock is likely to fall on that "earnings miss."
+Earnings that deviate from the expectations of the analysts that follow that [[Stock|stock]] can have a great impact on the [[stock]](https://www.investopedia.com/terms/s/stock.asp)'s price, at least in the short term. For instance, if analysts on average estimate that earnings [[Will|will]] be $1 per share and they come in at $0.80 per share, the price of the stock is likely to fall on that "earnings miss."
 
 A company that beats analysts' earnings estimates is looked on favorably by investors. A company that consistently misses earnings estimates may be considered an unattractive and risky investment.
 
@@ -49,7 +49,7 @@ All three figures provide varying degrees of measuring profitability.
 
 ### Earnings per Share
 
-Earnings per share ([EPS](https://www.investopedia.com/terms/e/eps.asp)) is a commonly cited ratio used to show the company's profitability on a per-share basis. It is calculated by dividing the company's total earnings by the number of shares outstanding.
+Earnings per share ([EPS](https://www.investopedia.com/terms/e/eps.asp)) is a commonly cited ratio used to show the company's profitability on a per-share basis. It is calculated by dividing the company's total earnings by the number of [[Shares|shares]] outstanding.
 
 ### Price-to-Earnings
 
@@ -57,9 +57,9 @@ Earnings are also used to determine a key indicator known as the price-to-earnin
 
 The price-to-earnings ratio, calculated as share price divided by earnings per share, is used by investors and analysts to compare the relative values of companies in the same industry or sector.
 
-The stock of a company with a high P/E ratio relative to its industry peers may be considered overvalued. A company with a low price compared with its earnings might appear to be undervalued.
+The [[Stock|stock]] of a company with a high P/E ratio relative to its industry peers may be considered overvalued. A company with a low price compared with its earnings might appear to be undervalued.
 
-### Earnings Yield
+### Earnings [[Yield]]
 
 The [[earnings yield]](https://www.investopedia.com/terms/e/earningsyield.asp), or the earnings per share for the most recent 12-month period divided by the current market price per share, is another way of measuring earnings. It is in fact simply the inverse of the P/E ratio.
 
@@ -69,8 +69,8 @@ Since corporate earnings are such an important metric and have a direct impact o
 
 Some companies attempt to sway investors by prominently displaying their earnings on their [[financial]](https://www.investopedia.com/articles/professionals/092415/career-advice-financial-analyst-vsresearch-analyst.asp) statements in order to hide deficiencies reported lower down that reveal weaknesses like dubious accounting practices or an unanticipated drop in sales. These companies are said to have a poor or weak [[quality of earnings]](https://www.investopedia.com/terms/q/qualityofearnings.asp).
 
-The earnings per share number may also be inflated with share [[buybacks]](https://www.investopedia.com/terms/b/buyback.asp) or other methods of changing the number of shares outstanding. Companies can do this by repurchasing shares with retained earnings or debt to make it appear as if they are generating greater profits per outstanding share.
+The earnings per share number may also be inflated with share [[buybacks]](https://www.investopedia.com/terms/b/buyback.asp) or other methods of changing the number of [[Shares|shares]] outstanding. Companies can do this by repurchasing shares with [[Retained Earnings|retained earnings]] or [[Debt|debt]] to make it appear as if they are generating greater profits per outstanding share.
 
 Other companies may purchase a smaller company with a higher P/E ratio to [[bootstrap]](https://www.investopedia.com/terms/b/bootstrap.asp) their own numbers into favorable territory.
 
-When earnings manipulations are revealed, as in the case with Enron or Worldcom, the accounting crisis that follows often leaves shareholders on the hook for rapidly declining stock prices.
+When earnings manipulations are revealed, as in the case with [[Enron]] or [[WorldCom|Worldcom]], the accounting crisis that follows often leaves shareholders on the hook for rapidly declining [[Stock|stock]] prices.

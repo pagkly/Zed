@@ -1,9 +1,9 @@
 ---
 alias: [Non-Member Banks]
 created: 2021-03-02T21:45:57 (UTC +11:00)
-tags: [Non-Member Banks Definition, What Are Non-Member Banks?]
+tags: [Non-Member Banks Definition, [[What Are Non-Member Banks]]?]
 source: https://www.investopedia.com/terms/n/non-member-banks.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Non-Member Banks Definition
@@ -13,15 +13,15 @@ author: Will Kenton
 
 ---
 
-What Are Non-Member Banks?
-## What Are Non-Member Banks?
+[[What Are Non-Member Banks]]?
+## [[What Are Non-Member Banks]]?
 
-Non-member banks are banks that are not members of the U.S. [[Federal Reserve System]](https://www.investopedia.com/terms/f/federalreservesystem.asp). As with member banks, non-member banks are subject to [[reserve requirements]](https://www.investopedia.com/terms/r/requiredreserves.asp), which they have to maintain by placing a percentage of their deposits at a [[Federal Reserve Bank]](https://www.investopedia.com/terms/f/federalreservebank.asp). Although non-member banks are not required to purchase stock in their district Federal Reserve banks, they still have access to services offered by the Federal Reserve, such as its discount window on the same terms as member banks.
+Non-member banks are banks that are not members of the U.S. [[Federal Reserve System]](https://www.investopedia.com/terms/f/federalreservesystem.asp). As with member banks, non-member banks are subject to [[reserve requirements]](https://www.investopedia.com/terms/r/requiredreserves.asp), which they have to maintain by placing a percentage of their deposits at a [[Federal Reserve Bank]](https://www.investopedia.com/terms/f/federalreservebank.asp). Although non-member banks are not required to purchase [[Stock|stock]] in their district Federal Reserve banks, they still have access to services offered by the Federal Reserve, such as its discount window on the same terms as member banks.
 
 ### Key Takeaways
 
 -   Non-member banks refer to banks that are not members of the U.S. Federal Reserve System, typically state-chartered banks.
--   State-chartered banks may ultimately decide to refrain from membership under the Fed because regulation can be less onerous based on state laws and under the Federal Deposit Insurance Corporation (FDIC), which oversees non-member banks.
+-   State-chartered banks may ultimately decide to refrain from membership under the Fed because regulation can be less onerous based on state laws and under the [[Federal Deposit Insurance Corporation (FDIC)]], which oversees non-member banks.
 -   Other examples of non-member banks include the Bank of the West and GMC Bank.
 
 ## How Non-Member Banks Work
@@ -30,10 +30,10 @@ Non-member banks can only be state-chartered since all nationally-[chartered ban
 
 Depending on where they are located, non-member banks are only subject to state laws, rather than federal laws, so they may opt for less-regulated operations in a state like North Dakota. In addition, they are able to keep at least a part of their reserves in interest-bearing securities. Non-member banks, like members, still receive services from the Federal Reserve System, including check clearing, electronic funds movements, and automated clearing house payments.
 
-Becoming a member is only a matter of submitting an application, fulfilling the requirements, and going through a waiting period. Some non-member banks deliberate on this decision carefully and engage in the process in measured steps if they believe that being a member is ultimately more beneficial than remaining a non-member. There are also examples of, in extreme cases, non-member banks deciding to change their status to take advantage of certain benefits of becoming part of the U.S. Federal Reserve System.
+Becoming a member is only a matter of submitting an application, fulfilling the requirements, and going through a [[Waiting Period|waiting period]]. Some non-member banks deliberate on this decision carefully and engage in the process in measured steps if they believe that being a member is ultimately more beneficial than remaining a non-member. There are also examples of, in extreme cases, non-member banks deciding to change their status to take advantage of certain benefits of becoming part of the U.S. Federal Reserve System.
 
 ## Examples of Non-Member Banks
 
-In 2008, some non-member banks fled into the arms of the Federal Reserve System for protection. Such was the case with investment bank Goldman Sachs, which faced economic uncertainty during the financial crisis in 2008. The investment bank humbly sought and received member status to access the Fed's discount window and begin taking government-guaranteed deposits from the public. In a press release heralding its new status, the bank spun it this way: "We believe that Goldman Sachs, under Federal Reserve supervision, will be regarded as an even more secure institution with an exceptionally clean balance sheet and a greater diversity of funding sources."
+In 2008, some non-member banks fled into the arms of the Federal Reserve System for protection. Such was the case with investment bank Goldman Sachs, which faced economic uncertainty during the [[Financial Crisis|financial crisis]] in 2008. The investment bank humbly sought and received member status to access the Fed's discount window and begin taking government-guaranteed deposits from the public. In a press release heralding its new status, the bank spun it this way: "We believe that Goldman Sachs, under Federal Reserve supervision, [[Will|will]] be regarded as an even more secure institution with an exceptionally clean balance sheet and a greater diversity of funding sources."
 
 Other examples of non-member banks include the Bank of the West, GMAC Bank, and the Bank of North Dakota.

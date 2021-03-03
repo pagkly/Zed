@@ -3,7 +3,7 @@ alias: [Hyperinflation]
 created: 2021-03-02T20:54:02 (UTC +11:00)
 tags: [Hyperinflation Definition, What Causes Hyperinflation]
 source: https://www.investopedia.com/terms/h/hyperinflation.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Hyperinflation Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-What Causes Hyperinflation
+[[What Causes Hyperinflation]]
 ## What Is Hyperinflation?
 
 Hyperinflation is a term to describe rapid, excessive, and out-of-control general price increases in an economy. While [[inflation]](https://www.investopedia.com/terms/i/inflation.asp) is a measure of the pace of rising prices for goods and services, hyperinflation is rapidly rising inflation, typically measuring more than 50% per month.
@@ -23,7 +23,7 @@ Although hyperinflation is a rare event for developed economies, it has occurred
 ### Key Takeaways
 
 -   Hyperinflation is a term to describe rapid, excessive, and out-of-control price increases in an economy, typically at rates exceeding 50% each month over time.
--   Hyperinflation can occur in times of war and economic turmoil in the underlying production economy, in conjunction with a central bank printing an excessive amount of money.
+-   Hyperinflation can occur in times of war and economic turmoil in the [[Underlying|underlying]] production economy, in conjunction with a central bank printing an excessive amount of money.
 -   Hyperinflation can cause a surge in prices for basic goods—such as food and fuel—as they become scarce.
 -   While hyperinflations are typically rare, once they begin they can spiral out of control.
 
@@ -33,9 +33,9 @@ Hyperinflation occurs when prices have risen by more than 50% per month over a p
 
 Whereas normal inflation is measured in terms of monthly price increases, hyperinflation is measured in terms of exponential daily increases that can approach 5 to 10% a day. Hyperinflation occurs when the inflation rate exceeds 50% for a period of a month.
 
-Imagine the cost of food shopping going from $500 per week to $750 per week the next month, to $1,125 per week the next month and so on. If wages aren't keeping pace with inflation in an economy, the standard of living for the people goes down because they can't afford to pay for their basic needs and cost of living expenses.
+Imagine the cost of food shopping going from $500 per week to $750 per week the next month, to $1,125 per week the next month and so on. If wages aren't keeping pace with inflation in an economy, the standard of living for the people goes down because they can't afford to pay for their basic needs and [[Cost of Living|cost of living]] expenses.
 
-Hyperinflation can cause a number of consequences for an economy. People may hoard goods, including perishables such as food because of rising prices, which in turn, can create food supply shortages. When prices rise excessively, cash, or savings deposited in banks decreases in value or becomes worthless since the money has far less purchasing power. Consumers' financial situation deteriorates and can lead to [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp).
+Hyperinflation can cause a number of consequences for an economy. People may hoard goods, including perishables such as food because of rising prices, which in turn, can create food [[Supply|supply]] shortages. When prices rise excessively, cash, or savings deposited in banks decreases in value or becomes worthless since the money has far less purchasing power. Consumers' financial situation deteriorates and can lead to [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp).
 
 Also, people might not deposit their money in [[financial institutions]](https://www.investopedia.com/terms/f/financialinstitution.asp) leading to banks and lenders to go out of business. Tax revenues may also fall if consumers and businesses can't pay, which could result in governments failing to provide basic services.
 
@@ -43,19 +43,19 @@ Also, people might not deposit their money in [[financial institutions]](https:/
 
 Although hyperinflation can be triggered by a number of reasons, below are a few of the most common causes of hyperinflation.
 
-### Excessive Money Supply
+### Excessive Money [[Supply]]
 
-Hyperinflation has occurred in times of severe economic turmoil and [[depression]](https://www.investopedia.com/terms/d/depression.asp). A depression is a prolonged period of a contracting economy, meaning the growth rate is negative. A [[recession]](https://www.investopedia.com/terms/r/recession.asp) is typically a period of negative growth that occurs for more than two quarters or six months. A depression, on the other hand, can last years but also exhibits extremely high unemployment, company and personal bankruptcies, lower productive output, and less lending or available credit. The response to a depression is usually an increase in the money supply by the central bank. The extra money is designed to encourage banks to lend to consumers and businesses to create spending and investment.
+Hyperinflation has occurred in times of severe economic turmoil and [[depression]](https://www.investopedia.com/terms/d/depression.asp). A depression is a prolonged period of a contracting economy, meaning the growth rate is negative. A [[recession]](https://www.investopedia.com/terms/r/recession.asp) is typically a period of [[Negative Growth|negative growth]] that occurs for more than two quarters or six months. A depression, on the other hand, can last years but also exhibits extremely high [[Unemployment|unemployment]], company and personal bankruptcies, lower productive output, and less lending or available credit. The response to a depression is usually an increase in the money [[Supply|supply]] by the central bank. The extra money is designed to encourage banks to lend to consumers and businesses to create spending and investment.
 
-However, if the increase in money supply is not supported by economic growth as measured by [[gross domestic product (GDP)]](https://www.investopedia.com/terms/g/gdp.asp), the result can lead to hyperinflation. If GDP, which is a measure of the production of goods and services in an economy, isn't growing, businesses raise prices to boost profits and stay afloat. Since consumers have more money, they pay the higher prices, which leads to inflation. As the economy deteriorates further, companies charge more, consumers pay more, and the central bank prints more money—leading to a vicious cycle of hyperinflation.
+However, if the increase in money [[Supply|supply]] is not supported by economic growth as measured by [[gross domestic product (GDP)]](https://www.investopedia.com/terms/g/gdp.asp), the result can lead to hyperinflation. If GDP, which is a measure of the production of goods and services in an economy, isn't growing, businesses raise prices to boost profits and stay afloat. Since consumers have more money, they pay the higher prices, which leads to inflation. As the economy deteriorates further, companies charge more, consumers pay more, and the central bank prints more money—leading to a vicious cycle of hyperinflation.
 
 ### Loss of Confidence in the Economy or Monetary System
 
 In times of war, hyperinflation often occurs when there is a loss of confidence in a country's currency and the central bank's ability to maintain its currency's value in the aftermath. Companies selling goods within and outside the country demand a [[risk premium]](https://www.investopedia.com/terms/r/riskpremium.asp) for accepting their currency by raising their prices. The result can lead to exponential price increases or hyperinflation.
 
-If a government isn't managed properly, citizens can also lose confidence in the value of their country's currency. When the currency is perceived as having little or no value, people begin to hoard commodities and goods that have value. As prices begin to rise, basic goods—such as food and fuel—become scarce, sending prices in an upward spiral. In response, the government is forced to print even more money to try to stabilize prices and provide liquidity, which only exacerbates the problem.
+If a government isn't managed properly, citizens can also lose confidence in the value of their country's currency. When the currency is perceived as having little or no value, people begin to hoard commodities and goods that have value. As prices begin to rise, basic goods—such as food and fuel—become scarce, sending prices in an upward spiral. In response, the government is forced to print even more money to try to stabilize prices and provide [[Liquidity|liquidity]], which only exacerbates the problem.
 
-Oftentimes, the lack of confidence is reflected in investment outflows leaving the country during times of economic turmoil and war. When these outflows occur, the country' currency value depreciates because investors are selling their country's investments in exchange for another country's investments. The central bank will often impose [[capital controls]](https://www.investopedia.com/terms/c/capital_conrol.asp), which are bans on moving money out of the country.
+Oftentimes, the lack of confidence is reflected in investment outflows leaving the country during times of economic turmoil and war. When these outflows occur, the country' currency value depreciates because investors are selling their country's investments in exchange for another country's investments. The central bank [[Will|will]] often impose [[capital controls]](https://www.investopedia.com/terms/c/capital_conrol.asp), which are bans on moving money out of the country.
 
 ## Example of Hyperinflation
 

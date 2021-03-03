@@ -3,7 +3,7 @@ alias: [Normal Good]
 created: 2021-03-02T21:50:23 (UTC +11:00)
 tags: [Normal Good Definition, What Determines a Normal Good]
 source: https://www.investopedia.com/terms/n/normal-good.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Normal Good Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-What Determines a Normal Good
+[[What Determines a Normal Good]]
 ## What Is a Normal Good?
 
 A normal good is a good that experiences an increase in its demand due to a rise in consumers' income. In other words, if there's an increase in wages, demand for normal goods increases while conversely, wage declines or layoffs lead to a reduction in demand.
@@ -22,9 +22,9 @@ A normal good is a good that experiences an increase in its demand due to a rise
 
 A normal good, also called a necessary good, doesn't refer to the quality of the good but rather, the level of demand for the good in relation to wage increases or declines.
 
-A normal good has an elastic relationship between income and demand for the good. In other words, changes in demand and income are positively correlated or move in the same direction. [[Income elasticity of demand]](https://www.investopedia.com/terms/i/incomeelasticityofdemand.asp) measures the magnitude with which the quantity demanded for a good changes in reaction to a change in income. It is used to understand changes in consumption patterns that result from changes in [[purchasing power]](https://www.investopedia.com/terms/p/purchasingpower.asp).
+A normal good has an elastic relationship between income and demand for the good. In other words, changes in demand and income are positively correlated or move in the same direction. [[Income elasticity of demand]](https://www.investopedia.com/terms/i/incomeelasticityofdemand.asp) measures the magnitude with which the [[Quantity Demanded|quantity demanded]] for a good changes in reaction to a change in income. It is used to understand changes in consumption patterns that result from changes in [[purchasing power]](https://www.investopedia.com/terms/p/purchasingpower.asp).
 
-Income elasticity of demand can be calculated by taking the percentage of change in the quantity demanded for the good and dividing it by the percentage change in income. A normal good has an income elasticity of demand that is positive, but less than one. 
+Income elasticity of demand can be calculated by taking the percentage of change in the [[Quantity Demanded|quantity demanded]] for the good and dividing it by the percentage change in income. A normal good has an income elasticity of demand that is positive, but less than one. 
 
 If the demand for blueberries increases by 11 percent when aggregate income increases by 33 percent, then blueberries are said to have an income elasticity of demand of 0.33, or (.11/.33). As a result, blueberries would qualify as a normal good. Other examples of normal goods include food staples, clothing, and household appliances.
 
@@ -33,7 +33,7 @@ Economists use income elasticity of demand to determine whether a good is a nece
 ### Key Takeaways
 
 -   A normal good is a good that experiences an increase in its demand due to a rise in consumers' income.
--   Normal goods has a positive correlation between income and demand.
+-   Normal goods has a positive [[Correlation|correlation]] between income and demand.
 -   Examples of normal goods include food staples, clothing, and household appliances.
 
 ## Inferior Goods and Normal Goods

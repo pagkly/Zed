@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/w/weak-dollar.asp
 author: Gordon Scott
 ---
 
-# Weak Dollar Definition
+# [[Weak Dollar Definition]]
 
 > ## Excerpt
 > A weak dollar is a sustained period of depreciation in the United States' currency.
 
 ---
 
-Weak Dollar Definition
+[[Weak Dollar Definition]]
 ## What is a Weak Dollar?
 
 A weak dollar refers to a downward price trend in the value of the U.S. dollar relative to other foreign [[currencies]](https://www.investopedia.com/terms/c/currency.asp). The most commonly compared currency is the Euro, so if the Euro is rising in price compared to the dollar, the dollar is said to be weakening at that time. Essentially, a weak dollar means that a U.S. dollar can be exchanged for smaller amounts of foreign currency. The effect of this is that goods priced in U.S. dollars, as well as goods produced in non-US countries, become more expensive to U.S. consumers.
@@ -27,13 +27,13 @@ A weak dollar refers to a downward price trend in the value of the U.S. dollar r
 
 ## Understanding What a Weak Dollar Means
 
-A weakening dollar implies several consequences, but not all of them are negative. A weakening dollar means that imports become more expensive, but it also means that exports are more attractive to consumers in other countries outside the U.S. Conversely a strengthening dollar is bad for exports, but good for imports. For many years the U.S. has run a trade deficit with other nations--meaning they are a net importer.
+A weakening dollar implies several consequences, but not all of them are negative. A weakening dollar means that imports become more expensive, but it also means that exports are more attractive to consumers in other countries outside the U.S. Conversely a strengthening dollar is bad for exports, but good for imports. For many years the U.S. has run a [[Trade Deficit|trade deficit]] with other nations--meaning they are a [[Net Importer|net importer]].
 
-A nation which imports more than it exports would usually favor a strong currency. However in the wake of the 2008 financial crisis, most of the developed nations have pursued policies that favor weaker currencies. A weaker dollar, for example, could allow U.S. factories to remain competitive in ways that may employ many workers and thereby stimulate the U.S. economy. However there are many of factors, not just economic fundamentals such as GDP or trade deficits, that can lead to a period of U.S. dollar weakness.
+A nation which imports more than it exports would usually favor a strong currency. However in the wake of the 2008 [[Financial Crisis|financial crisis]], most of the developed nations have pursued policies that favor weaker currencies. A weaker dollar, for example, could allow U.S. factories to remain competitive in ways that may employ many workers and thereby stimulate the U.S. economy. However there are many of factors, not just economic [[Fundamentals|fundamentals]] such as GDP or trade deficits, that can lead to a period of U.S. dollar weakness.
 
 The term weak dollar is used to describe a sustained period of time, as opposed to two or three days of price fluctuation. Much like the economy, the strength of a country's currency is cyclical, so extended periods of strength and weakness are inevitable. Such periods may occur for reasons unrelated to domestic affairs. Geopolitical events, weather-related crises, financial strain from overbuilding or even under-population trends can cause pressure on a country's currency in ways that create relative strength or weakness over a period of years or decades.
 
-The Federal Reserve works to equalize such influences as much as it determines to be prudent. The Fed responds with tight or easing monetary policy. During a period of tight monetary policy, when the Federal Reserve is raising interest rates, the U.S. dollar is likely to strengthen. When investors earn more money from better yields (higher interest payments on the currency), it will attract investment from global sources, which may push the U.S. dollar higher for a while. Conversely, a weak dollar occurs during a time when the Fed is lowering interest rates as part of an easing monetary policy. 
+The Federal Reserve works to equalize such influences as much as it determines to be prudent. The Fed responds with tight or easing monetary policy. During a period of tight monetary policy, when the Federal Reserve is raising interest rates, the U.S. dollar is likely to strengthen. When investors earn more money from better yields (higher interest payments on the currency), it [[Will|will]] attract investment from global sources, which may push the U.S. dollar higher for a while. Conversely, a weak dollar occurs during a time when the Fed is lowering interest rates as part of an easing monetary policy. 
 
 ## Quantitative Easing
 
@@ -45,4 +45,4 @@ However, four years later as the Fed embarked on lifting interest for the first 
 
 Depending on the type of transaction that a party is participating in, possessing a weak dollar is not necessarily a bad situation. For example, a weak dollar may be bad news for U.S. citizens wishing to vacation in foreign countries, but it could be good news for U.S. tourist attractions, as it also means that the U.S. would be more inviting as a destination for international travelers. 
 
-More significantly, a weak U.S. dollar can effectively reduce the country's trade deficit. When U.S. exports become more competitive on the foreign market, then U.S. producers divert more resources to producing those things foreign buyers want from the U.S. But policy makers and business leaders have no consensus on what direction, a weaker or stronger currency, is best to pursue. The weak-dollar debate has become a political constant in the 21st century.
+More significantly, a weak U.S. dollar can effectively reduce the country's [[Trade Deficit|trade deficit]]. When U.S. exports become more competitive on the foreign market, then U.S. producers divert more resources to producing those things foreign buyers want from the U.S. But policy makers and business leaders have no consensus on what direction, a weaker or stronger currency, is best to pursue. The weak-dollar debate has become a political constant in the 21st century.

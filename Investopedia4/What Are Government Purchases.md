@@ -1,9 +1,9 @@
 ---
 alias: [Government Purchases]
 created: 2021-03-02T20:23:13 (UTC +11:00)
-tags: [Government Purchases Definition, What Are Government Purchases?]
+tags: [Government Purchases Definition, [[What Are Government Purchases]]?]
 source: https://www.investopedia.com/terms/g/governmentpurchases.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Government Purchases Definition
@@ -13,16 +13,16 @@ author: Will Kenton
 
 ---
 
-What Are Government Purchases?
-## What Are Government Purchases?
+[[What Are Government Purchases]]?
+## [[What Are Government Purchases]]?
 
-Government purchases are expenditures on goods and services by federal, state, and local governments. The combined total of this spending, excluding [[transfer payments]](https://www.investopedia.com/terms/t/transferpayment.asp) and interest on the debt, is a key factor in determining a nation's gross domestic product (GDP). Transfer payments are expenditures that do not involve purchases, such as Social Security payments and [[farm subsidies]](https://www.investopedia.com/ask/answers/040315/what-point-agricultural-subsidies.asp).
+Government purchases are expenditures on goods and services by federal, state, and local governments. The combined total of this spending, excluding [[transfer payments]](https://www.investopedia.com/terms/t/transferpayment.asp) and interest on the [[Debt|debt]], is a key factor in determining a nation's [[Gross Domestic Product (GDP)|gross domestic product (GDP)]]. Transfer payments are expenditures that do not involve purchases, such as [[Social Security]] payments and [[farm subsidies]](https://www.investopedia.com/ask/answers/040315/what-point-agricultural-subsidies.asp).
 
 ### Key Takeaways
 
--   Government purchases include any spending by federal, state, and local agencies, with the exception of debt and transfer payments such as Social Security.
--   Overall, government purchases are a key component of a nation's gross domestic product (GDP).
--   According to the Keynesian theory of economics, government purchases are a tool to boost overall spending and correct a weak economy.
+-   Government purchases include any spending by federal, state, and local agencies, with the exception of [[Debt|debt]] and transfer payments such as [[Social Security]].
+-   Overall, government purchases are a key component of a nation's [[Gross Domestic Product (GDP)|gross domestic product (GDP)]].
+-   According to the Keynesian theory of [[Economics|economics]], government purchases are a tool to boost overall spending and correct a weak economy.
 
 ## Understanding Government Purchases
 
@@ -51,6 +51,6 @@ Plenty of other economists are against the government spending lots of money, ar
 
 Government purchases range from spending on infrastructure projects and paying civil service and public service employees to buying office software and equipment and maintaining public buildings. Transfer payments, which do not involve purchases, are not included in this category.
 
-The BEA attributed a rise in federal government spending in 2020 mainly to an increase in purchases of intermediate services to support the processing and administration of Paycheck Protection Program loan applications.
+The BEA attributed a rise in federal government spending in 2020 mainly to an increase in purchases of intermediate services to support the processing and administration of Paycheck Protection Program [[Loan|loan]] applications.
 
-In 2020, the BEA [[revealed]](https://www.bea.gov/sites/default/files/2021-02/gdp4q20_2nd.pdf) that federal government spending rose, while state and local government spending fell. Overall, [[real GDP]](https://www.investopedia.com/terms/r/realgdp.asp), in a year overshadowed by the COVID-19 epidemic and economically damaging lockdown measures, was estimated to have fallen by 3.5%.
+In 2020, the BEA [[revealed]](https://www.bea.gov/sites/[[Default|default]]/files/2021-02/gdp4q20_2nd.pdf) that federal government spending rose, while state and local government spending fell. Overall, [[real GDP]](https://www.investopedia.com/terms/r/realgdp.asp), in a year overshadowed by the COVID-19 epidemic and economically damaging lockdown measures, was estimated to have fallen by 3.5%.
