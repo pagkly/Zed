@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia4/A Closer Look at Grace Periods.md",
-            "mode": "preview"
+            "file": "Investopedia4/An Explanation of Positive Economics.md",
+            "mode": "source"
           }
         },
         "group": "80072392d02cf333"
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Investopedia4/A Closer Look at Grace Periods.md",
+            "file": "Investopedia4/An Explanation of Positive Economics.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia4/A Closer Look at Grace Periods.md",
+                "file": "Investopedia4/An Explanation of Positive Economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia4/A Closer Look at Grace Periods.md"
+                "file": "Investopedia4/An Explanation of Positive Economics.md"
               }
             }
           },
@@ -176,15 +176,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Investopedia4/An Explanation of Positive Economics.md",
+    "Investopedia4/An Inside Look at Ramp Ups.md",
+    "Investopedia4/A Review of Pink Sheet Stocks and How Investors Can Trade Them.md",
+    "Investopedia4/A Look at the Cayman Islands Dollar.md",
     "Investopedia4/A Closer Look at Grace Periods.md",
     "Investopedia4/1913 Federal Reserve Act.md",
     "Investopedia4/Hedge Fund.md",
     "Day Planners/20210303.md",
     "Investopedia4/A Downside Risk Estimate.md",
-    "Investopedia3/1913 Federal Reserve Act.md",
-    "Investopedia3/A Financial Guarantee Defined.md",
-    "Investopedia3/A Downside Risk Estimate.md",
-    "Investopedia3/A Definition and Explanation of Free On Board (FOB).md",
-    "Investopedia3/A Closer Look at Grace Periods.md"
+    "Investopedia3/1913 Federal Reserve Act.md"
   ]
 }

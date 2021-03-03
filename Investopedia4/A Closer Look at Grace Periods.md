@@ -20,7 +20,7 @@ A grace period is a set length of time after the due date during which payment m
 
 ## How a Grace Period Works
 
-A grace period [[allows a borrower or insurance customer to delay payment]](https://www.investopedia.com/ask/answers/111314/whats-difference-between-grace-period-and-deferment.asp) for a short period of time beyond the due date. During this period no late fees are charged, and the delay cannot result in [[Investopedia3/Default]] or cancellation of the [[Loan|loan]] or contract.
+A grace period [[allows a borrower or insurance customer to delay payment]](https://www.investopedia.com/ask/answers/111314/whats-difference-between-grace-period-and-deferment.asp) for a short period of time beyond the due date. During this period no late fees are charged, and the delay cannot result in [[Investopedia4/Default|Default]] or cancellation of the [[Loan|loan]] or contract.
 
 Payment after the due date but during the grace period does not cause a black mark to be added to the borrower’s [[credit report]](https://www.investopedia.com/terms/c/creditreport.asp).
 
