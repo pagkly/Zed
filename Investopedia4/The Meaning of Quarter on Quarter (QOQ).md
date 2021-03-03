@@ -13,10 +13,10 @@ author: Caroline Banton
 
 ---
 
-The Meaning of Quarter on Quarter (QOQ)
+[[The Meaning of Quarter on Quarter (QOQ)]]
 ## What Is Quarter on Quarter (QOQ)?
 
-Quarter on quarter (QOQ) is a measuring technique that calculates the change between one fiscal quarter and the previous fiscal quarter. The term is similar to the [[year-over-year]](https://www.investopedia.com/terms/y/year-over-year.asp) (YOY) measure, which compares the quarter of one year (such as the first quarter of 2020) to the same quarter of the previous year (the first quarter of 2019). The measure gives investors and analysts an idea of how a company is growing over each quarter.
+Quarter on quarter (QOQ) is a measuring technique that calculates the change between one fiscal quarter and the previous fiscal quarter. The term is similar to the [[year-over-year]](https://www.investopedia.com/terms/[[Y|y]]/year-over-year.asp) (YOY) measure, which compares the quarter of one year (such as the first quarter of 2020) to the same quarter of the previous year (the first quarter of 2019). The measure gives investors and analysts an idea of how a company is growing over each quarter.
 
 ### Key Takeaways
 
@@ -44,6 +44,6 @@ There are circumstances where QOQ analysis may not provide a holistic view of t
 
 ## Real-World Example
 
-A company's earnings report from one quarter to the next can affect the market. A disappointing earnings report can cause the stock to plunge as investors try to sell off the stock before the price drops.
+A company's earnings report from one quarter to the next can affect the market. A disappointing earnings report can cause the [[Stock|stock]] to plunge as investors try to sell off the stock before the price drops.
 
-In 2018, Amazon's third-quarter earnings exceeded analysts' estimates, but Amazon's guidance for the fourth quarter fell short of expectations, and the company's stock price plunged in response to the announcement. The last quarter of the year includes the holidays and is typically Amazon's busiest season. Fourth-quarter revenue guidance was significantly below the consensus and caused concern among shareholders. Amazon stock plunged by 10%, although it eventually recovered as investors priced in the news.
+In 2018, Amazon's third-quarter earnings exceeded analysts' estimates, but Amazon's guidance for the fourth quarter fell short of expectations, and the company's [[Stock|stock]] price plunged in response to the announcement. The last quarter of the year includes the holidays and is typically Amazon's busiest season. Fourth-quarter revenue guidance was significantly below the consensus and caused concern among shareholders. Amazon stock plunged by 10%, although it eventually recovered as investors priced in the news.

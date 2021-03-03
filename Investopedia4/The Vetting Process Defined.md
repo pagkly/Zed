@@ -9,14 +9,14 @@ author: Carol M. Kopp
 # Vetting Definition
 
 > ## Excerpt
-> Vetting is the process of thoroughly investigating an individual, company, or other entity before making a decision to go forward with a joint project.
+> Vetting is the process of thoroughly investigating an individual, company, or other entity before making a decision to go forward with a [[Joint|joint]] project.
 
 ---
 
-The Vetting Process Defined
+[[The Vetting Process Defined]]
 ## What Is Vetting?
 
-Vetting is the process of thoroughly investigating an individual, company, or other entity before making a decision to go forward with a joint project. A background review is a vetting process.
+Vetting is the process of thoroughly investigating an individual, company, or other entity before making a decision to go forward with a [[Joint|joint]] project. A background review is a vetting process.
 
 ## The Basics of Vetting
 
@@ -28,11 +28,11 @@ In modern business usage, vetting has come to mean the process of examining a pe
 
 Vetting may also be described as doing [[due diligence]](https://www.investopedia.com/terms/d/duediligence.asp), such as:
 
--   A board of directors will thoroughly vet a candidate for company [[CEO]](https://www.investopedia.com/terms/c/ceo.asp) or another top management position.
--   A business will vet a potential major supplier in order to determine whether it has conducted its business efficiently and honestly in the past.
--   An [[investment adviser]](https://www.investopedia.com/articles/professionals/041013/becoming-registered-investment-advisor.asp) will vet a potential investment for its track record, management quality, and growth potential before recommending it to clients.
+-   A board of directors [[Will|will]] thoroughly vet a candidate for company [[CEO]](https://www.investopedia.com/terms/c/ceo.asp) or another top management position.
+-   A business [[Will|will]] vet a potential major supplier in order to determine whether it has conducted its business efficiently and honestly in the past.
+-   An [[investment adviser]](https://www.investopedia.com/articles/professionals/041013/becoming-registered-investment-advisor.asp) [[Will|will]] vet a potential investment for its track record, management quality, and growth potential before recommending it to clients.
 
-The word is used informally in many other contexts. A refugee seeking asylum is vetted as part of the application process. Candidates for government security clearance are vetted to make sure they don't have checkered pasts. A lawyer vets a contract to find any potential pitfalls in the fine print.
+The word is used informally in many other contexts. A refugee seeking asylum is vetted as part of the application process. Candidates for government [[Security|security]] clearance are vetted to make sure they don't have checkered pasts. A lawyer vets a contract to find any potential pitfalls in the fine print.
 
 ## What Vetting Entails
 
@@ -44,7 +44,7 @@ Whether it is a person, a company, or an [[investment]](https://www.investopedia
 
 ### Key Takeaways
 
--   Vetting, also known as a background review, involves investigating an individual, company, or other entity before making a decision to go forward with a joint project.
+-   Vetting, also known as a background review, involves investigating an individual, company, or other entity before making a decision to go forward with a [[Joint|joint]] project.
 -   A vetting process might begin with a confirmation of facts to ensure a resume, for example, accurately describes all the skills and experience claimed.
 -   A vetting process continues with the verification of information. Every degree, award or certification claimed by a candidate is checked for accuracy.
 
@@ -52,4 +52,4 @@ Whether it is a person, a company, or an [[investment]](https://www.investopedia
 
 Heavy reliance on vetting by governments around the world has raised some concerns related to both the high cost and the long delays they can cause.
 
-A recent article in an Australian newspaper reported that some 350,000 people doing work for the Australian government had needed to undergo vetting processes to get their jobs. The cost to the government ranged from $300 for a minimum clearance to about $1,500 for a top security clearance. Job openings then requiring vetting included a museum coordinator, a librarian, and a veterinarian.
+A recent article in an Australian newspaper reported that some 350,000 people doing work for the Australian government had needed to undergo vetting processes to get their jobs. The cost to the government ranged from $300 for a minimum clearance to about $1,500 for a top [[Security|security]] clearance. Job openings then requiring vetting included a museum coordinator, a librarian, and a veterinarian.

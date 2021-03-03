@@ -13,16 +13,16 @@ author: Caroline Banton
 
 ---
 
-The meaning of the term Third World
+[[The meaning of the term Third World]]
 ## What Is the Third World?
 
-"Third World" is an outdated and derogatory phrase that has been used historically to describe a class of economically developing nations. It is part of a four-part segmentation that was used to describe the [[world’s economies]](https://www.investopedia.com/articles/investing/100515/these-will-be-worlds-top-economies-2020.asp) by economic status. Third World falls behind First World and Second World but was ahead of Fourth World, though Fourth-World countries were hardly recognized at all. Today the preferred terminology is a developing nation, an underdeveloped country, or a low- and [[middle-income country]](https://www.investopedia.com/terms/m/middle-income-countries.asp) (LMIC).
+"Third World" is an outdated and derogatory phrase that has been used historically to describe a class of economically developing nations. It is part of a four-part segmentation that was used to describe the [[world’s economies]](https://www.investopedia.com/articles/investing/100515/these-[[Will|will]]-be-worlds-top-economies-2020.asp) by economic status. Third World falls behind [[First World]] and Second World but was ahead of Fourth World, though Fourth-World countries were hardly recognized at all. Today the preferred terminology is a developing nation, an underdeveloped country, or a low- and [[middle-income country]](https://www.investopedia.com/terms/m/middle-income-countries.asp) (LMIC).
 
 ## Defining Developing Nations
 
 There can be a few ways to divide up the world for purposes of economic segmentation. Classifying countries as First, Second, Third, and Fourth World was a concept created during and after the Cold War, which ran from approximately 1945 to the 1990s.
 
-In general, nations are typically characterized by economic status and key economic metrics like gross domestic product (GDP), GDP growth, GDP per capita, employment growth, and an unemployment rate. In developing countries, low production rates and struggling labor market characteristics are usually paired with relatively low levels of education, poor infrastructure, improper sanitation, limited access to health care, and lower costs of living.
+In general, nations are typically characterized by economic status and key economic metrics like [[Gross Domestic Product (GDP)|gross domestic product (GDP)]], GDP growth, GDP per capita, employment growth, and an [[Unemployment|unemployment]] rate. In developing countries, low production rates and struggling [[Labor Market|labor market]] characteristics are usually paired with relatively low levels of education, poor infrastructure, improper sanitation, limited access to health care, and lower costs of living.
 
 Developing nations are closely watched by the [[International Monetary Fund]](https://www.investopedia.com/articles/03/030703.asp) (IMF) and the [[World Bank]](https://www.investopedia.com/terms/w/worldbank.asp), which seek to provide global aid for the purposes of projects that help to improve infrastructure and economic systems comprehensively. Both organizations refer to these countries as lower-middle or low-income countries.
 
@@ -35,7 +35,7 @@ Developing nations, or LMIC, can be the target of many investors seeking to iden
 
 ## History of Developing Nations Classifications
 
-The classification of nations as First World or Third World emerged during and after the Cold War. First-World countries were known as the most highly industrialized nations whose views aligned with the North Atlantic Treaty Organization and [capitalism](https://www.investopedia.com/terms/c/capitalism.asp).
+The classification of nations as [[First World]] or Third World emerged during and after the Cold War. First-World countries were known as the most highly industrialized nations whose views aligned with the North Atlantic Treaty Organization and [capitalism](https://www.investopedia.com/terms/c/[[Capitalism|capitalism]].asp).
 
 Second-World countries supported [communism](https://www.investopedia.com/terms/c/communism.asp) and the Soviet Union. Most of these countries were formerly controlled by the Soviet Union. Many countries of East Asia also fit into the Second-World category.
 
@@ -43,7 +43,7 @@ Third-World countries included nations in Asia and Africa that were not aligned
 
 ### Alfred Sauvy Coined the Term
 
-Alfred Sauvy, a French demographer, anthropologist, and historian, is credited with coining the term Third World during the Cold War. Sauvy observed a group of countries, many former colonies, that did not share the ideological views of Western capitalism or Soviet socialism. "Three worlds, one planet," wrote Sauvy in a 1952 article published in _L'Observateur_.1
+Alfred Sauvy, a French demographer, anthropologist, and historian, is credited with coining the term Third World during the Cold War. Sauvy observed a group of countries, many former colonies, that did not share the ideological views of Western [[Capitalism|capitalism]] or Soviet [[Socialism|socialism]]. "Three worlds, one planet," wrote Sauvy in a 1952 article published in _L'Observateur_.1
 
 ## Dividing the World
 
@@ -53,7 +53,7 @@ The developed countries are the most industrialized with the strongest economic 
 
 ## Frontier Markets List
 
-The evolutions of the worldly segmentations have become historic and obsolete. As such, one barometer for assessing a list of developing countries is [[MSCI’s Frontier Markets Index]](https://www.msci.com/market-classification). This index includes the following countries:
+The evolutions of the worldly segmentations have become historic and obsolete. As such, one barometer for assessing a list of developing countries is [[MSCI’s Frontier Markets Index]](https://www.[[MSCI|msci]].com/market-classification). This index includes the following countries:
 
 -   Croatia
 -   Estonia
@@ -83,9 +83,9 @@ The [[World Trade Organization]](https://www.wto.org/english/tratop_e/devel_e/d1
 
 The WTO segregation comes with certain rights for developing country status. For example, the WTO grants developing countries longer transition periods before implementing agreements that aim to increase trading opportunities and infrastructure support related to WTO work.
 
-As an offshoot of the WTO, the [[Human Development Index]](https://www.investopedia.com/terms/h/human-development-index-hdi.asp) (HDI) is another economic status metric developed by the United Nations to assess the social and economic development levels of countries. The HDI measures and then ranks a country based on schooling, life expectancy, and gross national income per capita.
+As an offshoot of the WTO, the [[Human Development Index]](https://www.investopedia.com/terms/h/human-development-index-hdi.asp) (HDI) is another economic status metric developed by the United Nations to assess the social and economic development levels of countries. The HDI measures and then ranks a country based on schooling, [[Life Expectancy|life expectancy]], and gross national income per capita.
 
-The World Health Organization and the United Nations uses [[Least Developed Countries]](https://apps.who.int/iris/bitstream/handle/10665/255802/WHO-CCU-17.07-eng.pdf;jsessionid=EA2CACEBF1259A083DFE622B27042B02?sequence=1) (LDC) to describe a set of [45 countries](https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/publication/ldc_list.pdf) with low socioeconomic developmental indicators. This list is reassessed every few years. These indicators are a combination of gross national income, human assets (nutrition, life expectancy, secondary school education, adult literacy), and economic vulnerability (population size, remoteness, merchandise export concentration, agriculture, exports, and natural disaster preparedness).
+The World Health Organization and the United Nations uses [[Least Developed Countries]](https://apps.who.int/iris/bitstream/handle/10665/255802/WHO-CCU-17.07-eng.pdf;jsessionid=EA2CACEBF1259A083DFE622B27042B02?sequence=1) (LDC) to describe a set of [45 countries](https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/publication/ldc_list.pdf) with low socioeconomic developmental indicators. This list is reassessed every few years. These indicators are a combination of gross national income, human assets (nutrition, [[Life Expectancy|life expectancy]], secondary school education, adult literacy), and economic vulnerability (population size, remoteness, merchandise export concentration, agriculture, exports, and natural disaster preparedness).
 
 -   Afghanistan
 -   Angola

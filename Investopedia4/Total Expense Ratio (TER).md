@@ -6,25 +6,25 @@ source: https://www.investopedia.com/terms/t/ter.asp
 author: Adam Hayes
 ---
 
-# Total Expense Ratio (TER) Definition
+# [[Total Expense Ratio (TER)]] Definition
 
 > ## Excerpt
-> The total expense ratio (TER) expresses the costs necessary to run a fund as a percentage.
+> The [[Total Expense Ratio (TER)|total expense ratio (TER)]] expresses the costs necessary to run a fund as a percentage.
 
 ---
 
-Total Expense Ratio (TER)
-## What Is the Total Expense Ratio (TER)?
+[[Total Expense Ratio (TER)]]
+## What Is the [[Total Expense Ratio (TER)]]?
 
-The total expense ratio (TER) is a measure of the total costs associated with managing and operating an [[investment fund]](https://www.investopedia.com/terms/i/investment-fund.asp), such as a [[mutual fund]](https://www.investopedia.com/terms/m/mutualfund.asp). These costs consist primarily of [[management fees]](https://www.investopedia.com/terms/m/managementfee.asp) and additional expenses, such as trading fees, legal fees, auditor fees, and other operational expenses.
+The [[Total Expense Ratio (TER)|total expense ratio (TER)]] is a measure of the total costs associated with managing and operating an [[investment fund]](https://www.investopedia.com/terms/i/investment-fund.asp), such as a [[mutual fund]](https://www.investopedia.com/terms/m/mutualfund.asp). These costs consist primarily of [[management fees]](https://www.investopedia.com/terms/m/managementfee.asp) and additional expenses, such as trading fees, legal fees, auditor fees, and other operational expenses.
 
 The total cost of the fund is divided by the fund's total assets to arrive at a percentage amount, which represents the TER. TER is also known as the net expense ratio or [[after reimbursement expense ratio]](https://www.investopedia.com/terms/a/arer.asp).
 
 ### Key Takeaways
 
--   Total expense ratio (TER) is a measure of mutual fund operating costs relative to assets.
+-   [[Total Expense Ratio (TER)|Total expense ratio (TER)]] is a measure of mutual fund operating costs relative to assets.
 -   Investors pay attention to the expense ratio to determine if a fund is an appropriate investment for them after fees are considered.
--   The total expense ratio is also known as the "net expense ratio" or "after reimbursement expense ratio."
+-   The total expense ratio is also known as the "net expense ratio" or "after [[Reimbursement|reimbursement]] expense ratio."
 
 ## Formula and Calculation of Total Expense Ratio
 
@@ -39,11 +39,11 @@ To calculate the total expense ratio:
 
 ## What the Total Expense Ratio Can Tell You
 
-The size of the total expense ratio (TER) is important to investors, as the costs are withdrawn from the fund, affecting investors' returns. For example, if a fund generates a return of 7% for the year but has a TER of 4%, the 7% gain is greatly diminished to roughly 3%.
+The size of the [[Total Expense Ratio (TER)|total expense ratio (TER)]] is important to investors, as the costs are withdrawn from the fund, affecting investors' returns. For example, if a fund generates a [[Return|return]] of 7% for the year but has a TER of 4%, the 7% [[Gain|gain]] is greatly diminished to roughly 3%.
 
 The TER provides a way for the annual costs of running a particular fund to be covered. It takes all of the known costs associated with the fund’s operation and expresses them as a single number, generally as a percentage, drawing its basis from the assets associated with the fund. This does mean that the amount provided as the TER is dependent on the success of the particular fund. The funds supplied through the TER are used to support the management, trading, and legal fees associated with the fund, as well as any audit costs or general [[operating expenses]](https://www.investopedia.com/terms/o/operating_expense.asp).
 
-Any time a fund incurs higher or lower operating expenses, those changes are likely passed along within the TER. The more [[actively managed]](https://www.investopedia.com/terms/a/activemanagement.asp) the fund, the higher the associated TER. This is due to increased personnel costs, as well as increased transaction-based fees. For example, the fund manager pays a brokerage fee each time a buy and sell trade is executed, which is embedded in the fund's expense ratio. The higher number of trades, the higher the transaction costs, and the TER
+Any time a fund incurs higher or lower operating expenses, those changes are likely passed along within the TER. The more [[actively managed]](https://www.investopedia.com/terms/a/activemanagement.asp) the fund, the higher the associated TER. This is due to increased personnel costs, as well as increased transaction-based fees. For example, the fund manager pays a brokerage fee each time a buy and sell trade is executed, which is embedded in the fund's expense ratio. The higher number of trades, the higher the [[Transaction Costs|transaction costs]], and the TER
 
 By comparison, an automated or passive fund has significantly lower costs of operation, resulting in a lower TER.
 
@@ -63,4 +63,4 @@ The total expense ratio represents the fees charged to the fund after any waiver
 
 ## Limitations of Using the Total Expense Ratio
 
-The TER is meant to capture the entire cost that an investor can expect from owning an investment fund. However, some charges, especially those that only are only made once, or that are made from the investment capital, may not be included in the TER. These include initial charges, such as [[commission]](https://www.investopedia.com/terms/c/commission.asp), stockbroker fees, securities transfer tax, and annual adviser fees.
+The TER is meant to capture the entire cost that an investor can expect from owning an investment fund. However, some charges, especially those that only are only made once, or that are made from the investment capital, may not be included in the TER. These include initial charges, such as [[commission]](https://www.investopedia.com/terms/c/[[Commission|commission]].asp), stockbroker fees, securities transfer tax, and annual adviser fees.

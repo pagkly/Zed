@@ -6,33 +6,33 @@ source: https://www.investopedia.com/terms/t/thriftbank.asp
 author: Julia Kagan
 ---
 
-# Thrift Bank Definition
+# [[Thrift Bank Definition]]
 
 > ## Excerpt
 > A thrift bank is a financial institution that focuses on taking deposits and originating home mortgages, in addition to providing access to low-cost funding.
 
 ---
 
-Thrift Bank Definition
+[[Thrift Bank Definition]]
 ## What Is a Thrift Bank?
 
-A thrift bank–also just called a thrift–is a type of financial institution that specializes in offering savings accounts and originating home mortgages for consumers. Thrift banks are also sometimes referred to as Savings and Loan Associations (S&Ls). Thrift banks differ from larger commercial banks, like Wells Fargo or Bank of America, because they usually offer higher yields on savings accounts and provide limited lending services to businesses.
+A thrift bank–also just called a thrift–is a type of financial institution that specializes in [[Offering|offering]] savings accounts and originating home mortgages for consumers. Thrift banks are also sometimes referred to as Savings and [[Loan]] Associations (S&Ls). Thrift banks differ from larger commercial banks, like Wells Fargo or Bank of America, because they usually [[Offer|offer]] higher yields on savings accounts and provide limited lending services to businesses.
 
-While a thrifts' core offerings are traditional savings accounts and home loan [[origination]](https://www.investopedia.com/terms/o/origination.asp), these institutions also offer checking accounts, personal and car loans, and credit cards for consumers. However, they give primary attention to home financing for single-family residences. Thrifts are structured either as corporate entities that are owned by their shareholders, or they are mutually-owned, i.e. owned by their borrowers and depositors.
+While a thrifts' core offerings are traditional savings accounts and home [[Loan|loan]] [[origination]](https://www.investopedia.com/terms/o/origination.asp), these institutions also [[Offer|offer]] checking accounts, personal and car loans, and credit cards for consumers. However, they give primary attention to home financing for single-family residences. Thrifts are structured either as corporate entities that are owned by their shareholders, or they are mutually-owned, i.e. owned by their borrowers and depositors.
 
 ### Key Takeaways
 
--   A thrift bank–also called a Savings and Loan Association (S&L)–is a type of financial institution that specializes in offering savings accounts and originating home mortgages for consumers.
--   While a thrifts' core offerings are traditional savings accounts and home loan origination, these institutions also offer checking accounts, personal and car loans, and credit cards for consumers.
--   In the years since the Savings and Loan Crisis–which occurred between 1986 and 1995)–many structural changes have been made to thrift banks that have blurred some of the distinctions between them and conventional banks.
+-   A thrift bank–also called a Savings and [[Loan]] Association (S&L)–is a type of financial institution that specializes in [[Offering|offering]] savings accounts and originating home mortgages for consumers.
+-   While a thrifts' core offerings are traditional savings accounts and home [[Loan|loan]] origination, these institutions also [[Offer|offer]] checking accounts, personal and car loans, and credit cards for consumers.
+-   In the years since the Savings and [[Loan]] Crisis–which occurred between 1986 and 1995)–many structural changes have been made to thrift banks that have blurred some of the distinctions between them and conventional banks.
 
 ## Understanding Thrift Banks
 
-The thrift institution began with the establishment of the customer-owned [[building society]](https://www.investopedia.com/terms/b/building-society.asp) in the United Kingdom at the beginning of the 18th century. In the U.S., the first successor to the U.K.'s customer-owned building society were referred to as Savings and Loan Associations (S&Ls). One of the main impetuses for the founding of S&Ls in the U.S. was to make improvements to the market for mortgages in the U.S.
+The thrift institution began with the establishment of the customer-owned [[building society]](https://www.investopedia.com/terms/b/building-society.asp) in the United Kingdom at the beginning of the 18th century. In the U.S., the first successor to the U.K.'s customer-owned building society were referred to as Savings and [[Loan]] Associations (S&Ls). One of the main impetuses for the founding of S&Ls in the U.S. was to make improvements to the market for mortgages in the U.S.
 
-At the beginning of the 20th century, the typical U.S. mortgage was a five-to-10-year, interest-only loan that had to be refinanced or paid off with a large balloon payment at the end of the term. Homeowners often defaulted on these payments, especially as levels of unemployment rose during the [[Great Depression]](https://www.investopedia.com/terms/g/great_depression.asp) as levels of unemployment rose.
+At the beginning of the 20th century, the typical U.S. mortgage was a five-to-10-year, interest-only [[Loan|loan]] that had to be refinanced or paid off with a large balloon payment at the end of the term. Homeowners often defaulted on these payments, especially as levels of [[Unemployment|unemployment]] rose during the [[Great Depression]](https://www.investopedia.com/terms/g/great_depression.asp) as levels of unemployment rose.
 
-In 1932, President Herbert Hoover passed the [[Federal Home Loan Bank Act]](https://www.investopedia.com/terms/f/federal-home-loan-bank-act.asp), an Act that was aimed at encouraging homeownership by providing member banks with a source of low-cost funds for use in extending mortgage loans. This Act was the first in a series of bills that sought to make homeownership a more achievable goal for more Americans in the first half of the 20th century. In addition, as a result of this Act the Federal Home Loan Bank Board was created. This Board was tasked with facilitating the development of a secondary market for mortgages; it created S&Ls to issue those mortgages. 
+In 1932, President Herbert Hoover passed the [[Federal Home Loan Bank Act]](https://www.investopedia.com/terms/f/federal-home-[[Loan|loan]]-bank-act.asp), an Act that was aimed at encouraging homeownership by providing member banks with a source of low-cost funds for use in extending mortgage loans. This Act was the first in a series of bills that sought to make homeownership a more achievable goal for more Americans in the first half of the 20th century. In addition, as a result of this Act the Federal Home Loan Bank Board was created. This Board was tasked with facilitating the development of a secondary market for mortgages; it created S&Ls to issue those mortgages. 
 
 ## The Impact of Thrift Banks
 
