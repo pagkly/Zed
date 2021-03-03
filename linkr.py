@@ -186,7 +186,7 @@ page_titles = sorted(page_titles, key=lambda x: len(x), reverse=True)
 #print(clip_txt)
 print('----------------------')
 
-
+import time
 import glob
 
 txtfiles = []
