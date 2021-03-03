@@ -6,31 +6,31 @@ source: https://www.investopedia.com/terms/u/united-states-v-the-southeastern-un
 author: Adam Hayes
 ---
 
-# United States V. The South-Eastern Underwriter Association
+# [[United States V. The South-Eastern Underwriter Association]]
 
 > ## Excerpt
 > US v. The South-Eastern Underwriter Association was a landmark supreme court decision allowing congress to regulate insurance businesses, but was effectively nullified by congress via the McCarran-Ferguson Act.
 
 ---
 
-United States V. The South-Eastern Underwriter Association
+[[United States V. The South-Eastern Underwriter Association]]
 ## What Was United States v. The South-Eastern Underwriters Association?
 
-_United States v. The South-Eastern Underwriters Association_ is a seminal United States Supreme Court case involving the federal [[antitrust]](https://www.investopedia.com/terms/a/antitrust.asp) statute and the insurance industry. United States v. The South-Eastern Underwriters Association (322 U.S. 533), which was decided on June 5, 1944, determined that the insurance industry is subject to regulation by the United States Congress, under the Commerce Clause.1
+_United States v. The South-Eastern Underwriters Association_ is a seminal United States Supreme Court case involving the federal [[antitrust]](https://www.investopedia.com/terms/a/antitrust.asp) statute and the insurance industry. United States v. The South-Eastern Underwriters Association (322 U.S. 533), which was decided on June 5, 1944, determined that the insurance industry is subject to regulation by the United States Congress, under the [[Commerce]] Clause.1
 
 ### Key Takeaways
 
--   The 1944 Supreme Court case United States v. The South-Eastern Underwriters Association ruled the insurance industry should be subject to regulation by Congress under the Commerce Clause of the Constitution1
--   The ruling gave lawmakers regulatory authority over interstate and international commerce, including insurance policies sold out of state.
+-   The 1944 Supreme Court case United States v. The South-Eastern Underwriters Association ruled the insurance industry should be subject to regulation by Congress under the [[Commerce]] Clause of the Constitution1
+-   The ruling gave lawmakers regulatory authority over interstate and international [[Commerce|commerce]], including insurance policies sold out of state.
 -   However, Congress effectively overrode this ruling the following year with the passage of the McCarran-Ferguson Act, which exempted the insurance industry from most federal regulation, including antitrust laws2
 
 ## Understanding U.S. v. The South-Eastern Underwriter Association
 
 Because insurers often do business in multiple states, the question of whether they should be regulated on a state or federal level had been a matter of debate in the early 20th century.
 
-This case came before the Supreme Court on appeal from a Northern District of Georgia court. The South-Eastern Underwriters Association had control of 90% of fire and other insurance markets in six southern states and was believed to have an unfair monopoly, brought on through price fixing. The case focused on whether or not insurance was a type of interstate commerce that should fall under the United States Commerce Clause and the [[Sherman Antitrust Act]](https://www.investopedia.com/terms/s/sherman-antiturst-act.asp).3
+This case came before the Supreme Court on appeal from a Northern District of Georgia court. The South-Eastern Underwriters Association had control of 90% of fire and other insurance markets in six southern states and was believed to have an unfair [[Monopoly|monopoly]], brought on through price fixing. The case focused on whether or not insurance was a type of interstate [[Commerce|commerce]] that should fall under the United States Commerce Clause and the [[Sherman Antitrust Act]](https://www.investopedia.com/terms/s/sherman-antiturst-act.asp).3
 
-The Supreme Court held that insurance companies that conduct significant portions of their business across state lines were, in fact, engaging in interstate commerce. The ruling held that the insurance industry could be regulated by Federal law, rather than only state laws.
+The Supreme Court held that insurance companies that conduct significant portions of their business across state lines were, in fact, engaging in interstate [[Commerce|commerce]]. The ruling held that the insurance industry could be regulated by Federal law, rather than only state laws.
 
 The following year, in 1945, Congress passed the McCarran-Ferguson Act (Public Law 15), overruling the Supreme Court decision and prescribing that insurance regulation was a matter for the states and not the Federal government. The McCarran-Ferguson Act exempted the insurance industry from most Federal regulation, including anti-trust laws.2
 

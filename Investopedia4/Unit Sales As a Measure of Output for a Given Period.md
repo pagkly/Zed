@@ -13,12 +13,12 @@ author: Caroline Banton
 
 ---
 
-Unit Sales As a Measure of Output for a Given Period
+[[Unit Sales As a Measure of Output for a Given Period]]
 ## What Are Unit Sales?
 
 The unit sales number on a balance sheet represents the total sales of a product in a given period. This sales information is used to determine the price point that allows for the greatest profit per unit considering the actual cost of production.
 
-To stock analysts, unit sales are a valuable measure of a product's contribution to a company's balance sheet.
+To [[Stock|stock]] analysts, unit sales are a valuable measure of a product's contribution to a company's balance sheet.
 
 ## Understanding Unit Sales
 
@@ -38,7 +38,7 @@ Among other things, an analyst can see whether a product is facing [[margin pres
 
 Comparing unit sales every year may help analysts determine if a company is moving in a positive direction. For example, Apple was predicted to sell approximately 235 million units of its iPhone during the 2015 fiscal year when the iPhone market was growing. These predicted sales were a dramatic increase over the 2014 fiscal year sales of about 170 million units worldwide. By 2019, the figure had dropped to about 38 million.
 
-This did not hurt Apple's stock. In fact, its share price almost tripled in the same time period. But it suggests that the smartphone industry as a whole is reaching saturation point.
+This did not hurt Apple's [[Stock|stock]]. In fact, its share price almost tripled in the same time period. But it suggests that the smartphone industry as a whole is reaching saturation point.
 
 ### Break-Even Point (BEP)
 
@@ -52,8 +52,8 @@ Break-even analysis includes various assumptions regarding fixed and variable co
 
 ## Real-World Example of Unit Sales
 
-To return to Apple, in November 2018, the company announced that it would no longer provide unit sales numbers in its earnings reports. This news occurred after Apple had announced fourth-quarter results that exceeded expectations.
+To [[Return|return]] to Apple, in November 2018, the company announced that it would no longer provide unit sales numbers in its earnings reports. This news occurred after Apple had announced fourth-quarter results that exceeded expectations.
 
 In the case of Apple, iPhone unit sales are dropping. However, counteracting this dynamic, Apple is increasing its prices for its iPhones and other products. Thus, the company is focusing on ways to increase revenues in an era of slower unit sales growth.
 
-Apple is concerned that divulging unit sales will cause investors to doubt Apple's ability to sell devices. Instead, the company intends to focus on services revenue, which represented 16% of its quarterly revenue and grew 17% year-over-year, according to Jason Sonenshine, a markets reporter for TheStreet.com.
+Apple is concerned that divulging unit sales [[Will|will]] cause investors to doubt Apple's ability to sell devices. Instead, the company intends to focus on services revenue, which represented 16% of its quarterly revenue and grew 17% year-over-year, according to Jason Sonenshine, a markets reporter for TheStreet.com.

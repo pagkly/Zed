@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/u/unskilled-labor.asp
 author: Julia Kagan
 ---
 
-# Unskilled Labor Definition
+# [[Unskilled Labor Definition]]
 
 > ## Excerpt
-> Unskilled labor is a segment of the work force associated with low skill level or limited economic value for the work performed.
+> Unskilled labor is a segment of the work force associated with low skill level or limited [[Economic Value|economic value]] for the work performed.
 
 ---
 
-Unskilled Labor Definition
+[[Unskilled Labor Definition]]
 ## What is Unskilled Labor?
 
 Unskilled labor is used to refer to a segment of the workforce associated with a limited skill set or minimal [[economic value]](https://www.investopedia.com/terms/e/economic-value.asp) for the work performed. Unskilled labor is generally characterized by a lower educational attainment, such as a high school diploma, GED or lack thereof, and typically results in smaller wages. Work that requires no specific education level or specialized experience is often available to the unskilled labor force.
@@ -26,11 +26,11 @@ Unskilled labor can be used to identify both the type of work being completed as
 
 When the term is used to describe a person or employee completing the tasks, unskilled labor refers to the lack of education or experience the person may have. Often, this lack of skills prevents them from participating in anything but the most basic of positions, requiring very little training to complete the assigned tasks. According to statistics published by the Bureau of Labor Statistics, the average salary earned by unskilled workers is minimum wage.
 
-The federal agency has also [[estimated]](https://www.bls.gov/news.release/pdf/ecopro.pdf) that unskilled and low-skilled labor will account for the maximum increase in jobs between 2014 and 2024. These jobs include farm workers, health care aides, and food preparation workers.
+The federal agency has also [[estimated]](https://www.bls.gov/news.release/pdf/ecopro.pdf) that unskilled and low-skilled labor [[Will|will]] account for the maximum increase in jobs between 2014 and 2024. These jobs include farm workers, health care aides, and food preparation workers.
 
 ### Key Takeaways
 
--   Unskilled labor is a workforce with limited skills or minimal economic value for the work performed.
+-   Unskilled labor is a workforce with limited skills or minimal [[Economic Value|economic value]] for the work performed.
 -   Typically, unskilled laborers are used in daily production tasks that do not depend on technical abilities or skills.
 
 ## Related Terms
@@ -43,4 +43,4 @@ Semi-skilled, or mid-skilled, labor involves those that persons or positions whe
 
 ## Example of Unskilled and Low Skilled Labor
 
-Grant works as a cleaner in a restaurant kitchen. It is his job to keep the kitchen floor clean by mopping it and picking up droppings from food preparation counters. Grant is an example of unskilled labor. In the same restaurant, John works as a food preparation worker. His job is to prep vegetables and meat for cooking by cleaning, washing, and cutting them down to the right size. This could also be considered an example of unskilled labor.
+[[Grant]] works as a cleaner in a restaurant kitchen. It is his job to keep the kitchen floor clean by mopping it and picking up droppings from food preparation counters. Grant is an example of unskilled labor. In the same restaurant, John works as a food preparation worker. His job is to prep vegetables and meat for cooking by cleaning, washing, and cutting them down to the right size. This could also be considered an example of unskilled labor.

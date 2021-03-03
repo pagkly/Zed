@@ -6,19 +6,19 @@ source: https://www.investopedia.com/terms/u/uniform-distribution.asp
 author: James Chen
 ---
 
-# Uniform Distribution Definition
+# [[Uniform Distribution Definition]]
 
 > ## Excerpt
 > In statistics, uniform distribution is a type of probability distribution in which all outcomes are equally likely.
 
 ---
 
-Uniform Distribution Definition
+[[Uniform Distribution Definition]]
 ## What is Uniform Distribution?
 
 In statistics, a type of probability distribution in which all outcomes are equally likely. A [[deck]](https://www.investopedia.com/terms/d/deck.asp) of cards has within it uniform distributions because the likelihood of drawing a heart, a club, a diamond or a spade is equally likely. A coin also has a uniform distribution because the probability of getting either heads or tails in a coin toss is the same.
 
-The uniform distribution can be visualized as a straight horizontal line, so for a coin flip returning a head or tail, both have a probability p = 0.50 and would be depicted by a line from the y-axis at 0.50.
+The uniform distribution can be visualized as a straight horizontal line, so for a coin flip returning a head or tail, both have a probability p = 0.50 and would be depicted by a line from the [[Y|y]]-axis at 0.50.
 
 ## Understanding Uniform Distribution
 
@@ -37,6 +37,6 @@ There are also several data generating or data analyzing functions associated wi
 
 ## Visualizing Uniform Distributions
 
-A distribution is a simple way to visualize a set of data, either as a graph or in a list of stating which values of a random variable have lower or higher chances of happening. There are many different types of probability distributions, and the uniform distribution is perhaps the simplest of them all. 
+A distribution is a simple way to visualize a set of data, either as a graph or in a list of stating which values of a [[Random Variable|random variable]] have lower or higher chances of happening. There are many different types of probability distributions, and the uniform distribution is perhaps the simplest of them all. 
 
-Under a uniform distribution, each value in the set of possible values has the exact same possibility of happening. This distribution, when displayed as a [[bar]](https://www.investopedia.com/terms/b/bar-graph.asp) or line graph, has the same height for each potential outcome. In this way, it can look like a [[rectangle]](https://www.investopedia.com/terms/r/rectangle.asp) and therefore is sometimes described as the rectangle distribution. If you think about the possibility of drawing a particular suit from a deck of playing cards, there is a random yet equal chance of pulling a hearts as there is for pulling a spade—that is, 1/4.
+Under a uniform distribution, each value in the set of possible values has the exact same possibility of happening. This distribution, when displayed as a [[bar]](https://www.investopedia.com/terms/b/bar-graph.asp) or [[Line Graph|line graph]], has the same height for each potential outcome. In this way, it can look like a [[rectangle]](https://www.investopedia.com/terms/r/rectangle.asp) and therefore is sometimes described as the rectangle distribution. If you think about the possibility of drawing a particular suit from a deck of playing cards, there is a random yet equal chance of pulling a hearts as there is for pulling a spade—that is, 1/4.
