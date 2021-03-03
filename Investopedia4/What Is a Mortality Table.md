@@ -1,7 +1,7 @@
 ---
 alias: [Mortality Table]
 created: 2021-03-02T22:09:38 (UTC +11:00)
-tags: [Mortality Table Definition, What Is a Mortality Table?]
+tags: [Mortality Table Definition, [[What Is a Mortality Table]]?]
 source: https://www.investopedia.com/terms/m/mortality-table.asp
 author: Julia Kagan
 ---
@@ -13,16 +13,16 @@ author: Julia Kagan
 
 ---
 
-What Is a Mortality Table?
-## What Is a Mortality Table?
+[[What Is a Mortality Table]]?
+## [[What Is a Mortality Table]]?
 
-A mortality table, also known as a life table or actuarial table, shows the rate of deaths occurring in a defined population during a selected time interval, or survival rates from birth to death. A mortality table typically shows the general probability of a person's death before their next birthday, based on their current age. These tables are typically used in order to inform the construction of insurance policies and other forms of liability management. 
+A mortality table, also known as a life table or actuarial table, shows the rate of deaths occurring in a defined population during a selected time interval, or survival rates from birth to death. A mortality table typically shows the general probability of a person's death before their next birthday, based on their current age. These tables are typically used in order to inform the construction of insurance policies and other forms of [[Liability|liability]] management. 
 
 ### Key Takeaways
 
 -   Mortality tables show the rate of death within a specific population. 
 -   Mortality tables use a large number of factors to predict the likelihood of death in an individual within the current year.
--   Mortality tables are used heavily by insurance companies and the U.S. Social Security Administration.
+-   Mortality tables are used heavily by insurance companies and the U.S. [[Social Security]] Administration.
 -   Mortality tables are generally split into “period” life tables and “cohort” life tables. 
 -   For the purposes of actuaries, “cohort” tables are most often used. 
 
@@ -32,7 +32,7 @@ A mortality table, also known as a life table or actuarial table, shows the rate
 
 Other characteristics can also be included to distinguish different risks, such as smoking status, occupation, and socio-economic class. There are even actuarial tables that determine longevity in relation to weight. 
 
-The [[life insurance]](https://www.investopedia.com/terms/l/lifeinsurance.asp) industry relies heavily on mortality tables, as does the U.S. Social Security Administration. Both use mortality tables in order to best establish details surrounding their coverage policies based on the individuals they will cover. 
+The [[life insurance]](https://www.investopedia.com/terms/l/lifeinsurance.asp) industry relies heavily on mortality tables, as does the U.S. [[Social Security]] Administration. Both use mortality tables in order to best establish details surrounding their coverage policies based on the individuals they [[Will|will]] cover. 
 
 Mortality tables were first introduced by Raymond Pearl in 1921 for the purposes of furthering ecological studies
 
@@ -46,4 +46,4 @@ Mortality tables are based on characteristics, such as gender and age. A mortali
 
 Mortality tables typically cover from birth through age 100, in one-year increments. You can use a mortality table to look up the probability of death for someone of any age. Not surprisingly, the probability of death increases with age.
 
-To use mortality tables, you first need the age of an individual to see what the table says about the chances that they will die when compared with the rest of the group. In the case of a newborn male, there is less than one half of one-10,000th of a percent that he will die when compared with the rest of the group. That would give him a life expectancy of around 75. However, according to the 2005 mortality table used by the Social Security Administration, a 119-year-old man has a more than 90 percent chance of dying when compared with the rest of the group, or a life expectancy of just over six months.
+To use mortality tables, you first need the age of an individual to see what the table says about the chances that they [[Will|will]] die when compared with the rest of the group. In the case of a newborn male, there is less than one half of one-10,000th of a percent that he will die when compared with the rest of the group. That would give him a [[Life Expectancy|life expectancy]] of around 75. However, according to the 2005 mortality table used by the [[Social Security]] Administration, a 119-year-old man has a more than 90 percent chance of dying when compared with the rest of the group, or a life expectancy of just over six months.

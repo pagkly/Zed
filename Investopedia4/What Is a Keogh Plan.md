@@ -1,7 +1,7 @@
 ---
 alias: [Keogh Plan]
 created: 2021-03-02T21:05:08 (UTC +11:00)
-tags: [Keogh Plan Definition, What Is a Keogh Plan?]
+tags: [Keogh Plan Definition, [[What Is a Keogh Plan]]?]
 source: https://www.investopedia.com/terms/k/keoghplan.asp
 author: Julia Kagan
 ---
@@ -9,27 +9,27 @@ author: Julia Kagan
 # Keogh Plan Definition
 
 > ## Excerpt
-> A Keogh plan is a tax-deferred pension plan available to self-employed individuals or unincorporated businesses for retirement purposes.
+> A Keogh plan is a tax-deferred [[Pension Plan|pension plan]] available to self-employed individuals or unincorporated businesses for retirement purposes.
 
 ---
 
-What Is a Keogh Plan?
-## What Is a Keogh Plan?
+[[What Is a Keogh Plan]]?
+## [[What Is a Keogh Plan]]?
 
-A Keogh plan is a tax-deferred pension plan available to self-employed individuals or unincorporated businesses for retirement purposes. A Keogh plan can be set up as either a [[defined-benefit]](https://www.investopedia.com/terms/d/definedbenefitpensionplan.asp) or a [[defined-contribution plan]](https://www.investopedia.com/terms/d/definedcontributionplan.asp), although most plans are set as the latter. Contributions are generally tax-deductible up to a certain percentage of annual income, with applicable absolute limits in U.S. dollar terms, which the Internal Revenue Service (IRS) can change from year to year.1
+A Keogh plan is a tax-deferred [[Pension Plan|pension plan]] available to self-employed individuals or unincorporated businesses for retirement purposes. A Keogh plan can be set up as either a [[defined-benefit]](https://www.investopedia.com/terms/d/definedbenefitpensionplan.asp) or a [[defined-contribution plan]](https://www.investopedia.com/terms/d/definedcontributionplan.asp), although most plans are set as the latter. Contributions are generally tax-deductible up to a certain percentage of annual income, with applicable absolute limits in U.S. dollar terms, which the Internal Revenue Service (IRS) can change from year to year.1
 
 ### Key Takeaways
 
 -   Keogh plans are tax-deferred pension plans—either defined-benefit or defined-contribution—used for retirement purposes by either self-employed individuals or unincorporated businesses, while independent contractors cannot use a Keogh plan.
 -   Profit-sharing plans are one of the two types of Keogh plans that allow a business to contribute up to 100% of compensation, or $58,000 as of 2021.
--   Keogh plans have more administrative burdens and higher upkeep costs than Simplified Employee Pension (SEP) or 401(k) plans, but the contribution limits are higher, making Keogh plans a popular option for many high-income business owners.
+-   Keogh plans have more administrative burdens and higher upkeep costs than [[Simplified Employee Pension (SEP)]] or 401(k) plans, but the contribution limits are higher, making Keogh plans a popular option for many high-income business owners.
 -   Because current tax retirement laws do not set apart incorporated and self-employed plan sponsors, the term "Keogh plan" is rarely ever used.
 
 ## Understanding the Keogh Plan
 
 Keogh plans are retirement plans for self-employed people and unincorporated businesses, such as sole proprietorships and partnerships. If an individual is an independent contractor, they cannot set up and use a Keogh plan for retirement.
 
-The IRS refers to Keogh plans as qualified plans, and they come in two types: defined-contribution plans, which include profit-sharing plans and money purchase plans, and defined-benefit plans, also known as HR(10) plans. Keogh plans can invest in the same set of securities as 401(k)s and IRAs, including stocks, bonds, [[certificates of deposit]](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CDs), and [[annuities]](https://www.investopedia.com/terms/a/annuity.asp).
+The IRS refers to Keogh plans as qualified plans, and they come in two types: defined-contribution plans, which include profit-sharing plans and money purchase plans, and defined-benefit plans, also known as HR(10) plans. Keogh plans can invest in the same set of securities as 401(k)s and IRAs, including [[Stocks|stocks]], bonds, [[certificates of deposit]](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CDs), and [[annuities]](https://www.investopedia.com/terms/a/annuity.asp).
 
 ## Types of Keogh Plans
 

@@ -1,9 +1,9 @@
 ---
 alias: [Licensing Fee]
 created: 2021-03-02T21:17:40 (UTC +11:00)
-tags: [Licensing Fee Definition, What Is a Licensing Fee?]
+tags: [Licensing Fee Definition, [[What Is a Licensing Fee]]?]
 source: https://www.investopedia.com/terms/l/licensing-fee.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Licensing Fee Definition
@@ -13,8 +13,8 @@ author: Will Kenton
 
 ---
 
-What Is a Licensing Fee?
-## What Is a Licensing Fee? 
+[[What Is a Licensing Fee]]?
+## [[What Is a Licensing Fee]]? 
 
 The term "licensing fee" can be used in several contexts, where it’s most commonly used to describe an amount of money paid to an entity for a certain right or ability. A licensing fee can be an amount of money paid by an individual or business to a government agency for the privilege of performing a certain service or engaging in a specific line of business. Licensing fees can be paid for trademarks, copyright, or patents, among others. 
 
@@ -34,7 +34,7 @@ Licensing fees, combined with the fees to get the training necessary to qualify 
 
 Royalties are usage-based payments for using an asset or property. It’s generally a percentage of gross revenue or net profit. Meanwhile, a licensing fee is money paid by someone using someone’s property, but this fee is generally a fixed amount.   
 
-Royalties can be collected for things that are also licensed, such as patents. A business owner may offer a share of their revenue to the owner of a copyrighted work or to franchisors. On the flip side, a license fee may be used to use a software or the like, which can be paid annually. 
+Royalties can be collected for things that are also licensed, such as patents. A business owner may [[Offer|offer]] a share of their revenue to the owner of a copyrighted work or to franchisors. On the flip side, a license fee may be used to use a software or the like, which can be paid annually. 
 
 ## Example of a Licensing Fee
 

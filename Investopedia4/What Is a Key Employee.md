@@ -1,9 +1,9 @@
 ---
 alias: [Key Employee]
 created: 2021-03-02T21:05:09 (UTC +11:00)
-tags: [Key Employee Definition, What Is a Key Employee?]
+tags: [Key Employee Definition, [[What Is a Key Employee]]?]
 source: https://www.investopedia.com/terms/k/key-employee.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Key Employee Definition
@@ -13,8 +13,8 @@ author: Will Kenton
 
 ---
 
-What Is a Key Employee?
-## What is a Key Employee?
+[[What Is a Key Employee]]?
+## [[What Is a Key Employee|What is a Key Employee]]?
 
 A key employee is an employee with major ownership and/or decision-making role in the business. Key employees are usually highly compensated either monetarily or with benefits, or both. Key employees may also receive special benefits as an incentive both to join the company and to stay with the company.
 
@@ -36,7 +36,7 @@ From an internal perspective, apart from the IRS classification, a key employee 
 -   Key employees may enjoy monetary bonuses and other benefits. 
 -   Employers may address compensation for key employees in a different manner than other staff members.
 
-For example, the employee may hold a role tied directly to sales channels for the company, intertwining their performance and business activities with the cash flow. The employee might be the top-performing salesperson at the company, driving a significant portion of the regular revenue. The employee, for a variety of reasons, may represent a public face associated with the company’s brand and is thus seen as crucial to maintaining the investment and support of shareholders and customers.
+For example, the employee may [[Hold|hold]] a role tied directly to sales channels for the company, intertwining their performance and business activities with the [[Cash Flow|cash flow]]. The employee might be the top-performing salesperson at the company, driving a significant portion of the regular revenue. The employee, for a variety of reasons, may represent a public face associated with the company’s brand and is thus seen as crucial to maintaining the investment and support of shareholders and customers.
 
 There are other IRS and government rules that have different definitions of "key employee" for different purposes.
 
@@ -46,6 +46,6 @@ For instance, the chief scientist on a team developing a novel new product expec
 
 ## Special Considerations
 
-Employers may feel the need to address compensation for key employees differently from the majority of the staff beyond providing salary. This can include offering a variety of options for them to save for retirement or presenting them work-life balance benefits to keep them engaged in the business.
+Employers may feel the need to address compensation for key employees differently from the majority of the staff beyond providing salary. This can include [[Offering|offering]] a variety of options for them to save for retirement or presenting them work-life balance benefits to keep them engaged in the business.
 
 Conversely, employers might adopt a different stance if a key employee makes use of the [[Family and Medical Leave Act]](https://www.investopedia.com/terms/f/family-and-medical-leave-act.asp) to take unpaid leave from work. Such employees, who may rank among the top 10 percent of salaried workers at a company, might not be reinstated by the employer under certain circumstances.

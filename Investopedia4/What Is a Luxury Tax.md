@@ -1,7 +1,7 @@
 ---
 alias: [Luxury Tax]
 created: 2021-03-02T21:30:10 (UTC +11:00)
-tags: [Luxury Tax Definition, What Is a Luxury Tax?]
+tags: [Luxury Tax Definition, [[What Is a Luxury Tax]]?]
 source: https://www.investopedia.com/terms/l/luxury_tax.asp
 author: Julia Kagan
 ---
@@ -13,12 +13,12 @@ author: Julia Kagan
 
 ---
 
-What Is a Luxury Tax?
-## What Is a Luxury Tax?
+[[What Is a Luxury Tax]]?
+## [[What Is a Luxury Tax]]?
 
 A luxury tax is a sales tax or surcharge levied only on certain products or services that are deemed non-essential or accessible only to the super-wealthy.
 
-The luxury tax may be charged as a percentage of the purchase price, or as a percentage of the amount above a specified level. For example, a luxury tax might be imposed on real estate transactions above $1 million, or car purchases over $70,000.
+The luxury tax may be charged as a percentage of the [[Purchase Price|purchase price]], or as a percentage of the amount above a specified level. For example, a luxury tax might be imposed on real [[Estate|estate]] transactions above $1 million, or car purchases over $70,000.
 
 ## Understanding a Luxury Tax
 
@@ -30,12 +30,12 @@ All taxes are controversial but some are more controversial than others. A sales
 -   The products taxed are considered non-essential or are affordable only to the wealthiest consumers.
 -   The mansion tax and sin taxes both fall into the category of luxury taxes.
 
-But what about a tax only on yachts, or jewelry, or real estate valued at more than $1 million? Now the only ones that pay the tax are those few who can afford these goods.
+But what about a tax only on yachts, or jewelry, or real [[Estate|estate]] valued at more than $1 million? Now the only ones that pay the tax are those few who can afford these goods.
 
 Luxury taxes generally fall into two categories:
 
 -   So-called "sin taxes" are imposed on products like cigarettes and liquor and are paid by every buyer, regardless of income. Anyone who objects can just stop buying it. In imposing the tax, the government is both discouraging the use of these products and raising revenue from those who keep buying them.
--   Taxes on items that can be purchased only by the wealthiest consumers, who presumably can afford to pay the premium.
+-   Taxes on items that can be purchased only by the wealthiest consumers, who presumably can afford to pay the [[Premium|premium]].
 
 Both taxes are relatively popular because they hit only a minority of the population.
 
@@ -49,7 +49,7 @@ Then again, sometimes luxury taxes just don't work. A "window tax" was imposed o
 
 ### Defining Luxury
 
-Since luxury goods are attributed to the wealthy in society, it is expected that the majority of taxpayers will not be affected by a luxury tax. However, as what is viewed as luxury changes over time, and as prices rise due to inflation, more people will be subject to this [[progressive tax]](https://www.investopedia.com/terms/p/progressivetax.asp). Goods considered as normal or ordinary goods may be hit with luxury taxes if the government needs to increase its revenue.
+Since luxury goods are attributed to the wealthy in society, it is expected that the majority of taxpayers [[Will|will]] not be affected by a luxury tax. However, as what is viewed as luxury changes over time, and as prices rise due to inflation, more people will be subject to this [[progressive tax]](https://www.investopedia.com/terms/p/progressivetax.asp). Goods considered as normal or ordinary goods may be hit with luxury taxes if the government needs to increase its revenue.
 
 In the U.S., the "yacht tax" lasted only from 1991 to 1993 before being abolished as a job-killer.
 
@@ -61,8 +61,8 @@ In Vermont, the mansion tax kicks in at $100,000. The median home price in Vermo
 
 ### The Economic Theory of Luxury Taxes
 
-In economics, luxury goods are referred to as [[Veblen goods]](https://www.investopedia.com/terms/v/veblen-good.asp) in honor of Thorstein Veblen, who famously described the concept of conspicuous consumption. That defines them as goods for which demand increases as price increases. The more a thing costs, the more coveted it becomes.
+In [[Economics|economics]], luxury goods are referred to as [[Veblen goods]](https://www.investopedia.com/terms/v/veblen-good.asp) in honor of Thorstein Veblen, who famously described the concept of conspicuous consumption. That defines them as goods for which demand increases as price increases. The more a thing costs, the more coveted it becomes.
 
-Since taxes increase the price of a good, the effect of luxury taxes should be increased demand for goods that are defined as luxuries. In practice, however, luxury goods have a high [[income elasticity of demand]](https://www.investopedia.com/terms/i/incomeelasticityofdemand.asp) by definition. Both the income effect and the [[substitution effect]](https://www.investopedia.com/terms/s/substitution-effect.asp) will decrease demand sharply as the tax rises.
+Since taxes increase the price of a good, the effect of luxury taxes should be increased demand for goods that are defined as luxuries. In practice, however, luxury goods have a high [[income elasticity of demand]](https://www.investopedia.com/terms/i/incomeelasticityofdemand.asp) by definition. Both the income effect and the [[substitution effect]](https://www.investopedia.com/terms/s/substitution-effect.asp) [[Will|will]] decrease demand sharply as the tax rises.
 
-Plainly put, some people who yearn to own a yacht will decide that a canoe will do.
+Plainly put, some people who yearn to own a yacht [[Will|will]] decide that a canoe will do.

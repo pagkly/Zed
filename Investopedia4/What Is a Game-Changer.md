@@ -1,9 +1,9 @@
 ---
 alias: [Game-Changer]
 created: 2021-03-02T20:12:35 (UTC +11:00)
-tags: [Game-Changer Definition, What Is a Game-Changer?]
+tags: [Game-Changer Definition, [[What Is a Game-Changer]]?]
 source: https://www.investopedia.com/terms/g/game-changer.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Game-Changer Definition
@@ -13,8 +13,8 @@ author: Will Kenton
 
 ---
 
-What Is a Game-Changer?
-## What Is a Game-Changer?
+[[What Is a Game-Changer]]?
+## [[What Is a Game-Changer]]?
 
 The term game-changer refers to an individual or [[company]](https://www.investopedia.com/terms/c/company.asp) that significantly alters the way things are done as a whole. Individual game-changers find a way to stand out by way of their personality. Game-changing companies are able to switch things up and form new [[business plans]](https://www.investopedia.com/terms/b/business-plan.asp) and strategies that place them above their competition. By mere virtue of their actions, game-changers can make changes that transform the landscape as a whole.
 
@@ -41,8 +41,8 @@ Reaching game-changing levels requires a [[long-term]](https://www.investopedia.
 
 ### Jeff Bezos
 
-Billionaire and Amazon [[chief executive officer]](https://www.investopedia.com/terms/c/ceo.asp) (CEO) [Jeff Bezos](https://www.investopedia.com/investing/how-jeff-bezos-got-be-worlds-richest-man/) is widely recognized as a game-changer. It's not surprising when you consider what he's done since he founded the company in 1994. Amazon started as a little book e-commerce website during the [[internet boom]](https://www.investopedia.com/terms/d/dotcom-bubble.asp) of the late-1990s, quickly disrupting the retail industry as a whole. Today, Bezos’s leadership helps drive the company to new heights, as it continues to invest in new game-changing technologies such as drone deliveries.
+Billionaire and Amazon [[chief executive officer]](https://www.investopedia.com/terms/c/ceo.asp) (CEO) [Jeff Bezos](https://www.investopedia.com/investing/how-jeff-bezos-got-be-worlds-richest-man/) is widely recognized as a game-changer. It's not surprising when you consider what he's done since he founded the company in 1994. Amazon started as a little book e-[[Commerce|commerce]] website during the [[internet boom]](https://www.investopedia.com/terms/d/dotcom-bubble.asp) of the late-1990s, quickly disrupting the retail industry as a whole. Today, Bezos’s leadership helps drive the company to new heights, as it continues to invest in new game-changing technologies such as drone deliveries.
 
 ### Elon Musk
 
-[Elon Musk](https://www.investopedia.com/articles/personal-finance/061015/how-elon-musk-became-elon-musk.asp) is another [[entrepreneurial]](https://www.investopedia.com/terms/e/entrepreneur.asp) individual who is considered to be a game-changer. Musk who became Tesla's CEO in 2008, had high ambitions of being a game-changer in the auto industry. Tesla is now the leading name in electric cars, bringing them into the modern world by using high-powered lithium-ion batteries to power vehicles rather than gasoline. While Musk's vision for Tesla production is often criticized, the company's emergence in the electric car market is causing others to scramble and try to catch up to its impressive lead.
+[Elon Musk](https://www.investopedia.com/articles/personal-[[Finance|finance]]/061015/how-elon-musk-became-elon-musk.asp) is another [[entrepreneurial]](https://www.investopedia.com/terms/e/entrepreneur.asp) individual who is considered to be a game-changer. Musk who became Tesla's CEO in 2008, had high ambitions of being a game-changer in the auto industry. Tesla is now the leading name in electric cars, bringing them into the modern world by using high-powered lithium-ion batteries to power vehicles rather than gasoline. While Musk's vision for Tesla production is often criticized, the company's emergence in the electric car market is causing others to scramble and try to catch up to its impressive lead.

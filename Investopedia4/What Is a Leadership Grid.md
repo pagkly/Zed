@@ -3,7 +3,7 @@ alias: [Leadership Grid]
 created: 2021-03-02T21:13:29 (UTC +11:00)
 tags: [Leadership Grid Definition, What Is a Leadership Grid]
 source: https://www.investopedia.com/terms/l/leadership-grid.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Leadership Grid Definition
@@ -13,10 +13,10 @@ author: Will Kenton
 
 ---
 
-What Is a Leadership Grid
-## What Is a Leadership Grid?
+[[What Is a Leadership Grid]]
+## [[What Is a Leadership Grid]]?
 
-The Leadership Grid is a model of behavioral leadership developed in the 1960s by Robert Blake and Jane Mouton. Previously known as the Managerial Grid, the Leadership Grid is based on two behavioral dimensions: concern for production, which is plotted on the X-axis on a scale from one to nine points; and concern for people, which is plotted on a similar scale along the Y-axis.
+The Leadership Grid is a model of behavioral leadership developed in the 1960s by Robert Blake and Jane Mouton. Previously known as the Managerial Grid, the Leadership Grid is based on two behavioral dimensions: concern for production, which is plotted on the X-axis on a scale from one to nine points; and concern for people, which is plotted on a similar scale along the [[Y]]-axis.
 
 The model identified five leadership styles by their relative positions on the grid. The first number in the examples below reflects a leader's concern for production; the second, a leader's concern for people.
 
@@ -34,11 +34,11 @@ The model identified five leadership styles by their relative positions on the g
 
 ## Understanding the Leadership Grid
 
-The Leadership Grid demonstrates that placing an undue emphasis on one area, while overlooking the other, stifles productivity. The model proposes that the Team leadership style, which displays a high degree of concern for both production and people, may boost employee productivity.
+The Leadership Grid demonstrates that placing an undue emphasis on one area, while overlooking the other, stifles [[Productivity|productivity]]. The model proposes that the Team leadership style, which displays a high degree of concern for both production and people, may boost employee productivity.
 
 Some of the perceived benefits of using the Leadership Grid include its ability to measure performance as well as the ability to perform a self-analysis of your own leadership style. Businesses and organizations continue to use the grid.
 
-There are some perceived limitations to the Leadership Grid, however. For example, it may offer a flawed self-assessment, due in part to its use of minimal empirical data to support the effectiveness of the grid. The model also does not take into account a variety of factors, such as the work environment and internal or external variables that may be factors.
+There are some perceived limitations to the Leadership Grid, however. For example, it may [[Offer|offer]] a flawed self-assessment, due in part to its use of minimal empirical data to support the effectiveness of the grid. The model also does not take into account a variety of factors, such as the work environment and internal or external variables that may be factors.
 
 ## Types of Behaviors Found on the Leadership Grid
 
@@ -48,6 +48,6 @@ The Produce or Perish leadership style focuses solely on production with a Drac
 
 The Middle of the Road leadership approach offers a balance of speaking to the team’s needs as well as the organization’s production needs, but neither aspect is adequately fulfilled in the process. This may lead to average and below average results in team performance and satisfaction. 
 
-Someone with a Country Club leadership style sees the team’s needs first and foremost over everything else. The assumption by the leader is that happiness within the team will naturally lead to improved productivity; however, there is no guarantee.
+Someone with a Country Club leadership style sees the team’s needs first and foremost over everything else. The assumption by the leader is that happiness within the team [[Will|will]] naturally lead to improved [[Productivity|productivity]]; however, there is no guarantee.
 
-The Team approach is considered to be the most effective form of leadership, according to the Leadership Grid's creators. The leader shows a commitment to staff empowerment as well as toward increasing productivity. By encouraging the workers to operate as a team, the belief is they will be motivated to accomplish more.
+The Team approach is considered to be the most effective form of leadership, according to the Leadership Grid's creators. The leader shows a commitment to staff empowerment as well as toward increasing [[Productivity|productivity]]. By encouraging the workers to operate as a team, the belief is they [[Will|will]] be motivated to accomplish more.

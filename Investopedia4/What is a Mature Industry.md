@@ -1,9 +1,9 @@
 ---
 alias: [Defining a Mature Industry]
 created: 2021-03-02T22:01:11 (UTC +11:00)
-tags: [Defining a Mature Industry, What is a Mature Industry?]
+tags: [Defining a Mature Industry, [[What is a Mature Industry]]?]
 source: https://www.investopedia.com/terms/m/matureindustry.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Defining a Mature Industry
@@ -13,14 +13,14 @@ author: Will Kenton
 
 ---
 
-What is a Mature Industry?
-## What is a Mature Industry
+[[What is a Mature Industry]]?
+## [[What is a Mature Industry]]
 
-A mature industry is an industry that has passed both the emerging and growth phases of industry growth. At the beginning of the [[industry lifecycle]](https://www.investopedia.com/terms/i/industrylifecycle.asp), new products or services find use in the marketplace. Many businesses may spring up trying to profit from the new product demand. Over time, failures and consolidations will distill the business to the strongest as the industry continues to grow. This is the period where the surviving companies are considered to be mature. Eventually, growth will slow as new or innovative products or services replace this industry offering and begin a new industry lifecycle.
+A mature industry is an industry that has passed both the emerging and growth phases of industry growth. At the beginning of the [[industry lifecycle]](https://www.investopedia.com/terms/i/industrylifecycle.asp), new products or services find use in the marketplace. Many businesses may spring up trying to profit from the new product demand. Over time, failures and consolidations [[Will|will]] distill the business to the strongest as the industry continues to grow. This is the period where the surviving companies are considered to be mature. Eventually, growth will slow as new or innovative products or services replace this industry [[Offering|offering]] and begin a new industry lifecycle.
 
 ## Characteristics of Mature Industries
 
-The shares of mature industries are characterized by low [[price to earnings ratios]](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E) and high [[dividend yields]](https://www.investopedia.com/terms/d/dividendyield.asp). A low P/E means an investor can expect to receive company earnings for a lower investment as the dividends paid for holding the shares climb.
+The [[Shares|shares]] of mature industries are characterized by low [[price to earnings ratios]](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E) and high [[dividend yields]](https://www.investopedia.com/terms/d/dividendyield.asp). A low P/E means an investor can expect to receive company earnings for a lower investment as the dividends paid for holding the shares climb.
 
 Earnings and sales grow slower in mature industries than during the growth and [[emerging industries]](https://www.investopedia.com/terms/e/emergingindustry.asp) phases. A mature industry may be at its peak or just past it but not yet in the decline phase. While earnings may be stable, growth prospects are few and far between as the remaining companies consolidate market share and create barriers for new competitors to enter the sphere.
 

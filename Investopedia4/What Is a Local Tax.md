@@ -1,7 +1,7 @@
 ---
 alias: [Local Tax]
 created: 2021-03-02T21:25:54 (UTC +11:00)
-tags: [Local Tax Definition, What Is a Local Tax?]
+tags: [Local Tax Definition, [[What Is a Local Tax]]?]
 source: https://www.investopedia.com/terms/l/localtax.asp
 author: Julia Kagan
 ---
@@ -13,10 +13,10 @@ author: Julia Kagan
 
 ---
 
-What Is a Local Tax?
-## What Is a Local Tax?
+[[What Is a Local Tax]]?
+## [[What Is a Local Tax]]?
 
-A local tax is an assessment by a state, county, or municipality to fund public services ranging from education to garbage collection and sewer maintenance. Local taxes come in many forms, from property taxes and payroll taxes to sales taxes and licensing fees. They can vary widely from one jurisdiction to the next.
+A local tax is an assessment by a state, county, or municipality to fund public services ranging from education to garbage collection and sewer maintenance. Local taxes come in many forms, from property taxes and [[Payroll|payroll]] taxes to sales taxes and licensing fees. They can vary widely from one jurisdiction to the next.
 
 Taxes levied by cities and towns are also referred to as municipal taxes.
 
@@ -62,6 +62,6 @@ In some states, a smaller city tax may be added to the state tax. Many states al
 
 Municipal authorities typically issue bonds to fund some capital projects in the community.
 
-Investors who purchase [[municipal bonds]](https://www.investopedia.com/terms/m/municipalbond.asp) are lending money to the government which promises to repay a set amount of interest and repay the principal on a future date.
+Investors who purchase [[municipal bonds]](https://www.investopedia.com/terms/m/municipalbond.asp) are lending money to the government which promises to repay a set amount of interest and repay the [[Principal|principal]] on a future date.
 
-To service the debt, that is, to fulfill interest and principal repayment obligations on the bonds, a municipal government may issue a new tax or raise existing local taxes.
+To service the [[Debt|debt]], that is, to fulfill interest and [[Principal|principal]] repayment obligations on the bonds, a municipal government may issue a new tax or raise existing local taxes.

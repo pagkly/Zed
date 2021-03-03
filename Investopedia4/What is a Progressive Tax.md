@@ -1,7 +1,7 @@
 ---
 alias: [Progressive Tax]
 created: 2021-03-02T22:54:43 (UTC +11:00)
-tags: [Progressive Tax Definition, What is a Progressive Tax?]
+tags: [Progressive Tax Definition, [[What is a Progressive Tax]]?]
 source: https://www.investopedia.com/terms/p/progressivetax.asp
 author: Julia Kagan
 ---
@@ -13,16 +13,16 @@ author: Julia Kagan
 
 ---
 
-What is a Progressive Tax?
-## What Is a Progressive Tax?
+[[What is a Progressive Tax]]?
+## [[What is a Progressive Tax|What Is a Progressive Tax]]?
 
-A progressive tax is based on the taxpayer's ability to pay. It imposes a lower tax rate on low-income earners than on those with a higher income. This is usually achieved by creating tax brackets that group taxpayers by income ranges. The income tax system in the U.S. is considered a progressive system, although it has been growing flatter in recent decades. For 2021, there are only seven tax brackets, with rates of 10%, 12%, 22%, 24%, 32%, 35% and 37%.1 There were 16 tax brackets in 1985.2
+A progressive tax is based on the [[Taxpayer|taxpayer]]'s ability to pay. It imposes a lower tax rate on low-income earners than on those with a higher income. This is usually achieved by creating tax brackets that group taxpayers by income ranges. The income tax system in the U.S. is considered a progressive system, although it has been growing flatter in recent decades. For 2021, there are only seven tax brackets, with rates of 10%, 12%, 22%, 24%, 32%, 35% and 37%.1 There were 16 tax brackets in 1985.2
 
 ### Key Takeaways
 
 -   A progressive tax imposes a higher percentage rate on taxpayers who have higher incomes. The U.S. income tax system is an example.
--   A regressive tax imposes the same rate on all taxpayers, regardless of ability to pay. A sales tax is an example.
--   A flat tax is an income tax that is the same percentage of income for all. The U.S. Social Security payroll tax would be a flat tax except that it has an upper cap.3
+-   A [[Regressive Tax|regressive tax]] imposes the same rate on all taxpayers, regardless of ability to pay. A sales tax is an example.
+-   A [[Flat Tax|flat tax]] is an income tax that is the same percentage of income for all. The U.S. [[Social Security]] [[Payroll Tax|payroll tax]] would be a flat tax except that it has an upper cap.3
 
 ## Understanding the Progressive Tax
 
@@ -44,12 +44,12 @@ Critics of progressive taxes consider them to be a disincentive to success. They
 
 Opponents of the progressive tax generally are supporters of low taxes and correspondingly minimal government services.
 
-## Progressive Tax vs. Regressive Tax
+## Progressive Tax vs. [[Regressive Tax]]
 
-The opposite of a progressive tax, a regressive tax, takes a larger chunk of disposable income from low-wage earners than from high-wage earners.
+The opposite of a progressive tax, a [[Regressive Tax|regressive tax]], takes a larger chunk of disposable income from low-wage earners than from high-wage earners.
 
-A sales tax is an example of a regressive tax. If two individuals, one rich and one poor, both buy an identical bag of groceries, both pay the same amount of sales tax. But the poorer person has shelled out a greater percentage of his or her income in order to get those groceries.
+A sales tax is an example of a [[Regressive Tax|regressive tax]]. If two individuals, one rich and one poor, both buy an identical bag of groceries, both pay the same amount of sales tax. But the poorer person has shelled out a greater percentage of his or her income in order to get those groceries.
 
-## Progressive Tax vs. Flat Tax
+## Progressive Tax vs. [[Flat Tax]]
 
-A flat income tax system imposes the same percentage tax on everyone regardless of income. In the U.S., the payroll tax that funds Social Security and Medicare is often considered a flat tax because all wage earners pay the same percentage. However, this tax has a cap. For 2021, the payroll tax is not applied to earnings over $142,800.4 That makes it a flat tax only on the people who earn less than that amount. Taxpayers earning more than $142,800 a year pay a lower percentage of their overall income in payroll taxes. That makes it a regressive tax.
+A flat income tax system imposes the same percentage tax on everyone regardless of income. In the U.S., the [[Payroll Tax|payroll tax]] that funds [[Social Security]] and Medicare is often considered a [[Flat Tax|flat tax]] because all wage earners pay the same percentage. However, this tax has a cap. For 2021, the [[Payroll|payroll]] tax is not applied to earnings over $142,800.4 That makes it a flat tax only on the people who earn less than that amount. Taxpayers earning more than $142,800 a year pay a lower percentage of their overall income in payroll taxes. That makes it a [[Regressive Tax|regressive tax]].

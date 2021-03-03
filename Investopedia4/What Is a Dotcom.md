@@ -1,7 +1,7 @@
 ---
 alias: [Dotcom]
 created: 2021-03-02T19:24:43 (UTC +11:00)
-tags: [Dotcom Definition, What Is a Dotcom?]
+tags: [Dotcom Definition, [[What Is a Dotcom]]?]
 source: https://www.investopedia.com/terms/d/dotcom.asp
 author:  Staff Author
 ---
@@ -13,8 +13,8 @@ author:  Staff Author
 
 ---
 
-What Is a Dotcom?
-## What Is a Dotcom?
+[[What Is a Dotcom]]?
+## [[What Is a Dotcom]]?
 
 A dotcom, or dot-com, is a company that conducts business primarily through a website. A dotcom company embraces the Internet as the key component in its business.
 
@@ -46,7 +46,7 @@ Ultimately, the dotcom bubble burst in 2001 when investors grew tired of waiting
 
 ## Examples of Companies From the Dotcom Crash
 
-A site dedicated to selling pet products called Pets.com became a symbol of the dotcom crash. The company spent more than $2 million on a Super Bowl commercial in January 2000. Late that year, the company reported losses of approximately $147 million for the first three quarters. While the stock price had peaked at $14 a share early in the year, prices fell to below $1 after the losses were made public. The business did not survive.
+A site dedicated to selling pet products called Pets.com became a symbol of the dotcom crash. The company spent more than $2 million on a Super Bowl commercial in January 2000. Late that year, the company reported losses of approximately $147 million for the first three quarters. While the [[Stock|stock]] price had peaked at $14 a share early in the year, prices fell to below $1 after the losses were made public. The business did not survive.
 
 Pseudo.com was a site that focused on Internet broadcasting services, including live-streaming services. Poor business practices ultimately resulted in the failure of the dotcom, and the site never became profitable.
 
