@@ -129,9 +129,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "Investopedia3/Economies of Scale.md",
     "Day Planners/20210303.md",
     "Investopedia3/Cost and Freight (CFR) Definition.md",
     "Investopedia3/A Definition and Explanation of Free On Board (FOB).md",
@@ -140,7 +142,6 @@
     "Investopedia3/Deferred Revenue Definition.md",
     "Investopedia3/Deficit Spending.md",
     "Investopedia3/Define Neoclassical Economics.md",
-    "Investopedia3/Define Unrestricted Net Assets.md",
-    "Investopedia3/How Withdrawal Credits for Pension Plans Work.md"
+    "Investopedia3/Define Unrestricted Net Assets.md"
   ]
 }
