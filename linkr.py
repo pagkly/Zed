@@ -192,7 +192,7 @@ import glob
 txtfiles = []
 for file in glob.glob(os.path.join(obsidian_home,"*.md")):
     print(file)
-    f = open(file, "w")
+    f = open(file, "r")
     fc=f.read()
     print(fc)
     #time.sleep(3600)
@@ -208,7 +208,8 @@ for file in glob.glob(os.path.join(obsidian_home,"*.md")):
 
 
     print(linked_txt)
-    f.write(fc)
-    f.close()
+    f_new = open(file, "w")
+    f_new.write(fc)
+    f_new.close()
     time.sleep(3600)
 
