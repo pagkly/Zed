@@ -13,7 +13,7 @@ author: Evan Tarver
 
 ---
 
-Understanding Multilevel Marketing—And How to Avoid Pitfalls
+[[Understanding Multilevel Marketing—And How to Avoid Pitfalls]]
 ## What Is Multilevel Marketing (MLM)?
 
 Multilevel marketing (MLM) is a strategy some direct [[sales]](https://www.investopedia.com/terms/s/sale.asp) companies use to encourage existing distributors to recruit new distributors who are paid a percentage of their recruits' sales. The recruits are the distributor's "downline." Distributors also make money through direct sales of products to customers. Amway, which sells health, beauty, and home care products, is an example of a well-known direct sales company that uses multilevel marketing.
@@ -38,8 +38,8 @@ You can often spot pyramid schemes by their greater focus on recruitment than on
 
 ## Example of a Multilevel Marketing Company
 
-Herbalife Nutrition Ltd. is a high-profile, multilevel marketing company that manufactures and distributes weight-loss and nutritional products, with more than 500,000 distributors. Although the [[FTC has investigated Herbalife]](https://www.ftc.gov/news-events/press-releases/2016/07/herbalife-will-restructure-its-multi-level-marketing-operations), it was activist investor William Ackman, who shed a national spotlight on the company by shorting $1 billion of the company’s stock in 2012. Ackman accused the company of operating a pyramid scheme and backed his allegations with a bet the company’s stock price would fall under the weight of the scam.
+Herbalife Nutrition Ltd. is a high-profile, multilevel marketing company that manufactures and distributes weight-loss and nutritional products, with more than 500,000 distributors. Although the [[FTC has investigated Herbalife]](https://www.ftc.gov/news-events/press-releases/2016/07/herbalife-[[Will|will]]-restructure-its-multi-level-marketing-operations), it was activist investor William Ackman, who shed a national spotlight on the company by shorting $1 billion of the company’s [[Stock|stock]] in 2012. Ackman accused the company of operating a pyramid scheme and backed his allegations with a bet the company’s stock price would fall under the weight of the scam.
 
-In 2018, Ackman gave up on his bet. As of Oct. 27, 2019, the company’s stock price traded at $40 a share.
+In 2018, Ackman gave up on his bet. As of Oct. 27, 2019, the company’s [[Stock|stock]] price traded at $40 a share.
 
-There have been multiple lawsuits against [Herbalife](https://company.herbalife.com/), accusing it of misrepresenting its sales practices. This included a settlement it reached with the [[FTC in 2016,]](https://www.ftc.gov/news-events/press-releases/2016/07/herbalife-will-restructure-its-multi-level-marketing-operations) under which it had to restructure its business. Herbalife argues that most of its revenue is from product sales, not recruitment, and it offers members many protections, such as a money-back guarantee, so they will not be stuck with products they could not sell.
+There have been multiple lawsuits against [Herbalife](https://company.herbalife.com/), accusing it of misrepresenting its sales practices. This included a settlement it reached with the [[FTC in 2016,]](https://www.ftc.gov/news-events/press-releases/2016/07/herbalife-[[Will|will]]-restructure-its-multi-level-marketing-operations) under which it had to restructure its business. Herbalife argues that most of its revenue is from product sales, not recruitment, and it offers members many protections, such as a money-back guarantee, so they will not be stuck with products they could not sell.

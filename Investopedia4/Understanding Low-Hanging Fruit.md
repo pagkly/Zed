@@ -3,7 +3,7 @@ alias: [Low-Hanging Fruit]
 created: 2021-03-02T21:30:09 (UTC +11:00)
 tags: [Low-Hanging Fruit Definition, Understanding Low-Hanging Fruit]
 source: https://www.investopedia.com/terms/l/low-hanging-fruit.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Low-Hanging Fruit Definition
@@ -13,12 +13,12 @@ author: Will Kenton
 
 ---
 
-Understanding Low-Hanging Fruit
+[[Understanding Low-Hanging Fruit]]
 ## What Is Low-Hanging Fruit?
 
 The term "low-hanging fruit" is a commonly used metaphor for doing the simplest or easiest work first, or for a quick fix that produces ripe, delectable results. In sales, it means a target that is easy to achieve, a product or service that is easy to sell, or a prospective client who seems very likely to buy the product, especially compared with other, more reluctant prospects.
 
-## Understanding Low-Hanging Fruit
+## [[Understanding Low-Hanging Fruit]]
 
 To illustrate the concept of low-hanging fruit, imagine a sales rep has been talking to several prospects, and one seems more likely to buy their product than the others. If the sales rep channels their effort toward the easiest sale, they are focusing on the low-hanging fruit. This is also referred to as [[cherry-picking]](https://www.investopedia.com/terms/c/cherrypicking.asp) clients or opportunities.
 
@@ -46,4 +46,4 @@ Businesses or [[sales professionals]](https://www.investopedia.com/articles/fina
 
 However, in most cases, there are usually only so many low-hanging fruits, and once those have been "picked," the company has to put in more effort to achieve results.
 
-Essentially, if a company or an individual decides to exclusively focus on low-hanging fruit, it pushes all of the more difficult tasks onto the metaphorical back burner, and putting those tasks on hold can make them harder to achieve in the long run.
+Essentially, if a company or an individual decides to exclusively focus on low-hanging fruit, it pushes all of the more difficult tasks onto the metaphorical back burner, and putting those tasks on [[Hold|hold]] can make them harder to achieve in the long run.

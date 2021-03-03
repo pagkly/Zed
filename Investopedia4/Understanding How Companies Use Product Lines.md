@@ -13,7 +13,7 @@ author: Alexandra Twin
 
 ---
 
-Understanding How Companies Use Product Lines
+[[Understanding How Companies Use Product Lines]]
 ## What Is a Product Line?
 
 A product line is a group of related products all marketed under a single brand name that is sold by the same company. Companies sell multiple product lines under their various brand names, seeking to distinguish them from each other for better usability for consumers.
@@ -28,7 +28,7 @@ Companies often expand their offerings by adding to existing product lines becau
 
 ## How Product Lines Work
 
-Product lines are created by companies as a marketing strategy to capture the sales of consumers who are already buying the brand. The operating principle is that consumers are more likely to respond positively to brands they know and love and will be willing to buy the new products based on their positive experiences with the brand in the past.
+Product lines are created by companies as a [[Marketing Strategy|marketing strategy]] to capture the sales of consumers who are already buying the brand. The operating principle is that consumers are more likely to respond positively to brands they know and love and [[Will|will]] be willing to buy the new products based on their positive experiences with the brand in the past.
 
 For example, a cosmetic company that's already selling a high-priced product line of makeup (that might include foundation, eyeliner, mascara, and lipstick) under one of its well-known brands might launch a product line under the same brand name but at a lower price point. Product lines can vary in quality, price, and target market. Companies use product lines to gauge trends, which helps them to determine which markets to target.
 
@@ -48,4 +48,4 @@ Product lines allow companies to reach regions and socioeconomic groups, sometim
 
 ## Examples of Product Lines
 
-Microsoft Corporation ([MSFT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=msft)) as a brand sells several highly recognized product lines including Windows, Office, and the Xbox. Nike Inc. ([NKE](https://www.investopedia.com/markets/quote?tvwidgetsymbol=nke)) has product lines for various sports, such as track and field, basketball, and soccer. The company's product lines include footwear, clothing, and equipment. PepsiCo ([PEP](https://www.google.com/search?tbm=fin&q=NASDAQ:+PEP)) owns, among many other lines globally, Frito Lay, Gatorade, Quaker Oats, and Tropicana. The various product lines for Starbucks Corporation ([SBUX](https://www.investopedia.com/markets/quote?tvwidgetsymbol=sbux)) include coffee, ice cream, and drinkware.
+Microsoft Corporation ([MSFT](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=msft)) as a brand sells several highly recognized product lines including Windows, Office, and the Xbox. Nike Inc. ([NKE](https://www.investopedia.com/markets/quote?tvwidgetsymbol=nke)) has product lines for various sports, such as track and field, basketball, and soccer. The company's product lines include footwear, clothing, and equipment. PepsiCo ([PEP](https://www.google.com/search?tbm=fin&q=[[Nasdaq|NASDAQ]]:+PEP)) owns, among many other lines globally, Frito Lay, Gatorade, Quaker Oats, and Tropicana. The various product lines for Starbucks Corporation ([SBUX](https://www.investopedia.com/markets/quote?tvwidgetsymbol=sbux)) include coffee, ice cream, and drinkware.

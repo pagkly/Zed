@@ -13,7 +13,7 @@ author: Julia Kagan
 
 ---
 
-Understanding Nest Eggs
+[[Understanding Nest Eggs]]
 ## What Is a Nest Egg?
 
 A nest egg is a substantial sum of money or other assets that have been saved or invested for a specific purpose. Such assets are generally earmarked for longer-term objectives, the most common being retirement, buying a home, and education.
@@ -24,7 +24,7 @@ The term can also refer to money kept aside as a reserve to deal with unexpected
 
 ## Nest Eggs Explained
 
-The foremost [[investment objective]](https://www.investopedia.com/terms/i/investmentobjective.asp) of a nest egg is generally preserving capital, since it represents funds that have been accumulated over a considerable time. However, the portfolio should also have a growth component to offset the effects of inflation over time. A nest egg should typically be invested in relatively conservative instruments such as certificates of deposit, bonds, and dividend-paying blue chips. The exact allocation of these securities within a nest egg should be based on [[asset allocation]](https://www.investopedia.com/terms/a/assetallocation.asp) principles as well as the investor’s [[risk tolerance]](https://www.investopedia.com/terms/r/risktolerance.asp), time horizon, and investment objectives.
+The foremost [[investment objective]](https://www.investopedia.com/terms/i/investmentobjective.asp) of a nest egg is generally preserving capital, since it represents funds that have been accumulated over a considerable time. However, the [[Portfolio|portfolio]] should also have a growth component to offset the effects of inflation over time. A nest egg should typically be invested in relatively conservative instruments such as certificates of deposit, bonds, and dividend-paying blue chips. The exact allocation of these securities within a nest egg should be based on [[asset allocation]](https://www.investopedia.com/terms/a/assetallocation.asp) principles as well as the investor’s [[risk tolerance]](https://www.investopedia.com/terms/r/risktolerance.asp), time horizon, and investment objectives.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ The foremost [[investment objective]](https://www.investopedia.com/terms/i/inves
 -   Such assets are generally earmarked for longer-term objectives, the most common being retirement, buying a home, and education.
 -   A nest egg should typically be invested in relatively conservative instruments such as certificates of deposit, bonds, and dividend-paying blue chips.
 
-It would be folly to invest nest egg proceeds in certain volatile investments in hopes of achieving a high [[rate of return]](https://www.investopedia.com/terms/r/rateofreturn.asp). These investments include commodities, small-cap stocks, and currencies since their inherent volatility makes them less suited for [[conservative investing]](https://www.investopedia.com/terms/c/conservativeinvesting.asp).
+It would be folly to invest nest egg proceeds in certain volatile investments in hopes of achieving a high [[rate of return]](https://www.investopedia.com/terms/r/rateofreturn.asp). These investments include commodities, small-cap [[Stocks|stocks]], and currencies since their inherent [[Volatility|volatility]] makes them less suited for [[conservative investing]](https://www.investopedia.com/terms/c/conservativeinvesting.asp).
 
 ## The Importance of a Nest Egg
 
@@ -40,6 +40,6 @@ For many years, a common objective for individuals was to save a nest egg of at 
 
 A nest egg should typically be invested in relatively conservative instruments such as certificates of deposit, bonds, and dividend-paying blue chips.
 
-In addition to cash and securities, other assets that are expected to grow in value and generate a positive return on investment over time might make up part of a nest egg. Prized artwork and other rare collectibles may be held as assets to appreciate and later possibly sold to provide the hard currency for retirement.
+In addition to cash and securities, other assets that are expected to grow in value and generate a positive [[Return|return]] on investment over time might make up part of a nest egg. Prized artwork and other rare collectibles may be held as assets to appreciate and later possibly sold to provide the [[Hard Currency|hard currency]] for retirement.
 
-Real estate in a prime location that is likewise held in ownership with the expectation of the property value increasing could also be part of a nest egg. Even if they do not develop the property themselves, a landowner might hold on to real estate anticipating its value will increase and that a buyer will offer them the return they seek. The proceeds from the sale could then go towards their retirement.
+Real [[Estate|estate]] in a prime location that is likewise held in ownership with the expectation of the property value increasing could also be part of a nest egg. Even if they do not develop the property themselves, a landowner might [[Hold|hold]] on to real estate anticipating its value [[Will|will]] increase and that a buyer will [[Offer|offer]] them the [[Return|return]] they seek. The proceeds from the sale could then go towards their retirement.

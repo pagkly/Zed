@@ -3,7 +3,7 @@ alias: [Ocean Bill of Lading]
 created: 2021-03-02T22:13:51 (UTC +11:00)
 tags: [Ocean Bill of Lading Definition, Understanding Ocean Bills of Lading]
 source: https://www.investopedia.com/terms/o/ocean-bill-of-lading.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Ocean Bill of Lading Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-Understanding Ocean Bills of Lading
+[[Understanding Ocean Bills of Lading]]
 ## What Is an Ocean Bill of Lading?
 
 An ocean bill of lading is a document required for the transportation of goods overseas across international waters. An ocean [[bill of lading]](https://www.investopedia.com/terms/b/billoflading.asp) serves as both the carrier's receipt to the shipper, and as a collection document or an [[invoice]](https://www.investopedia.com/terms/i/invoice.asp). The contract is a legally binding document between both the shipper and the carrier of the shipment.
@@ -22,7 +22,7 @@ A bill of lading is a legal document or contract between the shipper and carrier
 
 ## How an Ocean Bill of Lading Works
 
-An ocean bill of lading allows the shipper to move goods across international waters. This document or contract provides the specifics involving the nature of the shipment including what and how much material is being transported, along with where the goods will be shipped. Other information outlined in the contract includes the value of the goods shipped and the type of packing used during transport.
+An ocean bill of lading allows the shipper to move goods across international waters. This document or contract provides the specifics involving the nature of the shipment including what and how much material is being transported, along with where the goods [[Will|will]] be shipped. Other information outlined in the contract includes the value of the goods shipped and the type of packing used during transport.
 
 The shipper receives the contract when the goods are picked up. The document must be signed by both the shipper and the carrier. Once the shipment is complete, the document is given to the receiver. Upon [[delivery]](https://www.investopedia.com/terms/d/delivery.asp) and receipt, the receiver must also sign the contract.
 
@@ -32,7 +32,7 @@ Inland bills of lading are required if the shipment needs to travel further in t
 
 ## Example of Ocean Bill of Lading
 
-Ocean bills of lading, as mentioned above, are used when goods are transported overseas through waterways. When a car manufacturer ships vehicles to a dealership overseas, it needs an ocean bill of lading to complete the transfer of goods. If the vehicles must be transferred further into the destination country—so further from the port—it must have an inland bill of lading to move the vehicles. So a U.S.-based dealership will sign an ocean bill of lading with a Japanese carmaker for the transport of vehicles to the United States. An additional inland bill of lading is required if the shipment arrives in Seattle, but is destined for Billings, Montana.
+Ocean bills of lading, as mentioned above, are used when goods are transported overseas through waterways. When a car manufacturer ships vehicles to a dealership overseas, it needs an ocean bill of lading to complete the transfer of goods. If the vehicles must be transferred further into the destination country—so further from the port—it must have an inland bill of lading to move the vehicles. So a U.S.-based dealership [[Will|will]] sign an ocean bill of lading with a Japanese carmaker for the transport of vehicles to the United States. An additional inland bill of lading is required if the shipment arrives in Seattle, but is destined for Billings, Montana.
 
 ### Key Takeaways
 

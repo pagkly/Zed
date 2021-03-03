@@ -13,7 +13,7 @@ author: Carol M. Kopp
 
 ---
 
-Understanding Perceived Value
+[[Understanding Perceived Value]]
 ## What Is Perceived Value?
 
 In marketing terminology, perceived value is the customers' evaluation of the merits of a product or service, and its ability to meet their needs and expectations, especially in comparison with its peers.
@@ -26,7 +26,7 @@ Marketing professionals try to influence consumers' perceived value of a product
 -   Perceived value is measured by the price the public is willing to pay for a good or service.
 -   The marketing of a product or service involves attempting to influence and increase its perceived value, which can emphasize qualities such as its aesthetic design, accessibility, or convenience.
 
-## Understanding Perceived Value
+## [[Understanding Perceived Value]]
 
 Perceived value comes down to the price the public is willing to pay for a good or service. Even a snap decision made in a store aisle involves an analysis of a product's ability to fulfill a need and provide satisfaction compared to other products under different brand names.
 
@@ -43,7 +43,7 @@ Marketers who want to influence the perceived value of a product define its attr
 There are five types of utilities that companies aim to create through marketing campaigns for products:
 
 -   Form utility is the aesthetic appeal of the physical [[design of a product]](https://www.investopedia.com/ask/answers/042815/what-difference-between-research-and-development-and-product-development.asp). Even a utilitarian product like a frying pan can increase in perceived value because of its appealing design.
--   Task utility is the value attached to a service that saves the customer time, effort, or money. Car detailing shops and laundry services offer utility value.
+-   Task utility is the value attached to a service that saves the customer time, effort, or money. Car detailing shops and laundry services [[Offer|offer]] utility value.
 -   Time utility refers to the ease of access to a service or product, such as 24-hour service compared to 9-to-5 hours.
 -   Place utility is the convenience of the location, like a fast-food outlet that's around the corner compared to a restaurant that's 20 miles away.
 -   Possession utility refers to the ease of purchasing the product. A department store that features online ordering, home delivery, or in-store pickup is aiming for possession utility.

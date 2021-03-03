@@ -3,7 +3,7 @@ alias: [Delivered Ex Ship, DES]
 created: 2021-03-02T19:15:53 (UTC +11:00)
 tags: [Delivered Ex Ship (DES) Definition, Understanding Delivered Ex Ship (DES) and its Requirements]
 source: https://www.investopedia.com/terms/d/des.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Delivered Ex Ship (DES) Definition
@@ -13,10 +13,10 @@ author: Will Kenton
 
 ---
 
-Understanding Delivered Ex Ship (DES) and its Requirements
+[[Understanding Delivered Ex Ship (DES) and its Requirements]]
 ## What Is Delivered Ex Ship (DES)?
 
-Delivered ex-ship (DES) was a trade term that required a seller to deliver goods to a buyer at an agreed port of arrival. The seller met its obligation upon delivery of uncleared goods in a designated port. It assumed the full cost and risk involved in getting the goods to that point, at which time it was available to the buyer and the buyer assumed all ensuing costs and risks.
+Delivered ex-ship (DES) was a trade term that required a seller to deliver goods to a buyer at an agreed port of arrival. The seller met its obligation upon delivery of uncleared goods in a designated port. It assumed the full cost and [[Risk|risk]] involved in getting the goods to that point, at which time it was available to the buyer and the buyer assumed all ensuing costs and risks.
 
 This term applied to both inland and sea shipping and often in charter shipping. It expired effective 2011. DES is a legal term, and the exact definition can differ somewhat by country.
 
@@ -28,11 +28,11 @@ This term applied to both inland and sea shipping and often in charter shipping.
 
 ## Delivered Ex Ship (DES) Explained
 
-Contracts involving international transportation often contain abbreviated trade terms that describe details such as the time and place of delivery, payment, at what point the risk of loss shifts from the seller to the buyer, and who pays for the costs of freight and insurance. DES was just one type of such an international trade contract.
+Contracts involving international transportation often contain abbreviated trade terms that describe details such as the time and place of delivery, payment, at what point the [[Risk|risk]] of loss shifts from the seller to the buyer, and who pays for the costs of freight and insurance. DES was just one type of such an international trade contract.
 
 ## Incoterms Define Shipping Terms
 
-The most commonly known trade terms are known as "incoterms," short for "international commercial terms." The [[International Chamber of Commerce]](https://www.investopedia.com/terms/i/international-chamber-of-commerce-icc.asp) (ICC), an organization, publishes them aiming to foster trade and commerce internationally. ICC promotes and protects open markets for goods and services. 
+The most commonly known trade terms are known as "incoterms," short for "international commercial terms." The [[International Chamber of Commerce]](https://www.investopedia.com/terms/i/international-chamber-of-[[Commerce|commerce]]-icc.asp) (ICC), an organization, publishes them aiming to foster trade and commerce internationally. ICC promotes and protects open markets for goods and services. 
 
 [Incoterms](https://www.investopedia.com/terms/i/incoterms.asp) are often identical in form to domestic terms such as the [[American Uniform Commercial Code]](https://www.investopedia.com/terms/u/uniform-commercial-code.asp) (UCC), but they have different meanings. Parties to a contract must expressly indicate the governing law of their terms as a result.
 
@@ -54,4 +54,4 @@ The seller must make the goods available for pickup at its place of business in 
 
 Seller X ships contracted goods to a pier and port in Kennebunkport, Maine. Midway there, the ship encounters a storm and sinks. Seller X absorbs the loss because the shipment has not yet arrived in port.
 
-Alternatively, Seller X's shipment makes it safely to Kennebunkport. The storm hits while the ship is docked after the point when Buyer Y has contractually taken possession of the products. The ship sinks in port. Buyer Y absorbs the loss because it has accepted delivery, even though the goods have not yet left the ship.
+Alternatively, Seller X's shipment makes it safely to Kennebunkport. The storm hits while the ship is docked after the point when Buyer [[Y]] has contractually taken possession of the products. The ship sinks in port. Buyer Y absorbs the loss because it has accepted delivery, even though the goods have not yet left the ship.

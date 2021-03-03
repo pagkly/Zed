@@ -3,7 +3,7 @@ alias: [Groupthink]
 created: 2021-03-02T20:30:11 (UTC +11:00)
 tags: [Groupthink Definition, Understanding Groupthink]
 source: https://www.investopedia.com/terms/g/groupthink.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Groupthink Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-Understanding Groupthink
+[[Understanding Groupthink]]
 ## What Is Groupthink?
 
 Groupthink is a phenomenon that occurs when a group of individuals reaches a consensus without critical reasoning or evaluation of the consequences or alternatives. Groupthink is based on a common desire not to upset the balance of a group of people.
@@ -26,15 +26,15 @@ This desire creates a dynamic within a group whereby creativity and individualit
 -   Any dissenters in the group who may attempt to introduce a rational argument are pressured to come around to the consensus and may even be censored.
 -   The _Challenger_ shuttle disaster, the Bay of Pigs, Watergate, and the escalation of the Vietnam War are all considered possible consequences of groupthink.
 
-## Understanding Groupthink
+## [[Understanding Groupthink]]
 
-In a business setting, groupthink can cause [[employees]](https://www.investopedia.com/articles/personal-finance/081015/8-reasons-why-valued-employees-quit.asp) and supervisors to overlook potential problems in the pursuit of consensus thinking. Because individual critical thinking is de-emphasized or frowned upon, employees may self-censor and not suggest alternatives for fear of upsetting the status quo.
+In a business setting, groupthink can cause [[employees]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/081015/8-reasons-why-valued-employees-quit.asp) and supervisors to overlook potential problems in the pursuit of consensus thinking. Because individual critical thinking is de-emphasized or frowned upon, employees may self-censor and not suggest alternatives for fear of upsetting the status quo.
 
 ### A Brief History of the Groupthink Concept
 
 Yale University social psychologist Irving Janis coined the term groupthink in 1972. Janis theorized that groups of intelligent people sometimes make the worst possible decisions based on several factors. For example, the members of a group might all have similar backgrounds that could insulate them from the opinions of outside groups.
 
-Some [[organizations]](https://www.investopedia.com/articles/personal-finance/091613/introduction-financial-planning-organizations.asp) have no clear rules upon which to make decisions. Groupthink occurs when a party ignores logical alternatives and makes irrational decisions.
+Some [[organizations]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/091613/introduction-financial-planning-organizations.asp) have no clear rules upon which to make decisions. Groupthink occurs when a party ignores logical alternatives and makes irrational decisions.
 
 ### Fast Fact
 

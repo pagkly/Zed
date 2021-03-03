@@ -3,7 +3,7 @@ alias: [Grey Market]
 created: 2021-03-02T20:27:48 (UTC +11:00)
 tags: [Grey Market Definition, Understanding Grey Markets]
 source: https://www.investopedia.com/terms/g/greymarket.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Grey Market Definition
@@ -13,14 +13,14 @@ author: Will Kenton
 
 ---
 
-Understanding Grey Markets
+[[Understanding Grey Markets]]
 ## What Is a Grey Market?
 
-A grey market is a market in which goods have been manufactured by or with the consent of the brand owner but are sold outside of the brand owner's approved distribution channels—an activity that can be perfectly legal. In the securities markets, a grey market is a market wherein a company's shares are traded before they are issued in an [[initial public offering]](https://www.investopedia.com/terms/i/ipo.asp) (IPO).
+A grey market is a market in which goods have been manufactured by or with the consent of the brand owner but are sold outside of the brand owner's approved distribution channels—an activity that can be perfectly legal. In the securities markets, a grey market is a market wherein a company's [[Shares|shares]] are traded before they are issued in an [[initial public offering]](https://www.investopedia.com/terms/i/ipo.asp) (IPO).
 
-## Understanding Grey Markets
+## [[Understanding Grey Markets]]
 
-A grey market in the [[securities markets]](https://www.investopedia.com/articles/stocks/11/securities-market-introduction.asp) is an over-the-counter market where dealers execute orders for stocks and bonds for preferred customers before they have been issued. These sales are contingent upon the issuance actually taking place, and allows underwriters and the issuer to determine demand and price the securities accordingly before the initial public offering (IPO) or bond issue. In grey market trading, while the trade is binding, it cannot be settled until official trading begins.
+A grey market in the [[securities markets]](https://www.investopedia.com/articles/[[Stocks|stocks]]/11/securities-market-introduction.asp) is an over-the-counter market where dealers execute orders for stocks and bonds for preferred customers before they have been issued. These sales are contingent upon the issuance actually taking place, and allows underwriters and the issuer to determine demand and price the securities accordingly before the initial public [[Offering|offering]] (IPO) or bond issue. In grey market trading, while the trade is binding, it cannot be settled until official trading begins.
 
 Grey market goods are products sold by a manufacturer or their authorized agent outside the terms of the agreement between the reseller/distributor and the manufacturer.
 
@@ -39,7 +39,7 @@ In the U.S., Pfizer and the pharmaceutical industry have been waging a legal bat
 ### Key Takeaways
 
 -   A grey market is a market wherein goods have been manufactured by or with the consent of the brand owner but are sold outside of the brand owner's approved distribution channels.
--   A grey market in the securities markets is an over-the-counter market wherein dealers execute orders for stocks and bonds for preferred customers before they have been issued.
+-   A grey market in the securities markets is an over-the-counter market wherein dealers execute orders for [[Stocks|stocks]] and bonds for preferred customers before they have been issued.
 -   The high cost of popular and branded prescription medications in the U.S. has created a large grey market.
 
 ## Levis Strauss Jeans and the E.U. Grey Market

@@ -3,7 +3,7 @@ alias: [Financial Account]
 created: 2021-03-02T19:54:42 (UTC +11:00)
 tags: [Financial Account Definition, Understanding Financial Accounts]
 source: https://www.investopedia.com/terms/f/financial-account.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Financial Account Definition
@@ -13,24 +13,24 @@ author: Will Kenton
 
 ---
 
-Understanding Financial Accounts
+[[Understanding Financial Accounts]]
 ## What Is a Financial Account?
 
-In macroeconomics, a financial account is a component of a country’s [[balance of payments]](https://www.investopedia.com/terms/b/bop.asp) that covers claims on or liabilities to nonresidents, specifically with regard to financial assets. Financial account components include direct investment, portfolio investment and [[reserve assets]](https://www.investopedia.com/terms/r/reserve-assets.asp) broken down by sector.
+In [[Macroeconomics|macroeconomics]], a financial account is a component of a country’s [[balance of payments]](https://www.investopedia.com/terms/b/bop.asp) that covers claims on or liabilities to nonresidents, specifically with regard to financial assets. Financial account components include [[Direct Investment|direct investment]], [[Portfolio|portfolio]] investment and [[reserve assets]](https://www.investopedia.com/terms/r/reserve-assets.asp) broken down by sector.
 
 When recorded in a country’s balance of payments, nonresidents' claims made on residents' financial assets are liabilities, while claims made against nonresidents by residents are assets.
 
 ## Financial Accounts Explained
 
-The financial account is a tracking mechanism for shifts in international asset ownership, and it is composed of two subaccounts. The first subaccount includes domestic ownership of foreign assets, such as foreign bank deposits and [[securities]](https://www.investopedia.com/terms/s/security.asp) in foreign companies. The second subaccount includes foreign ownership of domestic assets, such as the purchase of government [[bonds]](https://www.investopedia.com/terms/b/bond.asp) by foreign entities or loans provided to domestic banks by foreign institutions.
+The financial account is a tracking mechanism for shifts in international asset ownership, and it is composed of two subaccounts. The first subaccount includes domestic ownership of foreign assets, such as foreign bank deposits and [[securities]](https://www.investopedia.com/terms/s/[[Security|security]].asp) in foreign companies. The second subaccount includes foreign ownership of domestic assets, such as the purchase of government [[bonds]](https://www.investopedia.com/terms/b/bond.asp) by foreign entities or loans provided to domestic banks by foreign institutions.
 
 If the domestic ownership of foreign assets portion of the financial account increases, it increases the overall financial account. If the foreign ownership of domestic assets increases, it decreases the overall financial account; the overall financial account increases when the foreign ownership of domestic assets decreases.
 
 ### Key Takeaways
 
 -   A financial account is a component of a country’s balance of payments that covers claims on or liabilities to nonresidents, specifically with regard to financial assets.
--   Financial account components include direct investment, portfolio investment, and reserve assets broken down by sector.
--   The financial account involves financial assets such as gold, currency, derivatives, special [[drawing]](https://www.investopedia.com/terms/d/drawing-account.asp) rights, equity, and bonds.
+-   Financial account components include [[Direct Investment|direct investment]], [[Portfolio|portfolio]] investment, and reserve assets broken down by sector.
+-   The financial account involves financial assets such as gold, currency, derivatives, special [[drawing]](https://www.investopedia.com/terms/d/drawing-account.asp) rights, [[Equity|equity]], and bonds.
 
 ## Capital Versus Current Accounts
 
@@ -48,4 +48,4 @@ In addition, because entries in the financial account are net entries that offse
 
 Easing access to a country’s capital is considered part of a broader movement toward economic liberalization, and a more liberalized financial account opens a country up to capital markets.
 
-However, reducing restrictions on the financial account has risks. The more a country’s economy is integrated with other economies worldwide, the greater the likelihood that economic troubles abroad will affect the domestic situation. This potential outcome is weighed against the potential benefits: lower funding costs, access to global [[capital markets]](https://www.investopedia.com/terms/c/capitalmarkets.asp), and increased efficiency.
+However, reducing restrictions on the financial account has risks. The more a country’s economy is integrated with other economies worldwide, the greater the likelihood that economic troubles abroad [[Will|will]] affect the domestic situation. This potential outcome is weighed against the potential benefits: lower funding costs, access to global [[capital markets]](https://www.investopedia.com/terms/c/capitalmarkets.asp), and increased efficiency.

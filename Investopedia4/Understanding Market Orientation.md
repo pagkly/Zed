@@ -13,7 +13,7 @@ author: Carol M. Kopp
 
 ---
 
-Understanding Market Orientation
+[[Understanding Market Orientation]]
 ## What Is Market Orientation?
 
 Market orientation is an approach to business that prioritizes identifying the needs and desires of consumers and creating products and services that satisfy them. Companies that have a market orientation consider the opinions and needs of their [[target market]](https://www.investopedia.com/terms/t/target-market.asp) as a critical component of their [[research and development]](https://www.investopedia.com/terms/r/randd.asp) (R&D) for new products.
@@ -42,7 +42,7 @@ To be successful, companies need to ensure that all departments adopt and promot
 
 At times, market orientation may reveal customer desires that are simply not cost-effective or practical to implement. The business then must determine how to meet customer expectations in the best way possible.
 
-At the very least, impractical ideas may inform long-term [[development strategies]](https://www.investopedia.com/articles/personal-finance/090815/basics-business-development.asp). Options that are not cost effective today may become quite possible down the line due to changes in technology, science, regulation or other market conditions.
+At the very least, impractical ideas may inform long-term [[development strategies]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/090815/basics-business-development.asp). Options that are not cost effective today may become quite possible down the line due to changes in technology, science, regulation or other market conditions.
 
 ## Market Orientation vs. Other Strategies
 
@@ -50,9 +50,9 @@ Development focused on market orientation puts consumers' desires first, creatin
 
 [Product differentiation](https://www.investopedia.com/terms/p/product_differentiation.asp) often goes hand-in-hand with a product orientation approach. With this approach, the company employs an advertising strategy that aims at clearly identifying the attributes that distinguish a brand from its competitors.
 
-Sales orientation focuses on persuading the consumer into immediate action through means such as online ads, social media, television commercials, in-store demonstrations, or [[direct response marketing]](https://www.investopedia.com/terms/d/direct-marketing.asp).
+Sales orientation focuses on persuading the consumer into immediate action through means such as online ads, [[Social Media|social media]], television commercials, in-store demonstrations, or [[direct response marketing]](https://www.investopedia.com/terms/d/direct-marketing.asp).
 
-Any or all of these approaches may be required for a successful marketing strategy, but most businesses focus on one or a few as their primary focus.
+Any or all of these approaches may be required for a successful [[Marketing Strategy|marketing strategy]], but most businesses focus on one or a few as their primary focus.
 
 ## Real World Examples of Market Orientation
 
@@ -62,8 +62,8 @@ Any or all of these approaches may be required for a successful marketing strate
 
 For example, many consumers, especially city dwellers, worry about getting packages delivered when they're not at home. The company responded with Amazon Locker, a network of self-service pickup boxes.
 
-Delivery charges, no matter how reasonable, are a chief irritant to consumers, and a reason to buy locally instead of ordering online. [[Amazon Prime]](https://www.investopedia.com/personal-finance/8-lesser-known-benefits-amazon-prime/) charges an annual fee for the free delivery of most of its products.
+Delivery charges, no matter how reasonable, are a chief irritant to consumers, and a reason to buy locally instead of ordering online. [[Amazon Prime]](https://www.investopedia.com/personal-[[Finance|finance]]/8-lesser-known-benefits-amazon-prime/) charges an annual fee for the free delivery of most of its products.
 
 ### Coca-Cola
 
-[Coca-Cola](https://www.investopedia.com/articles/markets/112515/how-does-cocacola-actually-make-money.asp) is another company that is famous for its market orientation. Considerable research goes into identifying new flavors that consumers will actually like, such as wild strawberry and lime. But those new flavors won't help Coca-Cola address the increasing health consciousness of consumers. That's why the company acquired [[brands]](https://www.investopedia.com/terms/b/brand.asp) including Dasani, Honest Tea, Smartwater, Simply Orange, Minute Maid, and Vitaminwater.
+[Coca-Cola](https://www.investopedia.com/articles/markets/112515/how-does-cocacola-actually-make-money.asp) is another company that is famous for its market orientation. Considerable research goes into identifying new flavors that consumers [[Will|will]] actually like, such as wild strawberry and lime. But those new flavors won't help Coca-Cola address the increasing health consciousness of consumers. That's why the company acquired [[brands]](https://www.investopedia.com/terms/b/brand.asp) including Dasani, Honest Tea, Smartwater, Simply Orange, Minute Maid, and Vitaminwater.

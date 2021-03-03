@@ -3,7 +3,7 @@ alias: [Payment]
 created: 2021-03-02T22:38:08 (UTC +11:00)
 tags: [Payment Definition, Understanding Payments]
 source: https://www.investopedia.com/terms/p/payment.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Payment Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-Understanding Payments
+[[Understanding Payments]]
 ## What Is Payment?
 
 Payment is the transfer of money, goods, or services in exchange for goods and services in acceptable proportions that have been previously agreed upon by all parties involved. A payment can be made in the form of services exchanged, cash, check, wire transfer, credit card, or debit card.
@@ -28,11 +28,11 @@ Payment is the transfer of money, goods, or services in exchange for goods and s
 
 Today's monetary system allows for payments to be made with [[currency]](https://www.investopedia.com/terms/c/currency.asp). Currency, which has simplified the means of economic transactions, provides a convenient medium through which payments can be made, and it can also be easily stored.
 
-Before the widespread use of currency and other payment methods, [[barter payments]](https://www.investopedia.com/terms/b/barter.asp) were used in which one product or service was exchanged for another. For example, if an egg farmer [[with a large surplus]](https://www.investopedia.com/video/play/producer-surplus/) of eggs wanted milk, the farmer would need to find a dairy farmer who would be willing to take eggs as payment for milk.
+Before the widespread use of currency and other payment methods, [[barter payments]](https://www.investopedia.com/terms/b/barter.asp) were used in which one product or service was exchanged for another. For example, if an egg farmer [[with a large surplus]](https://www.investopedia.com/video/play/producer-[[Surplus|surplus]]/) of eggs wanted milk, the farmer would need to find a dairy farmer who would be willing to take eggs as payment for milk.
 
 In this case, if a suitable dairy farmer weren't found in time, not only would the egg farmer not get the milk, but the eggs would spoil, becoming worthless. Currency, on the other hand, maintains its value over time. However, bartering is still practiced today when companies want to exchange services between one another.
 
-Payments can be the transfer of anything of value or benefit to the parties. An [invoice](https://www.investopedia.com/terms/i/invoice.asp) or bill typically precedes a payment. Payees usually get to choose how they will accept payment. However, some laws require the payer to accept the country's legal tender up to a prescribed limit. Payment in another currency often involves an additional [foreign exchange](https://www.investopedia.com/articles/personal-finance/022415/worst-place-exchange-currency.asp) transaction, usually around 3% of the total payment being made.
+Payments can be the transfer of anything of value or benefit to the parties. An [invoice](https://www.investopedia.com/terms/i/invoice.asp) or bill typically precedes a payment. Payees usually get to choose how they [[Will|will]] accept payment. However, some laws require the payer to accept the country's legal tender up to a prescribed limit. Payment in another currency often involves an additional [foreign exchange](https://www.investopedia.com/articles/personal-[[Finance|finance]]/022415/worst-place-exchange-currency.asp) transaction, usually around 3% of the total payment being made.
 
 In the U.S., the _payer_ is the party making a payment while the _payee_ is the party receiving the payment.
 
@@ -54,14 +54,14 @@ The [[contactless payment]](https://www.investopedia.com/terms/c/contactless-pay
 
 ### Checks
 
-[Checks](https://www.investopedia.com/terms/c/check.asp) have fallen out of favor over the years due to advancements in technology, allowing payments to be electronically submitted. However, there are instances when checks might be helpful, such as when the seller wants a guaranteed payment. A bank [[cashier's check]](https://www.investopedia.com/terms/c/cashierscheck.asp) or a [[certified check]](https://www.investopedia.com/terms/c/certifiedcheck.asp) are two types of checks that banks offer to help sellers receive the money owed from the buyer.
+[Checks](https://www.investopedia.com/terms/c/check.asp) have fallen out of favor over the years due to advancements in technology, allowing payments to be electronically submitted. However, there are instances when checks might be helpful, such as when the seller wants a guaranteed payment. A bank [[cashier's check]](https://www.investopedia.com/terms/c/cashierscheck.asp) or a [[certified check]](https://www.investopedia.com/terms/c/certifiedcheck.asp) are two types of checks that banks [[Offer|offer]] to help sellers receive the money owed from the buyer.
 
 ### Wire Transfers
 
-Wire transfers and ACH payments ([Automatic Clearing House)](https://www.investopedia.com/terms/a/ach.asp) are typically used for larger or more frequent payments in which a check or credit card wouldn't be appropriate. A payment from a manufacturer to a supplier, for example, would typically be done via wire transfer, particularly if it was an international payment. An ACH payment is often used for direct deposits of payroll for a company's employees.
+Wire transfers and ACH payments ([Automatic Clearing House)](https://www.investopedia.com/terms/a/ach.asp) are typically used for larger or more frequent payments in which a check or credit card wouldn't be appropriate. A payment from a manufacturer to a supplier, for example, would typically be done via wire transfer, particularly if it was an international payment. An ACH payment is often used for direct deposits of [[Payroll|payroll]] for a company's employees.
 
 ## Special Considerations
 
-The payee may choose to compromise on debt and accept partial payment in lieu of full settlement of the obligation, or it may offer a discount at their discretion. The payee may also impose a surcharge, for example, as in a late payment fee, or for the use of a certain credit card.
+The [[Payee|payee]] may choose to compromise on [[Debt|debt]] and accept partial payment in lieu of full settlement of the obligation, or it may [[Offer|offer]] a discount at their discretion. The payee may also impose a surcharge, for example, as in a late payment fee, or for the use of a certain credit card.
 
-Acceptance of payment by the payee extinguishes a debt or other obligation. A creditor cannot unreasonably refuse to accept a payment, but payment can be refused in some circumstances, such as on a Sunday or outside banking hours. A payee is usually obligated to acknowledge payment by producing a receipt to the payer, which may be regarded as an endorsement on an account as "paid in full."
+Acceptance of payment by the [[Payee|payee]] extinguishes a [[Debt|debt]] or other obligation. A [[Creditor|creditor]] cannot unreasonably refuse to accept a payment, but payment can be refused in some circumstances, such as on a Sunday or outside banking hours. A payee is usually obligated to acknowledge payment by producing a receipt to the payer, which may be regarded as an endorsement on an account as "paid in full."

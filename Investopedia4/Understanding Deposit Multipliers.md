@@ -9,11 +9,11 @@ author: James Chen
 # Deposit Multiplier Definition
 
 > ## Excerpt
-> The deposit multiplier is the process by which an economy's basic money supply is created, and reflects the change in checkable deposits possible from a change in reserves.
+> The deposit multiplier is the process by which an economy's basic money [[Supply|supply]] is created, and reflects the change in checkable deposits possible from a change in reserves.
 
 ---
 
-Understanding Deposit Multipliers
+[[Understanding Deposit Multipliers]]
 ## What Is a Deposit Multiplier?
 
 The deposit multiplier is the maximum amount of money a bank can create for each unit of reserves. The deposit multiplier is normally a percentage of the amount on deposit at the bank. The deposit multiplier requirement is key to maintaining an economy's basic [[money supply]](https://www.investopedia.com/terms/m/moneysupply.asp). Reliance on a deposit multiplier is called a [fractional reserve banking](https://www.investopedia.com/terms/f/fractionalreservebanking.asp) system and is now common to banks in most nations around the world.
@@ -21,19 +21,19 @@ The deposit multiplier is the maximum amount of money a bank can create for each
 ### Key Takeaways
 
 -   The deposit multiplier is the maximum amount of money a bank can create for each unit of reserves.
--   This figure is key to maintaining an economy's basic money supply and the main component of a fractional reserve banking system.
+-   This figure is key to maintaining an economy's basic money [[Supply|supply]] and the main component of a [[Fractional Reserve Banking|fractional reserve banking]] system.
 -   Although minimums are set by the Federal Reserve, banks may set a higher deposit multiplier.
--   The deposit multiplier is different from the money multiplier which reflects the change in a nation's money supply created by the loan of capital beyond a bank's reserve.
+-   The deposit multiplier is different from the money multiplier which reflects the change in a nation's money [[Supply|supply]] created by the [[Loan|loan]] of capital beyond a bank's reserve.
 
-## Understanding Deposit Multipliers
+## [[Understanding Deposit Multipliers]]
 
-The [[deposit]](https://www.investopedia.com/terms/d/deposit.asp) multiplier is also called the deposit expansion multiplier or the simple deposit multiplier. This is the amount of money all banks must keep on hand in their reserves. It allows them to function on a day-to-day basis, cutting the risk of depleting their supplies to satisfy [[withdrawal]](https://www.investopedia.com/terms/w/withdrawal.asp) requests from their customers.
+The [[deposit]](https://www.investopedia.com/terms/d/deposit.asp) multiplier is also called the deposit expansion multiplier or the simple deposit multiplier. This is the amount of money all banks must keep on hand in their reserves. It allows them to function on a day-to-day basis, cutting the [[Risk|risk]] of depleting their supplies to satisfy [[withdrawal]](https://www.investopedia.com/terms/w/withdrawal.asp) requests from their customers.
 
 [Central banks](https://www.investopedia.com/terms/c/centralbank.asp) such as the Federal Reserve in the United States establish minimum amounts to be held by banks. These are known as the [[required reserve]](https://www.investopedia.com/terms/r/requiredreserves.asp) or reserve requirement—the amount of money available for a bank to lend to its customers. The bank must continually maintain this minimum in an account deposited at the central bank to ensure that it has sufficient cash to meet any withdrawal requests from its depositors.
 
 The deposit multiplier is the inverse of the required reserves. So if the required reserve ratio is 20%, the deposit multiplier ratio is 80%. It is the ratio of the amount of a bank's [[checkable deposits]](https://www.investopedia.com/terms/c/checkable-deposits.asp)—demand accounts against which [[checks]](https://www.investopedia.com/terms/c/check.asp), drafts, or other financial instruments can be negotiated—to its reserve amount. So if the deposit multiplier is 80%, the bank must keep $1 in reserve for every $5 it has in deposits. The remaining $4 is available to the bank to lend out or invest.
 
-The deposit multiplier provides the basis for the money multiplier, but the money multiplier value is ultimately less. That's because of excess reserves, [[savings]](https://www.investopedia.com/terms/s/savings.asp), and conversions to cash by consumers. We go into more detail about money multiplier a little further down.
+The deposit multiplier provides the basis for the money multiplier, but the money multiplier value is ultimately less. That's because of [[Excess Reserves|excess reserves]], [[savings]](https://www.investopedia.com/terms/s/savings.asp), and conversions to cash by consumers. We go into more detail about money multiplier a little further down.
 
 A bank's deposit multiplier can be calculated using the following formula:
 
@@ -41,7 +41,7 @@ Image by Sabrina Jiang © Investopedia 2021
 
 ## Deposit Multiplier vs. Money Multiplier
 
-The deposit multiplier is frequently confused with the money multiplier. Although the two terms are closely related, they are not interchangeable and are distinctly different. The money multiplier reflects the change in a nation's money supply created by the [[loan]](https://www.investopedia.com/terms/l/loan.asp) of [[capital]](https://www.investopedia.com/terms/c/capital.asp) beyond a bank's reserve. It can be seen as the maximum potential creation of money through the multiplied effect of all bank lending.
+The deposit multiplier is frequently confused with the money multiplier. Although the two terms are closely related, they are not interchangeable and are distinctly different. The money multiplier reflects the change in a nation's money [[Supply|supply]] created by the [[loan]](https://www.investopedia.com/terms/l/[[Loan|loan]].asp) of [[capital]](https://www.investopedia.com/terms/c/capital.asp) beyond a bank's reserve. It can be seen as the maximum potential creation of money through the multiplied effect of all bank lending.
 
 Banks may keep reserves beyond the requirements set by the Federal Reserve in order to reduce the number of checkable deposits.
 

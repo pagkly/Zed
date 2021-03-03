@@ -3,22 +3,22 @@ alias: [Money Order Overview]
 created: 2021-03-02T22:09:38 (UTC +11:00)
 tags: [Money Order: Overview, Understanding Money Orders]
 source: https://www.investopedia.com/terms/m/money-order.asp
-author: Mitchell Grant
+author: Mitchell [[Grant]]
 ---
 
 # Money Order: Overview
 
 > ## Excerpt
-> A money order is a certificate, usually issued by governments and banking institutions, that allows the stated payee to receive cash-on-demand.
+> A money order is a certificate, usually issued by governments and banking institutions, that allows the stated [[Payee|payee]] to receive cash-on-demand.
 
 ---
 
-Understanding Money Orders
+[[Understanding Money Orders]]
 ## What Is a Money Order?
 
-A money order is a certificate, usually issued by a government or banking institution, that allows the stated payee to receive cash on demand. A money order functions much like a check, in that the person who purchased the money order may stop payment.
+A money order is a certificate, usually issued by a government or banking institution, that allows the stated [[Payee|payee]] to receive cash on demand. A money order functions much like a check, in that the person who purchased the money order may stop payment.
 
-Money orders are readily accepted and converted to cash and are often used by people without access to a standard checking account. These instruments are an acceptable form of payment for small debts, both personal and business, and can be purchased for a small service fee from most institutions.
+Money orders are readily accepted and converted to cash and are often used by people without access to a standard [[Checking Account|checking account]]. These instruments are an acceptable form of payment for small debts, both personal and business, and can be purchased for a small service fee from most institutions.
 
 Money orders were first issued by American Express in 1882 and later became popularized as traveler's checks.1
 
@@ -31,9 +31,9 @@ Money orders were first issued by American Express in 1882 and later became popu
 
 ## How Money Orders Work
 
-A person who buys a money order will have to fill out the name of the recipient on a form and the amount that the recipient should receive. Most money orders have a maximum limit of $1,000. Therefore, a buyer would need to purchase multiple orders if he needs more than the stipulated limit. Be sure to [[fill out the money order carefully]](https://www.investopedia.com/how-to-fill-out-a-money-order-step-by-step-4589636); it's a one-off purchase and you need to keep good records of it.
+A person who buys a money order [[Will|will]] have to fill out the name of the recipient on a form and the amount that the recipient should receive. Most money orders have a maximum limit of $1,000. Therefore, a buyer would need to purchase multiple orders if he needs more than the stipulated limit. Be sure to [[fill out the money order carefully]](https://www.investopedia.com/how-to-fill-out-a-money-order-step-by-step-4589636); it's a one-off purchase and you need to keep good records of it.
 
-The financial institution or authorized body that issues the money order to the payer will have the payee’s name, the issuer’s name, and the amount of money that can be cashed. This dollar value does not include the fees charged to the payee. Factor in all costs [[when purchasing money orders]](https://www.investopedia.com/money-orders-can-be-a-simple-safe-and-cheap-way-to-transfer-money-here-s-how-to-avoid-the-pitfalls-4589635). A bank or credit union will normally charge more than a convenience store to issue money orders.
+The financial institution or authorized body that issues the money order to the payer [[Will|will]] have the [[Payee|payee]]’s name, the issuer’s name, and the amount of money that can be cashed. This dollar value does not include the fees charged to the payee. Factor in all costs [[when purchasing money orders]](https://www.investopedia.com/money-orders-can-be-a-simple-safe-and-cheap-way-to-transfer-money-here-s-how-to-avoid-the-pitfalls-4589635). A bank or credit union will normally charge more than a convenience store to issue money orders.
 
 A money order is not a check, and it's harder to trace one; keep your receipt until you are sure the order has been received and cashed.
 
@@ -73,10 +73,10 @@ In addition to checks and money orders, other financial instruments that can be 
 
 ## Special Considerations
 
-The recipient who receives the money order does not necessarily have to go the same issuer that sold the money order. The recipient can have it cashed at a local bank or credit union, but may not receive the funds all at once, depending on the institution's policy. If the payee has no account, cashing the money order at the issuer’s office is a great option.
+The recipient who receives the money order does not necessarily have to go the same issuer that sold the money order. The recipient can have it cashed at a local bank or credit union, but may not receive the funds all at once, depending on the institution's policy. If the [[Payee|payee]] has no account, cashing the money order at the issuer’s office is a great option.
 
-However, a payee does not have to cash the money order right away. They can deposit it into a bank account, much as you would do a check. Depositing money orders is a good option for payees who are concerned about the fees charged to cash the certificates at multiple locations.
+However, a [[Payee|payee]] does not have to cash the money order right away. They can deposit it into a bank account, much as you would do a check. Depositing money orders is a good option for payees who are concerned about the fees charged to cash the certificates at multiple locations.
 
-Since the fees are certain to reduce the amount of money that will be received, depositing it with no additional charges at a bank will ensure that the account holder keeps all the money paid to them.
+Since the fees are certain to reduce the amount of money that [[Will|will]] be received, depositing it with no additional charges at a bank will ensure that the account holder keeps all the money paid to them.
 
 As is often the case, a money order can be used as a vehicle to send money outside the country. An issuer with multiple branches in different countries can issue a money order in one country that can be cashed in another country. International money orders thus provide an [[inexpensive and swift way to send money across the border]](https://www.investopedia.com/financial-edge/0411/7-low-cost-ways-to-transfer-money.aspx).

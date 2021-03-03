@@ -13,7 +13,7 @@ author: Julia Kagan
 
 ---
 
-Understanding Millage Rates
+[[Understanding Millage Rates]]
 ## What Is a Millage Rate?
 
 A millage rate is the tax rate used to calculate local property taxes. The millage rate represents the amount per every $1,000 of a property's assessed value. Assigned millage rates are applied to the total taxable value of the property in order to arrive at the property tax amount.
@@ -28,7 +28,7 @@ Different agencies within a municipality may have their own millage rates, which
 -   The rate represents the amount a homeowner has to pay for every $1,000 of a property's assessed value.
 -   Homeowners can calculate annual property taxes using the property's tax-assessed value and the total assigned millage rate.
 
-## Understanding Millage Rates
+## [[Understanding Millage Rates]]
 
 Property taxes are determined by local governments and paid by homeowners. These taxes are based on a property's value, which accounts for both the structure and the land on which it sits. Millage rates for individual properties are usually found on the property [[deed]](https://www.investopedia.com/terms/d/deed.asp) itself.
 
