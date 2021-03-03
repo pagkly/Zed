@@ -1,5 +1,5 @@
 ---
-alias: [Economics Definition: Overview, Types, and Economic Indicators]
+alias: [Economics Definition Overview, Types, and Economic Indicators]
 created: 2021-03-02T19:33:20 (UTC +11:00)
 tags: [Economics Definition: Overview, Types, and Economic Indicators, Economics]
 source: https://www.investopedia.com/terms/e/economics.asp

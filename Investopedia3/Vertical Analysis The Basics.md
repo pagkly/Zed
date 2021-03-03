@@ -1,5 +1,5 @@
 ---
-alias: [Vertical Analysis: Overview]
+alias: [Vertical Analysis Overview]
 created: 2021-03-03T00:38:25 (UTC +11:00)
 tags: [Vertical Analysis: Overview, Vertical Analysis: The Basics]
 source: https://www.investopedia.com/terms/v/vertical_analysis.asp

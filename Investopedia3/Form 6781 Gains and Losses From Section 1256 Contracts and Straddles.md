@@ -1,5 +1,5 @@
 ---
-alias: [Form 6781: Gains and Losses From Section 1256 Contracts and Straddles Explanation]
+alias: [Form 6781 Gains and Losses From Section 1256 Contracts and Straddles Explanation]
 created: 2021-03-02T20:05:33 (UTC +11:00)
 tags: [Form 6781: Gains and Losses From Section 1256 Contracts and Straddles Explanation, Form 6781: Gains and Losses From Section 1256 Contracts and Straddles]
 source: https://www.investopedia.com/terms/f/form-6781.asp

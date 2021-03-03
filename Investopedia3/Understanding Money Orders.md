@@ -1,5 +1,5 @@
 ---
-alias: [Money Order: Overview]
+alias: [Money Order Overview]
 created: 2021-03-02T22:09:38 (UTC +11:00)
 tags: [Money Order: Overview, Understanding Money Orders]
 source: https://www.investopedia.com/terms/m/money-order.asp

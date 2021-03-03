@@ -1,5 +1,5 @@
 ---
-alias: [Nonparametric Statistics: Overview]
+alias: [Nonparametric Statistics Overview]
 created: 2021-03-02T21:50:22 (UTC +11:00)
 tags: [Nonparametric Statistics: Overview, How Nonparametric Statistics Work]
 source: https://www.investopedia.com/terms/n/nonparametric-statistics.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Limited Partnership Unit (LPU): An Overview]
+alias: [Limited Partnership Unit (LPU) An Overview]
 created: 2021-03-02T21:19:47 (UTC +11:00)
 tags: [Limited Partnership Unit (LPU): An Overview, Understanding Limited Partnership Units (LPUs)]
 source: https://www.investopedia.com/terms/l/limitedpartnershipunit.asp

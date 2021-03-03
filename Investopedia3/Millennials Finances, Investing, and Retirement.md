@@ -1,5 +1,5 @@
 ---
-alias: [Millennials: Finances, Investing, and Retirement]
+alias: [Millennials Finances, Investing, and Retirement]
 created: 2021-03-02T22:05:23 (UTC +11:00)
 tags: [Millennials: Finances, Investing, and Retirement, Millennials: Finances, Investing, and Retirement]
 source: https://www.investopedia.com/terms/m/millennial.asp

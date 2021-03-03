@@ -1,5 +1,5 @@
 ---
-alias: [Form 1099-INT: Interest Income]
+alias: [Form 1099-INT Interest Income]
 created: 2021-03-02T20:03:24 (UTC +11:00)
 tags: [Form 1099-INT: Interest Income Definition, Form 1099-INT: Interest Income]
 source: https://www.investopedia.com/terms/f/form-1099-int.asp

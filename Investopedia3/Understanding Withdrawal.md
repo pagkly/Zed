@@ -1,5 +1,5 @@
 ---
-alias: [Withdrawal: An Overview]
+alias: [Withdrawal An Overview]
 created: 2021-03-03T00:59:18 (UTC +11:00)
 tags: [Withdrawal: An Overview, Understanding Withdrawal]
 source: https://www.investopedia.com/terms/w/withdrawal.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Roth IRA: How These Accounts Work and How to Get Started]
+alias: [Roth IRA How These Accounts Work and How to Get Started]
 created: 2021-03-02T23:27:50 (UTC +11:00)
 tags: [Roth IRA: How These Accounts Work and How to Get Started, The Complete Guide to the Roth IRA]
 source: https://www.investopedia.com/terms/r/rothira.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Form 6252: Installment Sale Income]
+alias: [Form 6252 Installment Sale Income]
 created: 2021-03-02T20:05:33 (UTC +11:00)
 tags: [Form 6252: Installment Sale Income Definition, Form 6252: Installment Sale Income]
 source: https://www.investopedia.com/terms/f/form-6252.asp

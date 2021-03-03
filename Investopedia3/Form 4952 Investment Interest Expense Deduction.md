@@ -1,5 +1,5 @@
 ---
-alias: [Form 4952: Investment Interest Expense Deduction]
+alias: [Form 4952 Investment Interest Expense Deduction]
 created: 2021-03-02T20:05:33 (UTC +11:00)
 tags: [Form 4952: Investment Interest Expense Deduction Definition, Form 4952: Investment Interest Expense Deduction]
 source: https://www.investopedia.com/terms/f/form-4952.asp

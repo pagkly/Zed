@@ -1,5 +1,5 @@
 ---
-alias: [Standardization: Overview]
+alias: [Standardization Overview]
 created: 2021-03-02T23:43:20 (UTC +11:00)
 tags: [Standardization: Overview, Understanding Standardization]
 source: https://www.investopedia.com/terms/s/standardization.asp

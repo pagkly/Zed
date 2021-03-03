@@ -1,5 +1,5 @@
 ---
-alias: [Form 1099-Q: Payments From Qualified Education Programs]
+alias: [Form 1099-Q Payments From Qualified Education Programs]
 created: 2021-03-02T20:03:24 (UTC +11:00)
 tags: [Form 1099-Q: Payments From Qualified Education Programs Definition, Form 1099-Q: Payments From Qualified Education Programs]
 source: https://www.investopedia.com/terms/f/form1099q.asp

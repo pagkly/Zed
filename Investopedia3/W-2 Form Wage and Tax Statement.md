@@ -1,5 +1,5 @@
 ---
-alias: [Form W-2: Wage and Tax Statement]
+alias: [Form W-2 Wage and Tax Statement]
 created: 2021-03-03T00:44:31 (UTC +11:00)
 tags: [Form W-2: Wage and Tax Statement Definition, W-2 Form: Wage and Tax Statement]
 source: https://www.investopedia.com/terms/w/w2form.asp

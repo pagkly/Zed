@@ -1,5 +1,5 @@
 ---
-alias: [Form 1099-DIV: Dividends and Distributions]
+alias: [Form 1099-DIV Dividends and Distributions]
 created: 2021-03-02T20:03:24 (UTC +11:00)
 tags: [Form 1099-DIV: Dividends and Distributions Definition, Form 1099-DIV: Dividends and Distributions]
 source: https://www.investopedia.com/terms/f/form1099div.asp

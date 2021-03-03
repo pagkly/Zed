@@ -1,5 +1,5 @@
 ---
-alias: [Form 1099-MISC: Miscellaneous Income]
+alias: [Form 1099-MISC Miscellaneous Income]
 created: 2021-03-02T20:03:24 (UTC +11:00)
 tags: [Form 1099-MISC: Miscellaneous Income Definition, Form 1099-MISC: Miscellaneous Income]
 source: https://www.investopedia.com/terms/f/form1099-misc.asp

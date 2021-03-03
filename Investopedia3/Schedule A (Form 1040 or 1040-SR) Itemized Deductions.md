@@ -1,5 +1,5 @@
 ---
-alias: [Schedule A (Form 1040 or 1040-SR): Itemized Deductions]
+alias: [Schedule A (Form 1040 or 1040-SR) Itemized Deductions]
 created: 2021-03-02T23:29:57 (UTC +11:00)
 tags: [Schedule A (Form 1040 or 1040-SR): Itemized Deductions Definition, Schedule A (Form 1040 or 1040-SR): Itemized Deductions]
 source: https://www.investopedia.com/terms/s/schedulea.asp

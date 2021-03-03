@@ -1,5 +1,5 @@
 ---
-alias: [Wall Street: Overview]
+alias: [Wall Street Overview]
 created: 2021-03-03T00:46:29 (UTC +11:00)
 tags: [Wall Street: Overview, How Wall Street's Name and History Remain Relevant Today]
 source: https://www.investopedia.com/terms/w/wallstreet.asp

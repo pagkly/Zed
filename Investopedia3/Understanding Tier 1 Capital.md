@@ -1,5 +1,5 @@
 ---
-alias: [Tier 1 Capital: Overview]
+alias: [Tier 1 Capital Overview]
 created: 2021-03-03T00:00:39 (UTC +11:00)
 tags: [Tier 1 Capital: Overview, Understanding Tier 1 Capital]
 source: https://www.investopedia.com/terms/t/tier1capital.asp

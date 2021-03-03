@@ -1,5 +1,5 @@
 ---
-alias: [About Form 1095-A: Health Insurance Marketplace Statement]
+alias: [About Form 1095-A Health Insurance Marketplace Statement]
 created: 2021-03-02T20:03:23 (UTC +11:00)
 tags: [About Form 1095-A: Health Insurance Marketplace Statement Definition, Form 1095-A: Health Insurance Marketplace Statement]
 source: https://www.investopedia.com/terms/f/form-1095a.asp

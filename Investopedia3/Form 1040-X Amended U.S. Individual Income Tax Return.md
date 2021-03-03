@@ -1,5 +1,5 @@
 ---
-alias: [Form 1040-X: Amended U.S. Individual Income Tax Return]
+alias: [Form 1040-X Amended U.S. Individual Income Tax Return]
 created: 2021-03-02T20:03:23 (UTC +11:00)
 tags: [Form 1040-X: Amended U.S. Individual Income Tax Return Definition, Form 1040-X: Amended U.S. Individual Income Tax Return]
 source: https://www.investopedia.com/terms/f/form1040x.asp

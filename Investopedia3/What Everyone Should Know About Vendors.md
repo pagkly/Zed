@@ -1,5 +1,5 @@
 ---
-alias: [Vendor:]
+alias: [Vendor]
 created: 2021-03-03T00:38:24 (UTC +11:00)
 tags: [Vendor: Definition, What Everyone Should Know About Vendors]
 source: https://www.investopedia.com/terms/v/vendor.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Form 1099-B: Proceeds from Broker and Barter Exchange]
+alias: [Form 1099-B Proceeds from Broker and Barter Exchange]
 created: 2021-03-02T20:03:24 (UTC +11:00)
 tags: [Form 1099-B: Proceeds from Broker and Barter Exchange Definition, Form 1099-B: Proceeds from Broker and Barter Exchange]
 source: https://www.investopedia.com/terms/f/form-1099-b.asp

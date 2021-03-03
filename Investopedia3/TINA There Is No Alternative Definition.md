@@ -1,5 +1,5 @@
 ---
-alias: [TINA: There Is No Alternative]
+alias: [TINA There Is No Alternative]
 created: 2021-03-03T00:02:40 (UTC +11:00)
 tags: [TINA: There Is No Alternative, TINA: There Is No Alternative Definition]
 source: https://www.investopedia.com/terms/t/tina-there-no-alternative.asp

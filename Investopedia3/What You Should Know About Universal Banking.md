@@ -1,5 +1,5 @@
 ---
-alias: [Universal Banking: Overview]
+alias: [Universal Banking Overview]
 created: 2021-03-03T00:23:30 (UTC +11:00)
 tags: [Universal Banking: Overview, What You Should Know About Universal Banking]
 source: https://www.investopedia.com/terms/u/universalbanking.asp

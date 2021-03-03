@@ -1,5 +1,5 @@
 ---
-alias: [Form 5405: First-Time Homebuyer Credit and Repayment of the Credit]
+alias: [Form 5405 First-Time Homebuyer Credit and Repayment of the Credit]
 created: 2021-03-02T20:05:33 (UTC +11:00)
 tags: [Form 5405: First-Time Homebuyer Credit and Repayment of the Credit Definition, Form 5405: First-Time Homebuyer Credit and Repayment of the Credit]
 source: https://www.investopedia.com/terms/f/form-5405.asp

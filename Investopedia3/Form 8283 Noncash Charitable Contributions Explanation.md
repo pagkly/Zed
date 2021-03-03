@@ -1,5 +1,5 @@
 ---
-alias: [Form 8283: Noncash Charitable Contributions Explanation]
+alias: [Form 8283 Noncash Charitable Contributions Explanation]
 created: 2021-03-02T20:05:33 (UTC +11:00)
 tags: [Form 8283: Noncash Charitable Contributions Explanation, Form 8283: Noncash Charitable Contributions Explanation]
 source: https://www.investopedia.com/terms/f/form-8283.asp

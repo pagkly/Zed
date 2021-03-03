@@ -1,5 +1,5 @@
 ---
-alias: [Waterfall Payment:]
+alias: [Waterfall Payment]
 created: 2021-03-03T00:50:37 (UTC +11:00)
 tags: [Waterfall Payment: Definition, Waterfall Payment: Everything You Should Know]
 source: https://www.investopedia.com/terms/w/waterfallpayment.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Form 4562: Depreciation and Amortization]
+alias: [Form 4562 Depreciation and Amortization]
 created: 2021-03-02T20:05:33 (UTC +11:00)
 tags: [Form 4562: Depreciation and Amortization Definition, Form 4562: Depreciation and Amortization]
 source: https://www.investopedia.com/terms/f/form-4562.asp

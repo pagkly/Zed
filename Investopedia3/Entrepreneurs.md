@@ -1,5 +1,5 @@
 ---
-alias: [Entrepreneurs: Business Pioneers on the Frontier of Innovation]
+alias: [Entrepreneurs Business Pioneers on the Frontier of Innovation]
 created: 2021-03-03T00:40:26 (UTC +11:00)
 tags: [Entrepreneurs: Business Pioneers on the Frontier of Innovation, Entrepreneurs]
 source: https://www.investopedia.com/entrepreneurs-4689828

@@ -1,5 +1,5 @@
 ---
-alias: [Form 1099-R: Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans]
+alias: [Form 1099-R Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans]
 created: 2021-03-02T20:03:24 (UTC +11:00)
 tags: [Form 1099-R: Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans Definition, Form 1099-R: Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans]
 source: https://www.investopedia.com/terms/f/form1099r.asp

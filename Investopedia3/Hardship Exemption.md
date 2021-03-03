@@ -1,5 +1,5 @@
 ---
-alias: [Hardship Exemption: Overview]
+alias: [Hardship Exemption Overview]
 created: 2021-03-02T20:36:47 (UTC +11:00)
 tags: [Hardship Exemption: Overview, Hardship Exemption]
 source: https://www.investopedia.com/terms/h/hardship-exemption.asp

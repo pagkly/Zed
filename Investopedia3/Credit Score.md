@@ -1,5 +1,5 @@
 ---
-alias: [Credit Score: Definition, Factors, and How to Improve It]
+alias: [Credit Score Definition, Factors, and How to Improve It]
 created: 2021-03-02T19:04:54 (UTC +11:00)
 tags: [Credit Score: Definition, Factors, and How to Improve It, Credit Score]
 source: https://www.investopedia.com/terms/c/credit_score.asp

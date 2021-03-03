@@ -1,5 +1,5 @@
 ---
-alias: [Form 6251: Alternative Minimum Tax-Individuals]
+alias: [Form 6251 Alternative Minimum Tax-Individuals]
 created: 2021-03-02T20:05:33 (UTC +11:00)
 tags: [Form 6251: Alternative Minimum Tax-Individuals Definition, Form 6251: Alternative Minimum Tax-Individuals]
 source: https://www.investopedia.com/terms/f/form-6251.asp

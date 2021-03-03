@@ -1,5 +1,5 @@
 ---
-alias: [Form 2848: Power of Attorney and Declaration of Representative]
+alias: [Form 2848 Power of Attorney and Declaration of Representative]
 created: 2021-03-02T20:05:32 (UTC +11:00)
 tags: [Form 2848: Power of Attorney and Declaration of Representative Definition, Form 2848: Power of Attorney and Declaration of Representative]
 source: https://www.investopedia.com/terms/f/form-2848.asp

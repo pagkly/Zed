@@ -1,5 +1,5 @@
 ---
-alias: [Form 8396: Mortgage Interest Credit]
+alias: [Form 8396 Mortgage Interest Credit]
 created: 2021-03-02T20:05:33 (UTC +11:00)
 tags: [Form 8396: Mortgage Interest Credit Definition, Form 8396: Mortgage Interest Credit]
 source: https://www.investopedia.com/terms/f/form-8396.asp

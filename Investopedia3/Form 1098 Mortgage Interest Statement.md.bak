@@ -3,8 +3,7 @@ alias: [Form 1098: Mortgage Interest Statement]
 created: 2021-03-02T20:03:24 (UTC +11:00)
 tags: [Form 1098: Mortgage Interest Statement Definition, Form 1098: Mortgage Interest Statement]
 source: https://www.investopedia.com/terms/f/form_1098.asp
-author: 
-Rebecca Lake
+author: Rebecca Lake
 ---
 
 # Form 1098: Mortgage Interest Statement Definition

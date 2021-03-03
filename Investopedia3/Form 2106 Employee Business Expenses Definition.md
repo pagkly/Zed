@@ -1,5 +1,5 @@
 ---
-alias: [Form 2106: Employee Business Expenses]
+alias: [Form 2106 Employee Business Expenses]
 created: 2021-03-02T20:05:32 (UTC +11:00)
 tags: [Form 2106: Employee Business Expenses Definition, Form 2106: Employee Business Expenses Definition]
 source: https://www.investopedia.com/terms/f/form-2106.asp

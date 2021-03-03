@@ -1,5 +1,5 @@
 ---
-alias: [Spillover Effect:]
+alias: [Spillover Effect]
 created: 2021-03-02T23:41:12 (UTC +11:00)
 tags: [Spillover Effect: Definition, Understanding the Spillover Effect]
 source: https://www.investopedia.com/terms/s/spillover-effect.asp

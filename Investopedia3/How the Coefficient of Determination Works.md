@@ -1,5 +1,5 @@
 ---
-alias: [Coefficient of Determination: Overview]
+alias: [Coefficient of Determination Overview]
 created: 2021-03-02T18:53:38 (UTC +11:00)
 tags: [Coefficient of Determination: Overview, How the Coefficient of Determination Works]
 source: https://www.investopedia.com/terms/c/coefficient-of-determination.asp

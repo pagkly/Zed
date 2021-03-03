@@ -1,5 +1,5 @@
 ---
-alias: [Form 1310: Statement of Person Claiming Refund Due a Deceased Taxpayer]
+alias: [Form 1310 Statement of Person Claiming Refund Due a Deceased Taxpayer]
 created: 2021-03-02T20:03:24 (UTC +11:00)
 tags: [Form 1310: Statement of Person Claiming Refund Due a Deceased Taxpayer Definition, Form 1310: Statement of Person Claiming Refund Due a Deceased Taxpayer]
 source: https://www.investopedia.com/terms/f/form-1310.asp

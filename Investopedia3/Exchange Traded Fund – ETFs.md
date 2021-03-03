@@ -1,5 +1,5 @@
 ---
-alias: [Exchange Traded Fund (ETF): What an ETF Is and How to Buy Them]
+alias: [Exchange Traded Fund (ETF) What an ETF Is and How to Buy Them]
 created: 2021-03-02T19:46:20 (UTC +11:00)
 tags: [Exchange Traded Fund (ETF): What an ETF Is and How to Buy Them, Exchange Traded Fund – ETFs]
 source: https://www.investopedia.com/terms/e/etf.asp

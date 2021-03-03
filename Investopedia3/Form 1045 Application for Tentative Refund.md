@@ -1,5 +1,5 @@
 ---
-alias: [Form 1045: Application for Tentative Refund]
+alias: [Form 1045 Application for Tentative Refund]
 created: 2021-03-02T20:03:23 (UTC +11:00)
 tags: [Form 1045: Application for Tentative Refund Definition, Form 1045: Application for Tentative Refund]
 source: https://www.investopedia.com/terms/f/form-1045.asp

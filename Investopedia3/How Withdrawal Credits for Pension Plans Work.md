@@ -1,5 +1,5 @@
 ---
-alias: [Withdrawal Credits: Pension Plan]
+alias: [Withdrawal Credits Pension Plan]
 created: 2021-03-03T00:59:18 (UTC +11:00)
 tags: [Withdrawal Credits: Pension Plan Definition, How Withdrawal Credits for Pension Plans Work]
 source: https://www.investopedia.com/terms/w/withdrawal-credits-pension-plan.asp
