@@ -13,7 +13,7 @@ author: Greg Daugherty
 
 ---
 
-Understanding Real-Time Gross Settlement (RTGS)
+[[Understanding Real-Time Gross Settlement (RTGS)]]
 ## What Is Real-Time Gross Settlement (RTGS)?
 
 The term real-time gross settlement (RTGS) refers to a funds [[transfer]](https://www.investopedia.com/terms/t/transfer.asp) system that allows for the instantaneous transfer of money and/or securities. RTGS is the continuous process of settling payments on an individual order basis without [[netting]](https://www.investopedia.com/terms/n/netting.asp) debits with credits across the books of a central bank. Once completed, real-time gross settlement payments are final and irrevocable. In most countries, the systems are managed and run by their central banks.
@@ -33,19 +33,19 @@ An RTGS system is generally used for large-value interbank funds transfers opera
 
 The first system resembling a real-time gross settlement system was the U.S. Fedwire system, which was launched in 1970. That system was an evolution of a previous telegraph-based system, which was used to transfer funds electronically between U.S. Federal Reserve banks. In 1984, the United Kingdom and France both implemented RTGS type systems.
 
-The British system, called the Clearing House Automated Payment System (CHAPS), is currently run by the [[Bank of England]](https://www.investopedia.com/terms/b/boe.asp). France and other [[Eurozone]](https://www.investopedia.com/terms/e/eurozone.asp) nations share a system called TARGET2 (for Trans-European Automated Real-time Gross Settlement Express Transfer System). Other developed and developing countries have also introduced their own RTGS-type systems.
+The British system, called the Clearing House Automated Payment System (CHAPS), is currently run by the [[Bank of England]](https://www.investopedia.com/terms/b/boe.asp). France and other [[Eurozone]](https://www.investopedia.com/terms/e/[[Eurozone|eurozone]].asp) nations share a system called TARGET2 (for Trans-European Automated Real-time Gross Settlement Express Transfer System). Other developed and developing countries have also introduced their own RTGS-type systems.
 
-Real-time gross settlement lessens [[settlement risk]](https://www.investopedia.com/terms/s/settlementrisk.asp)—also referred to as [[delivery risk]](https://www.investopedia.com/terms/d/delivery-risk.asp)—overall, as interbank settlement usually occurs in real-time throughout the day—instead of simply all together at the end of the day. This eliminates the risk of a lag in completing the transaction. RTGS can often incur a higher charge than processes that bundle and net payments.
+Real-time gross settlement lessens [[settlement risk]](https://www.investopedia.com/terms/s/settlementrisk.asp)—also referred to as [[delivery risk]](https://www.investopedia.com/terms/d/delivery-[[Risk|risk]].asp)—overall, as interbank settlement usually occurs in real-time throughout the day—instead of simply all together at the end of the day. This eliminates the risk of a lag in completing the transaction. RTGS can often incur a higher charge than processes that bundle and net payments.
 
 ## RTGS vs. Bankers' Automated Clearing Services (BACS)
 
 A real-time gross settlement system is different from [[net settlement]](https://www.investopedia.com/terms/n/net-settlement.asp) systems, such as the United Kingdom’s Bacs Payment Schemes Limited, which was previously known as the Bankers' Automated Clearing Services (BACS). Transactions that take place between institutions with BACS are accumulated during the day. At the close of business, a central bank adjusts the active institutional accounts by the net amounts of the funds exchanged.
 
-RTGS does not require an actual physical exchange of funds. A central bank will often adjust the accounts of the sending and receiving bank in electronic form. For example, sender Bank A's balance will be reduced by $1 million, while recipient institution Bank B’s balance will be increased by $1 million.
+RTGS does not require an actual physical exchange of funds. A central bank [[Will|will]] often adjust the accounts of the sending and receiving bank in electronic form. For example, sender Bank A's balance will be reduced by $1 million, while recipient institution Bank B’s balance will be increased by $1 million.
 
 ## Benefits of Real-Time Gross Settlement (RTGS)
 
-RTGS systems, increasingly used by central banks worldwide, can help minimize the risk to high-value payment settlements among [[financial institutions]](https://www.investopedia.com/terms/f/financialinstitution.asp). Although companies and financial institutions that deal with sensitive financial data typically have high levels of security in place to protect information and funds, the range and nature of online threats are constantly evolving.
+RTGS systems, increasingly used by central banks worldwide, can help minimize the [[Risk|risk]] to high-value payment settlements among [[financial institutions]](https://www.investopedia.com/terms/f/financialinstitution.asp). Although companies and financial institutions that deal with sensitive financial data typically have high levels of [[Security|security]] in place to protect information and funds, the range and nature of online threats are constantly evolving.
 
 RTGS-type systems help protect financial data by making it vulnerable to hackers for a briefer time window.
 

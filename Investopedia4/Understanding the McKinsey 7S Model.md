@@ -3,7 +3,7 @@ alias: [McKinsey 7S Model]
 created: 2021-03-02T22:01:11 (UTC +11:00)
 tags: [McKinsey 7S Model Definition, Understanding the McKinsey 7S Model]
 source: https://www.investopedia.com/terms/m/mckinsey-7s-model.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # McKinsey 7S Model Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-Understanding the McKinsey 7S Model
+[[Understanding the McKinsey 7S Model]]
 ## What Is the McKinsey 7S Model?
 
 The McKinsey 7S Model is a framework for organizational effectiveness that postulates that there are seven internal factors of an organization that need to be aligned and reinforced in order for it to be successful.
@@ -48,13 +48,13 @@ The strategy is the plan deployed by an organization in order to remain competit
 
 The structure of the organization is made up of its [[corporate hierarchy]](https://www.investopedia.com/articles/basics/03/022803.asp), the chain of command, and divisional makeup that outlines how the operations function and interconnect. In effect, it details the management configuration and responsibilities of workers.
 
-Systems of the company refer to the daily procedures, workflow, and decisions that make up the standard operations within the organization.
+Systems of the company refer to the daily procedures, [[Workflow|workflow]], and decisions that make up the standard operations within the organization.
 
 Shared values are the commonly accepted standards and norms within the company that both influence and temper the behavior of the entire staff and management. This may be detailed in company guidelines presented to the staff. In practice, shared values relate to the actual accepted behavior within the workplace.
 
-Skills comprise the talents and capabilities of the organization’s [[staff]](https://www.investopedia.com/articles/personal-finance/081015/8-reasons-why-valued-employees-quit.asp) and management, which can determine the types of achievements and work the company can accomplish. There may come a time when a company assesses its available skills and decides it must make changes in order to achieve the goals set forth in its strategy.
+Skills comprise the talents and capabilities of the organization’s [[staff]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/081015/8-reasons-why-valued-employees-quit.asp) and management, which can determine the types of achievements and work the company can accomplish. There may come a time when a company assesses its available skills and decides it must make changes in order to achieve the goals set forth in its strategy.
 
-Style speaks to the example and approach that management takes in leading the company, as well as how this influences performance, productivity, and corporate culture.
+Style speaks to the example and approach that management takes in leading the company, as well as how this influences performance, [[Productivity|productivity]], and corporate culture.
 
 Staff refers to the personnel of the company, how large the workforce is, where their motivations reside, as well as how they are trained and prepared to accomplish the tasks set before them.
 

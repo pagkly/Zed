@@ -3,7 +3,7 @@ alias: [Present Value Interest Factor, PVIF]
 created: 2021-03-02T22:47:30 (UTC +11:00)
 tags: [Present Value Interest Factor (PVIF) Definition, Understanding the Present Value Interest Factor]
 source: https://www.investopedia.com/terms/p/pvif.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Present Value Interest Factor (PVIF) Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-Understanding the Present Value Interest Factor
+[[Understanding the Present Value Interest Factor]]
 ## What Is the Present Value Interest Factor (PVIF)?
 
 The present value interest factor (PVIF) is a formula used to estimate the current worth of a sum of money that is to be received at some future date. PVIFs are often presented in the form of a table with values for different time periods and interest rate combinations.
@@ -24,9 +24,9 @@ PVIF\=a(1+r)nwhere:a\=The future sum to be receivedr\=The discount intere
 
 ## Understanding the PVIF
 
-The present value interest factor is based on the key financial concept of the [[time value of money]](https://www.investopedia.com/terms/t/timevalueofmoney.asp). That is, a sum of money today is worth more than the same sum will be in the future, because money has the potential to grow in value over a given period of time. Provided money can earn interest, any amount of money is worth more the sooner it is received.
+The present value interest factor is based on the key financial concept of the [[time value of money]](https://www.investopedia.com/terms/t/timevalueofmoney.asp). That is, a sum of money today is worth more than the same sum [[Will|will]] be in the future, because money has the potential to grow in value over a given period of time. Provided money can earn interest, any amount of money is worth more the sooner it is received.
 
-Present value interest factors are often used in analyzing annuities. The present value interest factor of an annuity ([PVIFA](https://www.investopedia.com/terms/p/pvifa.asp)) is useful when deciding whether to take a lump-sum payment now or accept an annuity payment in future periods. Using estimated rates of return, you can compare the value of the annuity payments to the lump sum.
+Present value interest factors are often used in analyzing annuities. The present value interest factor of an annuity ([PVIFA](https://www.investopedia.com/terms/p/pvifa.asp)) is useful when deciding whether to take a lump-sum payment now or accept an annuity payment in future periods. Using estimated rates of [[Return|return]], you can compare the value of the annuity payments to the lump sum.
 
 The present value interest factor may only be calculated if the annuity payments are for a predetermined amount spanning a predetermined range of time.
 

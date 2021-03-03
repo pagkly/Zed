@@ -3,7 +3,7 @@ alias: [Silo Mentality]
 created: 2021-03-02T23:36:37 (UTC +11:00)
 tags: [Silo Mentality Definition, Understanding Silo Mentality]
 source: https://www.investopedia.com/terms/s/silo-mentality.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Silo Mentality Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-Understanding Silo Mentality
+[[Understanding Silo Mentality]]
 ## What Is a Silo Mentality?
 
 A silo mentality is a reluctance to share information with employees of different divisions in the same company. This attitude is seen as reducing the organization's efficiency and, at worst, contributing to a damaged [[corporate culture]](https://www.investopedia.com/terms/c/corporate-culture.asp).
@@ -37,7 +37,7 @@ No matter what the reasons for it are, a silo mentality exists because senior ma
 
 Managers of successful firms generally encourage the free flow of information between departments so that all aspects of the company can function effectively.
 
-The lack of cross-departmental communication can negatively impact [[workflow]](https://www.investopedia.com/terms/w/workflow.asp) as information is not passed freely across the organization. This can leave some departments working with inaccurate or out-of-date information. These and other operational inefficiencies resulting from silos also complicate how companies deliver value to customers and adversely affect profitability.
+The lack of cross-departmental communication can negatively impact [[workflow]](https://www.investopedia.com/terms/w/[[Workflow|workflow]].asp) as information is not passed freely across the organization. This can leave some departments working with inaccurate or out-of-date information. These and other operational inefficiencies resulting from silos also complicate how companies deliver value to customers and adversely affect profitability.
 
 A silo mentality inevitably damages morale, especially when employees become aware of the problem and are unable to do anything to change it.
 
@@ -45,7 +45,7 @@ A silo mentality inevitably damages morale, especially when employees become awa
 
 Attitudes are difficult to change, especially when self-interest is at stake. A writer for salesforce.com suggests that the keys to dismantling silos are "cooperation, communication, and collaboration." Some of the specific suggestions for management changes include:
 
--   Create and [[communicate]](https://www.investopedia.com/articles/personal-finance/080615/5-skills-every-entrepreneur-needs.asp) a unified vision that is shared across departments to encourage collaborative sharing of information.
+-   Create and [[communicate]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/080615/5-skills-every-entrepreneur-needs.asp) a unified vision that is shared across departments to encourage collaborative sharing of information.
 -   Install company-wide software that records and tracks progress towards the company's goals, and give all employees access to it.
--   Hold interdepartmental events such as training seminars that allow employees to get to know and respect each other.
+-   [[Hold]] interdepartmental events such as training seminars that allow employees to get to know and respect each other.
 -   Consider altering the employee compensation structure so that it rewards progress towards company-wide goals.

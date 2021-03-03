@@ -3,24 +3,24 @@ alias: [Spillover Effect]
 created: 2021-03-02T23:41:12 (UTC +11:00)
 tags: [Spillover Effect: Definition, Understanding the Spillover Effect]
 source: https://www.investopedia.com/terms/s/spillover-effect.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Spillover Effect: Definition
 
 > ## Excerpt
-> The spillover effect is the impact that seemingly unrelated events in one part of the world can have on the economies elsewhere. Some countries like Japan and the Eurozone experience protection since they are considered safe havens.
+> The spillover effect is the impact that seemingly unrelated events in one part of the world can have on the economies elsewhere. Some countries like Japan and the [[Eurozone]] experience protection since they are considered safe havens.
 
 ---
 
-Understanding the Spillover Effect
+[[Understanding the Spillover Effect]]
 ## What Is the Spillover Effect?
 
-Spillover effect refers to the impact that seemingly unrelated events in one nation can have on the economies of other nations. Although there are positive spillover effects, the term is most commonly applied to the negative impact a domestic event has on other parts of the world such as an earthquake, stock market crisis, or another macro event.
+Spillover effect refers to the impact that seemingly unrelated events in one nation can have on the economies of other nations. Although there are positive spillover effects, the term is most commonly applied to the negative impact a domestic event has on other parts of the world such as an earthquake, [[Stock|stock]] market crisis, or another macro event.
 
 ## How the Spillover Effect Works
 
-Spillover effects are a type of [[network effect]](https://www.investopedia.com/terms/n/network-effect.asp) that increased since globalization in trade and stock markets deepened the financial connections between economies. The Canada-U.S. trade relationship provides an example of spillover effects. This is because the U.S. is Canada’s main market by a wide margin across nearly every export-oriented sector. The effects of a minor U.S. slowdown are amplified by the Canadian reliance on the U.S. market for its own growth.
+Spillover effects are a type of [[network effect]](https://www.investopedia.com/terms/n/network-effect.asp) that increased since [[Globalization|globalization]] in trade and [[Stock|stock]] markets deepened the financial connections between economies. The Canada-U.S. trade relationship provides an example of spillover effects. This is because the U.S. is Canada’s main market by a wide margin across nearly every export-oriented sector. The effects of a minor U.S. slowdown are amplified by the Canadian reliance on the U.S. market for its own growth.
 
 For example, if [[consumer spending]](https://www.investopedia.com/terms/c/consumer-spending.asp) in the United States declines, it has spillover effects on the economies that depend on the U.S. as their largest export market. The larger an economy is, the more spillover effects it is likely to produce across the global economy. Since the U.S. is a leader in the global economy, nations and markets can be easily swayed by domestic turmoil.
 
@@ -38,14 +38,14 @@ There are some countries that experience very little as far as spillover effects
 
 ### Safe-Haven Economies
 
-A few developed economies are vulnerable to certain economic phenomena that can overwhelm spillover effects, no matter how strong. Japan, the U.S., and the Eurozone, for example, all experience spillover effects from China, but this impact is partially counteracted by the flight to safety by investors into their respective markets when global markets get shaky.
+A few developed economies are vulnerable to certain economic phenomena that can overwhelm spillover effects, no matter how strong. Japan, the U.S., and the [[Eurozone]], for example, all experience spillover effects from China, but this impact is partially counteracted by the flight to safety by investors into their respective markets when global markets get shaky.
 
-Similarly, if one of the economies in this safe haven group is struggling, investments will usually go to one of the remaining [[safe havens]](https://www.investopedia.com/terms/s/safe-haven.asp).
+Similarly, if one of the economies in this [[Safe Haven|safe haven]] group is struggling, investments [[Will|will]] usually go to one of the remaining [[safe havens]](https://www.investopedia.com/terms/s/safe-haven.asp).
 
-This effect was seen with the U.S. investment inflows during the EU’s struggles with the [[Greek debt crisis]](https://www.investopedia.com/terms/e/european-sovereign-debt-crisis.asp) in 2015. When dollars flow into U.S. Treasuries, the [[yield]](https://www.investopedia.com/terms/t/treasury-yield.asp) goes down along with the borrowing cost for American homebuyers, borrowers, and businesses. This is an example of a positive spillover effect from the perspective of a U.S. consumer.
+This effect was seen with the U.S. investment inflows during the EU’s struggles with the [[Greek debt crisis]](https://www.investopedia.com/terms/e/european-sovereign-[[Debt|debt]]-crisis.asp) in 2015. When dollars flow into U.S. Treasuries, the [[yield]](https://www.investopedia.com/terms/t/treasury-[[Yield|yield]].asp) goes down along with the borrowing cost for American homebuyers, borrowers, and businesses. This is an example of a positive spillover effect from the perspective of a U.S. consumer.
 
 ### Key Takeaways
 
 -   The spillover effect is when an event in a country has a ripple effect on the economy of another, usually more dependent country.
--   Spillover effects can be caused by stock market downturns such as the Great Recession in 2008, or macro events like the Fukushima disaster in 2011.
--   Some countries experience a cushion from the spillover effect because they are considered "safe haven" economies, where investors park assets when downturns occur.
+-   Spillover effects can be caused by [[Stock|stock]] market downturns such as the Great Recession in 2008, or macro events like the Fukushima disaster in 2011.
+-   Some countries experience a cushion from the spillover effect because they are considered "[[Safe Haven|safe haven]]" economies, where investors park assets when downturns occur.

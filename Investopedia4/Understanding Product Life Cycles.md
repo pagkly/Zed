@@ -13,7 +13,7 @@ author: Carol M. Kopp
 
 ---
 
-Understanding Product Life Cycles
+[[Understanding Product Life Cycles]]
 ## What Is a Product Life Cycle?
 
 The term product life cycle refers to the length of time a product is introduced to consumers into the market until it's removed from the shelves. The life cycle of a product is broken into four stages—introduction, growth, [[maturity]](https://www.investopedia.com/terms/m/maturity.asp), and decline. This concept is used by management and by marketing professionals as a factor in deciding when it is appropriate to increase advertising, reduce prices, expand to new markets, or redesign packaging. The process of strategizing ways to continuously support and maintain a product is called [[product life cycle management]](https://www.investopedia.com/terms/p/product-life-cycle-management.asp).
@@ -44,7 +44,7 @@ The stage of a product's life cycle impacts the way in which it is marketed to c
 
 ## Special Considerations
 
-Companies that have a good handle on all four stages can increase [[profitability]](https://www.investopedia.com/ask/answers/012715/what-difference-between-profitability-and-profit.asp) and maximize their [[returns]](https://www.investopedia.com/terms/r/return.asp). Those that aren't able to may experience an increase in their marketing and production costs, ultimately leading to the limited shelf life for their product(s).
+Companies that have a good handle on all four stages can increase [[profitability]](https://www.investopedia.com/ask/answers/012715/what-difference-between-profitability-and-profit.asp) and maximize their [[returns]](https://www.investopedia.com/terms/r/[[Return|return]].asp). Those that aren't able to may experience an increase in their marketing and production costs, ultimately leading to the limited shelf life for their product(s).
 
 Back in 1965, Theodore Levitt, a [[marketing]](https://www.investopedia.com/terms/m/marketing.asp) professor, wrote in the Harvard Business Review that the innovator is the one with the most to lose because so many truly new products fail at the first phase of their life cycle—the introductory stage. The failure comes only after the investment of substantial money and time into research, development, and production. And that fact, he wrote, prevents many companies from even trying anything really new. Instead, he said, they wait for someone else to succeed and then clone the success.1
 

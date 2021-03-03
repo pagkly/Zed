@@ -3,7 +3,7 @@ alias: [What Is Undue Influence?]
 created: 2021-03-03T00:19:22 (UTC +11:00)
 tags: [What Is Undue Influence?, Understanding Undue Influence]
 source: https://www.investopedia.com/terms/u/undue-influence.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # What Is Undue Influence?
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-Understanding Undue Influence
+[[Understanding Undue Influence]]
 ## What Is Undue Influence?
 
 Undue influence occurs when an individual is able to persuade another's decisions due to the relationship between the two parties. Often, one of the parties is in a position of power over the other due to elevated [[status]](https://www.investopedia.com/terms/s/status-symbol.asp), higher education, or emotional ties. The more powerful individual uses this advantage to coerce the other individual into making decisions that might not be in their long-term best interest.
@@ -26,9 +26,9 @@ In exerting undue influence, the influencing individual is often able to take ad
 -   Depending on the measure of influence and if there were any extraneous factors involved, some agreements can be legally voided.
 -   Undue influence varies widely in size, from the basic favor to multibillion-dollar transactions.
 
-## Understanding Undue Influence
+## [[Understanding Undue Influence]]
 
-Undue influence occurs when an individual is able to use an advantage to coerce another party's decisions. Often, this coercion occurs to the detriment of the weaker party and the gain of the more powerful or influential party. Some relationships, such as one between a patient and a doctor or a parent and a child, are considered to run the risk of undue influence and are legally outlined.
+Undue influence occurs when an individual is able to use an advantage to coerce another party's decisions. Often, this coercion occurs to the detriment of the weaker party and the [[Gain|gain]] of the more powerful or influential party. Some relationships, such as one between a patient and a doctor or a parent and a child, are considered to run the [[Risk|risk]] of undue influence and are legally outlined.
 
 The onus in this type of relationship is on the person with influence to prove that he was not using his position to take advantage of the other party. In other situations, one party, based on previous interactions, can be accused of using the trust of the other party to his advantage.
 

@@ -13,24 +13,24 @@ author: Adam Hayes
 
 ---
 
-Understanding Uncovered Interest Rate Parity – UIP
+[[Understanding Uncovered Interest Rate Parity – UIP]]
 ## What Is Uncovered Interest Rate Parity (UIP)?
 
-Uncovered interest rate parity (UIP) theory states that the difference in interest rates between two countries will equal the relative change in currency foreign exchange rates over the same period. It is one form of interest rate parity (IRP) used alongside [[covered interest rate parity]](https://www.investopedia.com/terms/c/covered-interest-rate-parity.asp).
+Uncovered interest rate parity (UIP) theory states that the difference in interest rates between two countries [[Will|will]] equal the relative change in currency foreign exchange rates over the same period. It is one form of interest rate parity (IRP) used alongside [[covered interest rate parity]](https://www.investopedia.com/terms/c/covered-interest-rate-parity.asp).
 
-If the uncovered interest rate parity relationship does not hold, then there is an opportunity to make a risk-free profit using [[currency arbitrage]](https://www.investopedia.com/terms/c/currency-arbitrage.asp) or [[Forex arbitrage]](https://www.investopedia.com/terms/forex/f/forex-arbritrage.asp).
+If the uncovered interest rate parity relationship does not [[Hold|hold]], then there is an opportunity to make a [[Risk|risk]]-free profit using [[currency arbitrage]](https://www.investopedia.com/terms/c/currency-arbitrage.asp) or [[Forex arbitrage]](https://www.investopedia.com/terms/forex/f/forex-arbritrage.asp).
 
 ### Key Takeaways
 
--   Uncovered interest rate parity (UIP) is a fundamental equation in economics that governs the relationship between foreign and domestic interest rates and currency exchange rates.
--   The basic premise of interest rate parity is that, in a global economy, the price of goods should be the same everywhere (the law of one price) once interest rates and currency exchange rates are factored.
--   UIP can be contrasted with covered interest rate parity, which involves using forward contracts to hedge exchange rates for forex traders.
+-   Uncovered interest rate parity (UIP) is a fundamental equation in [[Economics|economics]] that governs the relationship between foreign and domestic interest rates and currency exchange rates.
+-   The basic premise of interest rate parity is that, in a global economy, the price of goods should be the same everywhere (the [[Law of One Price|law of one price]]) once interest rates and currency exchange rates are factored.
+-   UIP can be contrasted with covered interest rate parity, which involves using forward contracts to [[Hedge|hedge]] exchange rates for forex traders.
 
 #### Uncovered Interest Rate Parity
 
 ## The Formula for Uncovered Interest Rate Parity Is:
 
-F0\=S01+ic1+ibwhere:F0\=Forward rateS0\=Spot rateic\=Interest rate in country cib\=Interest rate in country b\\begin{aligned} &F\_0=S\_0\\frac{1+i\_c}{1+i\_b}\\\\ &\\textbf{where:}\\\\ &F\_0=\\text{Forward rate}\\\\ &S\_0=\\text{Spot rate}\\\\ &i\_c=\\text{Interest rate in country }c\\\\ &i\_b=\\text{Interest rate in country }b \\end{aligned}
+F0\=S01+ic1+ibwhere:F0\=Forward rateS0\=Spot rateic\=Interest rate in country cib\=Interest rate in country b\\begin{aligned} &F\_0=S\_0\\frac{1+i\_c}{1+i\_b}\\\\ &\\textbf{where:}\\\\ &F\_0=\\text{Forward rate}\\\\ &S\_0=\\text{[[Spot Rate|Spot rate]]}\\\\ &i\_c=\\text{Interest rate in country }c\\\\ &i\_b=\\text{Interest rate in country }b \\end{aligned}
 
 ### How to Calculate Interest Rate Parity
 
@@ -38,23 +38,23 @@ F0\=S01+ic1+ibwhere:F0\=Forward rateS0\=Spot rateic\=Interest rate in count
 
 Forward rates are available from banks and currency dealers for periods ranging from less than a week to as far out as five years and beyond. As with spot currency quotations, forwards are quoted with a bid-ask spread.
 
-The difference between the forward rate and spot rate is known as swap points. If this difference (forward rate minus spot rate) is positive, it is known as a _forward premium;_ a negative difference is termed a _forward discount._
+The difference between the forward rate and [[Spot Rate|spot rate]] is known as [[Swap|swap]] points. If this difference (forward rate minus spot rate) is positive, it is known as a _forward [[Premium|premium]];_ a negative difference is termed a _forward discount._
 
-A currency with a lower interest rate will trade at a forward premium in relation to a currency with a higher interest rate. For example, the U.S. dollar typically trades at a forward premium against the Canadian dollar; conversely, the Canadian dollar trades at a forward discount versus the U.S. dollar.
+A currency with a lower interest rate [[Will|will]] trade at a [[Forward Premium|forward premium]] in relation to a currency with a higher interest rate. For example, the U.S. dollar typically trades at a forward [[Premium|premium]] against the Canadian dollar; conversely, the Canadian dollar trades at a forward discount versus the U.S. dollar.
 
 ## What Does Uncovered Interest Rate Parity Tell You?
 
-Uncovered interest rate parity conditions consist of two return streams, one from the foreign money market interest rate on the investment and one from the change in the foreign currency spot rate. Said another way, uncovered interest rate parity assumes foreign exchange equilibrium, thus implying that the expected return of a domestic asset (i.e., a risk-free rate like a [[U.S. Treasury Bill]](https://www.investopedia.com/terms/t/treasurybill.asp) or T-Bill) will equal the expected return of a foreign asset after adjusting for the change in foreign currency exchange spot rates.
+Uncovered interest rate parity conditions consist of two [[Return|return]] streams, one from the foreign [[Money Market|money market]] interest rate on the investment and one from the change in the foreign currency [[Spot Rate|spot rate]]. Said another way, uncovered interest rate parity assumes foreign exchange equilibrium, thus implying that the expected return of a domestic asset (i.e., a [[Risk|risk]]-free rate like a [[U.S. Treasury Bill]](https://www.investopedia.com/terms/t/treasurybill.asp) or T-Bill) [[Will|will]] equal the expected return of a foreign asset after adjusting for the change in foreign currency exchange spot rates.
 
-When uncovered interest rate parity holds, there can be no excess return earned from simultaneously going long a higher-yielding currency investment and shorting a different lower-yielding currency investment or interest rate spread. Uncovered interest rate parity assumes that the country with the higher interest rate or risk-free money market yield will experience depreciation in its domestic currency relative to the foreign currency.
+When uncovered interest rate parity holds, there can be no excess [[Return|return]] earned from simultaneously going long a higher-yielding currency investment and shorting a different lower-yielding currency investment or interest rate spread. Uncovered interest rate parity assumes that the country with the higher interest rate or [[Risk|risk]]-free [[Money Market|money market]] [[Yield|yield]] [[Will|will]] experience depreciation in its domestic currency relative to the foreign currency.
 
-UIP is related to the so-called "law of one price," which is an economic theory that states the price of an identical security, commodity, or product traded anywhere in the world should have the same price regardless of location when currency exchange rates are taken into consideration—if it is traded in a free market with no trade restrictions.
+UIP is related to the so-called "[[Law of One Price|law of one price]]," which is an economic theory that states the price of an identical [[Security|security]], commodity, or product traded anywhere in the world should have the same price regardless of location when currency exchange rates are taken into consideration—if it is traded in a free market with no trade restrictions.
 
-The "law of one price" exists because differences between asset prices in different locations should eventually be eliminated due to the arbitrage opportunity. The law of one price theory is the underpinning of the concept of [purchasing power parity](https://www.investopedia.com/terms/p/purchasingpower.asp) (PPP). Purchasing power parity states that the value of two currencies is equal when a basket of identical goods is priced the same in both countries. This relates to a formula that can be applied to compare securities across markets that trade in different currencies. As exchange rates can shift frequently, the formula can be recalculated on a regular basis to identify mispricings across various international markets.
+The "[[Law of One Price|law of one price]]" exists because differences between asset prices in different locations should eventually be eliminated due to the arbitrage opportunity. The law of one price theory is the underpinning of the concept of [purchasing power parity](https://www.investopedia.com/terms/p/purchasingpower.asp) (PPP). Purchasing power parity states that the value of two currencies is equal when a basket of identical goods is priced the same in both countries. This relates to a formula that can be applied to compare securities across markets that trade in different currencies. As exchange rates can shift frequently, the formula can be recalculated on a regular basis to identify mispricings across various [[International Markets|international markets]].
 
 ## The Difference Between Covered Interest Rate Parity and Uncovered Interest Rate Parity
 
-Covered interest parity (CIP) involves using forward or futures contracts to cover exchange rates, which can thus be hedged in the market. Meanwhile, uncovered interest rate parity (UIP) involves forecasting rates and not covering exposure to foreign exchange risk—that is, there are no forward rate contracts, and it uses only the expected spot rate.
+Covered interest parity (CIP) involves using forward or [[Futures|futures]] contracts to cover exchange rates, which can thus be hedged in the market. Meanwhile, uncovered interest rate parity (UIP) involves forecasting rates and not covering exposure to foreign exchange [[Risk|risk]]—that is, there are no forward rate contracts, and it uses only the expected [[Spot Rate|spot rate]].
 
 There is no theoretical difference between covered and uncovered interest rate parity when the forward and expected spot rates are the same.
 

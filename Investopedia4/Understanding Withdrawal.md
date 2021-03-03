@@ -3,7 +3,7 @@ alias: [Withdrawal An Overview]
 created: 2021-03-03T00:59:18 (UTC +11:00)
 tags: [Withdrawal: An Overview, Understanding Withdrawal]
 source: https://www.investopedia.com/terms/w/withdrawal.asp
-author: Mitchell Grant
+author: Mitchell [[Grant]]
 ---
 
 # Withdrawal: An Overview
@@ -13,14 +13,14 @@ author: Mitchell Grant
 
 ---
 
-Understanding Withdrawal
+[[Understanding Withdrawal]]
 ## What Is a Withdrawal?
 
 A withdrawal involves removing funds from a bank account, savings plan, pension, or trust. In some cases, conditions must be met to withdraw funds without penalty, and penalty for [[early withdrawal]](https://www.investopedia.com/terms/e/earlywithdrawal.asp) usually arises when a clause in an investment contract is broken.
 
 ## How a Withdrawal Works
 
-A withdrawal can be carried out over a period of time in fixed or variable amounts or in one lump sum and as a cash withdrawal or in-kind withdrawal. A cash withdrawal requires converting the holdings of an account, plan, pension, or trust into cash, usually through a sale, while an in-kind withdrawal simply involves taking possession of assets without converting to cash.
+A withdrawal can be carried out over a period of time in fixed or variable amounts or in one lump sum and as a cash withdrawal or in-kind withdrawal. A cash withdrawal requires converting the [[Holdings|holdings]] of an account, plan, pension, or trust into cash, usually through a sale, while an in-kind withdrawal simply involves taking possession of assets without converting to cash.
 
 #### How to Manage Retirement Account Withdrawals
 
@@ -44,8 +44,8 @@ The amount paid in penalties dropped from $456 million to $221 million over that
 
 ### A withdrawal can be carried out over a period of time in fixed or variable amounts or in one lump sum.
 
-In addition to an IRA withdrawal, banks typically offer certificates of deposit (CD) as a way for investors to earn interest. CDs draw higher interest rates than traditional savings accounts, but that's because the money stays in the bank's possession for a minimum amount of time. CDs mature after a set amount of time, and then someone can withdraw payments from the account, including any interest accrued during the time period.
+In addition to an IRA withdrawal, banks typically [[Offer|offer]] certificates of deposit (CD) as a way for investors to earn interest. CDs draw higher interest rates than traditional savings accounts, but that's because the money stays in the bank's possession for a minimum amount of time. CDs mature after a set amount of time, and then someone can withdraw payments from the account, including any interest accrued during the time period.
 
 Penalties for early withdrawals from CDs are steep. If someone withdrew early from a one-year CD, the average penalty was six months of interest. For a five-year CD, the typical penalty was 12 months' interest. If someone withdrew money early from a three-month CD, the penalty included the entire three months of interest accrued in the account.
 
-Some penalties from banks dipped into taking a small percentage, such as 1% or 2%, of the principal amount invested in a CD. Banks assess early [[withdrawal penalties]](https://www.investopedia.com/terms/w/withdrawal-penalty.asp) proportional to the time an investor must leave the money in the account, which means a longer-term CD gets a higher penalty.
+Some penalties from banks dipped into taking a small percentage, such as 1% or 2%, of the [[Principal|principal]] amount invested in a CD. Banks assess early [[withdrawal penalties]](https://www.investopedia.com/terms/w/withdrawal-penalty.asp) proportional to the time an investor must leave the money in the account, which means a longer-term CD gets a higher penalty.

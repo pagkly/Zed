@@ -9,22 +9,22 @@ author: Jake Frankenfield
 # Research and Development (R&D) Expenses Definition
 
 > ## Excerpt
-> Research and development (R&D) expenses are associated with creating new products or services, and a company may deduct them on its tax return.
+> Research and development (R&D) expenses are associated with creating new products or services, and a company may deduct them on its [[Tax Return|tax return]].
 
 ---
 
-Understanding Research and Development (R&D) Expenses
+[[Understanding Research and Development (R&D) Expenses]]
 ## What Are Research and Development (R&D) Expenses?
 
 Research and development ([R&D](https://www.investopedia.com/terms/r/randd.asp)) expenses are associated directly with the research and development of a company's goods or services and any [[intellectual property]](https://www.investopedia.com/terms/i/intellectualproperty.asp) generated in the process. A company generally incurs R&D expenses in the process of finding and creating new products or services.
 
-As a common type of [[operating expense]](https://www.investopedia.com/terms/o/operating_expense.asp), a company may deduct R&D expenses on its tax return.
+As a common type of [[operating expense]](https://www.investopedia.com/terms/o/operating_expense.asp), a company may deduct R&D expenses on its [[Tax Return|tax return]].
 
 ### Key Takeaways
 
 -   Research and development (R&D) expenses are direct expenditures relating to a company's efforts to develop, design, and enhance its products, services, technologies, or processes
 -   The industrial, technological, health care, and pharmaceutical sectors typically incur the highest degree of R&D expenses.
--   The IRS offers tax breaks for R&D expenses, and these may also be deducted on corporate tax returns.
+-   The IRS offers tax breaks for R&D expenses, and these may also be deducted on [[Corporate Tax|corporate tax]] returns.
 
 #### WATCH: What Are Research and Development (R&D) Expenses?
 
@@ -38,12 +38,12 @@ Large companies have also been able to conduct R&D through acquisition, by inves
 
 ## Real World Example of R&D Expenses
 
-Tech companies rely heavily on their research and development capabilities; so they have relatively outsized R&D expenses. In a constantly changing environment, it's important for such a company to remain on the [[bleeding edge]](https://www.investopedia.com/terms/b/bleeding-edge.asp) of innovation. Facebook [(FB)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=fb), for example, invests heavily in the research and development of products such as facial recognition, virtual reality, and predictive AI [[chatbots]](https://www.investopedia.com/terms/c/chatbot.asp). These endeavors allow Facebook to diversify its business and find new growth opportunities as technology continues to evolve.
+Tech companies rely heavily on their research and development capabilities; so they have relatively outsized R&D expenses. In a constantly changing environment, it's important for such a company to remain on the [[bleeding edge]](https://www.investopedia.com/terms/b/bleeding-edge.asp) of innovation. Facebook [(FB)](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=fb), for example, invests heavily in the research and development of products such as facial recognition, [[Virtual Reality|virtual reality]], and predictive AI [[chatbots]](https://www.investopedia.com/terms/c/chatbot.asp). These endeavors allow Facebook to diversify its business and find new growth opportunities as technology continues to evolve.
 
-Facebook's 2017 acquisition of Oculus Rift is an example of R&D expenses through acquisition. Facebook already had the internal resources necessary to build out a virtual reality division, but by acquiring an existing virtual reality company, it was able to expedite the time it took them to develop this capability.
+Facebook's 2017 acquisition of Oculus Rift is an example of R&D expenses through acquisition. Facebook already had the internal resources necessary to build out a [[Virtual Reality|virtual reality]] division, but by acquiring an existing virtual reality company, it was able to expedite the time it took them to develop this capability.
 
 ## Reasons to Conduct R&D
 
 Businesses conduct R&D for many reasons, the first and foremost being new product research and development. Before any new product is released into the marketplace, it goes through significant research and development phases, which include a product's market opportunity, cost, and production timeline. After adequate research, a new product enters the development phase, where a company creates the product or service using the concept laid out during the research phase.
 
-Some companies use R&D to update existing products or conduct quality checks in which a business evaluates a product to ensure that it is still adequate and discusses any improvements. If the improvements are cost-effective, then they will be implemented during the development phase.
+Some companies use R&D to update existing products or conduct quality checks in which a business evaluates a product to ensure that it is still adequate and discusses any improvements. If the improvements are cost-effective, then they [[Will|will]] be implemented during the development phase.

@@ -3,7 +3,7 @@ alias: [Population]
 created: 2021-03-02T22:44:56 (UTC +11:00)
 tags: [Population Definition, Understanding Population Statistics]
 source: https://www.investopedia.com/terms/p/population.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Population Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-Understanding Population Statistics
+[[Understanding Population Statistics]]
 ## What Is Population?
 
 In [[statistics]](https://www.investopedia.com/terms/s/statistics.asp), a population is the entire pool from which a statistical [[sample]](https://www.investopedia.com/terms/s/sample.asp) is drawn. A population may refer to an entire group of people, objects, events, hospital visits, or measurements. A population can thus be said to be an aggregate observation of subjects grouped together by a common feature.
@@ -44,9 +44,9 @@ The information obtained from the statistical sample allows statisticians to dev
 
 ### Population Parameters
 
-A parameter is data based on an entire population. Statistics such as [[averages]](https://www.investopedia.com/terms/a/arithmeticmean.asp) and [[standard deviations]](https://www.investopedia.com/terms/s/standarddeviation.asp), when taken from populations, are referred to as population parameters. The population mean and population standard deviation are represented by the Greek letters µ and σ, respectively.
+A parameter is data based on an entire population. Statistics such as [[averages]](https://www.investopedia.com/terms/a/arithmeticmean.asp) and [[standard deviations]](https://www.investopedia.com/terms/s/standarddeviation.asp), when taken from populations, are referred to as population parameters. The population mean and population [[Standard Deviation|standard deviation]] are represented by the Greek letters µ and σ, respectively.
 
-The standard deviation is the variation in the population inferred from the variation in the sample. When the standard deviation is divided by the square root of the number of observations in the sample, the result is referred to as the [[standard error of the mean]](https://www.investopedia.com/terms/s/standard-error.asp).
+The [[Standard Deviation|standard deviation]] is the variation in the population inferred from the variation in the sample. When the standard deviation is divided by the square root of the number of observations in the sample, the result is referred to as the [[standard error of the mean]](https://www.investopedia.com/terms/s/standard-error.asp).
 
 While a parameter is a characteristic of a population, a statistic is a characteristic of a sample. Inferential statistics enables you to make an educated guess about a population parameter based on a statistic computed from a sample randomly drawn from that population.
 

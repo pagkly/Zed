@@ -13,7 +13,7 @@ author: Adam Barone
 
 ---
 
-Understanding Shutdown Points
+[[Understanding Shutdown Points]]
 ## What Is a Shutdown Point?
 
 A shutdown point is a level of operations at which a company experiences no benefit for [[continuing operations]](https://www.investopedia.com/terms/c/continuingoperations.asp) and therefore decides to shut down temporarily—or in some cases permanently. It results from the combination of output and price where the company earns just enough revenue to cover its total variable costs. The shutdown point denotes the exact moment when a company’s (marginal) revenue is equal to its variable (marginal) costs—in other words, it occurs when the [[marginal profit]](https://www.investopedia.com/terms/m/marginal-profit.asp) becomes negative.
@@ -27,9 +27,9 @@ A shutdown point is a level of operations at which a company experiences no bene
 
 ## How the Shutdown Point Works
 
-At the shutdown point, there is no economic benefit to continuing production. If an additional loss occurs, either through a rise in variable costs or a fall in revenue, the cost of operating will outweigh the revenue.
+At the shutdown point, there is no economic benefit to continuing production. If an additional loss occurs, either through a rise in variable costs or a fall in revenue, the cost of operating [[Will|will]] outweigh the revenue.
 
-At that point, shutting down operations is more practical than continuing. If the reverse occurs, continuing production is more practical. If a company can produce revenues greater or equal to its [[total variable costs]](https://www.investopedia.com/video/play/variable-costs/), it can use the additional revenues to pay down its fixed costs, assuming [[fixed costs]](https://www.investopedia.com/terms/f/fixedcost.asp), such as lease contracts or other lengthy obligations, will still be incurred when the firm shuts down. When a company can earn a positive [[contribution margin]](https://www.investopedia.com/terms/c/contributionmargin.asp), it should remain in operation despite an overall marginal loss.
+At that point, shutting down operations is more practical than continuing. If the reverse occurs, continuing production is more practical. If a company can produce revenues greater or equal to its [[total variable costs]](https://www.investopedia.com/video/play/variable-costs/), it can use the additional revenues to pay down its fixed costs, assuming [[fixed costs]](https://www.investopedia.com/terms/f/fixedcost.asp), such as [[Lease|lease]] contracts or other lengthy obligations, [[Will|will]] still be incurred when the firm shuts down. When a company can earn a positive [[contribution margin]](https://www.investopedia.com/terms/c/contributionmargin.asp), it should remain in operation despite an overall marginal loss.
 
 A shutdown point can apply to all of the operations a business participates in or just a portion of its operations.
 
@@ -45,7 +45,7 @@ Variable costs are more closely tied to actual operations. This can include but 
 
 ## Types of Shutdown Points
 
-The length of a shutdown may be temporary or permanent, depending on the nature of the economic conditions leading to the shutdown. For non-seasonal goods, an economic [[recession]](https://www.investopedia.com/terms/r/recession.asp) may reduce demand from consumers, forcing a temporary shutdown (in full or in part) until the economy recovers.
+The length of a shutdown may be temporary or permanent, depending on the nature of the [[Economic Conditions|economic conditions]] leading to the shutdown. For non-seasonal goods, an economic [[recession]](https://www.investopedia.com/terms/r/recession.asp) may reduce demand from consumers, forcing a temporary shutdown (in full or in part) until the economy recovers.
 
 Other times, demand dries up completely due to changing consumer preferences or technological change. For instance, nobody produces cathode-ray tube (CRT) televisions or computer monitors any longer, and it would be a losing prospect to open a factory these days to produce them.
 

@@ -1,7 +1,7 @@
 ---
 alias: [Profit Center]
 created: 2021-03-02T22:54:43 (UTC +11:00)
-tags: [Profit Center Definition, Understanding Profit Centers]
+tags: [Profit Center Definition, [[Understanding Profit]] Centers]
 source: https://www.investopedia.com/terms/p/profitcentre.asp
 author: Troy Segal
 ---
@@ -13,7 +13,7 @@ author: Troy Segal
 
 ---
 
-Understanding Profit Centers
+[[Understanding Profit Centers]]
 ## What Is a Profit Center?
 
 A profit center is a branch or division of a company that directly adds or is expected to add to the entire organization's [[bottom line]](https://www.investopedia.com/terms/b/bottomline.asp). It is treated as a separate, standalone business, responsible for generating its [[revenues]](https://www.investopedia.com/terms/r/revenue.asp) and earnings. Its [[profits]](https://www.investopedia.com/terms/s/standalone_profit.asp) and losses are calculated separately from other areas of the business. Peter Drucker coined the term "profit center" in 1945.
@@ -24,7 +24,7 @@ A profit center is a branch or division of a company that directly adds or is ex
 -   A profit center is treated as a separate business, with revenues accounted for on a stand alone basis.
 -   The opposite of a profit center is a cost center, a corporate division, or department that does not generate revenue.
 
-## Understanding Profit Centers
+## [[Understanding Profit Centers]]
 
 Profit centers are crucial to determining which units are the most and the least profitable within an organization. They function by differentiating between certain revenue-generating activities. This facilitates a more accurate analysis and cross-comparison among divisions. A profit center analysis determines the future allocation of available resources and whether certain activities should be cut entirely.
 

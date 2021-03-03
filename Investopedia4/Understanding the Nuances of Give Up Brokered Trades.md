@@ -13,14 +13,14 @@ author: Julie Young
 
 ---
 
-Understanding the Nuances of Give Up Brokered Trades
+[[Understanding the Nuances of Give Up Brokered Trades]]
 ## What Is Give Up?
 
 Give up is a procedure in securities or commodities trading where an [[executing broker]](https://www.investopedia.com/terms/e/executingbroker.asp) places a trade on behalf of another broker. It is called a "give up" because the broker executing the trade gives up credit for the transaction on the record books. A give up usually occurs because a broker cannot place a trade for a client based on other workplace obligations. A give up may also happen because the original broker is working on behalf of an [[interdealer broker]](https://www.investopedia.com/terms/i/inter-dealerbroker.asp) or [[prime broker]](https://www.investopedia.com/terms/p/primebrokerage.asp).
 
 ### KEY TAKEAWAYS
 
--   In a give-up agreement, an executing broker places a commodity or security trade on behalf of another broker.
+-   In a give-up agreement, an executing broker places a commodity or [[Security|security]] trade on behalf of another broker.
 -   It is called a "give up" because the broker executing the trade gives up credit for the transaction on the record books.
 -   Give up was common before electronic trading, but it is not generally practiced in modern financial markets.
 -   Acceptance of a give-up trade is sometimes called a give in.
@@ -42,10 +42,10 @@ In cases where both the original buying and selling brokers are otherwise obliga
 
 A request is made of Party A to place the trade on behalf of Party B to ensure the timely execution of a trade. On the record books, or trade log, a give-up trade shows the information for the client's broker (Party B). Party A executes the transaction on behalf of Party B and is not formally noted in the trade record.
 
-Compensation agreements are typically created to manage the provisions of give-up trades. The executing broker (Party A) may or may not receive the standard trade spread. Executing brokers are often paid by the non-floor brokers either on retainer or with a per-trade [[commission]](https://www.investopedia.com/terms/c/commission.asp). This comprehensive payment to the executing broker may or may not be part of the commission that Broker B charges his client.
+Compensation agreements are typically created to manage the provisions of give-up trades. The executing broker (Party A) may or may not receive the standard trade spread. Executing brokers are often paid by the non-floor brokers either on retainer or with a per-trade [[commission]](https://www.investopedia.com/terms/c/[[Commission|commission]].asp). This comprehensive payment to the executing broker may or may not be part of the commission that Broker B charges his client.
 
 ## An Example
 
-Broker B gets a buy order from a client to buy 100 shares of XYZ on the New York Stock Exchange ([NYSE](https://www.investopedia.com/terms/n/nyse.asp)). Broker B works upstairs at a large brokerage firm and needs to get the order down to the floor of the NYSE. To execute the trade in a timely fashion, Broker B asks Floor Broker A to place the order. Floor Broker A then buys the stock on behalf of the client of Broker B.
+Broker B gets a buy order from a client to buy 100 [[Shares|shares]] of XYZ on the New York [[Stock]] Exchange ([NYSE](https://www.investopedia.com/terms/n/nyse.asp)). Broker B works upstairs at a large brokerage firm and needs to get the order down to the floor of the NYSE. To execute the trade in a timely fashion, Broker B asks Floor Broker A to place the order. Floor Broker A then buys the stock on behalf of the client of Broker B.
 
 Although Floor Broker A places the trade, he must give up the transaction and record it as if Broker B made the trade. The transaction is recorded as if Broker B made the trade, even though Floor Broker A executed the trade.

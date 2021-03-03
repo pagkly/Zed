@@ -3,7 +3,7 @@ alias: [Voidable Contract]
 created: 2021-03-03T00:42:28 (UTC +11:00)
 tags: [Voidable Contract Definition, Understanding Voidable Contracts]
 source: https://www.investopedia.com/terms/v/voidable-contract.asp
-author: Will Keaton
+author: [[Will]] Keaton
 ---
 
 # Voidable Contract Definition
@@ -13,7 +13,7 @@ author: Will Keaton
 
 ---
 
-Understanding Voidable Contracts
+[[Understanding Voidable Contracts]]
 ## What Is a Voidable Contract?
 
 A voidable contract is a formal agreement between two parties that may be rendered unenforceable for a number of legal reasons. Reasons that can make a contract voidable include:
@@ -45,7 +45,7 @@ For example, if it was later discovered that one of the parties was not capable 
 
 Certain smartphone apps, categorized as freemium apps, begin as free downloads but later allow for in-app purchases costing real money. Freemium apps geared toward children may result in a minor accepting the terms and conditions associated with gameplay, though these terms may allow for the later solicitation of in-app purchases.
 
-This type of activity led to a lawsuit against Apple ([AAPL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl)) in 2012, which suggested the transactions were part of a voidable contract.1
+This type of activity led to a lawsuit against Apple ([AAPL](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=aapl)) in 2012, which suggested the transactions were part of a voidable contract.1
 
 ### Key Takeaways
 

@@ -13,7 +13,7 @@ author: Adam Hayes
 
 ---
 
-Understanding Posterior Probability
+[[Understanding Posterior Probability]]
 ## What Is a Posterior Probability?
 
 A posterior probability, in Bayesian statistics, is the revised or updated probability of an event occurring after taking into consideration new information. The posterior probability is calculated by updating the [[prior probability]](https://www.investopedia.com/terms/p/prior_probability.asp) using [[Bayes' theorem]](https://www.investopedia.com/terms/b/bayes-theorem.asp). In statistical terms, the posterior probability is the probability of event A occurring given that event B has occurred.
@@ -34,6 +34,6 @@ The posterior probability is thus the resulting distribution, P(A|B).
 
 ## What Does a Posterior Probability Tell You?
 
-Bayes' theorem can be used in many applications, such as medicine, finance, and economics. In finance, Bayes' theorem can be used to update a previous belief once new information is obtained. Prior probability represents what is originally believed before new evidence is introduced, and posterior probability takes this new information into account.
+Bayes' theorem can be used in many applications, such as medicine, [[Finance|finance]], and [[Economics|economics]]. In finance, Bayes' theorem can be used to update a previous belief once new information is obtained. Prior probability represents what is originally believed before new evidence is introduced, and posterior probability takes this new information into account.
 
-Posterior probability distributions should be a better reflection of the underlying truth of a data generating process than the prior probability since the posterior included more information. A posterior probability can subsequently become a prior for a new updated posterior probability as new information arises and is incorporated into the analysis.
+Posterior probability distributions should be a better reflection of the [[Underlying|underlying]] truth of a data generating process than the prior probability since the posterior included more information. A posterior probability can subsequently become a prior for a new updated posterior probability as new information arises and is incorporated into the analysis.

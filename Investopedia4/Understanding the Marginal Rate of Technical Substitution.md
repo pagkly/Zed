@@ -3,20 +3,20 @@ alias: [Marginal Rate of Technical Substitution]
 created: 2021-03-02T21:56:58 (UTC +11:00)
 tags: [Marginal Rate of Technical Substitution, Understanding the Marginal Rate of Technical Substitution]
 source: https://www.investopedia.com/terms/m/marginal-rate-technical-substitution.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Marginal Rate of Technical Substitution
 
 > ## Excerpt
-> The marginal rate of technical substitution is the rate at which a factor must decrease and another must increase to retain the same level of productivity.
+> The marginal rate of technical substitution is the rate at which a factor must decrease and another must increase to retain the same level of [[Productivity|productivity]].
 
 ---
 
-Understanding the Marginal Rate of Technical Substitution
+[[Understanding the Marginal Rate of Technical Substitution]]
 ## What Is the Marginal Rate of Technical Substitution – MRTS?
 
-The marginal rate of technical substitution (MRTS) is an economic theory that illustrates the rate at which one factor must decrease so that the same level of productivity can be maintained when another factor is increased.
+The marginal rate of technical substitution (MRTS) is an economic theory that illustrates the rate at which one factor must decrease so that the same level of [[Productivity|productivity]] can be maintained when another factor is increased.
 
 The MRTS reflects the give-and-take between factors, such as capital and labor, that allow a firm to maintain a constant output. MRTS differs from the [[marginal rate of substitution (MRS)]](https://www.investopedia.com/terms/m/marginal_rate_substitution.asp) because MRTS is focused on producer [[equilibrium]](https://www.investopedia.com/terms/e/equilibrium.asp) and MRS is focused on consumer equilibrium.
 
@@ -31,9 +31,9 @@ MRTS(L, K)\=−ΔKΔL\=MPLMPKwhere:K\=CapitalL\=LaborMP\=Marginal products of
 
 ## How to Calculate the Marginal Rate of Technical Substitution – MRTS
 
-An isoquant is a graph showing combinations of capital and labor that will yield the same output. The slope of the isoquant indicates the MRTS or at any point along the isoquant how much capital would be required to replace a unit of labor at that production point.
+An isoquant is a graph showing combinations of capital and labor that [[Will|will]] [[Yield|yield]] the same output. The slope of the isoquant indicates the MRTS or at any point along the isoquant how much capital would be required to replace a unit of labor at that production point.
 
-For example, in the graph of an isoquant where capital (represented with K on its Y-axis and labor (represented with L) on its X-axis, the slope of the isoquant, or the MRTS at any one point, is calculated as dL/dK.
+For example, in the graph of an isoquant where capital (represented with K on its [[Y]]-axis and labor (represented with L) on its X-axis, the slope of the isoquant, or the MRTS at any one point, is calculated as dL/dK.
 
 ## What Does the MRTS Tell You?
 
