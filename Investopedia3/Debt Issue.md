@@ -27,7 +27,7 @@ A debt issue refers to a financial obligation that allows the issuer to raise fu
 
 ## Understanding Debt Issues
 
-When a company or government agency decides to take out a [loan](https://www.investopedia.com/terms/l/loan.asp), it has two options. The first is to get financing from a bank. The other option is to issue debt to investors in the capital markets. This is referred to as a debt issue—the issuance of a debt instrument by an entity in need of capital to fund new or existing projects or to finance existing debt. This method of raising [capital](https://www.investopedia.com/terms/c/capital.asp) may be preferred, as securing a bank loan can restrict how the funds can be used.
+When a company or government agency decides to take out a [loan](https://www.investopedia.com/terms/l/loan.asp), it has two options. The first is to get financing from a bank. The other option is to issue debt to investors in the [[Capital Markets What You Should Know|capital markets]]. This is referred to as a debt issue—the issuance of a debt instrument by an entity in need of capital to fund new or existing projects or to finance existing debt. This method of raising [capital](https://www.investopedia.com/terms/c/capital.asp) may be preferred, as securing a bank loan can restrict how the funds can be used.
 
 A debt issue is essentially a [promissory note](https://www.investopedia.com/terms/p/promissorynote.asp) in which the issuer is the borrower, and the entity buying the debt asset is the lender. When a debt issue is made available, investors buy it from the seller who uses the funds to pursue its capital projects. In return, the investor is promised regular interest payments and also a repayment of the invested principal on a predetermined date in the future.
 

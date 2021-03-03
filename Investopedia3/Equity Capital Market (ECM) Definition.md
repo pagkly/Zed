@@ -18,11 +18,11 @@ Equity Capital Market (ECM) Definition
 
 The equity capital market (ECM) is where financial institutions help companies raise equity capital and where stocks are traded. It consists of the [primary market](https://www.investopedia.com/terms/p/primarymarket.asp) for private placements, initial public offerings (IPOs) and warrants; and the [secondary market](https://www.investopedia.com/terms/s/secondarymarket.asp), where existing shares are sold, and futures, options and swaps are traded.
 
-## Understanding Equity Capital Markets
+## Understanding Equity [[Capital Markets What You Should Know|Capital Markets]]
 
 The equity capital market (ECM) is broader than the stock market because it covers a wider range of financial instruments and activities. These include the marketing and distribution and allocation of issues, [IPOs](https://www.investopedia.com/terms/i/ipo.asp), private placements, derivatives trading, and [book building](https://www.investopedia.com/terms/b/bookbuilding.asp). The main participants in the ECM are investment banks, broker-dealers, retail investors, venture capitalists, private equity firms, angel investors and securities firms.
 
-Together with the [bond market](https://www.investopedia.com/terms/b/bondmarket.asp), the ECM channels money provided by savers and depository institutions to investors. As part of the [capital markets](https://www.investopedia.com/terms/c/capitalmarkets.asp), the ECM, leads, in theory, to the efficient allocation of resources within a market economy.
+Together with the [bond market](https://www.investopedia.com/terms/b/bondmarket.asp), the ECM channels money provided by savers and depository institutions to investors. As part of the [[[Capital Markets What You Should Know|capital markets]]](https://www.investopedia.com/terms/c/capitalmarkets.asp), the ECM, leads, in theory, to the efficient allocation of resources within a market economy.
 
 ## Primary Equity Market
 
@@ -34,7 +34,7 @@ The secondary market, where no new capital is created, is what most people typic
 
 ### Key Takeaways
 
--   Equity Capital Markets (ECM) refers to a broad network of financial institutions, channels, and markets that together assist companies to raise capital.
+-   Equity [[Capital Markets What You Should Know|Capital Markets]] (ECM) refers to a broad network of financial institutions, channels, and markets that together assist companies to raise capital.
 -   ECM consists of two types of markets: primary equity markets, a place for raising money from private placement and the primary public market, and secondary equity markets, which consist primarily of public and OTC markets.
 
 ## Advantages/Disadvantages of Raising Capital in Equity Markets

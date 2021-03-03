@@ -20,7 +20,7 @@ A defined-contribution (DC) plan is a retirement plan that's typically [tax-def
 
 ### Key Takeaways
 
--   Defined-contribution (DC) retirement plans allow employees to invest pre-tax dollars in the capital markets where they can grow tax-deferred until retirement.
+-   Defined-contribution (DC) retirement plans allow employees to invest pre-tax dollars in the [[Capital Markets What You Should Know|capital markets]] where they can grow tax-deferred until retirement.
 -   401(k) and 403(b) are two popular defined-contribution plans commonly used by companies and organizations to encourage their employees to save for retirement.
 -   DC plans can be contrasted with defined-benefit (DB) pensions, in which retirement income is guaranteed by an employer. With a DC plan, there are no guarantees, and participation is both voluntary and self-directed.
 

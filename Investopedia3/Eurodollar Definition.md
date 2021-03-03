@@ -21,13 +21,13 @@ The term eurodollar refers to U.S. dollar-denominated deposits at foreign banks 
 ### Key Takeaways
 
 -   Eurodollars refer to dollar-denominated accounts at foreign banks or overseas branches of American banks.
--   The eurodollar market is one of the world's biggest capital markets and consists of sophisticated financial instruments.
+-   The eurodollar market is one of the world's biggest [[Capital Markets What You Should Know|capital markets]] and consists of sophisticated financial instruments.
 
 ## Understanding the Eurodollar
 
 The fact that the eurodollar market is relatively free of regulation means such [deposits](https://www.investopedia.com/terms/d/deposit.asp) can pay higher interest. Their [offshore](https://www.investopedia.com/terms/o/offshore.asp) location makes them subject to political and economic risk in the country of their domicile; however, most branches where the deposits are housed are in very stable locations.
 
-The eurodollar market is one of the world's primary international [capital markets](https://www.investopedia.com/terms/c/capitalmarkets.asp). They require a steady supply of depositors putting their money into foreign banks. These eurodollar banks may have problems with their liquidity if the supply of deposits drops. 
+The eurodollar market is one of the world's primary international [[[Capital Markets What You Should Know|capital markets]]](https://www.investopedia.com/terms/c/capitalmarkets.asp). They require a steady supply of depositors putting their money into foreign banks. These eurodollar banks may have problems with their liquidity if the supply of deposits drops. 
 
 Deposits from overnight out to a week are priced based on the [fed funds rate](https://www.investopedia.com/terms/f/federalfundsrate.asp). Prices for longer maturities are based on the corresponding [London Interbank Offered Rate (LIBOR)](https://www.investopedia.com/terms/l/libor.asp). Eurodollar deposits are quite large; they are made by professional counterparties for a minimum of $100,000 and generally for more than $5 million. It is not uncommon for a bank to accept a single deposit of $500 million or more in the overnight market. A 2014 study by the Federal Reserve Bank showed an average daily volume in the market of $140 billion.
 

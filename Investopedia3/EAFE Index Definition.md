@@ -181,7 +181,7 @@ Real Estate
 
 ## EAFE vs. ACWI
 
-Another index, developed by MSCI Inc., which represents the performance of the global market is the MSCI ACWI (All Country World Index). The ACWI lists 2,491 assets from 47 countries composed of 23 developed countries and 24 emerging economies. Both indices provide a transparent vehicle that can be used by institutional investors to take advantage of profitable investments from multiple [capital markets](https://www.investopedia.com/terms/c/capitalmarkets.asp) in the world. In comparison, the table below shows the annual performance of both indices from 2007 to 2020:1
+Another index, developed by MSCI Inc., which represents the performance of the global market is the MSCI ACWI (All Country World Index). The ACWI lists 2,491 assets from 47 countries composed of 23 developed countries and 24 emerging economies. Both indices provide a transparent vehicle that can be used by institutional investors to take advantage of profitable investments from multiple [[[Capital Markets What You Should Know|capital markets]]](https://www.investopedia.com/terms/c/capitalmarkets.asp) in the world. In comparison, the table below shows the annual performance of both indices from 2007 to 2020:1
 
 Annual Performance (%)
 

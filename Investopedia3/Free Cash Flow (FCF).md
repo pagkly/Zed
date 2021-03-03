@@ -106,7 +106,7 @@ From 2009 through 2015 many solar companies were dealing with this exact kind of
 
 ### How is Free Cash Flow (FCF) calculated?
 
-There are two main approaches to calculating FCF. The first approach uses Cash Flow from Operating Activities as the starting point, and then makes adjustments for interest expense, the tax shield on interest expense, and any capital expenditures (CAPEX) undertaken that year. The second approach uses Earnings Before Interest and Taxes (EBIT) as the starting point, then adjusts for income taxes, non-cash expenses such as depreciation and amortization, changes in working capital, and CAPEX. In both cases, the resulting numbers should be identical, but one approach may be preferred over the other depending on what financial information is available.
+There are two main approaches to calculating FCF. The first approach uses [[Cash Flow From Operating Activities (CFO) Definition|Cash Flow from Operating Activities]] as the starting point, and then makes adjustments for interest expense, the tax shield on interest expense, and any capital expenditures (CAPEX) undertaken that year. The second approach uses Earnings Before Interest and Taxes (EBIT) as the starting point, then adjusts for income taxes, non-cash expenses such as depreciation and amortization, changes in working capital, and CAPEX. In both cases, the resulting numbers should be identical, but one approach may be preferred over the other depending on what financial information is available.
 
 ### What does FCF indicate?
 

@@ -96,7 +96,7 @@ When investors realized the MBS and CDOs were worthless due to the toxic debt t
 
 ### What Are the Different Types of Financial Markets?
 
-Some examples of financial markets and their roles include the stock market, the bond market, forex, commodities, and the real estate market, among several others. Financial markets can also be broken down into capital markets, money markets, primary vs. secondary markets, and listed vs. OTC markets.
+Some examples of financial markets and their roles include the stock market, the bond market, forex, commodities, and the real estate market, among several others. Financial markets can also be broken down into [[Capital Markets What You Should Know|capital markets]], money markets, primary vs. secondary markets, and listed vs. OTC markets.
 
 ### How Do Financial Markets Work?
 

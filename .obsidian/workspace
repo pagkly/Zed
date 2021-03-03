@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Investopedia3/Cash Flow From Operating Activities (CFO) Definition.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia3/Cash Flow From Operating Activities (CFO) Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +106,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Investopedia3/Cash Flow From Operating Activities (CFO) Definition.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,15 +132,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia3/Foreign Institutional Investor (FII).md",
+    "Investopedia3/Capital Markets What You Should Know.md",
+    "Investopedia3/How the EV/2P Ratio Is Used.md",
+    "Investopedia3/Cash Flow.md",
+    "Investopedia3/Cash Flow Statement.md",
     "Investopedia3/Cash Flow From Operating Activities (CFO) Definition.md",
     "Day Planners/20210303.md",
     "Investopedia3/Capitalized Interest Definition.md",
     "Investopedia3/Capitalization The Whys and Hows.md",
-    "Investopedia3/Capitalization Table is a familiar document in the startup world.md",
-    "Investopedia3/Capitalization Definition.md",
-    "Investopedia3/Capitalism.md",
-    "Investopedia3/Cash Conversion Cycle (CCC).md",
-    "Investopedia3/Checking Account.md",
-    "Investopedia3/Chartered Retirement Planning Counselor (CRPC) Definition.md"
+    "Investopedia3/Capitalization Table is a familiar document in the startup world.md"
   ]
 }

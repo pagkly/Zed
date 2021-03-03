@@ -28,7 +28,7 @@ Contractionary policy is a monetary measure referring either to a reduction in g
 
 ## A Granular View of Contractionary Policy
 
-Contractionary policies aim to hinder potential distortions to the capital markets. Distortions include high inflation from an expanding [money supply](https://www.investopedia.com/terms/m/moneysupply.asp), unreasonable asset prices, or crowding-out effects, where a spike in interest rates leads to a reduction in private investment spending such that it dampens the initial increase of total investment spending.
+Contractionary policies aim to hinder potential distortions to the [[Capital Markets What You Should Know|capital markets]]. Distortions include high inflation from an expanding [money supply](https://www.investopedia.com/terms/m/moneysupply.asp), unreasonable asset prices, or crowding-out effects, where a spike in interest rates leads to a reduction in private investment spending such that it dampens the initial increase of total investment spending.
 
 While the initial effect of the contractionary policy is to reduce [nominal gross domestic product](https://www.investopedia.com/terms/n/nominalgdp.asp) (GDP), which is defined as the gross domestic product (GDP) evaluated at current [market prices](https://www.investopedia.com/terms/m/market-price.asp), it often ultimately results in sustainable economic growth and smoother business cycles.
 

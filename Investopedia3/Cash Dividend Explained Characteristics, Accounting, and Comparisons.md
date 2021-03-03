@@ -53,7 +53,7 @@ Cash dividends are a common way for companies to return capital to shareholders.
 
 When a corporation declares a dividend, it debits its [retained earnings](https://www.investopedia.com/terms/r/retainedearnings.asp) and credits a liability account called dividend payable. On the date of payment, the company reverses the dividend payable with a debit entry and credits its cash account for the respective cash outflow.
 
-Cash dividends do not affect a company's income statement. However, they shrink a company's shareholders' equity and cash balance by the same amount. Firms must report any cash dividend as payments in the financing activity section of their [cash flow statement](https://www.investopedia.com/terms/c/cashflowstatement.asp).
+Cash dividends do not affect a company's income statement. However, they shrink a company's shareholders' equity and cash balance by the same amount. Firms must report any cash dividend as payments in the financing activity section of their [[[Cash Flow Statement]]](https://www.investopedia.com/terms/c/cashflowstatement.asp).
 
 The easiest way to compare cash dividends across companies is to look at the [trailing 12-month](https://www.investopedia.com/terms/t/ttm.asp) dividend yields, which are computed as a company's dividends per share for the most recent 12-month period divided by its current stock price. This computation standardizes the measure of cash dividends concerning the price of a common share.
 

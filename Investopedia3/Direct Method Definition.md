@@ -35,7 +35,7 @@ The three main financial statements are the balance sheet, income statement, and
 
 The indirect method for calculating cash flow from operations uses accrual accounting information, and it always begins with the [net income](https://www.investopedia.com/terms/n/netincome.asp) from the income statement. The net income is then adjusted for changes in the asset and liability accounts on the [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) by adding to or subtracting from net income to derive the cash flow from operations.
 
-Under the direct method, the only section of the statement of cash flows that will differ in the presentation is the cash flow from the operations section. The direct method lists the cash receipts and cash payments made during the accounting period. The cash outflows are subtracted from the cash inflows to calculate the net cash flow from operating activities, before the net cash from investing and financing activities are included to get the net cash increase or decrease in the company for that period of time.
+Under the direct method, the only section of the statement of cash flows that will differ in the presentation is the cash flow from the operations section. The direct method lists the cash receipts and cash payments made during the accounting period. The cash outflows are subtracted from the cash inflows to calculate the net [[Cash Flow From Operating Activities (CFO) Definition|cash flow from operating activities]], before the net cash from investing and financing activities are included to get the net cash increase or decrease in the company for that period of time.
 
 ## Complexities of the Direct Method
 

@@ -44,7 +44,7 @@ Many economists, particularly conservative ones, disagree with Keynes. Those fro
 
 This view dates to 19th century British economist [David Ricardo](https://www.investopedia.com/terms/d/david-ricardo.asp), who argued that because people know the deficit spending must eventually be repaid through higher taxes, they will save their money instead of spending it. This will deprive the economy of the fuel that deficit spending is meant to create.2
 
-Some economists also say deficit spending, if left unchecked, could threaten economic growth. Too much debt could cause a government to raise taxes or even default on its debt. What's more, the sale of government bonds could crowd out corporate and other private issuers, which might distort prices and interest rates in capital markets.
+Some economists also say deficit spending, if left unchecked, could threaten economic growth. Too much debt could cause a government to raise taxes or even default on its debt. What's more, the sale of government bonds could crowd out corporate and other private issuers, which might distort prices and interest rates in [[Capital Markets What You Should Know|capital markets]].
 
 ## Modern Monetary Theory
 
