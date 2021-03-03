@@ -36,7 +36,7 @@ Skilling joined Enron at an auspicious time. The era's minimal regulatory envir
 
 ## What Happened to Enron
 
-The Enron bankruptcy, at $63 billion in assets, was the largest on record at the time. The company's collapse shook the financial markets and nearly crippled the energy industry. While high-level executives at the company concocted the fraudulent accounting schemes, financial and legal experts maintained that they would never have gotten away with it without outside assistance. The [[Securities and Exchange Commission (SEC)]](https://www.investopedia.com/terms/s/sec.asp), credit rating agencies, and investment banks were all accused of having a role in enabling Enron's fraud.
+The Enron bankruptcy, at $63 billion in assets, was the largest on record at the time. The company's collapse shook the financial markets and nearly crippled the energy industry. While high-level executives at the company concocted the fraudulent accounting schemes, financial and legal experts maintained that they would never have gotten away with it without outside assistance. The Securities and Exchange Commission (SEC)(https://www.investopedia.com/terms/s/sec.asp), credit rating agencies, and investment banks were all accused of having a role in enabling Enron's fraud.
 
 Initially, much of the finger pointing was directed at the SEC, which the U.S. Senate found complicit for its systemic and catastrophic failure of oversight. The Senate's investigation determined that had the SEC reviewed any of Enron’s post-1997 annual reports, it would have seen the red flags and possibly prevented the enormous losses suffered by employees and investors.
 
