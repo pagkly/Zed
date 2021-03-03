@@ -1,7 +1,7 @@
 ---
 alias: [Par [[Yield]] Curve]
 created: 2021-03-02T22:36:05 (UTC +11:00)
-tags: [Par Yield Curve Definition, Par [[Yield]] Curve]
+tags: [Par Yield Curve Definition, Par Yield Curve]
 source: https://www.investopedia.com/terms/p/par-[[Yield|yield]]-curve.asp
 author: James Chen
 ---

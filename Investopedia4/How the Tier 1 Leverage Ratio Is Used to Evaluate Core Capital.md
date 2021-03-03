@@ -1,5 +1,5 @@
 ---
-alias: [Tier 1 [[Leverage]] Ratio]
+alias: [Tier 1 Leverage Ratio]
 created: 2021-03-03T00:00:39 (UTC +11:00)
 tags: [Tier 1 Leverage Ratio Definition, How the Tier 1 Leverage Ratio Is Used to Evaluate Core Capital]
 source: https://www.investopedia.com/terms/t/tier-1-[[Leverage|leverage]]-ratio.asp

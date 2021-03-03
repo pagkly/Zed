@@ -1,5 +1,5 @@
 ---
-alias: [Degree of Operating [[Leverage]], DOL]
+alias: [Degree of Operating Leverage, DOL]
 created: 2021-03-02T19:13:34 (UTC +11:00)
 tags: [Degree of Operating Leverage (DOL) Definition, Understanding the Degree of Operating Leverage]
 source: https://www.investopedia.com/terms/d/degreeofoperatingleverage.asp

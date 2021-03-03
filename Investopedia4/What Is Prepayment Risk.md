@@ -1,5 +1,5 @@
 ---
-alias: [What Is Prepayment [[Risk]]?]
+alias: [What Is Prepayment Risk?]
 created: 2021-03-02T22:47:30 (UTC +11:00)
 tags: [What Is Prepayment Risk?, What Is Prepayment Risk?]
 source: https://www.investopedia.com/terms/p/prepaymentrisk.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Exchange of [[Futures]] for Physical, EFP]
+alias: [Exchange of Futures for Physical, EFP]
 created: 2021-03-02T19:46:20 (UTC +11:00)
 tags: [Exchange of Futures for Physical (EFP), Exchange of Futures for Physical (EFP) Definition]
 source: https://www.investopedia.com/terms/e/exchangeoffuturesforcash.asp

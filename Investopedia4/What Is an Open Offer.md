@@ -1,5 +1,5 @@
 ---
-alias: [What Is an Open [[Offer]]?]
+alias: [What Is an Open Offer?]
 created: 2021-03-02T22:22:12 (UTC +11:00)
 tags: [What Is an Open Offer?, What Is an Open Offer?]
 source: https://www.investopedia.com/terms/o/openoffer.asp

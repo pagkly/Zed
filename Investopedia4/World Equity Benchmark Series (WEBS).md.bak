@@ -1,7 +1,7 @@
 ---
 alias: [World [[Equity]] Benchmark Series, WEBS]
 created: 2021-03-03T01:03:36 (UTC +11:00)
-tags: [World [[Equity]] Benchmark Series (WEBS), World Equity Benchmark Series (WEBS)]
+tags: [World Equity Benchmark Series (WEBS), World Equity Benchmark Series (WEBS)]
 source: https://www.investopedia.com/terms/w/webs.asp
 author: James Chen
 ---

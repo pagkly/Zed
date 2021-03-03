@@ -1,5 +1,5 @@
 ---
-alias: [Outward [[Direct Investment]], ODI]
+alias: [Outward Direct Investment, ODI]
 created: 2021-03-02T22:31:35 (UTC +11:00)
 tags: [Outward Direct Investment (ODI) Definition, Outward Direct Investment (ODI)]
 source: https://www.investopedia.com/terms/o/outward_direct_investment.asp

@@ -1,7 +1,7 @@
 ---
 alias: [Long-Term [[Debt]] to Capitalization Ratio]
 created: 2021-03-02T21:28:00 (UTC +11:00)
-tags: [Long-Term [[Debt]] to Capitalization Ratio, Long-Term Debt to Capitalization Ratio]
+tags: [Long-Term Debt to Capitalization Ratio, Long-Term Debt to Capitalization Ratio]
 source: https://www.investopedia.com/terms/l/longtermdebt-capitalization.asp
 author: Adam Hayes
 ---

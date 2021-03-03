@@ -1,5 +1,5 @@
 ---
-alias: [Ontario Teachers' [[Pension Plan]] Board, OTPPB]
+alias: [Ontario Teachers' Pension Plan Board, OTPPB]
 created: 2021-03-02T22:20:05 (UTC +11:00)
 tags: [Ontario Teachers' Pension Plan Board (OTPPB), Ontario Teachers' Pension Plan Board (OTPPB)]
 source: https://www.investopedia.com/terms/o/ontario-teachers-pension-plan-board-otppb.asp

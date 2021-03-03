@@ -1,7 +1,7 @@
 ---
 alias: [Real-Time [[Quote]], RTQ]
 created: 2021-03-02T23:09:59 (UTC +11:00)
-tags: [Real-Time [[Quote]] (RTQ) Definition, Real-Time Quotes (RTQs) Are Prices at That Moment and Not Time-Delayed]
+tags: [Real-Time Quote (RTQ) Definition, Real-Time Quotes (RTQs) Are Prices at That Moment and Not Time-Delayed]
 source: https://www.investopedia.com/terms/r/real-time-[[Quote|quote]].asp
 author: Adam Hayes
 ---

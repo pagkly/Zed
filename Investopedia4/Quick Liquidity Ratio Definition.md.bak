@@ -1,7 +1,7 @@
 ---
 alias: [Quick [[Liquidity]] Ratio]
 created: 2021-03-02T23:05:29 (UTC +11:00)
-tags: [Quick [[Liquidity]] Ratio Definition, Quick Liquidity Ratio Definition]
+tags: [Quick Liquidity Ratio Definition, Quick Liquidity Ratio Definition]
 source: https://www.investopedia.com/terms/q/quick-[[Liquidity|liquidity]]-ratio.asp
 author: Daniel Liberto
 ---

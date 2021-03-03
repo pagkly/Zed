@@ -1,5 +1,5 @@
 ---
-alias: [Energy [[Return]] on Investment, EROI]
+alias: [Energy Return on Investment, EROI]
 created: 2021-03-02T19:37:31 (UTC +11:00)
 tags: [Energy Return on Investment (EROI), Energy Return on Investment (EROI)]
 source: https://www.investopedia.com/terms/e/energy-[[Return|return]]-on-investment.asp

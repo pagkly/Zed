@@ -1,7 +1,7 @@
 ---
 alias: [Net [[Debt]] Per Capita Defined]
 created: 2021-03-02T21:36:55 (UTC +11:00)
-tags: [Net Debt Per Capita Defined, [[What Is Net Debt Per Capita]]?]
+tags: [Net Debt Per Capita Defined, What Is Net Debt Per Capita?]
 source: https://www.investopedia.com/terms/n/netdebtpercapita.asp
 author: [[Will]] Kenton
 ---

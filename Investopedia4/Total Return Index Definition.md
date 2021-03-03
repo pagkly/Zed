@@ -1,5 +1,5 @@
 ---
-alias: [Total [[Return]] Index]
+alias: [Total Return Index]
 created: 2021-03-03T00:04:43 (UTC +11:00)
 tags: [Total Return Index, Total Return Index Definition]
 source: https://www.investopedia.com/terms/t/total_return_index.asp

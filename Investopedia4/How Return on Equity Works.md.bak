@@ -1,7 +1,7 @@
 ---
 alias: [Return on [[Equity]] – ROE]
 created: 2021-03-02T23:21:05 (UTC +11:00)
-tags: [Return on Equity – ROE Definition, How [[Return]] on Equity Works]
+tags: [Return on Equity – ROE Definition, How Return on Equity Works]
 source: https://www.investopedia.com/terms/r/returnonequity.asp
 author: Jason Fernando
 ---

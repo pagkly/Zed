@@ -1,7 +1,7 @@
 ---
 alias: [Umbrella Personal [[Liability]] Policy]
 created: 2021-03-03T00:13:11 (UTC +11:00)
-tags: [Umbrella Personal [[Liability]] Policy, Umbrella Personal Liability Policy]
+tags: [Umbrella Personal Liability Policy, Umbrella Personal Liability Policy]
 source: https://www.investopedia.com/terms/u/umbrella-personal-[[Liability|liability]]-policy.asp
 author: Julia Kagan
 ---

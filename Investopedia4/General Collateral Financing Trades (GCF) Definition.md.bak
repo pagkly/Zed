@@ -1,7 +1,7 @@
 ---
 alias: [General [[Collateral]] Financing Trades, GCF]
 created: 2021-03-02T20:14:40 (UTC +11:00)
-tags: [General [[Collateral]] Financing Trades (GCF) Definition, General Collateral Financing Trades (GCF) Definition]
+tags: [General Collateral Financing Trades (GCF) Definition, General Collateral Financing Trades (GCF) Definition]
 source: https://www.investopedia.com/terms/g/gcf.asp
 author: Gordon Scott, CMT
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Central [[Counterparty]] Clearing House—CCP]
 created: 2021-03-02T18:49:09 (UTC +11:00)
-tags: [Central [[Counterparty]] Clearing House—CCP Definition, The Core Role of a Central Counterparty Clearing House—CCP]
+tags: [Central Counterparty Clearing House—CCP Definition, The Core Role of a Central Counterparty Clearing House—CCP]
 source: https://www.investopedia.com/terms/c/ccph.asp
 author: Andrew Bloomenthal
 ---

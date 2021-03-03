@@ -1,5 +1,5 @@
 ---
-alias: [Modified Internal Rate of [[Return]] – MIRR]
+alias: [Modified Internal Rate of Return – MIRR]
 created: 2021-03-02T22:07:28 (UTC +11:00)
 tags: [Modified Internal Rate of Return – MIRR Definition, Modified Internal Rate of Return – MIRR Definition]
 source: https://www.investopedia.com/terms/m/mirr.asp

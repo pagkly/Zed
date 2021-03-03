@@ -1,7 +1,7 @@
 ---
 alias: [Price-[[Weighted]] Index]
 created: 2021-03-02T22:49:52 (UTC +11:00)
-tags: [Price-[[Weighted]] Index Definition, Price-Weighted Index Definition]
+tags: [Price-Weighted Index Definition, Price-Weighted Index Definition]
 source: https://www.investopedia.com/terms/p/priceweightedindex.asp
 author: Adam Hayes
 ---

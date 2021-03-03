@@ -1,5 +1,5 @@
 ---
-alias: [Total [[Debt Service]] (TDS) Ratio]
+alias: [Total Debt Service (TDS) Ratio]
 created: 2021-03-03T00:02:42 (UTC +11:00)
 tags: [Total Debt Service (TDS) Ratio Definition, Understanding the Total Debt Service (TDS) Ratio]
 source: https://www.investopedia.com/terms/t/totaldebtserviceratio.asp

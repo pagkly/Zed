@@ -1,5 +1,5 @@
 ---
-alias: [Treasury [[Stock]] Method]
+alias: [Treasury Stock Method]
 created: 2021-03-03T00:09:07 (UTC +11:00)
 tags: [Treasury Stock Method Definition, Learn About the Treasury Stock Method]
 source: https://www.investopedia.com/terms/t/treasurystockmethod.asp

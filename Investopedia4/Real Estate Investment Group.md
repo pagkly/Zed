@@ -1,5 +1,5 @@
 ---
-alias: [Real [[Estate]] Investment Group]
+alias: [Real Estate Investment Group]
 created: 2021-03-02T23:07:34 (UTC +11:00)
 tags: [Real Estate Investment Group Definition, Real Estate Investment Group]
 source: https://www.investopedia.com/terms/r/reig.asp

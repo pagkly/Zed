@@ -1,5 +1,5 @@
 ---
-alias: [National [[Stock]] Exchange of India Limited, NSE]
+alias: [National Stock Exchange of India Limited, NSE]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Stock Exchange of India Limited (NSE) Definition, National Stock Exchange of India Limited (NSE)]
 source: https://www.investopedia.com/terms/n/national_stock_exchange.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Market [[Risk]] Premium]
+alias: [Market Risk Premium]
 created: 2021-03-02T21:59:05 (UTC +11:00)
 tags: [Market Risk Premium Definition, Market Risk Premium]
 source: https://www.investopedia.com/terms/m/marketriskpremium.asp

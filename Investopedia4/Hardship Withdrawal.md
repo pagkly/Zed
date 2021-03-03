@@ -1,5 +1,5 @@
 ---
-alias: [What Is a [[Hardship Withdrawal]]?]
+alias: [What Is a Hardship Withdrawal?]
 created: 2021-03-02T20:36:47 (UTC +11:00)
 tags: [What Is a Hardship Withdrawal?, Hardship Withdrawal]
 source: https://www.investopedia.com/terms/h/hardship_withdrawal.asp

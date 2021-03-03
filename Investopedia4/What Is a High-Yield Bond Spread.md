@@ -1,5 +1,5 @@
 ---
-alias: [High-[[Yield]] Bond Spread]
+alias: [High-Yield Bond Spread]
 created: 2021-03-02T20:43:24 (UTC +11:00)
 tags: [High-Yield Bond Spread Definition, What Is a High-Yield Bond Spread?]
 source: https://www.investopedia.com/terms/h/high-[[Yield|yield]]-bond-spread.asp

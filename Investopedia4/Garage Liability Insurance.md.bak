@@ -1,7 +1,7 @@
 ---
 alias: [Garage [[Liability]] Insurance]
 created: 2021-03-02T20:12:35 (UTC +11:00)
-tags: [Garage [[Liability]] Insurance Definition, Garage Liability Insurance]
+tags: [Garage Liability Insurance Definition, Garage Liability Insurance]
 source: https://www.investopedia.com/terms/g/garage-[[Liability|liability]]-insurance.asp
 author: Julia Kagan
 ---

@@ -1,5 +1,5 @@
 ---
-alias: [Whole [[Life Annuity]] Due]
+alias: [Whole Life Annuity Due]
 created: 2021-03-03T00:54:56 (UTC +11:00)
 tags: [Whole Life Annuity Due Definition, Whole Life Annuity Due]
 source: https://www.investopedia.com/terms/w/whole-life-annuity-due.asp

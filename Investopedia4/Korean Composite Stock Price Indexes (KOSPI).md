@@ -1,5 +1,5 @@
 ---
-alias: [Korean Composite [[Stock]] Price Indexes, KOSPI]
+alias: [Korean Composite Stock Price Indexes, KOSPI]
 created: 2021-03-02T21:09:19 (UTC +11:00)
 tags: [Korean Composite Stock Price Indexes (KOSPI), Korean Composite Stock Price Indexes (KOSPI)]
 source: https://www.investopedia.com/terms/k/kospi.asp

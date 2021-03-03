@@ -1,5 +1,5 @@
 ---
-alias: [Risk-[[Neutral]] Measures]
+alias: [Risk-Neutral Measures]
 created: 2021-03-02T23:25:41 (UTC +11:00)
 tags: [Risk-Neutral Measures, Risk-Neutral Measures]
 source: https://www.investopedia.com/terms/r/[[Risk|risk]]-[[Neutral|neutral]]-measures.asp

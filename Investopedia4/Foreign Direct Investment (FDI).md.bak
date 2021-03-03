@@ -1,7 +1,7 @@
 ---
 alias: [Foreign [[Direct Investment]], FDI]
 created: 2021-03-02T20:01:18 (UTC +11:00)
-tags: [Foreign [[Direct Investment]] (FDI) Definition, Foreign Direct Investment (FDI)]
+tags: [Foreign Direct Investment (FDI) Definition, Foreign Direct Investment (FDI)]
 source: https://www.investopedia.com/terms/f/fdi.asp
 author: James Chen
 ---

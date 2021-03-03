@@ -1,5 +1,5 @@
 ---
-alias: [Employers' [[Liability]] Insurance]
+alias: [Employers' Liability Insurance]
 created: 2021-03-02T19:37:31 (UTC +11:00)
 tags: [Employers' Liability Insurance Definition, Why Employers Need the Protection of Liability Insurance]
 source: https://www.investopedia.com/terms/e/employers-[[Liability|liability]]-insurance.asp

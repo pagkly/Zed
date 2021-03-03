@@ -1,5 +1,5 @@
 ---
-alias: [Net Internal Rate of [[Return]] – Net IRR]
+alias: [Net Internal Rate of Return – Net IRR]
 created: 2021-03-02T21:39:27 (UTC +11:00)
 tags: [Net Internal Rate of Return – Net IRR Definition, How Net Internal Rate of Return Works]
 source: https://www.investopedia.com/terms/n/net-internal-rate-of-[[Return|return]].asp

@@ -1,5 +1,5 @@
 ---
-alias: [Why Countries [[Hold]] Foreign Exchange Reserves]
+alias: [Why Countries Hold Foreign Exchange Reserves]
 created: 2021-03-02T20:03:22 (UTC +11:00)
 tags: [Why Countries Hold Foreign Exchange Reserves, Foreign Exchange Reserves Definition]
 source: https://www.investopedia.com/terms/f/foreign-exchange-reserves.asp

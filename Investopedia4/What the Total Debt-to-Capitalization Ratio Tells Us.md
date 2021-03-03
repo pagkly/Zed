@@ -1,5 +1,5 @@
 ---
-alias: [Total [[Debt]]-to-Capitalization Ratio]
+alias: [Total Debt-to-Capitalization Ratio]
 created: 2021-03-03T00:02:42 (UTC +11:00)
 tags: [Total Debt-to-Capitalization Ratio Definition, What the Total Debt-to-Capitalization Ratio Tells Us]
 source: https://www.investopedia.com/terms/t/total-debttocapitalization-ratio.asp

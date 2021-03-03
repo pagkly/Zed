@@ -1,7 +1,7 @@
 ---
 alias: [Commercial Real [[Estate]], CRE]
 created: 2021-03-02T18:53:38 (UTC +11:00)
-tags: [Commercial Real [[Estate]] (CRE) Definition, Commercial Real Estate Definition]
+tags: [Commercial Real Estate (CRE) Definition, Commercial Real Estate Definition]
 source: https://www.investopedia.com/terms/c/commercialrealestate.asp
 author: James Chen
 ---

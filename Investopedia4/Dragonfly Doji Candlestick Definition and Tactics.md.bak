@@ -1,7 +1,7 @@
 ---
 alias: [Dragonfly [[Doji]] Candlestick Definition and Tactics]
 created: 2021-03-02T19:26:48 (UTC +11:00)
-tags: [Dragonfly [[Doji]] Candlestick Definition and Tactics, Dragonfly Doji Candlestick Definition and Tactics]
+tags: [Dragonfly Doji Candlestick Definition and Tactics, Dragonfly Doji Candlestick Definition and Tactics]
 source: https://www.investopedia.com/terms/d/dragonfly-[[Doji|doji]].asp
 author: Cory Mitchell
 ---

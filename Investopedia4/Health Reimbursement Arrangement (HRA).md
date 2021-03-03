@@ -1,5 +1,5 @@
 ---
-alias: [Health [[Reimbursement]] Arrangement, HRA]
+alias: [Health Reimbursement Arrangement, HRA]
 created: 2021-03-02T20:39:12 (UTC +11:00)
 tags: [Health Reimbursement Arrangement (HRA) Definition, Health Reimbursement Arrangement (HRA)]
 source: https://www.investopedia.com/terms/h/hra.asp

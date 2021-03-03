@@ -1,5 +1,5 @@
 ---
-alias: [Private [[Equity]] Real [[Estate]] Defintion]
+alias: [Private Equity Real Estate Defintion]
 created: 2021-03-02T22:52:18 (UTC +11:00)
 tags: [Private Equity Real Estate Defintion, Private Equity Real Estate]
 source: https://www.investopedia.com/terms/p/private-[[Equity|equity]]-real-[[Estate|estate]].asp

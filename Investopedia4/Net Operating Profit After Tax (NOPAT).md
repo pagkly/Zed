@@ -1,5 +1,5 @@
 ---
-alias: [Net [[Operating Profit]] After Tax, NOPAT]
+alias: [Net Operating Profit After Tax, NOPAT]
 created: 2021-03-02T21:39:27 (UTC +11:00)
 tags: [Net Operating Profit After Tax (NOPAT) Definition, Net Operating Profit After Tax (NOPAT)]
 source: https://www.investopedia.com/terms/n/nopat.asp

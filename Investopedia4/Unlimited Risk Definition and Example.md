@@ -1,5 +1,5 @@
 ---
-alias: [Unlimited [[Risk]] Definition and Example]
+alias: [Unlimited Risk Definition and Example]
 created: 2021-03-03T00:25:51 (UTC +11:00)
 tags: [Unlimited Risk Definition and Example, Unlimited Risk Definition and Example]
 source: https://www.investopedia.com/terms/u/unlimitedrisk.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Private Investment in Public [[Equity]] – PIPE]
+alias: [Private Investment in Public Equity – PIPE]
 created: 2021-03-02T22:52:18 (UTC +11:00)
 tags: [Private Investment in Public Equity – PIPE Definition, PIPE Dream: Firms Raise Money Fast via Private Investment in Public Equity]
 source: https://www.investopedia.com/terms/p/pipe.asp

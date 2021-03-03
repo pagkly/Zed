@@ -1,7 +1,7 @@
 ---
 alias: [Introduction to the Waiver of [[Premium]] for Payer Benefit]
 created: 2021-03-03T00:46:29 (UTC +11:00)
-tags: [Introduction to the Waiver of [[Premium]] for Payer Benefit Definition, Introduction to the Waiver of Premium for Payer Benefit]
+tags: [Introduction to the Waiver of Premium for Payer Benefit Definition, Introduction to the Waiver of Premium for Payer Benefit]
 source: https://www.investopedia.com/terms/w/waiver-of-[[Premium|premium]]-for-payer-benefit.asp
 author: Julia Kagan
 ---

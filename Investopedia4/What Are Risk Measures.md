@@ -1,5 +1,5 @@
 ---
-alias: [What Are [[Risk]] Measures?]
+alias: [What Are Risk Measures?]
 created: 2021-03-02T23:25:41 (UTC +11:00)
 tags: [What Are Risk Measures?, What Are Risk Measures?]
 source: https://www.investopedia.com/terms/r/riskmeasures.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Equity [[Risk]] Premium]
+alias: [Equity Risk Premium]
 created: 2021-03-02T19:42:13 (UTC +11:00)
 tags: [Equity Risk Premium Definition, What Is a Equity Risk Premium?]
 source: https://www.investopedia.com/terms/e/equityriskpremium.asp

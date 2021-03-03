@@ -1,5 +1,5 @@
 ---
-alias: [Level-[[Premium]] Insurance]
+alias: [Level-Premium Insurance]
 created: 2021-03-02T21:15:35 (UTC +11:00)
 tags: [Level-Premium Insurance Definition, Level-Premium Insurance is Term Life With Static Premium Payments]
 source: https://www.investopedia.com/terms/l/levelpremiumlife.asp

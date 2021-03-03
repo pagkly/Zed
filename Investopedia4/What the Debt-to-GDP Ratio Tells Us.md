@@ -1,5 +1,5 @@
 ---
-alias: [The Definition of [[Debt]]-to-GDP Ratio]
+alias: [The Definition of Debt-to-GDP Ratio]
 created: 2021-03-02T19:11:28 (UTC +11:00)
 tags: [The Definition of Debt-to-GDP Ratio, What the Debt-to-GDP Ratio Tells Us]
 source: https://www.investopedia.com/terms/d/debtgdpratio.asp

@@ -1,7 +1,7 @@
 ---
 alias: [Chartered [[Retirement Planning]] Counselor, CRPC]
 created: 2021-03-02T18:51:36 (UTC +11:00)
-tags: [Chartered [[Retirement Planning]] Counselor (CRPC) Definition, Chartered Retirement Planning Counselor (CRPC) Definition]
+tags: [Chartered Retirement Planning Counselor (CRPC) Definition, Chartered Retirement Planning Counselor (CRPC) Definition]
 source: https://www.investopedia.com/terms/c/crpc.asp
 author: Julia Kagan
 ---

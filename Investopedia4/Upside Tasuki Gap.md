@@ -1,5 +1,5 @@
 ---
-alias: [Upside Tasuki [[Gap Definition]] and Example]
+alias: [Upside Tasuki Gap Definition and Example]
 created: 2021-03-03T00:27:53 (UTC +11:00)
 tags: [Upside Tasuki Gap Definition and Example, Upside Tasuki Gap]
 source: https://www.investopedia.com/terms/u/[[Upside|upside]]-tasuki-gap.asp

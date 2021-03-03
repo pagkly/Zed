@@ -1,5 +1,5 @@
 ---
-alias: [What Is the [[Weighted]] Average [[Market Capitalization]]?]
+alias: [What Is the Weighted Average Market Capitalization?]
 created: 2021-03-03T00:52:36 (UTC +11:00)
 tags: [What Is the Weighted Average Market Capitalization?, What Is the Weighted Average Market Capitalization?]
 source: https://www.investopedia.com/terms/w/wamc.asp

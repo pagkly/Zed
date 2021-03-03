@@ -1,5 +1,5 @@
 ---
-alias: [Water Damage Legal [[Liability]] Insurance]
+alias: [Water Damage Legal Liability Insurance]
 created: 2021-03-03T00:50:35 (UTC +11:00)
 tags: [Water Damage Legal Liability Insurance Definition, Water Damage Legal Liability Insurance Definition]
 source: https://www.investopedia.com/terms/w/water-damage-legal-[[Liability|liability]]-insurance.asp

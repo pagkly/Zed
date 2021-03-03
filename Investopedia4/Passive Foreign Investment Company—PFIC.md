@@ -1,5 +1,5 @@
 ---
-alias: [Describing a Passive [[Foreign Investment]] Company—PFIC]
+alias: [Describing a Passive Foreign Investment Company—PFIC]
 created: 2021-03-02T22:38:07 (UTC +11:00)
 tags: [Describing a Passive Foreign Investment Company—PFIC, Passive Foreign Investment Company—PFIC]
 source: https://www.investopedia.com/terms/p/pfic.asp

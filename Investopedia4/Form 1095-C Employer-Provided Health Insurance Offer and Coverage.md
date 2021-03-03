@@ -1,5 +1,5 @@
 ---
-alias: [Form 1095-C Employer-Provided Health Insurance [[Offer]] and Coverage]
+alias: [Form 1095-C Employer-Provided Health Insurance Offer and Coverage]
 created: 2021-03-02T20:03:24 (UTC +11:00)
 tags: [Form 1095-C: Employer-Provided Health Insurance Offer and Coverage Definition, Form 1095-C: Employer-Provided Health Insurance Offer and Coverage]
 source: https://www.investopedia.com/terms/f/form-1095c.asp

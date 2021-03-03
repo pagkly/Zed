@@ -1,7 +1,7 @@
 ---
 alias: [Real [[Estate]] Owned, REO]
 created: 2021-03-02T23:09:57 (UTC +11:00)
-tags: [Real [[Estate]] Owned (REO) Definition, Real Estate Owned (REO)]
+tags: [Real Estate Owned (REO) Definition, Real Estate Owned (REO)]
 source: https://www.investopedia.com/terms/r/realestateowned.asp
 author: James Chen
 ---

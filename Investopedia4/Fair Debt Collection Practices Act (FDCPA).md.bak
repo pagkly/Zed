@@ -1,7 +1,7 @@
 ---
 alias: [Fair [[Debt]] Collection Practices Act, FDCPA]
 created: 2021-03-02T19:50:26 (UTC +11:00)
-tags: [Fair [[Debt]] Collection Practices Act (FDCPA) Definition, Fair Debt Collection Practices Act (FDCPA)]
+tags: [Fair Debt Collection Practices Act (FDCPA) Definition, Fair Debt Collection Practices Act (FDCPA)]
 source: https://www.investopedia.com/terms/f/fair-[[Debt|debt]]-collection-practices-act-fdcpa.asp
 author: [[Will]] Kenton
 ---

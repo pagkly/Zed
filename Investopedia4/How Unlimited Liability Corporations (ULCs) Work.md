@@ -1,5 +1,5 @@
 ---
-alias: [Unlimited [[Liability]] Corporation, ULC]
+alias: [Unlimited Liability Corporation, ULC]
 created: 2021-03-03T00:25:51 (UTC +11:00)
 tags: [Unlimited Liability Corporation (ULC) Definition, How Unlimited Liability Corporations (ULCs) Work]
 source: https://www.investopedia.com/terms/u/ulc.asp

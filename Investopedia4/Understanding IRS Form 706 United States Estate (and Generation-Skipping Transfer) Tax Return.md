@@ -1,5 +1,5 @@
 ---
-alias: [Form 706 United States [[Estate]] (and Generation-Skipping Transfer) Tax Return]
+alias: [Form 706 United States Estate (and Generation-Skipping Transfer) Tax Return]
 created: 2021-03-02T20:05:33 (UTC +11:00)
 tags: [Form 706: United States Estate (and Generation-Skipping Transfer) Tax Return Definition, Understanding IRS Form 706: United States Estate (and Generation-Skipping Transfer) Tax Return]
 source: https://www.investopedia.com/terms/f/form-706.asp

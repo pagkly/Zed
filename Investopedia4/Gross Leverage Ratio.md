@@ -1,5 +1,5 @@
 ---
-alias: [Gross [[Leverage]] Ratio]
+alias: [Gross Leverage Ratio]
 created: 2021-03-02T20:27:49 (UTC +11:00)
 tags: [Gross Leverage Ratio, Gross Leverage Ratio]
 source: https://www.investopedia.com/terms/g/gross-[[Leverage|leverage]]-insurance.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Dividend [[Payout]] Ratio]
+alias: [Dividend Payout Ratio]
 created: 2021-03-02T19:24:42 (UTC +11:00)
 tags: [Dividend Payout Ratio Definition, Dividend Payout Ratio Definition]
 source: https://www.investopedia.com/terms/d/dividendpayoutratio.asp

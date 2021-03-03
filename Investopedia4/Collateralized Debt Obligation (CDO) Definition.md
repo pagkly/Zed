@@ -1,5 +1,5 @@
 ---
-alias: [Collateralized [[Debt]] Obligation, CDO]
+alias: [Collateralized Debt Obligation, CDO]
 created: 2021-03-02T18:53:38 (UTC +11:00)
 tags: [Collateralized Debt Obligation (CDO) Definition, Collateralized Debt Obligation (CDO) Definition]
 source: https://www.investopedia.com/terms/c/cdo.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Hong Kong [[Stock]] Exchange (HKG) .HK]
+alias: [Hong Kong Stock Exchange (HKG) .HK]
 created: 2021-03-02T20:49:40 (UTC +11:00)
 tags: [Hong Kong Stock Exchange (HKG) .HK, Hong Kong Stock Exchange (HKG) .HK]
 source: https://www.investopedia.com/terms/h/hongkongstockexchange.asp

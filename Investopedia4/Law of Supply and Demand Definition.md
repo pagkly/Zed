@@ -1,5 +1,5 @@
 ---
-alias: [Law of [[Supply]] and [[Demand Definition]] and Explanation]
+alias: [Law of Supply and Demand Definition and Explanation]
 created: 2021-03-02T21:11:25 (UTC +11:00)
 tags: [Law of Supply and Demand Definition and Explanation, Law of Supply and Demand Definition]
 source: https://www.investopedia.com/terms/l/law-of-[[Supply|supply]]-demand.asp

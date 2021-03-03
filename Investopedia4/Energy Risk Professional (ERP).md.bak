@@ -1,7 +1,7 @@
 ---
 alias: [Energy [[Risk]] Professional, ERP]
 created: 2021-03-02T19:37:31 (UTC +11:00)
-tags: [Energy [[Risk]] Professional (ERP) Definition, Energy Risk Professional (ERP)]
+tags: [Energy Risk Professional (ERP) Definition, Energy Risk Professional (ERP)]
 source: https://www.investopedia.com/terms/e/energy-[[Risk|risk]]-professional.asp
 author: [[Will]] Kenton
 ---

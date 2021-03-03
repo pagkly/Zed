@@ -1,5 +1,5 @@
 ---
-alias: [What Defines a Discount in [[Finance]]?]
+alias: [What Defines a Discount in Finance?]
 created: 2021-03-02T19:20:35 (UTC +11:00)
 tags: [What Defines a Discount in Finance?, What is a Trading Discount]
 source: https://www.investopedia.com/terms/d/discount.asp

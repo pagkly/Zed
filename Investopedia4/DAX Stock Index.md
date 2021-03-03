@@ -1,5 +1,5 @@
 ---
-alias: [DAX [[Stock]] Index]
+alias: [DAX Stock Index]
 created: 2021-03-02T19:07:19 (UTC +11:00)
 tags: [DAX Stock Index Definition, DAX Stock Index]
 source: https://www.investopedia.com/terms/d/dax.asp

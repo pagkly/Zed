@@ -1,7 +1,7 @@
 ---
 alias: [Notional [[Principal]] Amount]
 created: 2021-03-02T21:52:27 (UTC +11:00)
-tags: [Notional [[Principal]] Amount Definition, Notional Principal Amount Definition]
+tags: [Notional Principal Amount Definition, Notional Principal Amount Definition]
 source: https://www.investopedia.com/terms/n/notionalprincipalamount.asp
 author: James Chen
 ---

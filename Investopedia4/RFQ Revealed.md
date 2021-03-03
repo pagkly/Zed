@@ -1,5 +1,5 @@
 ---
-alias: [Request for [[Quote]], RFQ]
+alias: [Request for Quote, RFQ]
 created: 2021-03-02T23:16:49 (UTC +11:00)
 tags: [Request for Quote (RFQ) Definition, RFQ Revealed]
 source: https://www.investopedia.com/terms/r/request-for-[[Quote|quote]].asp

@@ -1,5 +1,5 @@
 ---
-alias: [Price-to-[[Cash Flow]] Ratio, P/CF]
+alias: [Price-to-Cash Flow Ratio, P/CF]
 created: 2021-03-02T22:49:52 (UTC +11:00)
 tags: [Price-to-Cash Flow Ratio (P/CF) Definition, How the Price-to-Cash Flow Ratio Works]
 source: https://www.investopedia.com/terms/p/price-to-cash-flowratio.asp

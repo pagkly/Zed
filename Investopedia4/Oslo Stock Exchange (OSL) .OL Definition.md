@@ -1,5 +1,5 @@
 ---
-alias: [Oslo [[Stock]] Exchange (OSL) .OL]
+alias: [Oslo Stock Exchange (OSL) .OL]
 created: 2021-03-02T22:29:31 (UTC +11:00)
 tags: [Oslo Stock Exchange (OSL) .OL Definition, Oslo Stock Exchange (OSL) .OL Definition]
 source: https://www.investopedia.com/terms/o/oslobors.asp

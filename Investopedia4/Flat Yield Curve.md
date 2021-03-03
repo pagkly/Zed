@@ -1,5 +1,5 @@
 ---
-alias: [Flat [[Yield]] Curve]
+alias: [Flat Yield Curve]
 created: 2021-03-02T19:59:11 (UTC +11:00)
 tags: [Flat Yield Curve, Flat Yield Curve]
 source: https://www.investopedia.com/terms/f/flatyieldcurve.asp

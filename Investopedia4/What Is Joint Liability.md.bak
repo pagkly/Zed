@@ -1,7 +1,7 @@
 ---
 alias: [Joint [[Liability]] Defined]
 created: 2021-03-02T21:00:35 (UTC +11:00)
-tags: [Joint Liability Defined, [[What Is Joint Liability]]?]
+tags: [Joint Liability Defined, What Is Joint Liability?]
 source: https://www.investopedia.com/terms/j/joint_liability.asp
 author: [[Will]] Kenton
 ---

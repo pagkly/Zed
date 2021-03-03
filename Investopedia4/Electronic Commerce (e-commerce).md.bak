@@ -1,7 +1,7 @@
 ---
 alias: [Electronic [[Commerce]], e-commerce]
 created: 2021-03-02T19:35:29 (UTC +11:00)
-tags: [Electronic [[Commerce]] (e-commerce), Electronic Commerce (e-commerce)]
+tags: [Electronic Commerce (e-commerce), Electronic Commerce (e-commerce)]
 source: https://www.investopedia.com/terms/e/ecommerce.asp
 author: Andrew Bloomenthal
 ---

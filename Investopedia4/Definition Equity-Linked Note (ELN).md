@@ -1,5 +1,5 @@
 ---
-alias: [Definition [[Equity]]-Linked Note, ELN]
+alias: [Definition Equity-Linked Note, ELN]
 created: 2021-03-02T19:42:12 (UTC +11:00)
 tags: [Definition Equity-Linked Note (ELN), Definition Equity-Linked Note (ELN)]
 source: https://www.investopedia.com/terms/e/[[Equity|equity]]-linkednote.asp

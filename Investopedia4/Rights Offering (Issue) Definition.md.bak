@@ -1,7 +1,7 @@
 ---
 alias: [Rights [[Offering]], Issue]
 created: 2021-03-02T23:23:34 (UTC +11:00)
-tags: [Rights [[Offering]] (Issue), Rights Offering (Issue) Definition]
+tags: [Rights Offering (Issue), Rights Offering (Issue) Definition]
 source: https://www.investopedia.com/terms/r/rightsoffering.asp
 author: Adam Hayes
 ---

@@ -1,5 +1,5 @@
 ---
-alias: [Zero-[[Volatility]] Spread, [[Z]]-spread]
+alias: [Zero-Volatility Spread, Z-spread]
 created: 2021-03-03T01:12:49 (UTC +11:00)
 tags: [Zero-Volatility Spread (Z-spread), Zero-Volatility Spread (Z-spread)]
 source: https://www.investopedia.com/terms/[[Z|z]]/zspread.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Value of [[Risk]], VOR]
+alias: [Value of Risk, VOR]
 created: 2021-03-03T00:34:23 (UTC +11:00)
 tags: [Value of Risk (VOR) Definition, Value of Risk (VOR) Definition]
 source: https://www.investopedia.com/terms/v/value-[[Risk|risk]]-vor.asp

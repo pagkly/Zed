@@ -1,5 +1,5 @@
 ---
-alias: [What Is [[Chapter 11]]?]
+alias: [What Is Chapter 11?]
 created: 2021-03-02T18:51:35 (UTC +11:00)
 tags: [What Is Chapter 11?, Chapter 11]
 source: https://www.investopedia.com/terms/c/chapter11.asp

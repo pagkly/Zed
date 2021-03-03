@@ -1,7 +1,7 @@
 ---
 alias: [Minimum [[Lease]] Payments]
 created: 2021-03-02T22:05:23 (UTC +11:00)
-tags: [Minimum [[Lease]] Payments Definition, Minimum Lease Payments Defined]
+tags: [Minimum Lease Payments Definition, Minimum Lease Payments Defined]
 source: https://www.investopedia.com/terms/m/minimum-[[Lease|lease]]-payments.asp
 author: Adam Hayes
 ---

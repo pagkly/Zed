@@ -1,5 +1,5 @@
 ---
-alias: [Loan Credit [[Default]] [[Swap]] Index, Markit LCDX]
+alias: [Loan Credit Default Swap Index, Markit LCDX]
 created: 2021-03-02T21:23:50 (UTC +11:00)
 tags: [Loan Credit Default Swap Index (Markit LCDX Definition), Loan Credit Default Swap Index (Markit LCDX Definition)]
 source: https://www.investopedia.com/terms/l/lcdx.asp

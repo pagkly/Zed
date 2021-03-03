@@ -1,7 +1,7 @@
 ---
 alias: [Definition Historical [[Volatility]], HV]
 created: 2021-03-02T20:45:32 (UTC +11:00)
-tags: [Definition Historical [[Volatility]] (HV), Definition Historical Volatility (HV)]
+tags: [Definition Historical Volatility (HV), Definition Historical Volatility (HV)]
 source: https://www.investopedia.com/terms/h/historicalvolatility.asp
 author: James Chen
 ---

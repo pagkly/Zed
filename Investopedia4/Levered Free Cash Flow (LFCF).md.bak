@@ -1,7 +1,7 @@
 ---
 alias: [Levered Free [[Cash Flow]], LFCF]
 created: 2021-03-02T21:17:39 (UTC +11:00)
-tags: [Levered Free [[Cash Flow]] (LFCF) Definition, Levered Free Cash Flow (LFCF)]
+tags: [Levered Free Cash Flow (LFCF) Definition, Levered Free Cash Flow (LFCF)]
 source: https://www.investopedia.com/terms/l/levered-free-cash-flow.asp
 author: James Chen
 ---

@@ -1,5 +1,5 @@
 ---
-alias: [Fill Or [[Kill]], FOK]
+alias: [Fill Or Kill, FOK]
 created: 2021-03-02T19:54:42 (UTC +11:00)
 tags: [Fill Or Kill (FOK) Definition, Fill Or Kill (FOK) Definition]
 source: https://www.investopedia.com/terms/f/fok.asp

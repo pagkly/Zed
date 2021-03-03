@@ -1,5 +1,5 @@
 ---
-alias: [What Is [[Stock]] Analysis?]
+alias: [What Is Stock Analysis?]
 created: 2021-03-02T23:43:21 (UTC +11:00)
 tags: [What Is Stock Analysis?, What Is Stock Analysis?]
 source: https://www.investopedia.com/terms/s/[[Stock|stock]]-analysis.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Real [[Estate]] Operating Company, REOC]
+alias: [Real Estate Operating Company, REOC]
 created: 2021-03-02T23:09:57 (UTC +11:00)
 tags: [Real Estate Operating Company (REOC) Definition, What Is a Real Estate Operating Company (REOC)?]
 source: https://www.investopedia.com/terms/r/reoc.asp

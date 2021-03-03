@@ -1,7 +1,7 @@
 ---
 alias: [Yearly Rate Of [[Return]] Method]
 created: 2021-03-03T01:08:26 (UTC +11:00)
-tags: [Yearly Rate Of [[Return]] Method Definition, Yearly Rate Of Return Method]
+tags: [Yearly Rate Of Return Method Definition, Yearly Rate Of Return Method]
 source: https://www.investopedia.com/terms/[[Y|y]]/yearly-rate-of-[[Return|return]]-method.asp
 author: Adam hayes
 ---

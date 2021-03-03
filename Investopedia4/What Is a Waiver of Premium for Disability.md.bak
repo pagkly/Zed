@@ -1,7 +1,7 @@
 ---
 alias: [What Is a Waiver of [[Premium]] for Disability?]
 created: 2021-03-03T00:46:29 (UTC +11:00)
-tags: [What Is a Waiver of Premium for Disability?, [[What Is a Waiver of Premium for Disability]]?]
+tags: [What Is a Waiver of Premium for Disability?, What Is a Waiver of Premium for Disability?]
 source: https://www.investopedia.com/terms/w/waiver-of-[[Premium|premium]]-for-disability.asp
 author: Julia Kagan
 ---

@@ -1,5 +1,5 @@
 ---
-alias: [Overall [[Liquidity]] Ratio]
+alias: [Overall Liquidity Ratio]
 created: 2021-03-02T22:33:41 (UTC +11:00)
 tags: [Overall Liquidity Ratio Definition, Overall Liquidity Ratio]
 source: https://www.investopedia.com/terms/o/overall-[[Liquidity|liquidity]]-ratio.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Risk-[[Return]] Tradeoff]
+alias: [Risk-Return Tradeoff]
 created: 2021-03-02T23:25:42 (UTC +11:00)
 tags: [Risk-Return Tradeoff Definition, Risk-Return Tradeoff]
 source: https://www.investopedia.com/terms/r/riskreturntradeoff.asp

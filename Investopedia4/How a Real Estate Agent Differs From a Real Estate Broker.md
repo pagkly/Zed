@@ -1,5 +1,5 @@
 ---
-alias: [Real [[Estate]] Agent Definiton]
+alias: [Real Estate Agent Definiton]
 created: 2021-03-02T23:07:34 (UTC +11:00)
 tags: [Real Estate Agent Definiton, How a Real Estate Agent Differs From a Real Estate Broker]
 source: https://www.investopedia.com/terms/r/realestateagent.asp

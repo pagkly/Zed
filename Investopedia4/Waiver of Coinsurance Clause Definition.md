@@ -1,5 +1,5 @@
 ---
-alias: [Waiver of [[Coinsurance]] Clause]
+alias: [Waiver of Coinsurance Clause]
 created: 2021-03-03T00:46:29 (UTC +11:00)
 tags: [Waiver of Coinsurance Clause Definition, Waiver of Coinsurance Clause Definition]
 source: https://www.investopedia.com/terms/w/waiver-of-[[Coinsurance|coinsurance]]-clause.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Morningstar [[Risk]] Rating]
+alias: [Morningstar Risk Rating]
 created: 2021-03-02T22:09:38 (UTC +11:00)
 tags: [Morningstar Risk Rating Definition, Morningstar Risk Rating]
 source: https://www.investopedia.com/terms/m/morningstarriskrating.asp

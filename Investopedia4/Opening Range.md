@@ -1,5 +1,5 @@
 ---
-alias: [Opening [[Range Definition]] and Example]
+alias: [Opening Range Definition and Example]
 created: 2021-03-02T22:22:12 (UTC +11:00)
 tags: [Opening Range Definition and Example, Opening Range]
 source: https://www.investopedia.com/terms/o/opening-range.asp

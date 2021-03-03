@@ -1,5 +1,5 @@
 ---
-alias: [Overnight Index [[Swap]] Definition & Calculation]
+alias: [Overnight Index Swap Definition & Calculation]
 created: 2021-03-02T22:33:43 (UTC +11:00)
 tags: [Overnight Index Swap Definition & Calculation, Overnight Index Swap Definition]
 source: https://www.investopedia.com/terms/o/overnightindexswap.asp

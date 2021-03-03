@@ -1,5 +1,5 @@
 ---
-alias: [What Is a [[Money Market]] [[Yield]]?]
+alias: [What Is a Money Market Yield?]
 created: 2021-03-02T22:09:38 (UTC +11:00)
 tags: [What Is a Money Market Yield?, What Is a Money Market Yield?]
 source: https://www.investopedia.com/terms/m/money-market-[[Yield|yield]].asp

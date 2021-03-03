@@ -1,5 +1,5 @@
 ---
-alias: [Funds [[Transfer Pricing]], FTP]
+alias: [Funds Transfer Pricing, FTP]
 created: 2021-03-02T20:10:14 (UTC +11:00)
 tags: [Funds Transfer Pricing (FTP) Definition, Funds Transfer Pricing Analysis and Best Practices]
 source: https://www.investopedia.com/terms/f/ftp.asp

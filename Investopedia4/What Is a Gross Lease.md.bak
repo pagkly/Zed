@@ -1,7 +1,7 @@
 ---
 alias: [Gross [[Lease]] Defined]
 created: 2021-03-02T20:27:49 (UTC +11:00)
-tags: [Gross Lease Defined, [[What Is a Gross Lease]]?]
+tags: [Gross Lease Defined, What Is a Gross Lease?]
 source: https://www.investopedia.com/terms/g/gross-[[Lease|lease]].asp
 author: Julia Kagan
 ---

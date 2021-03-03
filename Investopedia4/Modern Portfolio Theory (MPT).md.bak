@@ -1,7 +1,7 @@
 ---
 alias: [Modern [[Portfolio]] Theory, MPT]
 created: 2021-03-02T22:07:28 (UTC +11:00)
-tags: [Modern [[Portfolio]] Theory (MPT), Modern Portfolio Theory (MPT)]
+tags: [Modern Portfolio Theory (MPT), Modern Portfolio Theory (MPT)]
 source: https://www.investopedia.com/terms/m/modernportfoliotheory.asp
 author: James Chen
 ---

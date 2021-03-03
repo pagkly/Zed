@@ -1,5 +1,5 @@
 ---
-alias: [High-[[Yield]] Bond]
+alias: [High-Yield Bond]
 created: 2021-03-02T20:43:24 (UTC +11:00)
 tags: [High-Yield Bond Definition, High-Yield Bond Definition]
 source: https://www.investopedia.com/terms/h/high_yield_bond.asp

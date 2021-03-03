@@ -1,5 +1,5 @@
 ---
-alias: [Risk-[[Weighted]] Assets]
+alias: [Risk-Weighted Assets]
 created: 2021-03-02T23:25:42 (UTC +11:00)
 tags: [Risk-Weighted Assets Definition, Risk-Weighted Assets Definition]
 source: https://www.investopedia.com/terms/r/riskweightedassets.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Form 1120-S U.S. Income [[Tax Return]] for an S Corporation]
+alias: [Form 1120-S U.S. Income Tax Return for an S Corporation]
 created: 2021-03-02T20:03:24 (UTC +11:00)
 tags: [Form 1120-S: U.S. Income Tax Return for an S Corporation Definition, Form 1120-S: U.S. Income Tax Return for an S Corporation]
 source: https://www.investopedia.com/terms/f/form-1120s.asp

@@ -1,7 +1,7 @@
 ---
 alias: [Discounted [[Cash Flow]], DCF]
 created: 2021-03-02T19:20:35 (UTC +11:00)
-tags: [Discounted [[Cash Flow]] (DCF) Definition, Discounted Cash Flow (DCF)]
+tags: [Discounted Cash Flow (DCF) Definition, Discounted Cash Flow (DCF)]
 source: https://www.investopedia.com/terms/d/dcf.asp
 author: Jason Fernando
 ---

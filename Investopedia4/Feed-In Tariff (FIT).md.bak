@@ -1,7 +1,7 @@
 ---
 alias: [Feed-In [[Tariff]], FIT]
 created: 2021-03-02T19:54:41 (UTC +11:00)
-tags: [Feed-In [[Tariff]] (FIT) Definition, Feed-In Tariff (FIT)]
+tags: [Feed-In Tariff (FIT) Definition, Feed-In Tariff (FIT)]
 source: https://www.investopedia.com/terms/f/feed-in-[[Tariff|tariff]].asp
 author: [[Will]] Kenton
 ---

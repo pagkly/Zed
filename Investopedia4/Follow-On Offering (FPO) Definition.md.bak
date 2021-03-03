@@ -1,7 +1,7 @@
 ---
 alias: [Follow-On [[Offering]], FPO]
 created: 2021-03-02T20:01:17 (UTC +11:00)
-tags: [Follow-On [[Offering]] (FPO) Definition, Follow-On Offering (FPO) Definition]
+tags: [Follow-On Offering (FPO) Definition, Follow-On Offering (FPO) Definition]
 source: https://www.investopedia.com/terms/f/followonoffering.asp
 author: James Chen
 ---

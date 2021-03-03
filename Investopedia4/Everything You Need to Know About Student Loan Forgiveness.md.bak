@@ -1,7 +1,7 @@
 ---
 alias: [Student [[Loan]] Forgiveness]
 created: 2021-03-02T23:47:45 (UTC +11:00)
-tags: [Student [[Loan]] Forgiveness Definition, Everything You Need to Know About Student Loan Forgiveness]
+tags: [Student Loan Forgiveness Definition, Everything You Need to Know About Student Loan Forgiveness]
 source: https://www.investopedia.com/terms/s/student-[[Loan|loan]]-forgiveness.asp
 author: Troy Segal
 ---

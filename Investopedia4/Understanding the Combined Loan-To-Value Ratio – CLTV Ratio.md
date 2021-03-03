@@ -1,5 +1,5 @@
 ---
-alias: [Combined [[Loan]]-To-Value Ratio – CLTV Ratio Ratio]
+alias: [Combined Loan-To-Value Ratio – CLTV Ratio Ratio]
 created: 2021-03-02T18:53:38 (UTC +11:00)
 tags: [Combined Loan-To-Value Ratio – CLTV Ratio Ratio Definition, Understanding the Combined Loan-To-Value Ratio – CLTV Ratio]
 source: https://www.investopedia.com/terms/c/combinedloantovalue.asp

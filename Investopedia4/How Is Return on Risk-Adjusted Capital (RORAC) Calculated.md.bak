@@ -1,7 +1,7 @@
 ---
 alias: [Return on [[Risk]]-Adjusted Capital, RORAC]
 created: 2021-03-02T23:21:05 (UTC +11:00)
-tags: [Return on Risk-Adjusted Capital (RORAC) Definition, [[How Is Return on Risk-Adjusted Capital (RORAC) Calculated]]?]
+tags: [Return on Risk-Adjusted Capital (RORAC) Definition, How Is Return on Risk-Adjusted Capital (RORAC) Calculated?]
 source: https://www.investopedia.com/terms/r/rorac.asp
 author: Marshall Hargrave
 ---

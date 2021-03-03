@@ -1,7 +1,7 @@
 ---
 alias: [Swaption - Guide to [[Swap]] Options]
 created: 2021-03-02T23:50:10 (UTC +11:00)
-tags: [Swaption - Guide to [[Swap]] Options, Swaption - Swap Option]
+tags: [Swaption - Guide to Swap Options, Swaption - Swap Option]
 source: https://www.investopedia.com/terms/s/swaption.asp
 author: James Chen
 ---

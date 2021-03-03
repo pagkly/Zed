@@ -1,7 +1,7 @@
 ---
 alias: [Loss Given [[Default]], LGD]
 created: 2021-03-02T21:28:00 (UTC +11:00)
-tags: [Loss Given [[Default]] (LGD) Definition, Loss Given Default (LGD)]
+tags: [Loss Given Default (LGD) Definition, Loss Given Default (LGD)]
 source: https://www.investopedia.com/terms/l/lossgivendefault.asp
 author: Alicia Tuovila
 ---

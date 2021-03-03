@@ -1,7 +1,7 @@
 ---
 alias: [Revolving [[Loan]] Facility]
 created: 2021-03-02T23:23:34 (UTC +11:00)
-tags: [Revolving [[Loan]] Facility Definition, How Companies use Revolving Loan Facilities]
+tags: [Revolving Loan Facility Definition, How Companies use Revolving Loan Facilities]
 source: https://www.investopedia.com/terms/r/revolving-[[Loan|loan]]-facility.asp
 author: Julia Kagan
 ---

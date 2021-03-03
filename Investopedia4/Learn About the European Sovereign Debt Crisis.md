@@ -1,5 +1,5 @@
 ---
-alias: [European Sovereign [[Debt]] Crisis]
+alias: [European Sovereign Debt Crisis]
 created: 2021-03-02T19:44:17 (UTC +11:00)
 tags: [European Sovereign Debt Crisis Definition, Learn About the European Sovereign Debt Crisis]
 source: https://www.investopedia.com/terms/e/european-sovereign-[[Debt|debt]]-crisis.asp

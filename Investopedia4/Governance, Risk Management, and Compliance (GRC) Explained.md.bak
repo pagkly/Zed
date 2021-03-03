@@ -1,7 +1,7 @@
 ---
 alias: [Governance, [[Risk]] Management, and Compliance, GRC]
 created: 2021-03-02T20:23:12 (UTC +11:00)
-tags: [Governance, [[Risk]] Management, and Compliance (GRC) Definition, Governance, Risk Management, and Compliance (GRC) Explained]
+tags: [Governance, Risk Management, and Compliance (GRC) Definition, Governance, Risk Management, and Compliance (GRC) Explained]
 source: https://www.investopedia.com/terms/g/grc.asp
 author: [[Will]] Kenton
 ---

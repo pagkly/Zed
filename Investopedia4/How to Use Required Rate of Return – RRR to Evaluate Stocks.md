@@ -1,5 +1,5 @@
 ---
-alias: [Required Rate of [[Return]] – RRR]
+alias: [Required Rate of Return – RRR]
 created: 2021-03-02T23:16:49 (UTC +11:00)
 tags: [Required Rate of Return – RRR Definition, How to Use Required Rate of Return – RRR to Evaluate Stocks]
 source: https://www.investopedia.com/terms/r/requiredrateofreturn.asp

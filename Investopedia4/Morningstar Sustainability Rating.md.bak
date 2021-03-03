@@ -1,7 +1,7 @@
 ---
 alias: [Morningstar [[Sustainability]] Rating]
 created: 2021-03-02T22:09:38 (UTC +11:00)
-tags: [Morningstar Sustainability [[Rating]] Definition, Morningstar Sustainability Rating]
+tags: [Morningstar Sustainability Rating Definition, Morningstar Sustainability Rating]
 source: https://www.investopedia.com/terms/m/morningstar-[[Sustainability|sustainability]]-[[Rating|rating]].asp
 author: James Chen
 ---

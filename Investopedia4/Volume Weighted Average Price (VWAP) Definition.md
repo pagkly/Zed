@@ -1,5 +1,5 @@
 ---
-alias: [Volume [[Weighted]] Average Price, VWAP]
+alias: [Volume Weighted Average Price, VWAP]
 created: 2021-03-03T00:42:28 (UTC +11:00)
 tags: [Volume Weighted Average Price (VWAP) Definition, Volume Weighted Average Price (VWAP) Definition]
 source: https://www.investopedia.com/terms/v/vwap.asp

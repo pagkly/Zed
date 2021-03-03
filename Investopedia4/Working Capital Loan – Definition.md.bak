@@ -1,7 +1,7 @@
 ---
 alias: [Working Capital [[Loan]] –]
 created: 2021-03-03T01:01:21 (UTC +11:00)
-tags: [Working Capital [[Loan]] – Definition, Working Capital Loan – Definition]
+tags: [Working Capital Loan – Definition, Working Capital Loan – Definition]
 source: https://www.investopedia.com/terms/w/workingcapitalloan.asp
 author: Julia Kagan
 ---

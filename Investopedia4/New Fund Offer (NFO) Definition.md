@@ -1,5 +1,5 @@
 ---
-alias: [New Fund [[Offer]], NFO]
+alias: [New Fund Offer, NFO]
 created: 2021-03-02T21:41:50 (UTC +11:00)
 tags: [New Fund Offer (NFO), New Fund Offer (NFO) Definition]
 source: https://www.investopedia.com/terms/n/new_fund_offer.asp

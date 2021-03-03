@@ -1,5 +1,5 @@
 ---
-alias: [Modified Adjusted [[Gross Income]], MAGI]
+alias: [Modified Adjusted Gross Income, MAGI]
 created: 2021-03-02T22:07:28 (UTC +11:00)
 tags: [Modified Adjusted Gross Income (MAGI) Definition, Modified Adjusted Gross Income (MAGI)]
 source: https://www.investopedia.com/terms/m/magi.asp

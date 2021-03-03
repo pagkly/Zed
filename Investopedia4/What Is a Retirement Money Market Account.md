@@ -1,5 +1,5 @@
 ---
-alias: [Retirement [[Money Market]] Account]
+alias: [Retirement Money Market Account]
 created: 2021-03-02T23:18:56 (UTC +11:00)
 tags: [Retirement Money Market Account Definition, What Is a Retirement Money Market Account?]
 source: https://www.investopedia.com/terms/r/retirement-money-market-account.asp

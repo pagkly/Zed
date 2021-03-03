@@ -1,7 +1,7 @@
 ---
 alias: [Futures [[Commission]] Merchant, FCM]
 created: 2021-03-02T20:12:35 (UTC +11:00)
-tags: [Futures Commission Merchant (FCM) Definition, [[Futures]] Commission Merchant (FCM) Definition]
+tags: [Futures Commission Merchant (FCM) Definition, Futures Commission Merchant (FCM) Definition]
 source: https://www.investopedia.com/terms/f/fcm.asp
 author: James Chen
 ---

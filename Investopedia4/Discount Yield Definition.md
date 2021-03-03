@@ -1,5 +1,5 @@
 ---
-alias: [What Is Discount [[Yield]]?]
+alias: [What Is Discount Yield?]
 created: 2021-03-02T19:20:35 (UTC +11:00)
 tags: [What Is Discount Yield?, Discount Yield Definition]
 source: https://www.investopedia.com/terms/d/discount-[[Yield|yield]].asp

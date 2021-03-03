@@ -1,5 +1,5 @@
 ---
-alias: [Maximum [[Loan]] Amount]
+alias: [Maximum Loan Amount]
 created: 2021-03-02T22:01:11 (UTC +11:00)
 tags: [Maximum Loan Amount Definition, Maximum Loan Amount]
 source: https://www.investopedia.com/terms/m/maximum_loan_amount.asp

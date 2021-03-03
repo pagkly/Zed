@@ -1,7 +1,7 @@
 ---
 alias: [Exposure at [[Default]], EAD]
 created: 2021-03-02T19:48:23 (UTC +11:00)
-tags: [Exposure at Default (EAD) Definition, Exposure to Default (EAD): How to Calculate Your [[Risk]] as a Lender]
+tags: [Exposure at Default (EAD) Definition, Exposure to Default (EAD): How to Calculate Your Risk as a Lender]
 source: https://www.investopedia.com/terms/e/exposure_at_default.asp
 author: Evan Tarver
 ---

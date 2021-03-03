@@ -1,5 +1,5 @@
 ---
-alias: [Certified [[Financial Planner]], CFP]
+alias: [Certified Financial Planner, CFP]
 created: 2021-03-02T18:49:09 (UTC +11:00)
 tags: [Certified Financial Planner (CFP) Definition, Certified Financial Planner (CFP)]
 source: https://www.investopedia.com/terms/c/cfp.asp

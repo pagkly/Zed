@@ -1,7 +1,7 @@
 ---
 alias: [Vienna [[Stock]] Exchange, WBAG]
 created: 2021-03-03T00:40:26 (UTC +11:00)
-tags: [Vienna [[Stock]] Exchange (WBAG) Definition, Vienna Stock Exchange (WBAG)]
+tags: [Vienna Stock Exchange (WBAG) Definition, Vienna Stock Exchange (WBAG)]
 source: https://www.investopedia.com/terms/v/vienna-[[Stock|stock]]-exchange-vie-.vi.asp
 author: Staff
 ---

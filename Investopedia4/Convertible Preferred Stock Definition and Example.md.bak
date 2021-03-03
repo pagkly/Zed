@@ -1,7 +1,7 @@
 ---
 alias: [Convertible [[Preferred Stock]] Definition and Example]
 created: 2021-03-02T18:58:08 (UTC +11:00)
-tags: [Convertible Preferred Stock Definition and Example, Convertible Preferred [[Stock]] Definition and Example]
+tags: [Convertible Preferred Stock Definition and Example, Convertible Preferred Stock Definition and Example]
 source: https://www.investopedia.com/terms/c/convertiblepreferredstock.asp
 author: Cory Mitchell
 ---

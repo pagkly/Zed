@@ -1,5 +1,5 @@
 ---
-alias: [Signature [[Loan]]—A Popular Type of [[Unsecured]] Loan]
+alias: [Signature Loan—A Popular Type of Unsecured Loan]
 created: 2021-03-02T23:36:37 (UTC +11:00)
 tags: [Signature Loan—A Popular Type of Unsecured Loan, Signature Loan]
 source: https://www.investopedia.com/terms/s/signature_loan.asp

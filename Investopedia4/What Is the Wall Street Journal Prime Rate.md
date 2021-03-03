@@ -1,5 +1,5 @@
 ---
-alias: [Wall Street [[Journal]] Prime Rate]
+alias: [Wall Street Journal Prime Rate]
 created: 2021-03-03T00:46:29 (UTC +11:00)
 tags: [Wall Street Journal Prime Rate Definition, What Is the Wall Street Journal Prime Rate?]
 source: https://www.investopedia.com/terms/w/wall-street-[[Journal|journal]]-prime-rate.asp

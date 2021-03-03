@@ -1,5 +1,5 @@
 ---
-alias: [Holding Period [[Return]]/Yield]
+alias: [Holding Period Return/Yield]
 created: 2021-03-02T20:45:33 (UTC +11:00)
 tags: [Holding Period Return/Yield, Holding Period Return (Yield) Definition]
 source: https://www.investopedia.com/terms/h/holdingperiodreturn-[[Yield|yield]].asp

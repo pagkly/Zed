@@ -1,7 +1,7 @@
 ---
 alias: [Operating [[Cash Flow]] Demand, OCFD]
 created: 2021-03-02T22:22:12 (UTC +11:00)
-tags: [Operating [[Cash Flow]] Demand (OCFD), Operating Cash Flow Demand (OCFD)]
+tags: [Operating Cash Flow Demand (OCFD), Operating Cash Flow Demand (OCFD)]
 source: https://www.investopedia.com/terms/o/ocfd.asp
 author: [[Will]] Kenton
 ---

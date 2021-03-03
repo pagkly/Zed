@@ -1,5 +1,5 @@
 ---
-alias: [Weekly [[Premium]] Insurance]
+alias: [Weekly Premium Insurance]
 created: 2021-03-03T00:52:36 (UTC +11:00)
 tags: [Weekly Premium Insurance, Weekly Premium Insurance]
 source: https://www.investopedia.com/terms/w/weekly-[[Premium|premium]]-insurance.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Non-Qualified [[Stock Option]], NSO]
+alias: [Non-Qualified Stock Option, NSO]
 created: 2021-03-02T21:48:20 (UTC +11:00)
 tags: [Non-Qualified Stock Option (NSO) Definition, Non-Qualified Stock Option (NSO) Definition]
 source: https://www.investopedia.com/terms/n/nso.asp

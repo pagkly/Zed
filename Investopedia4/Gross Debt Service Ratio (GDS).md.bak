@@ -1,7 +1,7 @@
 ---
 alias: [Gross [[Debt Service]] Ratio, GDS]
 created: 2021-03-02T20:27:49 (UTC +11:00)
-tags: [Gross Debt Service Ratio (GDS) Definition, Gross [[Debt]] Service Ratio (GDS)]
+tags: [Gross Debt Service Ratio (GDS) Definition, Gross Debt Service Ratio (GDS)]
 source: https://www.investopedia.com/terms/g/grossdebtserviceratio.asp
 author: Adam Hayes
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Experience [[Rating]], Insurance]
 created: 2021-03-02T19:48:22 (UTC +11:00)
-tags: [Experience [[Rating]] (Insurance) Definition, Experience Rating (Insurance) Definition]
+tags: [Experience Rating (Insurance) Definition, Experience Rating (Insurance) Definition]
 source: https://www.investopedia.com/terms/e/experience-[[Rating|rating]]-insurance.asp
 author: Julia Kagan
 ---

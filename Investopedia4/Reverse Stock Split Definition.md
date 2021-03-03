@@ -1,5 +1,5 @@
 ---
-alias: [Reverse [[Stock]] Split]
+alias: [Reverse Stock Split]
 created: 2021-03-02T23:23:34 (UTC +11:00)
 tags: [Reverse Stock Split Definition, Reverse Stock Split Definition]
 source: https://www.investopedia.com/terms/r/reversesplit.asp

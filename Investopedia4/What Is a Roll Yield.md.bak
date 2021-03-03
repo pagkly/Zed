@@ -1,7 +1,7 @@
 ---
 alias: [Roll [[Yield]] Defined]
 created: 2021-03-02T23:27:49 (UTC +11:00)
-tags: [Roll [[Yield]] Defined, What Is a Roll Yield]
+tags: [Roll Yield Defined, What Is a Roll Yield]
 source: https://www.investopedia.com/terms/r/roll-[[Yield|yield]].asp
 author: James Chen
 ---

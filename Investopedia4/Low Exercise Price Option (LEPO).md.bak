@@ -1,7 +1,7 @@
 ---
 alias: [Low [[Exercise Price]] Option, LEPO]
 created: 2021-03-02T21:30:09 (UTC +11:00)
-tags: [Low [[Exercise Price]] Option (LEPO), Low Exercise Price Option (LEPO)]
+tags: [Low Exercise Price Option (LEPO), Low Exercise Price Option (LEPO)]
 source: https://www.investopedia.com/terms/l/lepo.asp
 author: Gordon Scott
 ---

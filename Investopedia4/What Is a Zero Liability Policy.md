@@ -1,5 +1,5 @@
 ---
-alias: [Zero [[Liability]] Policy]
+alias: [Zero Liability Policy]
 created: 2021-03-03T01:12:48 (UTC +11:00)
 tags: [Zero Liability Policy Definition, What Is a Zero Liability Policy?]
 source: https://www.investopedia.com/terms/[[Z|z]]/zero-[[Liability|liability]]-policy.asp

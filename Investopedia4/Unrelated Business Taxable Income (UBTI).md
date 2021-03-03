@@ -1,5 +1,5 @@
 ---
-alias: [Unrelated Business [[Taxable Income]], UBTI]
+alias: [Unrelated Business Taxable Income, UBTI]
 created: 2021-03-03T00:25:52 (UTC +11:00)
 tags: [Unrelated Business Taxable Income (UBTI), Unrelated Business Taxable Income (UBTI)]
 source: https://www.investopedia.com/terms/u/ubti.asp

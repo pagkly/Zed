@@ -1,5 +1,5 @@
 ---
-alias: [Total-[[Debt]]-to-Total-Assets Ratio]
+alias: [Total-Debt-to-Total-Assets Ratio]
 created: 2021-03-03T00:02:42 (UTC +11:00)
 tags: [Total-Debt-to-Total-Assets Ratio Definition, Understanding Total-Debt-to-Total-Assets]
 source: https://www.investopedia.com/terms/t/totaldebttototalassets.asp

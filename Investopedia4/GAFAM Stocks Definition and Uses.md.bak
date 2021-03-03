@@ -1,7 +1,7 @@
 ---
 alias: [GAFAM [[Stocks]] Definition and Uses]
 created: 2021-03-02T20:12:35 (UTC +11:00)
-tags: [GAFAM [[Stocks]] Definition and Uses, GAFAM Stocks Definition and Uses]
+tags: [GAFAM Stocks Definition and Uses, GAFAM Stocks Definition and Uses]
 source: https://www.investopedia.com/terms/g/gafam-[[Stocks|stocks]].asp
 author: Cory Mitchell
 ---

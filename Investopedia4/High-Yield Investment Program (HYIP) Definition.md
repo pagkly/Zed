@@ -1,5 +1,5 @@
 ---
-alias: [High-[[Yield]] Investment Program, HYIP]
+alias: [High-Yield Investment Program, HYIP]
 created: 2021-03-02T20:43:24 (UTC +11:00)
 tags: [High-Yield Investment Program (HYIP) Definition, High-Yield Investment Program (HYIP) Definition]
 source: https://www.investopedia.com/terms/h/high-[[Yield|yield]]-investment-program.asp

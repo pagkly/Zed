@@ -1,5 +1,5 @@
 ---
-alias: [National Association Of Real [[Estate]] Investment Trusts, Nareit]
+alias: [National Association Of Real Estate Investment Trusts, Nareit]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Association Of Real Estate Investment Trusts (Nareit), National Association Of Real Estate Investment Trusts (Nareit)]
 source: https://www.investopedia.com/terms/n/nareit.asp

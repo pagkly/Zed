@@ -1,5 +1,5 @@
 ---
-alias: [Degree of Combined [[Leverage]], DCL]
+alias: [Degree of Combined Leverage, DCL]
 created: 2021-03-02T19:13:34 (UTC +11:00)
 tags: [Degree of Combined Leverage (DCL) Definition, Understanding the Degree of Combined Leverage]
 source: https://www.investopedia.com/terms/d/dcl.asp

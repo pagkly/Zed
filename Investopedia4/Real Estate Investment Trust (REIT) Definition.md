@@ -1,5 +1,5 @@
 ---
-alias: [Real [[Estate]] Investment Trust, REIT]
+alias: [Real Estate Investment Trust, REIT]
 created: 2021-03-02T23:07:34 (UTC +11:00)
 tags: [Real Estate Investment Trust (REIT) Definition, Real Estate Investment Trust (REIT) Definition]
 source: https://www.investopedia.com/terms/r/reit.asp

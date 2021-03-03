@@ -1,7 +1,7 @@
 ---
 alias: [Vanishing [[Premium]] Policy]
 created: 2021-03-03T00:34:23 (UTC +11:00)
-tags: [Vanishing [[Premium]] Policy Definition, Vanishing Premium Policy Definition]
+tags: [Vanishing Premium Policy Definition, Vanishing Premium Policy Definition]
 source: https://www.investopedia.com/terms/v/vanishing-[[Premium|premium]]-policy.asp
 author: Julia Kagan
 ---

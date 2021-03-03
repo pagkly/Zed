@@ -1,7 +1,7 @@
 ---
 alias: [Guideline [[Premium]] and Corridor Test, GPT]
 created: 2021-03-02T20:32:33 (UTC +11:00)
-tags: [Guideline [[Premium]] and Corridor Test (GPT) Definition, Guideline Premium and Corridor Test (GPT)]
+tags: [Guideline Premium and Corridor Test (GPT) Definition, Guideline Premium and Corridor Test (GPT)]
 source: https://www.investopedia.com/terms/g/guideline-[[Premium|premium]]-and-corridor-test-gpt.asp
 author: Julia Kagan
 ---

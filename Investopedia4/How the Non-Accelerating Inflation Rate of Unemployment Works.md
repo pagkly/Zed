@@ -1,5 +1,5 @@
 ---
-alias: [Non-Accelerating Inflation Rate of [[Unemployment]] – NAIRU]
+alias: [Non-Accelerating Inflation Rate of Unemployment – NAIRU]
 created: 2021-03-02T21:45:56 (UTC +11:00)
 tags: [Non-Accelerating Inflation Rate of Unemployment – NAIRU Definition, How the Non-Accelerating Inflation Rate of Unemployment Works]
 source: https://www.investopedia.com/terms/n/non-accelerating-rate-[[Unemployment|unemployment]].asp

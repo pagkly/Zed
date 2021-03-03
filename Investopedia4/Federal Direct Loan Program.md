@@ -1,5 +1,5 @@
 ---
-alias: [Federal Direct [[Loan]] Program]
+alias: [Federal Direct Loan Program]
 created: 2021-03-02T19:52:36 (UTC +11:00)
 tags: [Federal Direct Loan Program Definition, Federal Direct Loan Program]
 source: https://www.investopedia.com/terms/f/federal-direct-student-[[Loan|loan]]-program.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Commodity [[Futures]] Contract]
+alias: [Commodity Futures Contract]
 created: 2021-03-02T18:53:38 (UTC +11:00)
 tags: [Commodity Futures Contract Definition, How Commodity Futures Contracts Work]
 source: https://www.investopedia.com/terms/c/commodityfuturescontract.asp

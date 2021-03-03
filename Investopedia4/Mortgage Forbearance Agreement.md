@@ -1,5 +1,5 @@
 ---
-alias: [Mortgage [[Forbearance]] Agreement]
+alias: [Mortgage Forbearance Agreement]
 created: 2021-03-02T22:11:42 (UTC +11:00)
 tags: [Mortgage Forbearance Agreement Definition, Mortgage Forbearance Agreement]
 source: https://www.investopedia.com/terms/m/mortgage_forbearance_agreement.asp

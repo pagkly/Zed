@@ -1,5 +1,5 @@
 ---
-alias: [New York [[Stock]] Exchange, NYSE]
+alias: [New York Stock Exchange, NYSE]
 created: 2021-03-02T21:43:51 (UTC +11:00)
 tags: [New York Stock Exchange (NYSE) Definition, New York Stock Exchange (NYSE)]
 source: https://www.investopedia.com/terms/n/nyse.asp

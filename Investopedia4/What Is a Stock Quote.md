@@ -1,5 +1,5 @@
 ---
-alias: [What Is a [[Stock]] [[Quote]]?]
+alias: [What Is a Stock Quote?]
 created: 2021-03-02T23:45:25 (UTC +11:00)
 tags: [What Is a Stock Quote?, What Is a Stock Quote?]
 source: https://www.investopedia.com/terms/s/stockquote.asp

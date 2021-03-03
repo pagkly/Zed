@@ -1,5 +1,5 @@
 ---
-alias: [Weighted Average [[Cost of Capital]] – WACC]
+alias: [Weighted Average Cost of Capital – WACC]
 created: 2021-03-03T00:52:36 (UTC +11:00)
 tags: [Weighted Average Cost of Capital – WACC Definition, How to Calculate the Weighted Average Cost of Capital – WACC]
 source: https://www.investopedia.com/terms/w/wacc.asp

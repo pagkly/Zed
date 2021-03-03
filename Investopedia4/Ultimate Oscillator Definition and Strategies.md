@@ -1,5 +1,5 @@
 ---
-alias: [Ultimate [[Oscillator Definition]] and Strategies]
+alias: [Ultimate Oscillator Definition and Strategies]
 created: 2021-03-03T00:13:11 (UTC +11:00)
 tags: [Ultimate Oscillator Definition and Strategies, Ultimate Oscillator Definition and Strategies]
 source: https://www.investopedia.com/terms/u/ultimateoscillator.asp

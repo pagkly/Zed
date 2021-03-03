@@ -1,5 +1,5 @@
 ---
-alias: [Operating [[Cash Flow]] Ratio]
+alias: [Operating Cash Flow Ratio]
 created: 2021-03-02T22:22:12 (UTC +11:00)
 tags: [Operating Cash Flow Ratio Definition, Analyzing a Company's Liquidity Using the Operating Cash Flow Ratio]
 source: https://www.investopedia.com/terms/o/ocfratio.asp

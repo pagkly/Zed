@@ -1,7 +1,7 @@
 ---
 alias: [Restricted [[Stock]] Unit, RSU]
 created: 2021-03-02T23:18:55 (UTC +11:00)
-tags: [Restricted Stock Unit (RSU), [[Restricted Stock]] Unit (RSU)]
+tags: [Restricted Stock Unit (RSU), Restricted Stock Unit (RSU)]
 source: https://www.investopedia.com/terms/r/restricted-[[Stock|stock]]-unit.asp
 author: Jason Fernando
 ---

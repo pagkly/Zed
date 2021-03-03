@@ -1,5 +1,5 @@
 ---
-alias: [Jim Cramer [[Net Worth]], Education, and Top Quotes]
+alias: [Jim Cramer Net Worth, Education, and Top Quotes]
 created: 2021-03-02T20:58:32 (UTC +11:00)
 tags: [Jim Cramer: Net Worth, Education, and Top Quotes, Jim Cramer: Net Worth, Education, and Top Quotes]
 source: https://www.investopedia.com/articles/personal-[[Finance|finance]]/081315/jim-cramer-success-story-net-worth-education-top-quotes.asp

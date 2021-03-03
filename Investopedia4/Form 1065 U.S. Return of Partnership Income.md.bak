@@ -1,7 +1,7 @@
 ---
 alias: [Form 1065 U.S. [[Return]] of Partnership Income]
 created: 2021-03-02T20:03:23 (UTC +11:00)
-tags: [Form 1065: U.S. [[Return]] of Partnership Income Definition, Form 1065: U.S. Return of Partnership Income]
+tags: [Form 1065: U.S. Return of Partnership Income Definition, Form 1065: U.S. Return of Partnership Income]
 source: https://www.investopedia.com/terms/f/form-1065.asp
 author: Rajeev Dhir
 ---

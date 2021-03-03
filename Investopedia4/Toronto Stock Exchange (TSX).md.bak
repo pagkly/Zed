@@ -1,7 +1,7 @@
 ---
 alias: [Toronto [[Stock]] Exchange, TSX]
 created: 2021-03-03T00:02:42 (UTC +11:00)
-tags: [Toronto [[Stock]] Exchange (TSX) Definition, Toronto Stock Exchange (TSX)]
+tags: [Toronto Stock Exchange (TSX) Definition, Toronto Stock Exchange (TSX)]
 source: https://www.investopedia.com/terms/t/toronto-[[Stock|stock]]-exchange-tsx.asp
 author: James Chen
 ---

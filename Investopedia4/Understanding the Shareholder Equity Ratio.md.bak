@@ -1,7 +1,7 @@
 ---
 alias: [Shareholder [[Equity]] Ratio]
 created: 2021-03-02T23:34:15 (UTC +11:00)
-tags: [Shareholder [[Equity]] Ratio Definition, Understanding the Shareholder Equity Ratio]
+tags: [Shareholder Equity Ratio Definition, Understanding the Shareholder Equity Ratio]
 source: https://www.investopedia.com/terms/s/shareholderequityratio.asp
 author: Adam Hayes
 ---

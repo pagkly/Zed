@@ -1,7 +1,7 @@
 ---
 alias: [War [[Risk]] Insurance]
 created: 2021-03-03T00:48:36 (UTC +11:00)
-tags: [War [[Risk]] Insurance Definition, War Risk Insurance]
+tags: [War Risk Insurance Definition, War Risk Insurance]
 source: https://www.investopedia.com/terms/w/war-[[Risk|risk]]-insurance.asp
 author: Julia Kagan
 ---

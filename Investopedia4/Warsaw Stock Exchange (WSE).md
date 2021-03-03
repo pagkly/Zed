@@ -1,5 +1,5 @@
 ---
-alias: [Warsaw [[Stock]] Exchange, WSE]
+alias: [Warsaw Stock Exchange, WSE]
 created: 2021-03-03T00:48:37 (UTC +11:00)
 tags: [Warsaw Stock Exchange (WSE), Warsaw Stock Exchange (WSE)]
 source: https://www.investopedia.com/terms/w/warsaw_stock_exchange.asp

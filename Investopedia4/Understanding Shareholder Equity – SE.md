@@ -1,5 +1,5 @@
 ---
-alias: [Shareholder [[Equity]] – SE]
+alias: [Shareholder Equity – SE]
 created: 2021-03-02T23:34:15 (UTC +11:00)
 tags: [Shareholder Equity – SE Definition, Understanding Shareholder Equity – SE]
 source: https://www.investopedia.com/terms/s/shareholdersequity.asp

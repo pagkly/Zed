@@ -1,7 +1,7 @@
 ---
 alias: [Phantom [[Stock]] Plan]
 created: 2021-03-02T22:42:35 (UTC +11:00)
-tags: [Phantom [[Stock]] Plan Definition, Phantom Stock Plan Definition]
+tags: [Phantom Stock Plan Definition, Phantom Stock Plan Definition]
 source: https://www.investopedia.com/terms/p/phantomstock.asp
 author: Adam Hayes
 ---

@@ -1,5 +1,5 @@
 ---
-alias: [Normal [[Yield]] Curve]
+alias: [Normal Yield Curve]
 created: 2021-03-02T21:50:23 (UTC +11:00)
 tags: [Normal Yield Curve Definition, Normal Yield Curve]
 source: https://www.investopedia.com/terms/n/normalyieldcurve.asp

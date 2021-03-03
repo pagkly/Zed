@@ -1,7 +1,7 @@
 ---
 alias: [Weighted Average Credit [[Rating]], WACR]
 created: 2021-03-03T00:52:36 (UTC +11:00)
-tags: [Weighted Average Credit Rating (WACR) Definition, [[Weighted]] Average Credit Rating (WACR)]
+tags: [Weighted Average Credit Rating (WACR) Definition, Weighted Average Credit Rating (WACR)]
 source: https://www.investopedia.com/terms/w/weightedaveragecreditrating.asp
 author: James Chen
 ---

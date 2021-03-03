@@ -1,7 +1,7 @@
 ---
 alias: [Long-Legged [[Doji]] Definition and Example]
 created: 2021-03-02T21:25:56 (UTC +11:00)
-tags: [Long-Legged [[Doji]] Definition and Example, Long-Legged Doji Definition and Example]
+tags: [Long-Legged Doji Definition and Example, Long-Legged Doji Definition and Example]
 source: https://www.investopedia.com/terms/l/long-legged-[[Doji|doji]].asp
 author: Cory Mitchell
 ---

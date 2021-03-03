@@ -1,5 +1,5 @@
 ---
-alias: [Financial Times [[Stock]] Exchange Group, FTSE]
+alias: [Financial Times Stock Exchange Group, FTSE]
 created: 2021-03-02T19:56:47 (UTC +11:00)
 tags: [Financial Times Stock Exchange Group (FTSE) Definition, Financial Times Stock Exchange Group (FTSE) Offers Specialized Indices]
 source: https://www.investopedia.com/terms/f/ftse.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Floating [[Stock]] Definition and Example]
+alias: [Floating Stock Definition and Example]
 created: 2021-03-02T20:01:17 (UTC +11:00)
 tags: [Floating Stock Definition and Example, Floating Stock Definition and Example]
 source: https://www.investopedia.com/terms/f/floating-[[Stock|stock]].asp

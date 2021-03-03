@@ -1,7 +1,7 @@
 ---
 alias: [Net [[Debt]] –]
 created: 2021-03-02T21:36:55 (UTC +11:00)
-tags: [Net [[Debt]] – Definition, How Net Debt Is Calculated and Used to Measure a Company's Liquidity]
+tags: [Net Debt – Definition, How Net Debt Is Calculated and Used to Measure a Company's Liquidity]
 source: https://www.investopedia.com/terms/n/netdebt.asp
 author: Chris B Murphy
 ---

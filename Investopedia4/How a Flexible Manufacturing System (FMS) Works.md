@@ -1,5 +1,5 @@
 ---
-alias: [Flexible [[Manufacturing]] System, FMS]
+alias: [Flexible Manufacturing System, FMS]
 created: 2021-03-02T19:59:11 (UTC +11:00)
 tags: [Flexible Manufacturing System (FMS) Definition, How a Flexible Manufacturing System (FMS) Works]
 source: https://www.investopedia.com/terms/f/flexible-[[Manufacturing|manufacturing]]-system.asp
