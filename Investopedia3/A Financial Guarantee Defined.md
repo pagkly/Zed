@@ -1,7 +1,7 @@
 ---
-alias: [What is a Financial Guarantee?]
+alias: [Financial Guarantee]
 created: 2021-03-02T19:54:43 (UTC +11:00)
-tags: [What is a Financial Guarantee?, A Financial Guarantee Defined]
+tags: [What is a Financial Guarantee, A Financial Guarantee Defined]
 source: https://www.investopedia.com/terms/f/financial-guarantee.asp
 author: Julia Kagan
 ---

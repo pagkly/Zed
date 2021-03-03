@@ -16,7 +16,7 @@ author: Julia Kagan
 How Transferable Letters of Credit Work
 ## What Is a Transferable Letter of Credit?
 
-A transferable letter of credit is a type of financial guarantee, known as a [letter of credit](https://www.investopedia.com/terms/l/letterofcredit.asp), that additionally allows the first [beneficiary](https://www.investopedia.com/terms/b/beneficiary.asp) to transfer some or all of the credit to another party, which creates a secondary beneficiary. The party that initially accepts the transferable letter of credit from the bank is referred to as the first, or primary beneficiary.
+A transferable letter of credit is a type of [[Investopedia3/A Financial Guarantee Defined|financial guarantee]], known as a [letter of credit](https://www.investopedia.com/terms/l/letterofcredit.asp), that additionally allows the first [beneficiary](https://www.investopedia.com/terms/b/beneficiary.asp) to transfer some or all of the credit to another party, which creates a secondary beneficiary. The party that initially accepts the transferable letter of credit from the bank is referred to as the first, or primary beneficiary.
 
 A transferable letter of credit is often used in business deals to ensure payment to the supplier or manufacturer. A transferable letter of credit is an alternative option to [advance payments](https://www.investopedia.com/terms/a/advance-payment.asp).
 

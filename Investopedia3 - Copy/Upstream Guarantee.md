@@ -9,7 +9,7 @@ author: Adam Hayes
 # Upstream Guarantee
 
 > ## Excerpt
-> An upstream guarantee, also known as a subsidiary guarantee, is a financial guarantee in which the subsidiary guarantees its parent company's debt.
+> An upstream guarantee, also known as a subsidiary guarantee, is a [[Investopedia3/A Financial Guarantee Defined|financial guarantee]] in which the subsidiary guarantees its parent company's debt.
 
 ---
 
