@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FMI/About the Level 1 (AFM) Exam.md",
-            "mode": "source"
+            "file": "FMI/Adding Scenarios  Plum Solutions.md",
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FMI/About the Level 1 (AFM) Exam.md",
+                "file": "FMI/Adding Scenarios  Plum Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FMI/About the Level 1 (AFM) Exam.md"
+                "file": "FMI/Adding Scenarios  Plum Solutions.md"
               }
             }
           },
@@ -139,6 +139,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "FMI/Adding Scenarios  Plum Solutions.md",
     "FMI/About the Level 1 (AFM) Exam.md",
     "FMI/Absolute and Relative Cell Referencing.md",
     "FMI/Absolute and Relative Cell Referencing/7-day-post-promo-689.jpg",
@@ -147,7 +148,6 @@
     "FMI/Advanced Conditional Formatting  Plum Solutions.md",
     "FMI/Mock Exam Case study  Plum Solutions.md",
     "FMI/Equity Schedule Case Study  Plum Solutions.md",
-    "FMI/Equity & Completing the Financial Statements.md",
-    "FMI/Dummies Case Study Financial Statements Part 2.md"
+    "FMI/Equity & Completing the Financial Statements.md"
   ]
 }
