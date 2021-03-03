@@ -10,47 +10,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "fmi/Advanced Conditional Formatting  Plum Solutions.md",
-            "mode": "preview"
+            "file": "Day Planners/20210303.md",
+            "mode": "source"
           }
-        },
-        "group": "80072392d02cf333"
-      },
-      {
-        "id": "9145d8f81e594f6d",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "fmi/Advanced Conditional Formatting  Plum Solutions.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": false,
-              "showArrow": true,
-              "textFadeMultiplier": -2.5,
-              "nodeSizeMultiplier": 0.97948717948718,
-              "lineSizeMultiplier": 1.3982905982906,
-              "collapse-forces": false,
-              "centerStrength": 0.41025641025641,
-              "repelStrength": 13.5042735042735,
-              "linkStrength": 0.786324786324786,
-              "linkDistance": 271,
-              "scale": 0.5087618855792587,
-              "close": false
-            }
-          }
-        },
-        "group": "80072392d02cf333"
+        }
       }
     ],
     "direction": "vertical"
@@ -114,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fmi/Advanced Conditional Formatting  Plum Solutions.md",
+                "file": "Day Planners/20210303.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fmi/Advanced Conditional Formatting  Plum Solutions.md"
+                "file": "Day Planners/20210303.md"
               }
             }
           },
@@ -176,11 +139,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Day Planners/20210303.md",
     "fmi/Advanced Conditional Formatting  Plum Solutions.md",
     "fmi/Adding Scenarios  Plum Solutions.md",
     "fmi/Absolute and Relative Cell Referencing.md",
     "fmi/About the Level 1 (AFM) Exam.md",
-    "Day Planners/20210303.md",
     "Investopedia4/A Financial Guarantee Defined.md",
     "Investopedia4/A Definition and Explanation of Free On Board (FOB).md",
     "Investopedia4/A Downside Risk Estimate.md",
