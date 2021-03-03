@@ -20,7 +20,7 @@ A purchase [annual percentage rate](https://www.investopedia.com/terms/a/apr.asp
 
 The APR on a credit card is an annualized percentage rate that is applied monthly. For example, if the advertised APR on a credit card is 19%, an interest rate of 1.58% of the outstanding balance will be added monthly to the total amount owed.
 
-If the balance is paid in full no later than the period between the end of a billing cycle and the date your payment is due, often referred to as the grace period, no APR is added.
+If the balance is paid in full no later than the period between the end of a billing cycle and the date your payment is due, often referred to as the [[A Closer Look at Grace Periods|grace period]], no APR is added.
 
 ### Key Takeaways
 

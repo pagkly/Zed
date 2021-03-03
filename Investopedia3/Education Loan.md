@@ -16,7 +16,7 @@ author: Troy Segal
 Education Loan
 ## What Is an Education Loan?
 
-An education loan is a sum of money borrowed to finance post-secondary education or higher education-related expenses. Education loans are intended to cover the cost of tuition, books and supplies, and living expenses while the borrower is in the process of pursuing a degree. Payments are often deferred while students are in college and, depending on the lender, sometimes they are deferred for an additional six-month period after earning a degree. This period is sometimes referred to as a "grace period."
+An education loan is a sum of money borrowed to finance post-secondary education or higher education-related expenses. Education loans are intended to cover the cost of tuition, books and supplies, and living expenses while the borrower is in the process of pursuing a degree. Payments are often deferred while students are in college and, depending on the lender, sometimes they are deferred for an additional six-month period after earning a degree. This period is sometimes referred to as a "[[A Closer Look at Grace Periods|grace period]]."
 
 ### Key Takeaways
 

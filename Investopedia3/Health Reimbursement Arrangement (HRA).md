@@ -60,7 +60,7 @@ Here's a closer look at two other options for funding out-of-pocket medical expe
 
 ### FSA
 
-An FSA is funded using a portion of an employee's pre-tax salary, and, in contrast to an HRA, each employee determines how much money should go into these arrangements annually—up to $2,700 in 2019. Unused funds in HRAs may be carried over to the following year according to the discretion of the employer. [Unused FSA funds](https://www.investopedia.com/ask/answers/111815/do-flexible-spending-accounts-fsas-expire.asp) generally cannot be used in the next plan year although an employer may offer either a short grace period or allow up to $500 to be carried over.
+An FSA is funded using a portion of an employee's pre-tax salary, and, in contrast to an HRA, each employee determines how much money should go into these arrangements annually—up to $2,700 in 2019. Unused funds in HRAs may be carried over to the following year according to the discretion of the employer. [Unused FSA funds](https://www.investopedia.com/ask/answers/111815/do-flexible-spending-accounts-fsas-expire.asp) generally cannot be used in the next plan year although an employer may offer either a short [[A Closer Look at Grace Periods|grace period]] or allow up to $500 to be carried over.
 
 ### HSA
 

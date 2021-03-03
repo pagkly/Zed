@@ -31,9 +31,9 @@ including a spouse, who cannot care for themselves and meet specific Internal Re
 -   Funds withdrawn from an FSA to pay qualified medical expenses are not subject to  
     tax. 
 -   The money in an FSA must be used by the end of the plan year, but employers can  
-    offer a grace period of up to two-and-a-half months, through March 15 of the  
+    offer a [[A Closer Look at Grace Periods|grace period]] of up to two-and-a-half months, through March 15 of the  
     following year.
--   Due to the pandemic, the IRS will allow employers to amend FSA plans for 2020 and 2021, either to raise the carryover amounts or extend the grace period.
+-   Due to the pandemic, the IRS will allow employers to amend FSA plans for 2020 and 2021, either to raise the carryover amounts or extend the [[A Closer Look at Grace Periods|grace period]].
 
 ## How a Flexible Spending Account (FSA) Works
 
@@ -43,7 +43,7 @@ The IRS limits how much can be contributed to an FSA account per year. For medic
 
 For 2020 and 2021, the contribution limit for a dependent-care FSA is $5,000 for joint and individual tax returns and $2,500 for married taxpayers filing separately.
 
-The IRS released new guidance that allows employers more flexibility for benefit plans during the Covid-19 crisis, including special provisions for health Flexible Spending Arrangements (FSAs). If an employer elects to allow this (these provisions are entirely at the discretion of the employer), employees may revoke an existing election, make a new election, or decrease or increase an existing election. In addition, employers can elect to allow employees to apply unused amounts remaining in a health FSA at the end of a grace period or plan year ending in 2020 to pay or reimburse medical care expenses incurred through December 31, 2020. If you're not sure about your options, check with your HR or benefits person.3
+The IRS released new guidance that allows employers more flexibility for benefit plans during the Covid-19 crisis, including special provisions for health Flexible Spending Arrangements (FSAs). If an employer elects to allow this (these provisions are entirely at the discretion of the employer), employees may revoke an existing election, make a new election, or decrease or increase an existing election. In addition, employers can elect to allow employees to apply unused amounts remaining in a health FSA at the end of a [[A Closer Look at Grace Periods|grace period]] or plan year ending in 2020 to pay or reimburse medical care expenses incurred through December 31, 2020. If you're not sure about your options, check with your HR or benefits person.3
 
 ## Advantages and Disadvantages of Flexible Spending Accounts (FSA)
 
@@ -58,11 +58,11 @@ The recent $2 trillion CARES (Coronavirus Aid, Relief, and Economic Security) Ac
 ## Special Considerations
 
 All the money set aside in an FSA generally must be used by the end of the plan  
-year. However, [a plan can offer a grace period](https://www.investopedia.com/ask/answers/111314/how-does-grace-period-work-my-flexible-spending-account-fsa.asp) of up to two-and-a-half months to finish using that funding.
+year. However, [a plan can offer a [[A Closer Look at Grace Periods|grace period]]](https://www.investopedia.com/ask/answers/111314/how-does-grace-period-work-my-flexible-spending-account-fsa.asp) of up to two-and-a-half months to finish using that funding.
 
 If that option is not taken, [a plan may allow you to roll over](https://www.investopedia.com/ask/answers/111615/does-money-flexible-spending-account-fsa-roll-over.asp) up to $550 per year of unused funds from  
 your account. Neither option is required, but only one may be offered by the plan.
 
-When the year ends or the grace period expires, any funds that remain in your FSA are lost. Thus, you should carefully calibrate the amount of money you plan to put into your account and how you intend to spend it over the course of the year.
+When the year ends or the [[A Closer Look at Grace Periods|grace period]] expires, any funds that remain in your FSA are lost. Thus, you should carefully calibrate the amount of money you plan to put into your account and how you intend to spend it over the course of the year.
 
-The Internal Revenue Service has announced that because of the impact of COVID-19, it will permit, but not require, employers to amend health plans so that employees can change elections that usually are allowed only once a year. Also, the IRS will allow employers discretion to amend FSA plans for 2020 and 2021 either to allow employees to carry over more than the current $550 maximum, or to extend the grace period for using unspent FSA funds through December 31 of each year .5
+The Internal Revenue Service has announced that because of the impact of COVID-19, it will permit, but not require, employers to amend health plans so that employees can change elections that usually are allowed only once a year. Also, the IRS will allow employers discretion to amend FSA plans for 2020 and 2021 either to allow employees to carry over more than the current $550 maximum, or to extend the [[A Closer Look at Grace Periods|grace period]] for using unspent FSA funds through December 31 of each year .5

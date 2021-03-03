@@ -43,7 +43,7 @@ Homebuyers who are considered risky borrowers—they don't qualify for a [conven
 
 Another type of guaranteed loan is a federal student loan, which is guaranteed by an agency of the federal government. Federal student loans are the easiest student loans to qualify for – there is no credit check, for example – and they have the best terms and lowest interest rates because the U.S. Department of Education guarantees them with taxpayer dollars.
 
-In order to apply for a federal student loan, you must complete and submit the Free Application for Federal Student Aid, or FAFSA, each year that you want to remain eligible for federal student aid. Repayment on these loans begins after the student leaves college or drops below half-time enrollment. Many loans also have a grace period.
+In order to apply for a federal student loan, you must complete and submit the Free Application for Federal Student Aid, or FAFSA, each year that you want to remain eligible for federal student aid. Repayment on these loans begins after the student leaves college or drops below half-time enrollment. Many loans also have a [[A Closer Look at Grace Periods|grace period]].
 
 Payday guaranteed loans often ensnare borrowers in a cycle of debt with interest rates as high as 400% or more.
 

@@ -31,7 +31,7 @@ When a policy has lapsed, the benefits and everything stated in the contract no 
 
 ## Lapsed Life Insurance Policies
 
-A policy does not lapse each and every time a premium payment is missed. Insurers are legally bound to give a grace period to policyholders before the policy falls into a lapse. The grace period is usually 30 days. Insurers provide policyholders a period of 30 days to pay for the missed premium deadline.
+A policy does not lapse each and every time a premium payment is missed. Insurers are legally bound to give a [[A Closer Look at Grace Periods|grace period]] to policyholders before the policy falls into a lapse. The [[A Closer Look at Grace Periods|grace period]] is usually 30 days. Insurers provide policyholders a period of 30 days to pay for the missed premium deadline.
 
 Whole life, variable universal life and [universal life insurance](https://www.investopedia.com/terms/u/universallife.asp) policies use existing cash values of policies if payments are missed. If policyholders still do not pay within the grace period, a policy may use its own account value to pay for the unpaid premiums. If the account value is not sufficient to pay for the policyholder’s premiums, then the policy will be considered lapsed. Once a policy lapses, the insurer is not under any legal obligation to provide the benefits stated in the policy.
 

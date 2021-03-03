@@ -31,11 +31,11 @@ E-filing has many benefits that have made this system of tax preparation increas
 
 E-filing saves the tax agency time and money because the data is transmitted directly into the agency’s computers, significantly reducing keying and input errors. Taxpayers can file their returns directly on the IRS website, using IRS Free File, if their individual or family income for tax year 2020 was $72,000 or less.1 The IRS offers a choice of software partners for this service, including two Spanish-language programs.2 A taxpayer has the option of filing the return using [any tax preparation software with e-filing properties](https://www.investopedia.com/best-tax-software-5069775) or can [hire the services of tax professionals](https://www.investopedia.com/best-tax-preparation-services-5089924) who use similar software.
 
-A benefit of e-filing is that the tax filer receives a confirmation or rejection notice within 48 hours, and usually within 24, of transmitting the electronic documents. The confirmation is proof that the documents have been received and are in the system, while a rejection is a notice to the taxpayer that the return has not been accepted by the IRS. The rejection notice will include information on what needs to be corrected on the return so that it is acceptable. If you e-filed before the tax due date but are rejected after it, there is a five-day grace period for correcting and resubmitting your return. After that, you must send in a corrected paper return.3
+A benefit of e-filing is that the tax filer receives a confirmation or rejection notice within 48 hours, and usually within 24, of transmitting the electronic documents. The confirmation is proof that the documents have been received and are in the system, while a rejection is a notice to the taxpayer that the return has not been accepted by the IRS. The rejection notice will include information on what needs to be corrected on the return so that it is acceptable. If you e-filed before the tax due date but are rejected after it, there is a five-day [[A Closer Look at Grace Periods|grace period]] for correcting and resubmitting your return. After that, you must send in a corrected paper return.3
 
 In addition to the prompt confirmation notice, as e-filed returns can be processed much faster than paper returns, the taxpayer can generally expect a faster tax refund, if one is due.4
 
-If you e-file before the tax due date but have your return rejected after it, you have a five-day grace period in which to correct and resubmit your return.
+If you e-file before the tax due date but have your return rejected after it, you have a five-day [[A Closer Look at Grace Periods|grace period]] in which to correct and resubmit your return.
 
 ## Special Considerations
 

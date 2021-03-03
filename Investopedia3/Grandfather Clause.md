@@ -29,7 +29,7 @@ A grandfather clause is an exemption that allows persons or entities to continue
 
 Generally speaking, a grandfather clause only exempts people or entities engaged in specified activities before new rules were put in place. All other parties entering the market post-implementation are required to abide by the new rules.
 
-As a result, grandfather clauses effectively place two sets of rules or regulations on otherwise similar businesses or circumstances, which can create unfair [competitive advantages](https://www.investopedia.com/terms/c/competitive_advantage.asp) for grandfathered parties. In these situations, grandfather clauses may only be granted for a set period of time, thereby encouraging the party with a grandfather clause to work towards compliance with the new rules before the grace period elapses.
+As a result, grandfather clauses effectively place two sets of rules or regulations on otherwise similar businesses or circumstances, which can create unfair [competitive advantages](https://www.investopedia.com/terms/c/competitive_advantage.asp) for grandfathered parties. In these situations, grandfather clauses may only be granted for a set period of time, thereby encouraging the party with a grandfather clause to work towards compliance with the new rules before the [[A Closer Look at Grace Periods|grace period]] elapses.
 
 ## History of the Grandfather Clause
 

@@ -16,7 +16,7 @@ author: Adam Hayes
 What Everyone Needs to Know About Liquidity Ratios
 ## What Are Liquidity Ratios?
 
-Liquidity ratios are an important class of financial metrics used to determine a debtor's ability to pay off current debt obligations without raising external capital. Liquidity ratios measure a company's ability to pay debt obligations and its margin of safety through the calculation of metrics including the [current ratio](https://www.investopedia.com/terms/c/currentratio.asp), [quick ratio](https://www.investopedia.com/terms/q/quickratio.asp), and [operating cash flow ratio](https://www.investopedia.com/terms/o/ocfratio.asp).
+Liquidity ratios are an important class of financial metrics used to determine a debtor's ability to pay off current debt obligations without raising external capital. Liquidity ratios measure a company's ability to pay debt obligations and its margin of safety through the calculation of metrics including the [current ratio](https://www.investopedia.com/terms/c/currentratio.asp), [quick ratio](https://www.investopedia.com/terms/q/quickratio.asp), and [[[Analyzing a Company's Liquidity Using the Operating Cash Flow Ratio|operating cash flow ratio]]](https://www.investopedia.com/terms/o/ocfratio.asp).
 
 With liquidity ratios, [current liabilities](https://www.investopedia.com/terms/c/currentliabilities.asp) are most often analyzed in relation to [liquid assets](https://www.investopedia.com/terms/l/liquidasset.asp) to evaluate the ability to cover short-term debts and obligations in case of an emergency.
 
