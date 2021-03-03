@@ -1,0 +1,71 @@
+---
+alias: [Small Business Administration, SBA]
+created: 2021-03-02T23:39:01 (UTC +11:00)
+tags: [Small Business Administration (SBA) Definition, Small Business Administration (SBA)]
+source: https://www.investopedia.com/terms/s/small-business-administration.asp
+author: Will Kenton
+---
+
+# Small Business Administration (SBA) Definition
+
+> ## Excerpt
+> The Small Business Administration is a U.S. government agency established to promote and strengthen the overall economy by assisting small businesses.
+
+---
+
+Small Business Administration (SBA)
+## What Is the Small Business Administration?
+
+The Small Business Administration (SBA) is an autonomous U.S. government agency established in 1953 to bolster and promote the economy in general by providing assistance to small businesses. One of the largest functions of the SBA is the provision of counseling to aid individuals trying to [[start]](https://www.investopedia.com/terms/m/momandpop.asp) and grow businesses.
+
+On the [[agency’s website]](https://www.sba.gov/), there is a wealth of tools to assist small businesses including a small business planner and additional training programs. Localized SBA offices throughout the United States and associated territories offer in-person, one-on-one counseling services that include business plan writing instruction, and assistance with small business [[loans]](https://www.investopedia.com/terms/l/loan.asp).
+
+The SBA is headed by the administrator and deputy administrator, and also has a chief counsel for advocacy and inspector general—all of which are confirmed by the Senate. The Small Business Administration has at least one office in every state.
+
+## Understanding the Small Business Administration
+
+The Small Business Administration offers substantial educational information with a specific focus on assisting small business startup and growth. In addition to educational events offered on the SBA’s website, local offices also provide more personalized special events for small business owners.
+
+According to its website, the SBA provides the following services to small businesses:
+
+-   **Access to capital:** The agency offers a variety of financial resources for small businesses including microlending, or small loans that are issued to those who wouldn't otherwise qualify for financing.
+-   **Entrepreneurial development:** This is driven by counseling services and low-cost training provided by the SBA. This is available to both new and existing business owners.
+-   **Contracting:** The SBA reserves 23% in government contracting dollars for small businesses with the help of other federal departments and agencies.
+-   **Advocacy:** The agency acts as an advocate by reviewing legislation and protecting the interests of small business owners across the country.
+
+The agency has helped small businesses across the country get access to loans, loan guarantees, contracts, and other services.
+
+## The History of the SBA
+
+The SBA was established by President Eisenhower when he signed the Small Business Act in the summer of 1953. In its more than six decades of existence, the SBA has been threatened on numerous occasions. The House of Representatives, controlled by the Republicans in 1996, had the SBA slated to be eliminated. However, the agency survived this threat and went on to receive a record budget in 2000.
+
+The SBA faced another threat from President Bush and his administration. Though attempts to cut the agency’s loan program saw significant resistance in Congress, the SBA’s budget was cut repeatedly every year between 2001 to 2004, when certain SBA expenditures were frozen altogether.
+
+### Key Takeaways
+
+-   The Small Business Administration is a government agency established in 1953 to bolster and promote the economy by providing assistance to small businesses. 
+-   The SBA is headed by the administrator and deputy administrator who are confirmed by the Senate.
+-   The agency offers a variety of resources to small businesses including access to capital, entrepreneurial development, government contracting, and advocacy services.
+-   The SBA's loan guarantee program is among its most visible elements.
+
+## The SBA Loan Program
+
+The loan programs offered by the SBA are among the most visible elements the agency provides. The organization does not offer grants or direct loans, with the exception of disaster relief loans, but instead, guarantees against [[default]](https://www.investopedia.com/terms/d/default2.asp) pieces of business loans extended by banks and other official lenders that meet the agency’s guidelines. The number one function of these loan programs is to make loans with longer [[repayment]](https://www.investopedia.com/terms/r/repayment.asp) periods available to small businesses.
+
+Loans backed by the SBA include 504 Loan—also called a grow loan— which provides small businesses with financing to buy some of the fixed assets they need to run their operations including real estate. The 7(a) loan, on the other hand is the agency's primary loan program. The maximum loan amount guaranteed under this program is $5 million.
+
+As part of the government response to COVID-19, several new [[SBA loan programs]](https://www.investopedia.com/articles/personal-finance/091514/expanding-your-small-business-sba-loan.asp) have been developed and implementing.
+
+Other SBA-guaranteed loan programs include
+
+-   Express loan
+-   CAPLines loan
+-   Disaster loan
+-   Export loan
+-   Microloan
+
+These loans are generally provided by financial institutions, with the SBA acting as a guarantor. Small businesses qualify for loans more easily when they are guaranteed by the Small Business Administration. The agency also allows entrepreneurs to make lower payments for a longer period of time.
+
+## The Future of the SBA
+
+Despite numerous attempts to do away with the SBA entirely, many political officials and offices continue to support the agency. The SBA’s ability to offer loans has also been significantly strengthened by the [[American Recovery and Reinvestment Act]](https://www.investopedia.com/terms/a/american-recovery-and-reinvestment-act.asp) of 2009 and the Small Business Jobs Act of 2010.

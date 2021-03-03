@@ -1,0 +1,39 @@
+---
+alias: [Whartonite]
+created: 2021-03-03T00:54:55 (UTC +11:00)
+tags: [Whartonite Definition, What Does Whartonite Mean?]
+source: https://www.investopedia.com/terms/w/whartonite.asp
+author: Jason Fernando
+---
+
+# Whartonite Definition
+
+> ## Excerpt
+> “Whartonite” is a colloquial term used to refer to graduates of The Wharton School of the University of Pennsylvania.
+
+---
+
+What Does Whartonite Mean?
+## What Is a Whartonite?
+
+"Whartonite" is a colloquial term used to refer to graduates of the [[The Wharton School of the University of Pennsylvania]](https://www.investopedia.com/terms/w/wharton.asp). Because of the Wharton School's reputation in the financial sector, the term Whartonite is often associated with professionals in industries such as [[investment banking]](https://www.investopedia.com/terms/i/investment-banking.asp), [[investment management]](https://www.investopedia.com/terms/i/investment-management.asp), [[private equity]](https://www.investopedia.com/terms/p/privateequity.asp), and [[venture capital]](https://www.investopedia.com/terms/v/venturecapital.asp).
+
+In some cases, the term can be used in a derogatory manner, referring to a professional with an attitude of superiority or arrogance. In this sense, it is associated with the negative stereotypes that sometimes surround the [[financial sector]](https://www.investopedia.com/terms/f/financial_sector.asp).
+
+### Key Takeaways
+
+-   Whartonite is a term referring to graduates of The Wharton School.
+-   It can have a negative connotation, implying that the person in question has a superiority complex.
+-   Wharton is widely considered among the best business schools in the world, with its undergraduate and graduate programs regularly ranked among the top 5 in global business school rankings.
+
+## Understanding Whartonites
+
+The Wharton School was established in 1881 by the industrialist Joseph Wharton.1 It is widely referred to simply as "The Finance School," due to having long been rated as the preeminent school for those pursuing careers in finance. 
+
+Despite its reputation for producing graduates who work for [[Wall Street]](https://www.investopedia.com/terms/w/wallstreet.asp) and other financial firms, Wharton also boasts a variety of undergraduate and graduate programs in a diverse range of subjects, including [[accounting]](https://www.investopedia.com/terms/a/accounting.asp), [[marketing]](https://www.investopedia.com/terms/m/marketing.asp), [[real estate]](https://www.investopedia.com/terms/r/realestate.asp), [[statistics]](https://www.investopedia.com/terms/s/statistics.asp), and [[entrepreneurship]](https://www.investopedia.com/terms/e/entrepreneur.asp). In fact, the school has made efforts in recent years to increase its stature in areas outside of finance. For example, it launched an [[Executive MBA]](https://www.investopedia.com/terms/e/executive-mba.asp) program in 2001, through which students can complete their studies out of a newly-established campus building located in San Francisco.2 Similarly, the school opened the Penn Wharton China Center in 2015, a new campus located in Beijing that aims to strengthen Wharton’s connections and influence in the Greater China region.3
+
+## Real World Examples of Whartonites
+
+Wharton is widely regarded as one of the world's top institutions for business education. _U.S. News & World Report_ ranks Wharton's undergraduate program first in the United States. Meanwhile, its MBA program tied for first in the U.S., while its Executive MBA program was ranked third.4
+
+Those looking for examples of individual Wharton graduates will have no shortage of people to choose from. In fact, Wharton boasts the largest alumni network of any American business school. With total membership of nearly 100,000,5 it is no surprise that some among them are very prominent indeed: including [[Donald Trump]](https://www.investopedia.com/updates/donald-trump-success-story/), [[Warren Buffett]](https://www.investopedia.com/articles/01/071801.asp), and [[Elon Musk]](https://www.investopedia.com/articles/personal-finance/061015/how-elon-musk-became-elon-musk.asp).

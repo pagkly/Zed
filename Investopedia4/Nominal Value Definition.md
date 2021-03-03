@@ -1,0 +1,67 @@
+---
+alias: [Nominal Value]
+created: 2021-03-02T21:43:52 (UTC +11:00)
+tags: [Nominal Value Definition, Nominal Value Definition]
+source: https://www.investopedia.com/terms/n/nominalvalue.asp
+author: Akhilesh Ganti
+---
+
+# Nominal Value Definition
+
+> ## Excerpt
+> Nominal value of a security, often referred to as face or par value, is its redemption price and is normally stated on the front of that security.
+
+---
+
+Nominal Value Definition
+## What is a Nominal Value?
+
+Nominal value of a security, often referred to as face or [[par value]](https://www.investopedia.com/ask/answers/why-would-stock-have-no-par-value/), is its [[redemption]](https://www.investopedia.com/terms/r/redemption.asp) price and is normally stated on the front of that security. With respect to bonds and stocks, it is the stated value of an issued security, as opposed to its market value. In economics, nominal values refer to the unadjusted rate or current price, without taking inflation or other factors into account as opposed to [[real values]](https://www.investopedia.com/terms/r/real-value.asp), where adjustments are made for general price level changes over time.
+
+## Understanding Nominal Value
+
+Nominal value is a critical component of many bond and preferred stock calculations, including interest payments, market values, discounts, premiums and yields. Nominal value of common stock will usually be much lower than its market value due to supply / demand considerations while the nominal value of preferred stock should be more in line with its market value. The nominal value of a bond will vary from its market value based on market interest rates.
+
+[Nominal](https://www.investopedia.com/terms/n/nominal.asp) and real values also play a vital role in economics, whether it takes into account [[nominal GDP]](https://www.investopedia.com/terms/n/nominalgdp.asp) versus real GDP or [[nominal interest rates]](https://www.investopedia.com/terms/n/nominalinterestrate.asp) versus real interest rates. Real values factor in the changes in purchasing power. While the [[nominal rate of return]](https://www.investopedia.com/terms/n/nominal-rate-of-return.asp) reflects an investor's earnings as a percentage of their initial investment, the [[real rate of return]](https://www.investopedia.com/terms/r/realrateofreturn.asp) takes inflation and the actual buying power of the investor's earnings into account.
+
+### Key Takeaways
+
+-   Nominal value of a security, often referred to as face or par value, is its redemption price and is normally stated on the front of that security.
+-   For bonds, the nominal value is the face value, and will vary from its market value based on market interest rates..
+-   A preferred stock's nominal (par) value is important in that it is used to calculate its dividend while the nominal value of common stock is an arbitrary value assigned for balance sheet purposes.
+-   In economics, nominal value refers to the current monetary value and does not adjust for the effects of inflation.
+
+## Nominal Value of Bonds
+
+For bonds, the nominal value is the [[face value]](https://www.investopedia.com/terms/f/facevalue.asp), which is the amount repaid to the bondholder at [[maturity]](https://www.investopedia.com/terms/m/maturity.asp). Corporate, municipal, and government bonds typically have face values of $1,000, $5,000, and $10,000, respectively.
+
+If a bond's [[yield to maturity]](https://www.investopedia.com/terms/y/yieldtomaturity.asp) (YTM) is higher than its nominal interest rate ([coupon rate](https://www.investopedia.com/terms/c/coupon-rate.asp)) then the real value of the bond will be lower than its face (nominal) value and the bond is said to selling at a discount to par, or [[below par]](https://www.investopedia.com/terms/b/below-par.asp). Conversely, if the YTM is lower than its nominal interest rate then the real value of the bond is higher than its face value and it is said to be selling at a premium to par, or [[above par]](https://www.investopedia.com/terms/a/abovepar.asp) and if they are the same then the bond is selling at its nominal, or par, value. Zero-coupon bonds are always sold at a discount to nominal value, because the investor does not receive interest until the bond matures. The formula for calculating bond market value is:
+
+**Bond price = SUM(coupon payments) / (1 + market yield) ^ i + Face Value / (1 + market yield) ^ n**_  
+Where: coupon payments = face value \* coupon rate; i = each year; n = total number of years_
+
+For example, a 3 year corporate bond issue with face value of $1000 and a coupon rate of 10%. The annual coupon payments would be $100 ($1000 \* 10%). If the market rate (YTM) is higher than the coupon rate, say 12%, then the market value of the bond would be selling at a discount to par (less than $1000). 
+
+**Bond price = $100 / (1+12%) + $100 / (1+12%)2 \+ $100 / (1+12%)3 \+ $1000 / (1+12%)3**
+
+Bond price = $89.29 + $79.72 + $71.18 + $711.79 = $951.98
+
+## Nominal Value of Stocks
+
+The nominal value of a company's stock, or par value, is an arbitrary value assigned for balance sheet purposes when the company is issuing [[share capital]](https://www.investopedia.com/terms/s/sharecapital.asp) – and is typically $1 or less. It has little to no bearing on the stock's market price. For example, if a company obtains authorization to raise $5 million and its stock has a par value of $1, it may issue and sell up to 5 million shares of stock. The difference between the par and the sale price of stock is called the [[share premium]](https://www.investopedia.com/terms/s/sharepremiumaccount.asp) and may be considerable, but it is not technically included in share capital or capped by authorized capital limits. So, if the stock sells for $10, $5 million will be recorded as paid share capital, while $45 million will be treated as additional paid in capital.
+
+[Preferred stocks](https://www.investopedia.com/terms/p/preferredstock.asp) are hybrid assets which pay dividends and may be converted to common stock. The nominal (par) value is quite important here as this is the amount used to calculate the dividend. For example, a company issuing a 5% preferred stock with a par (nominal) value of $50 would be paying dividends of $2.50 (5% \*$50) per share annually. The preferred stock's price will depend on the market's assessment of the dividend percentage being offered, in this case 5%. If the market is satisfied with 5% then the stock will trade around its nominal (par) value. If the dividend percentage is higher or lower than market expectations then the preferred stock's price will trade at a higher or lower price than its nominal value.
+
+## Nominal Value in Economics
+
+In economics, nominal value refers to the current monetary value and does not adjust for the effects of inflation. This renders nominal value a bit useless when comparing values over time. It is for this reason that investors prefer real values, which factor in inflation, to give a relative comparison that is more accurate and understandable. Real rate is the nominal rate minus the inflation rate.
+
+**Real rate = Nominal rate - Inflation rate**
+
+For example, if nominal [[gross domestic product]](https://www.investopedia.com/terms/g/gdp.asp) (GDP) growth rate is 5.5% for a given year and the related annual inflation rate is 2%, then the real GDP growth rate for the year is 3.5%.
+
+## Nominal vs. Real Exchange Rates
+
+The nominal [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp) is the number of units of the domestic currency that can purchase a unit of a given foreign currency. The real exchange rate is defined as the ratio of the foreign price level to the domestic price level, where the foreign price level is converted into domestic currency units via the current nominal exchange rate. In contrast to the nominal exchange rate, the real exchange rate is always floating, because even in fixed exchange rate regimes, the real exchange rate changes as inflation changes.
+
+When looking at a country’s export competitiveness, it is the real exchange rate that matters. The [[nominal effective exchange rate]](https://www.investopedia.com/terms/n/neer.asp) (NEER), an unadjusted weighted average rate at which one country's currency exchanges for a basket of multiple foreign currencies, is an indicator of a country's international competitiveness in terms of the foreign exchange market. But the NEER can be adjusted to compensate for the inflation rate of the home country relative to the inflation rate of its trading partners, resulting in the [[real effective exchange rate]](https://www.investopedia.com/terms/r/reer.asp) (REER).

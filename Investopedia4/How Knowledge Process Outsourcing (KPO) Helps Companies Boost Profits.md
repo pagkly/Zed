@@ -1,0 +1,64 @@
+---
+alias: [Knowledge Process Outsourcing, KPO]
+created: 2021-03-02T21:07:19 (UTC +11:00)
+tags: [Knowledge Process Outsourcing (KPO) Definition, How Knowledge Process Outsourcing (KPO) Helps Companies Boost Profits]
+source: https://www.investopedia.com/terms/k/knowledge-process-outsourcing.asp
+author: Chris B Murphy
+---
+
+# Knowledge Process Outsourcing (KPO) Definition
+
+> ## Excerpt
+> Knowledge process outsourcing (KPO) involves outsourcing work to individuals that typically have advanced degrees and expertise in a specialized area.
+
+---
+
+How Knowledge Process Outsourcing (KPO) Helps Companies Boost Profits
+## What Is Knowledge Process Outsourcing (KPO)?
+
+Knowledge process outsourcing (KPO) is the [outsourcing](https://www.investopedia.com/terms/o/outsourcing.asp) of core, information-related business activities. KPO involves contracting out work to individuals that typically have advanced degrees and expertise in a specialized area.
+
+The information-related work can be carried out by workers in a different company or by a subsidiary of the same organization. The subsidiary may be in the same country or in an [[offshore]](https://www.investopedia.com/terms/o/offshore.asp) location to save costs or other resources.
+
+### Key Takeaways
+
+-   Knowledge process outsourcing (KPO) contracts out knowledge-based wok to qualified subject matter experts.
+-   Companies utilize KPO when they are looking for specialized knowledge and expertise and when they have a shortage of skilled professionals on staff.
+-   Ideally, companies look to KPO to simultaneously obtain a highly-skilled workforce at a lower cost.
+
+## Understanding Knowledge Process Outsourcing
+
+Knowledge process outsourcing is the purposeful allocation of relatively high-level tasks involving specialized knowledge or problem-solving to an outside organization or third party that has a high level of subject matter expertise, often located in a different geographic region that the company itself.
+
+KPO is different from [[business process outsourcing]](https://www.investopedia.com/terms/b/business-process-outsourcing.asp) (BPO), which involves the outsourcing of labor and other operational work to a [[third party]](https://www.investopedia.com/terms/t/third-party.asp) to save money. Although KPO is a subset of BPO, KPO involves far more specialized, analytical, and knowledge-based work.
+
+Companies that engage in KPO look to obtain highly educated and skilled individuals without having the cost of training and developing those workers. Through KPO, a company can quickly add experts in specific fields to boost competitiveness and [[increase earnings]](https://www.investopedia.com/articles/stocks/11/increase-investment-performance.asp).
+
+## Types of KPO Services
+
+Some common example of KPO outsourcing domains include:
+
+-   Financial consultants
+-   Research and development ([R&D](https://www.investopedia.com/terms/r/randd.asp))
+-   Business operations (management consulting)
+-   Technical analysis
+-   Investments
+-   Legal
+-   Medical & Healthcare
+-   Data analysis and interpretation
+
+## Reasons for Knowledge Process Outsourcing
+
+Companies utilize KPO when they are looking for specialized knowledge and expertise where that knowledge base or skills cannot be found in-house. However, companies that engage in KPO offshore also typically do so in order to reduce costs by hiring skilled workers earning lower wages in another location instead of hiring one directly as an employee. Ideally, companies look to KPO to simultaneously obtain a highly-skilled workforce at a lower cost.
+
+For example, a [[manufacturer]](https://www.investopedia.com/articles/financial-analysis/091016/key-financial-ratios-manufacturing-companies.asp) might use raw materials, add value to those materials through various processes, and then sell the result as a final product. The company might look to KPO to determine how to improve efficiency in its production process so that it can deliver maximum value for the lowest possible total cost. The result of KPO might also help the company create a competitive advantage.
+
+## Advantages and Disadvantages of KPO
+
+KPO can help companies reduce operational or production costs by creating new processes or streamlining efficiency. KPO also fills the gap or need for skilled employees in a particular field. KPO also frees up existing staff, including management, to do other work boosting efficiency and productivity.
+
+The flexibility that comes with KPO allows a company to increase or reduce staff easily. For example, if economic conditions worsen, a company can easily reduce its KPO staff to cut costs. Conversely, a company can quickly hire specialized staff to boost [[profits]](https://www.investopedia.com/terms/p/profit.asp) or revenue. KPO helps a company to be more nimble and adapt to the changes in its industry and competitive landscape.
+
+However, disadvantages do exist with KPO. Privacy of intellectual property and business security can be compromised if classified or proprietary information is lost, copied, or brought to a competitor. Companies have less control over the hiring process of outsourced workers. As a result, a company might not be able to ensure the character of its outsourced employees or the quality of their work. 
+
+Implementing KPO can be time- and resource-intensive to establish a successful operation. Moreover, communication can be a concern and a challenge, due to legal, language, and cultural barriers. Another disadvantage might be that existing employees might feel threatened by the hiring of outsourced workers and feel their jobs are at risk.

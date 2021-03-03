@@ -1,0 +1,51 @@
+---
+alias: [Origination]
+created: 2021-03-02T22:29:30 (UTC +11:00)
+tags: [Origination Definition, Origination: What It Involves and What to Expect]
+source: https://www.investopedia.com/terms/o/origination.asp
+author: Carol M. Kopp
+---
+
+# Origination Definition
+
+> ## Excerpt
+> Origination is the process of creating a home loan or mortgage. It involves numerous steps and participants, and you can't get a mortgage without it.
+
+---
+
+Origination: What It Involves and What to Expect
+## What Is Origination?
+
+Origination is the multi-step process that every individual must go through to obtain a mortgage or home loan. The term also applies to other types of amortized personal loans. Origination is often a lengthy process and it's overseen by the Federal Deposit Insurance Corporation (FDIC) for compliance with Title XIV of the [[Dodd-Frank Wall Street Reform and Consumer Protection Act]](https://www.consumerfinance.gov/policy-compliance/guidance/#compliance-resources).
+
+A loan [[origination fee]](https://www.investopedia.com/terms/o/origination-fee.asp), usually about 1% of the loan, is intended to compensate the lender for the work involved in the process.
+
+-   The origination process often involves a number of steps and is overseen by the FDIC.
+-   Pre-qualification is the first step of the origination process when a loan officer meets with a borrower and obtains all basic data and information relating to income and the property in question.
+-   All paperwork and documentation are then run through an automatic underwriting program for loan approval.
+
+## Understanding Origination
+
+[Borrowers](https://www.investopedia.com/articles/personal-finance/110915/how-lendingtree-mortgage-works.asp) must submit various types of financial information and documentation to a mortgage lender during the origination process, including tax returns, payment history, credit card information, and bank balances. Mortgage lenders then use this information to determine the type of loan and the interest rate for which the borrower is eligible.
+
+Lenders also rely on other information, especially the borrower’s credit report, to determine loan eligibility.
+
+Origination includes pre-qualification of the borrower, as well as underwriting, and lenders typically charge an origination fee to cover the associated costs.
+
+## Origination Requirements
+
+[Pre-qualification](https://www.investopedia.com/terms/p/prequalification.asp) is the first step of the process. The loan officer meets with the borrower and obtains all basic data and information relating to income and the property that the loan is intended to cover.
+
+At this point, the lender determines the type of loan for which the individual qualifies, such as a [[personal loan]](https://www.investopedia.com/best-personal-loans-4773300). Fixed-rate loans have a continuous interest rate for the entire life of the loan, while adjustable-rate mortgages (ARMs) have an interest rate that fluctuates in relation to an index or a bond price, such as Treasury securities. Hybrid loans feature interest-rate aspects of both fixed and adjustable loans. They most often begin with a fixed rate and eventually convert to an ARM.
+
+The borrower receives a list of information needed to complete the loan application during this stage. This extensive required documentation typically includes the purchase and sale contract, W-2 forms, profit-and-loss statements from those who are self-employed, and bank statements. It will also include mortgage statements if the loan is to refinance an existing mortgage.
+
+The borrower fills out an application for the loan and submits all necessary documentation. The loan officer then completes the legally required paperwork to process the loan.
+
+## Special Considerations
+
+The process is now out of the borrower’s hands. All paperwork submitted and signed until this point is filed and run through an [[automatic underwriting]](https://www.investopedia.com/terms/a/automated_underwriting.asp) program to be approved.
+
+Some files might be sent to an underwriter for manual approval. The loan officer then gets the appraisal, requests insurance information, schedules a closing, and sends the loan file to the processor. The processor may request additional information, if necessary, for reviewing the loan approval.
+
+Some borrowers might be eligible for government loans, such as those provided by the Federal Housing Authority (FHA) or the Department of Veteran Affairs (VA). These loans are considered non-conventional and are structured in a way that makes it easier for eligible individuals to purchase homes. They often feature lower qualifying ratios and can require a smaller or no down payment, and the origination process can be somewhat easier as a result.

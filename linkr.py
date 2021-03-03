@@ -186,16 +186,22 @@ page_titles = sorted(page_titles, key=lambda x: len(x), reverse=True)
 #print(clip_txt)
 print('----------------------')
 
-# prepare our linked text output
-linked_txt = ""
 
-if paragraph_mode:
-    for paragraph in clip_txt.split("\n"):
-        linked_txt += link_content(paragraph) + "\n"
-    linked_txt = linked_txt[:-1] # scrub the last newline
-else:
-    linked_txt = link_content(clip_txt)
+import glob
+
+txtfiles = []
+for file in glob.glob("*.md"):
+    txtfiles.append(file)
+    # prepare our linked text output
+    linked_txt = ""
+
+    if paragraph_mode:
+        for paragraph in clip_txt.split("\n"):
+            linked_txt += link_content(paragraph) + "\n"
+        linked_txt = linked_txt[:-1] # scrub the last newline
+    else:
+        linked_txt = link_content(clip_txt)
 
 
-#print(linked_txt)
+    #print(linked_txt)
 
