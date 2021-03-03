@@ -1,7 +1,7 @@
 ---
 alias: [Risk Reversal]
 created: 2021-03-02T23:25:42 (UTC +11:00)
-tags: [Risk Reversal Definition, [[Risk]] Reversal Definition]
+tags: [Risk Reversal Definition, Risk Reversal Definition]
 source: https://www.investopedia.com/terms/r/riskreversal.asp
 author: Tim Smith
 ---

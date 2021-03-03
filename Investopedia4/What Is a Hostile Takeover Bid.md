@@ -1,7 +1,7 @@
 ---
 alias: [What Is a [[Hostile Takeover]] Bid?]
 created: 2021-03-02T20:49:40 (UTC +11:00)
-tags: [What Is a Hostile Takeover Bid?, [[What Is a Hostile Takeover Bid]]?]
+tags: [What Is a Hostile Takeover Bid?, What Is a Hostile Takeover Bid?]
 source: https://www.investopedia.com/terms/h/hostile-takeover-bid.asp
 author: [[Will]] Kenton
 ---

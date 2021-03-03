@@ -1,7 +1,7 @@
 ---
 alias: [Economic Value of [[Equity]], EVE]
 created: 2021-03-02T19:33:20 (UTC +11:00)
-tags: [Economic Value of [[Equity]] (EVE), Understanding the [[Economic Value]] of Equity (EVE)]
+tags: [Economic Value of Equity (EVE), Understanding the [[Economic Value]] of Equity (EVE)]
 source: https://www.investopedia.com/terms/e/economicvalueofequity.asp
 author: Adam Hayes
 ---

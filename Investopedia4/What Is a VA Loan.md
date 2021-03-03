@@ -1,7 +1,7 @@
 ---
 alias: [VA Loan]
 created: 2021-03-03T00:32:20 (UTC +11:00)
-tags: [VA Loan Definition, [[What Is a VA Loan]]?]
+tags: [VA Loan Definition, What Is a VA Loan?]
 source: https://www.investopedia.com/terms/v/valoan.asp
 author: Julia Kagan
 ---

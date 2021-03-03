@@ -1,7 +1,7 @@
 ---
 alias: [Regulatory Risk]
 created: 2021-03-02T23:14:42 (UTC +11:00)
-tags: [Regulatory Risk Definition, [[What Is Regulatory Risk]]?]
+tags: [Regulatory Risk Definition, What Is Regulatory Risk?]
 source: https://www.investopedia.com/terms/r/regulatory_risk.asp
 author: Adam Hayes
 ---

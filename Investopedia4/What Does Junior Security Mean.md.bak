@@ -1,7 +1,7 @@
 ---
 alias: [Junior Security]
 created: 2021-03-02T21:02:46 (UTC +11:00)
-tags: [Junior [[Security]] Definition, [[What Does Junior Security Mean]]?]
+tags: [Junior Security Definition, [[What Does Junior Security Mean]]?]
 source: https://www.investopedia.com/terms/j/juniorsecurity.asp
 author: Jason Fernando
 ---

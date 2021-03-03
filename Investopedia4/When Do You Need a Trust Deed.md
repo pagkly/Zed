@@ -1,7 +1,7 @@
 ---
 alias: [Trust Deed]
 created: 2021-03-03T00:09:09 (UTC +11:00)
-tags: [Trust Deed Definition, [[When Do You Need a Trust Deed]]?]
+tags: [Trust Deed Definition, When Do You Need a Trust Deed?]
 source: https://www.investopedia.com/terms/t/trustdeed.asp
 author: Troy Segal
 ---

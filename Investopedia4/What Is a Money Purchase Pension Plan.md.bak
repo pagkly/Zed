@@ -1,7 +1,7 @@
 ---
 alias: [Money Purchase Pension Plan]
 created: 2021-03-02T22:09:38 (UTC +11:00)
-tags: [Money Purchase [[Pension Plan]] Definition, [[What Is a Money Purchase Pension Plan]]?]
+tags: [Money Purchase Pension Plan Definition, [[What Is a Money Purchase Pension Plan]]?]
 source: https://www.investopedia.com/terms/m/moneypurchasepensionplan.asp
 author: Julia Kagan
 ---

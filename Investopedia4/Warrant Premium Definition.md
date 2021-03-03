@@ -1,7 +1,7 @@
 ---
 alias: [Warrant Premium]
 created: 2021-03-03T00:48:37 (UTC +11:00)
-tags: [Warrant Premium Definition, [[Warrant]] Premium Definition]
+tags: [Warrant Premium Definition, Warrant Premium Definition]
 source: https://www.investopedia.com/terms/w/warrantpremium.asp
 author: Lucas Downey
 ---

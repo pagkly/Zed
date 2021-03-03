@@ -1,7 +1,7 @@
 ---
 alias: [Credit Risk]
 created: 2021-03-02T19:04:54 (UTC +11:00)
-tags: [Credit [[Risk]] Definition, [[What Is Credit Risk]]?]
+tags: [Credit Risk Definition, [[What Is Credit Risk]]?]
 source: https://www.investopedia.com/terms/c/creditrisk.asp
 author:  Olivia LaBarre
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Underfunded Pension Plan]
 created: 2021-03-03T00:15:20 (UTC +11:00)
-tags: [Underfunded Pension Plan Definition, [[What Is an Underfunded Pension Plan]]?]
+tags: [Underfunded Pension Plan Definition, What Is an Underfunded Pension Plan?]
 source: https://www.investopedia.com/terms/u/underfunded_pension_plan.asp
 author: Julia Kagan
 ---

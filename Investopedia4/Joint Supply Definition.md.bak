@@ -1,7 +1,7 @@
 ---
 alias: [Joint Supply]
 created: 2021-03-02T21:00:35 (UTC +11:00)
-tags: [Joint [[Supply]] Definition, [[Joint]] Supply Definition]
+tags: [Joint Supply Definition, [[Joint]] Supply Definition]
 source: https://www.investopedia.com/terms/j/[[Joint|joint]]-[[Supply|supply]].asp
 author: Clay Halton
 ---

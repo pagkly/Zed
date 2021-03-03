@@ -1,7 +1,7 @@
 ---
 alias: [Joint and Several Liability]
 created: 2021-03-02T21:00:34 (UTC +11:00)
-tags: [Joint and Several [[Liability]] Definition, [[What Is Joint and Several Liability]]?]
+tags: [Joint and Several Liability Definition, [[What Is Joint and Several Liability]]?]
 source: https://www.investopedia.com/terms/j/[[Joint|joint]]-and-several-[[Liability|liability]].asp
 author: [[Will]] Kenton
 ---

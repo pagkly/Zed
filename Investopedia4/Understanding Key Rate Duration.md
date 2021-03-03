@@ -1,7 +1,7 @@
 ---
 alias: [Key Rate Duration]
 created: 2021-03-02T21:05:09 (UTC +11:00)
-tags: [Key Rate Duration Definition, Understanding [[Key Rate]] Duration]
+tags: [Key Rate Duration Definition, Understanding Key Rate Duration]
 source: https://www.investopedia.com/terms/k/keyrateduration.asp
 author: James Chen
 ---

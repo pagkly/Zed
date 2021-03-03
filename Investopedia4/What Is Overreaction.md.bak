@@ -1,7 +1,7 @@
 ---
 alias: [Overreaction, Finance]
 created: 2021-03-02T22:33:43 (UTC +11:00)
-tags: [Overreaction ([[Finance]]) Definition, [[What Is Overreaction]]?]
+tags: [Overreaction (Finance) Definition, [[What Is Overreaction]]?]
 source: https://www.investopedia.com/terms/o/overreaction.asp
 author: Adam Hayes
 ---

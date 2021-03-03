@@ -1,7 +1,7 @@
 ---
 alias: [Whisper Stock]
 created: 2021-03-03T00:54:55 (UTC +11:00)
-tags: [Whisper [[Stock]] Definition, [[What Is a Whisper Stock]]?]
+tags: [Whisper Stock Definition, [[What Is a Whisper Stock]]?]
 source: https://www.investopedia.com/terms/w/whisperstock.asp
 author: Carol Kopp
 ---

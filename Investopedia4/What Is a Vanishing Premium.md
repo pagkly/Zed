@@ -1,7 +1,7 @@
 ---
 alias: [Vanishing Premium]
 created: 2021-03-03T00:34:23 (UTC +11:00)
-tags: [Vanishing Premium Definition, [[What Is a Vanishing Premium]]?]
+tags: [Vanishing Premium Definition, What Is a Vanishing Premium?]
 source: https://www.investopedia.com/terms/v/vanishing-[[Premium|premium]].asp
 author: Alexandra Twin
 ---

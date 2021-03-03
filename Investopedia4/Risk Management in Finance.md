@@ -1,7 +1,7 @@
 ---
 alias: [Risk Management in Finance]
 created: 2021-03-02T23:25:41 (UTC +11:00)
-tags: [Risk Management in Finance, [[Risk]] Management in Finance]
+tags: [Risk Management in Finance, Risk Management in Finance]
 source: https://www.investopedia.com/terms/r/riskmanagement.asp
 author: [[Will]] Kenton
 ---

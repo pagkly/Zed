@@ -1,7 +1,7 @@
 ---
 alias: [External [[Debt]] Defined]
 created: 2021-03-02T19:50:25 (UTC +11:00)
-tags: [External Debt Defined, [[What Is External Debt]]?]
+tags: [External Debt Defined, What Is External Debt?]
 source: https://www.investopedia.com/terms/e/external-[[Debt|debt]].asp
 author: [[Will]] Kenton
 ---

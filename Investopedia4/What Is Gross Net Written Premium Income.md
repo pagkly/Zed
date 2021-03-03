@@ -1,7 +1,7 @@
 ---
 alias: [Gross Net Written Premium]
 created: 2021-03-02T20:27:50 (UTC +11:00)
-tags: [Gross Net Written Premium Definition, [[What Is Gross Net Written Premium Income]]?]
+tags: [Gross Net Written Premium Definition, What Is Gross Net Written Premium Income?]
 source: https://www.investopedia.com/terms/g/gross-net-written-[[Premium|premium]]-income.asp
 author: Julia Kagan
 ---

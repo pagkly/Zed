@@ -1,7 +1,7 @@
 ---
 alias: [Loan Stock]
 created: 2021-03-02T21:23:50 (UTC +11:00)
-tags: [Loan Stock Definition, [[Loan]] Stock Definition]
+tags: [Loan Stock Definition, Loan Stock Definition]
 source: https://www.investopedia.com/terms/l/loan_stock.asp
 author: Jim Chappelow
 ---

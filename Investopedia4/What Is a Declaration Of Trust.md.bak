@@ -1,7 +1,7 @@
 ---
 alias: [Declaration Of Trust]
 created: 2021-03-02T19:11:29 (UTC +11:00)
-tags: [Declaration Of [[Trust Definition]], [[What Is a Declaration Of Trust]]?]
+tags: [Declaration Of Trust Definition, [[What Is a Declaration Of Trust]]?]
 source: https://www.investopedia.com/terms/d/declaration-of-trust.asp
 author: [[Will]] Kenton
 ---

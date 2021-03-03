@@ -1,7 +1,7 @@
 ---
 alias: [Tax Fraud]
 created: 2021-03-02T23:54:21 (UTC +11:00)
-tags: [Tax Fraud Definition, [[What Is Tax Fraud]]?]
+tags: [Tax Fraud Definition, What Is Tax Fraud?]
 source: https://www.investopedia.com/terms/t/tax-fraud.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Underlying Option Security]
 created: 2021-03-03T00:17:15 (UTC +11:00)
-tags: [Underlying Option Security Definition, [[Underlying]] Option Security]
+tags: [Underlying Option Security Definition, Underlying Option Security]
 source: https://www.investopedia.com/terms/u/[[Underlying|underlying]]-option-[[Security|security]].asp
 author: James Chen
 ---

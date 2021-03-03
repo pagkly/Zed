@@ -1,7 +1,7 @@
 ---
 alias: [Joint Return]
 created: 2021-03-02T21:00:35 (UTC +11:00)
-tags: [Joint [[Return]] Definition, [[What is a joint return]]?]
+tags: [Joint Return Definition, [[What is a joint return]]?]
 source: https://www.investopedia.com/terms/j/jointreturn.asp
 author: Julia Kagan
 ---

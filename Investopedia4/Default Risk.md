@@ -1,7 +1,7 @@
 ---
 alias: [Default Risk]
 created: 2021-03-02T19:11:30 (UTC +11:00)
-tags: [Default Risk Definition, [[Default]] Risk]
+tags: [Default Risk Definition, Default Risk]
 source: https://www.investopedia.com/terms/d/defaultrisk.asp
 author: Julia Kagan
 ---

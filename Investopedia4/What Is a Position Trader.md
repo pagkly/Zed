@@ -1,7 +1,7 @@
 ---
 alias: [Position Trader]
 created: 2021-03-02T22:44:56 (UTC +11:00)
-tags: [Position Trader Definition, [[What Is a Position Trader]]?]
+tags: [Position Trader Definition, What Is a Position Trader?]
 source: https://www.investopedia.com/terms/p/positiontrader.asp
 author: Akhilesh Ganti
 ---

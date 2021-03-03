@@ -1,7 +1,7 @@
 ---
 alias: [Nonaccrual Loan]
 created: 2021-03-02T21:48:20 (UTC +11:00)
-tags: [Nonaccrual [[Loan]] Definition, [[What is a Nonaccrual Loan]]?]
+tags: [Nonaccrual Loan Definition, [[What is a Nonaccrual Loan]]?]
 source: https://www.investopedia.com/terms/n/nonaccrual-[[Loan|loan]].asp
 author: [[Will]] Kenton
 ---

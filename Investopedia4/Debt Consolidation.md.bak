@@ -1,7 +1,7 @@
 ---
 alias: [Debt Consolidation]
 created: 2021-03-02T19:09:23 (UTC +11:00)
-tags: [Debt [[Consolidation Definition]], [[Debt]] Consolidation]
+tags: [Debt Consolidation Definition, [[Debt]] Consolidation]
 source: https://www.investopedia.com/terms/d/debtconsolidation.asp
 author: Julia Kagan
 ---

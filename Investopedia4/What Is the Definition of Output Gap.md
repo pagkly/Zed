@@ -1,7 +1,7 @@
 ---
 alias: [Output Gap]
 created: 2021-03-02T22:31:35 (UTC +11:00)
-tags: [Output Gap Definition, [[What Is the Definition of Output Gap]]?]
+tags: [Output Gap Definition, What Is the Definition of Output Gap?]
 source: https://www.investopedia.com/terms/o/outputgap.asp
 author: Christina Majaski
 ---

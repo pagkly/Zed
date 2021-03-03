@@ -1,7 +1,7 @@
 ---
 alias: [Waiver of Demand]
 created: 2021-03-03T00:46:29 (UTC +11:00)
-tags: [Waiver of Demand Definition, [[What Does Waiver of Demand Mean]]?]
+tags: [Waiver of Demand Definition, What Does Waiver of Demand Mean?]
 source: https://www.investopedia.com/terms/w/waiver-of-demand.asp
 author: Jason Fernando
 ---

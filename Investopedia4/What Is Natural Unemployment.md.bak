@@ -1,7 +1,7 @@
 ---
 alias: [Natural Unemployment]
 created: 2021-03-02T21:34:25 (UTC +11:00)
-tags: [Natural [[Unemployment]] Definition, [[What Is Natural Unemployment]]?]
+tags: [Natural Unemployment Definition, [[What Is Natural Unemployment]]?]
 source: https://www.investopedia.com/terms/n/naturalunemployment.asp
 author: Julia Kagan
 ---

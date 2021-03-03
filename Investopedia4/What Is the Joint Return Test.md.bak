@@ -1,7 +1,7 @@
 ---
 alias: [Joint [[Return]] Test]
 created: 2021-03-02T21:00:35 (UTC +11:00)
-tags: [Joint [[Return]] Test Definition, [[What Is the Joint Return Test]]?]
+tags: [Joint Return Test Definition, [[What Is the Joint Return Test]]?]
 source: https://www.investopedia.com/terms/j/[[Joint|joint]]-[[Return|return]]-test.asp
 author: Julia Kagan
 ---

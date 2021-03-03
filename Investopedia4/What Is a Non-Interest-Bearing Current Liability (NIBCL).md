@@ -1,7 +1,7 @@
 ---
 alias: [Non-Interest-Bearing Current [[Liability]], NIBCL]
 created: 2021-03-02T21:45:57 (UTC +11:00)
-tags: [Non-Interest-Bearing Current Liability (NIBCL) Definition, [[What Is a Non-Interest-Bearing Current Liability (NIBCL)]]?]
+tags: [Non-Interest-Bearing Current Liability (NIBCL) Definition, What Is a Non-Interest-Bearing Current Liability (NIBCL)?]
 source: https://www.investopedia.com/terms/n/nibcl.asp
 author: [[Will]] Kenton
 ---

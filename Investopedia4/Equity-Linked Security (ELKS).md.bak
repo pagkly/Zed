@@ -1,7 +1,7 @@
 ---
 alias: [Equity-Linked [[Security]], ELKS]
 created: 2021-03-02T19:42:12 (UTC +11:00)
-tags: [Equity-Linked [[Security]] (ELKS) Definition, [[Equity]]-Linked Security (ELKS)]
+tags: [Equity-Linked Security (ELKS) Definition, [[Equity]]-Linked Security (ELKS)]
 source: https://www.investopedia.com/terms/e/[[Equity|equity]]-linked-[[Security|security]].asp
 author: James Chen
 ---

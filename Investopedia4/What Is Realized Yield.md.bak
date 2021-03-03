@@ -1,7 +1,7 @@
 ---
 alias: [What Is Realized [[Yield]]?]
 created: 2021-03-02T23:09:59 (UTC +11:00)
-tags: [What Is Realized [[Yield]]?, [[What Is Realized Yield]]?]
+tags: [What Is Realized Yield?, [[What Is Realized Yield]]?]
 source: https://www.investopedia.com/terms/r/realizedyield.asp
 author: James Chen
 ---

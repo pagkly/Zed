@@ -1,7 +1,7 @@
 ---
 alias: [Nonfarm Payroll]
 created: 2021-03-02T21:45:57 (UTC +11:00)
-tags: [Nonfarm Payroll Definition, [[What Are Nonfarm Payrolls]]?]
+tags: [Nonfarm Payroll Definition, What Are Nonfarm Payrolls?]
 source: https://www.investopedia.com/terms/n/nonfarmpayroll.asp
 author: James Chen
 ---

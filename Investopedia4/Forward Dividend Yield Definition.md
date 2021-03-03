@@ -1,7 +1,7 @@
 ---
 alias: [Forward Dividend Yield]
 created: 2021-03-02T20:05:34 (UTC +11:00)
-tags: [Forward Dividend Yield Definition, Forward Dividend [[Yield]] Definition]
+tags: [Forward Dividend Yield Definition, Forward Dividend Yield Definition]
 source: https://www.investopedia.com/terms/f/forward-dividend-[[Yield|yield]].asp
 author: James Chen
 ---

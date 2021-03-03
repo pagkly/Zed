@@ -1,7 +1,7 @@
 ---
 alias: [Underlying Debt]
 created: 2021-03-03T00:17:15 (UTC +11:00)
-tags: [Underlying Debt Definition, [[Underlying]] Debt Definition]
+tags: [Underlying Debt Definition, Underlying Debt Definition]
 source: https://www.investopedia.com/terms/u/[[Underlying|underlying]]-[[Debt|debt]].asp
 author: James Chen
 ---

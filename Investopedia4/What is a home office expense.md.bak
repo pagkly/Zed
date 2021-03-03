@@ -1,7 +1,7 @@
 ---
 alias: [Home Office Expense]
 created: 2021-03-02T20:47:36 (UTC +11:00)
-tags: [Home Office [[Expense Definition]], [[What is a home office expense]]?]
+tags: [Home Office Expense Definition, [[What is a home office expense]]?]
 source: https://www.investopedia.com/terms/h/homeofficeexpense.asp
 author: Julia Kagan
 ---

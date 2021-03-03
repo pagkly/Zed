@@ -1,7 +1,7 @@
 ---
 alias: [Effective Yield]
 created: 2021-03-02T19:33:21 (UTC +11:00)
-tags: [Effective [[Yield]] Definition, [[What Is the Effective Yield]]?]
+tags: [Effective Yield Definition, [[What Is the Effective Yield]]?]
 source: https://www.investopedia.com/terms/e/effectiveyield.asp
 author: James Chen
 ---

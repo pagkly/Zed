@@ -1,7 +1,7 @@
 ---
 alias: [Roll-Down Return]
 created: 2021-03-02T23:27:48 (UTC +11:00)
-tags: [Roll-Down Return Definition, [[What Is a Roll-Down Return for a Bond]]?]
+tags: [Roll-Down Return Definition, What Is a Roll-Down Return for a Bond?]
 source: https://www.investopedia.com/terms/r/rolldownreturn.asp
 author: James Chen
 ---

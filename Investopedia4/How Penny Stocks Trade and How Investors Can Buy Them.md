@@ -1,7 +1,7 @@
 ---
 alias: [Penny Stock]
 created: 2021-03-02T22:40:13 (UTC +11:00)
-tags: [Penny Stock Definition, How Penny [[Stocks]] Trade and How Investors Can Buy Them]
+tags: [Penny Stock Definition, How Penny Stocks Trade and How Investors Can Buy Them]
 source: https://www.investopedia.com/terms/p/pennystock.asp
 author: Chris B. Murphy
 ---

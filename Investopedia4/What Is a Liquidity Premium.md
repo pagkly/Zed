@@ -1,7 +1,7 @@
 ---
 alias: [Liquidity Premium]
 created: 2021-03-02T21:21:48 (UTC +11:00)
-tags: [Liquidity Premium Definition, [[What Is a Liquidity Premium]]?]
+tags: [Liquidity Premium Definition, What Is a Liquidity Premium?]
 source: https://www.investopedia.com/terms/l/liquiditypremium.asp
 author: James Chen
 ---

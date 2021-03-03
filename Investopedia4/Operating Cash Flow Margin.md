@@ -1,7 +1,7 @@
 ---
 alias: [Operating [[Cash Flow]] Margin]
 created: 2021-03-02T22:22:12 (UTC +11:00)
-tags: [Operating Cash Flow [[Margin Definition]], Operating Cash Flow Margin]
+tags: [Operating Cash Flow Margin Definition, Operating Cash Flow Margin]
 source: https://www.investopedia.com/terms/o/operating-cash-flow-margin.asp
 author: [[Will]] Kenton
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Deferred Tax Liability]
 created: 2021-03-02T19:13:34 (UTC +11:00)
-tags: [Deferred Tax Liability Definition, [[What Is Deferred Tax Liability]]?]
+tags: [Deferred Tax Liability Definition, What Is Deferred Tax Liability?]
 source: https://www.investopedia.com/terms/d/deferredtaxliability.asp
 author: Julia Kagan
 ---

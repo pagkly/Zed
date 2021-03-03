@@ -1,7 +1,7 @@
 ---
 alias: [Gift Tax Return]
 created: 2021-03-02T20:18:44 (UTC +11:00)
-tags: [Gift [[Tax Return]] Definition, What is a [[Gift Tax|gift tax]] return]
+tags: [Gift Tax Return Definition, What is a [[Gift Tax|gift tax]] return]
 source: https://www.investopedia.com/terms/g/gift-tax-[[Return|return]].asp
 author: Julia Kagan
 ---

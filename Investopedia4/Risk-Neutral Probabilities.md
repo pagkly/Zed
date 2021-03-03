@@ -1,7 +1,7 @@
 ---
 alias: [Risk-[[Neutral]] Probabilities]
 created: 2021-03-02T23:25:41 (UTC +11:00)
-tags: [Risk-Neutral Probabilities, [[Risk]]-Neutral Probabilities]
+tags: [Risk-Neutral Probabilities, Risk-Neutral Probabilities]
 source: https://www.investopedia.com/terms/r/[[Risk|risk]]-[[Neutral|neutral]]-probabilities.asp
 author: James Chen
 ---

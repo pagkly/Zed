@@ -1,7 +1,7 @@
 ---
 alias: [Currency Swap]
 created: 2021-03-02T19:04:56 (UTC +11:00)
-tags: [Currency Swap Definition, [[How Does a Currency Swap Work]]?]
+tags: [Currency Swap Definition, How Does a Currency Swap Work?]
 source: https://www.investopedia.com/terms/c/currencyswap.asp
 author: Troy Segal
 ---

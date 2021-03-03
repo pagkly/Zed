@@ -1,7 +1,7 @@
 ---
 alias: [Risk-Free Rate Of Return]
 created: 2021-03-02T23:25:41 (UTC +11:00)
-tags: [Risk-Free Rate Of Return Definition, [[Risk]]-Free Rate Of Return Definition]
+tags: [Risk-Free Rate Of Return Definition, Risk-Free Rate Of Return Definition]
 source: https://www.investopedia.com/terms/r/[[Risk|risk]]-freerate.asp
 author: James Chen
 ---

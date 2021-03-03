@@ -1,7 +1,7 @@
 ---
 alias: [Risk-On [[Risk]]-Off]
 created: 2021-03-02T23:25:41 (UTC +11:00)
-tags: [Risk-On [[Risk]]-Off Definition, [[What Is Risk-On Risk-Off]]?]
+tags: [Risk-On Risk-Off Definition, [[What Is Risk-On Risk-Off]]?]
 source: https://www.investopedia.com/terms/r/[[Risk|risk]]-on-risk-off.asp
 author: Adam Hayes
 ---

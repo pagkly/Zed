@@ -1,7 +1,7 @@
 ---
 alias: [Repackaging in Private Equity]
 created: 2021-03-02T23:16:47 (UTC +11:00)
-tags: [Repackaging in [[Private Equity Definition]], [[What Is Repackaging in Private Equity]]?]
+tags: [Repackaging in Private Equity Definition, [[What Is Repackaging in Private Equity]]?]
 source: https://www.investopedia.com/terms/r/repackaging.asp
 author: Carol M. Kopp
 ---

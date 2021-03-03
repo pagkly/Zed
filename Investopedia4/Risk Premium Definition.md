@@ -1,7 +1,7 @@
 ---
 alias: [Risk Premium]
 created: 2021-03-02T23:25:42 (UTC +11:00)
-tags: [Risk Premium, [[Risk]] Premium Definition]
+tags: [Risk Premium, Risk Premium Definition]
 source: https://www.investopedia.com/terms/r/riskpremium.asp
 author: Adam Hayes
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Next of Kin]
 created: 2021-03-02T21:43:52 (UTC +11:00)
-tags: [Next of [[Kin]] Definition, [[Do You Know Who Your Next of Kin Is]]?]
+tags: [Next of Kin Definition, [[Do You Know Who Your Next of Kin Is]]?]
 source: https://www.investopedia.com/terms/n/next-of-[[Kin|kin]].asp
 author: Troy Segal
 ---

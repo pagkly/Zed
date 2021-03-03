@@ -1,7 +1,7 @@
 ---
 alias: [Gross Profit Margin]
 created: 2021-03-02T20:30:09 (UTC +11:00)
-tags: [Gross Profit Margin Definition, Why Gross [[Profit Margin]] Matters]
+tags: [Gross Profit Margin Definition, Why Gross Profit Margin Matters]
 source: https://www.investopedia.com/terms/g/gross_profit_margin.asp
 author: Andrew Bloomenthal
 ---

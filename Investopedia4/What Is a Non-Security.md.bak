@@ -1,7 +1,7 @@
 ---
 alias: [Non-Security]
 created: 2021-03-02T21:48:20 (UTC +11:00)
-tags: [Non-[[Security]] Definition, [[What Is a Non-Security]]?]
+tags: [Non-Security Definition, [[What Is a Non-Security]]?]
 source: https://www.investopedia.com/terms/n/non-[[Security|security]].asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Tax Lien]
 created: 2021-03-02T23:54:21 (UTC +11:00)
-tags: [Tax Lien Definition, [[How Does a Tax Lien Work]]?]
+tags: [Tax Lien Definition, How Does a Tax Lien Work?]
 source: https://www.investopedia.com/terms/t/taxlien.asp
 author: Julia Kagan
 ---

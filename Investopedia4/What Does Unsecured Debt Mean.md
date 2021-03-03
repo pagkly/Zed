@@ -1,7 +1,7 @@
 ---
 alias: [Unsecured Debt]
 created: 2021-03-03T00:25:52 (UTC +11:00)
-tags: [Unsecured Debt Definition, [[What Does Unsecured Debt Mean]]?]
+tags: [Unsecured Debt Definition, What Does Unsecured Debt Mean?]
 source: https://www.investopedia.com/terms/u/unsecureddebt.asp
 author: Jason Fernando
 ---

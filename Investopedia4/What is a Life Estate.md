@@ -1,7 +1,7 @@
 ---
 alias: [Life Estate]
 created: 2021-03-02T21:17:40 (UTC +11:00)
-tags: [Life Estate Definition, [[What is a Life Estate]]?]
+tags: [Life Estate Definition, What is a Life Estate?]
 source: https://www.investopedia.com/terms/l/life-[[Estate|estate]].asp
 author: Julia Kagan
 ---

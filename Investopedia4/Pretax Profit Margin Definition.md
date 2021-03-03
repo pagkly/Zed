@@ -1,7 +1,7 @@
 ---
 alias: [Pretax Profit Margin]
 created: 2021-03-02T22:49:50 (UTC +11:00)
-tags: [Pretax Profit Margin Definition, Pretax [[Profit Margin]] Definition]
+tags: [Pretax Profit Margin Definition, Pretax Profit Margin Definition]
 source: https://www.investopedia.com/terms/p/pretax-margin.asp
 author: Daniel Liberto
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Supply Chain Finance]
 created: 2021-03-02T23:47:47 (UTC +11:00)
-tags: [Supply Chain Finance Definition, [[Supply]] Chain Finance: What You Should Know]
+tags: [Supply Chain Finance Definition, Supply Chain Finance: What You Should Know]
 source: https://www.investopedia.com/terms/s/[[Supply|supply]]-chain-[[Finance|finance]].asp
 author: Andrew Bloomenthal
 ---

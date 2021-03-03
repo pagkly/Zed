@@ -1,7 +1,7 @@
 ---
 alias: [Risk Neutral]
 created: 2021-03-02T23:25:41 (UTC +11:00)
-tags: [Risk Neutral Definition, [[Risk]] Neutral Definition]
+tags: [Risk Neutral Definition, Risk Neutral Definition]
 source: https://www.investopedia.com/terms/r/riskneutral.asp
 author: Gordon Scott
 ---

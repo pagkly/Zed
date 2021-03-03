@@ -1,7 +1,7 @@
 ---
 alias: [Risk-Adjusted Return]
 created: 2021-03-02T23:23:35 (UTC +11:00)
-tags: [Risk-Adjusted [[Return]] Definition, [[Risk]]-Adjusted Return Definition]
+tags: [Risk-Adjusted Return Definition, [[Risk]]-Adjusted Return Definition]
 source: https://www.investopedia.com/terms/r/riskadjustedreturn.asp
 author: James Chen
 ---

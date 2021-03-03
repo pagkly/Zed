@@ -1,7 +1,7 @@
 ---
 alias: [Equity Derivative]
 created: 2021-03-02T19:39:55 (UTC +11:00)
-tags: [Equity [[Derivative]] Definition, [[Equity]] Derivative Definition]
+tags: [Equity Derivative Definition, [[Equity]] Derivative Definition]
 source: https://www.investopedia.com/terms/e/equity_derivative.asp
 author: James Chen
 ---

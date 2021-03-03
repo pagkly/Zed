@@ -1,7 +1,7 @@
 ---
 alias: [Capital Stock]
 created: 2021-03-02T18:46:50 (UTC +11:00)
-tags: [Capital [[Stock]] Definition, [[What Is Capital Stock]]?]
+tags: [Capital Stock Definition, [[What Is Capital Stock]]?]
 source: https://www.investopedia.com/terms/c/capitalstock.asp
 author: Akhilesh Ganti
 ---

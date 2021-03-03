@@ -1,7 +1,7 @@
 ---
 alias: [Qualified Trust]
 created: 2021-03-02T23:01:00 (UTC +11:00)
-tags: [Qualified Trust Definition, [[What Is a Qualified Trust]]?]
+tags: [Qualified Trust Definition, What Is a Qualified Trust?]
 source: https://www.investopedia.com/terms/q/qualifiedtrust.asp
 author: Julia Kagan
 ---

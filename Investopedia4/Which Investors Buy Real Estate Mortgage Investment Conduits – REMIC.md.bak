@@ -1,7 +1,7 @@
 ---
 alias: [Real [[Estate]] Mortgage Investment Conduit – REMIC]
 created: 2021-03-02T23:07:34 (UTC +11:00)
-tags: [Real [[Estate]] Mortgage Investment Conduit – REMIC Definition, [[Which Investors Buy Real Estate Mortgage Investment Conduits – REMIC]]?]
+tags: [Real Estate Mortgage Investment Conduit – REMIC Definition, [[Which Investors Buy Real Estate Mortgage Investment Conduits – REMIC]]?]
 source: https://www.investopedia.com/terms/r/remic.asp
 author: Maya E. Dollarhide
 ---

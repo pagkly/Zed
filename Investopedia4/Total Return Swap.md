@@ -1,7 +1,7 @@
 ---
 alias: [Total [[Return]] Swap]
 created: 2021-03-03T00:04:43 (UTC +11:00)
-tags: [Total Return [[Swap]] Definition, Total Return Swap]
+tags: [Total Return Swap Definition, Total Return Swap]
 source: https://www.investopedia.com/terms/t/totalreturnswap.asp
 author: Lucas Downey
 ---

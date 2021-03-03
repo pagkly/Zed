@@ -1,7 +1,7 @@
 ---
 alias: [Transfer of Risk]
 created: 2021-03-03T00:06:44 (UTC +11:00)
-tags: [Transfer of Risk Definition, [[What Is Transfer of Risk]]?]
+tags: [Transfer of Risk Definition, What Is Transfer of Risk?]
 source: https://www.investopedia.com/terms/t/transferofrisk.asp
 author: Julia Kagan
 ---

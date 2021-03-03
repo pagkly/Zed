@@ -1,7 +1,7 @@
 ---
 alias: [Technical Analysis of [[Stocks]] and Trends]
 created: 2021-03-02T23:56:25 (UTC +11:00)
-tags: [Technical Analysis of [[Stocks]] and Trends Definition, [[Technical Analysis]] of Stocks and Trends]
+tags: [Technical Analysis of Stocks and Trends Definition, [[Technical Analysis]] of Stocks and Trends]
 source: https://www.investopedia.com/terms/t/technical-analysis-of-[[Stocks|stocks]]-and-trends.asp
 author: James Chen
 ---

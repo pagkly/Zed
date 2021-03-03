@@ -1,7 +1,7 @@
 ---
 alias: [Yield Curve Risk]
 created: 2021-03-03T01:08:28 (UTC +11:00)
-tags: [Yield Curve [[Risk]] Definition, [[What is Yield Curve Risk]]?]
+tags: [Yield Curve Risk Definition, [[What is Yield Curve Risk]]?]
 source: https://www.investopedia.com/terms/[[Y|y]]/yieldcurverisk.asp
 author: James Chen
 ---

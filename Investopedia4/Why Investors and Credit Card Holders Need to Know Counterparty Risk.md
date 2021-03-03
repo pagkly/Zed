@@ -1,7 +1,7 @@
 ---
 alias: [Counterparty Risk]
 created: 2021-03-02T19:02:28 (UTC +11:00)
-tags: [Counterparty Risk Definition, Why Investors and Credit Card Holders Need to Know [[Counterparty]] Risk]
+tags: [Counterparty Risk Definition, Why Investors and Credit Card Holders Need to Know Counterparty Risk]
 source: https://www.investopedia.com/terms/c/counterpartyrisk.asp
 author: Chris B. Murphy
 ---

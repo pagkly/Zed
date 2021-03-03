@@ -1,7 +1,7 @@
 ---
 alias: [Reinvestment Risk]
 created: 2021-03-02T23:14:43 (UTC +11:00)
-tags: [Reinvestment Risk Definition, [[What Is Reinvestment Risk]]?]
+tags: [Reinvestment Risk Definition, What Is Reinvestment Risk?]
 source: https://www.investopedia.com/terms/r/reinvestmentrisk.asp
 author: Jason Fernando
 ---

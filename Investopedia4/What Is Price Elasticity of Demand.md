@@ -1,7 +1,7 @@
 ---
 alias: [Price Elasticity of Demand]
 created: 2021-03-02T19:15:54 (UTC +11:00)
-tags: [Price Elasticity of Demand Definition, [[What Is Price Elasticity of Demand]]?]
+tags: [Price Elasticity of Demand Definition, What Is Price Elasticity of Demand?]
 source: https://www.investopedia.com/terms/p/priceelasticity.asp
 author:  Staff Author
 ---

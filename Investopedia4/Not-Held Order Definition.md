@@ -1,7 +1,7 @@
 ---
 alias: [Not-Held Order]
 created: 2021-03-02T21:50:23 (UTC +11:00)
-tags: [Not-Held Order Definition, Not-[[Held Order]] Definition]
+tags: [Not-Held Order Definition, Not-Held Order Definition]
 source: https://www.investopedia.com/terms/n/notheldorder.asp
 author: Akhilesh Ganti
 ---

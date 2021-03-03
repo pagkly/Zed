@@ -1,7 +1,7 @@
 ---
 alias: [External Economies of Scale]
 created: 2021-03-02T19:50:25 (UTC +11:00)
-tags: [External Economies of Scale Definition, [[What Are External Economies of Scale]]?]
+tags: [External Economies of Scale Definition, What Are External Economies of Scale?]
 source: https://www.investopedia.com/terms/e/externaleconomiesofscale.asp
 author: Troy Segal
 ---

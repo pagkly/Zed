@@ -1,7 +1,7 @@
 ---
 alias: [Loan Life [[Coverage Ratio]] – LLCR]
 created: 2021-03-02T21:23:50 (UTC +11:00)
-tags: [Loan Life [[Coverage Ratio]] – LLCR Definition, What the [[Loan]] Life Coverage Ratio (LLCR) Measures]
+tags: [Loan Life Coverage Ratio – LLCR Definition, What the [[Loan]] Life Coverage Ratio (LLCR) Measures]
 source: https://www.investopedia.com/terms/l/llcr.asp
 author: Adam Hayes
 ---

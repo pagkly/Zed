@@ -1,7 +1,7 @@
 ---
 alias: [Loan Credit [[Default]] [[Swap]], LCDS]
 created: 2021-03-02T21:23:50 (UTC +11:00)
-tags: [Loan Credit [[Default]] [[Swap]] (LCDS) Definition, [[Loan]] Credit Default Swap (LCDS) Definition]
+tags: [Loan Credit Default [[Swap]] (LCDS) Definition, [[Loan]] Credit Default Swap (LCDS) Definition]
 source: https://www.investopedia.com/terms/l/[[Loan|loan]]-credit-[[Default|default]]-[[Swap|swap]].asp
 author: James Chen
 ---
