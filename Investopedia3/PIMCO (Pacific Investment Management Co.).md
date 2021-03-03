@@ -24,7 +24,7 @@ PIMCO specializes in [fixed income](https://www.investopedia.com/terms/f/fixedin
 
 ### PIMCO's History
 
-PIMCO was founded in 1971 in Newport Beach, California, by Bill Gross, Jim Muzzy, and Bill Podlich. The firm launched with a total of $12 million in assets and the belief that [bonds](https://www.investopedia.com/terms/b/bond.asp) should be actively traded to enhance [returns](https://www.investopedia.com/terms/r/return.asp).
+PIMCO was founded in 1971 in Newport Beach, California, by [[Bill Gross]], Jim Muzzy, and Bill Podlich. The firm launched with a total of $12 million in assets and the belief that [bonds](https://www.investopedia.com/terms/b/bond.asp) should be actively traded to enhance [returns](https://www.investopedia.com/terms/r/return.asp).
 
 ### Key Takeaways
 

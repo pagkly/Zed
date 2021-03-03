@@ -42,7 +42,7 @@ Product refers to an item or items the business plans to offer to customers. The
 
 ### Price
 
-Price refers to how much the company will sell the product for. When establishing a price, companies must consider the unit cost price, marketing costs, and distribution expenses. Companies must also consider the price of competing products in the marketplace and whether their proposed price point is sufficient to represent a reasonable alternative for consumers.
+Price refers to how much the company will sell the product for. When establishing a price, companies must consider the [[Analyzing Unit Cost|unit cost]] price, marketing costs, and distribution expenses. Companies must also consider the price of competing products in the marketplace and whether their proposed price point is sufficient to represent a reasonable alternative for consumers.
 
 ### Place
 

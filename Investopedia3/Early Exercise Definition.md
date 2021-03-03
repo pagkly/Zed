@@ -40,7 +40,7 @@ Another reason for early exercise may be a pending [ex-dividend](https://www.inv
 
 ## Employee Options
 
-There is another type of early exercise that pertains to [company awarded stock options](https://www.investopedia.com/terms/e/eso.asp) (ESO) given to employees. If the particular plan allows, employees may exercise their awarded stock options before they become [fully vested](https://www.investopedia.com/terms/f/fully-vested.asp) employees. A person may choose this option to obtain a more favorable tax treatment.
+There is another type of early exercise that pertains to [company awarded stock options](https://www.investopedia.com/terms/e/eso.asp) ([[Define Employee Stock Option (ESO)|ESO]]) given to employees. If the particular plan allows, employees may exercise their awarded stock options before they become [fully vested](https://www.investopedia.com/terms/f/fully-vested.asp) employees. A person may choose this option to obtain a more favorable tax treatment.
 
 However, the employee will have to foot the cost to buy the shares before taking full vested ownership. Also, any purchased shares must still follow the vesting schedule of the company's plan.
 

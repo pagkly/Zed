@@ -49,7 +49,7 @@ Direct costs are fairly straightforward in determining their cost object. For ex
 
 ## Fixed vs. Variable
 
-Direct costs do not need to be fixed in nature, as their unit cost may change over time or depending on the quantity being utilized. An example is the salary of a supervisor that worked on a single project. This cost may be directly attributed to the project and relates to a fixed dollar amount. Materials that were used to build the product, such as wood or gasoline, might be directly traced but do not contain a fixed dollar amount. This is because the quantity of the supervisor's salary is known, while the unit production levels are variable based upon sales.
+Direct costs do not need to be fixed in nature, as their [[Analyzing Unit Cost|unit cost]] may change over time or depending on the quantity being utilized. An example is the salary of a supervisor that worked on a single project. This cost may be directly attributed to the project and relates to a fixed dollar amount. Materials that were used to build the product, such as wood or gasoline, might be directly traced but do not contain a fixed dollar amount. This is because the quantity of the supervisor's salary is known, while the unit production levels are variable based upon sales.
 
 ## Inventory Valuation Measurement
 

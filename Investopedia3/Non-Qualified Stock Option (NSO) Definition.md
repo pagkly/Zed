@@ -16,7 +16,7 @@ author: James Chen
 Non-Qualified Stock Option (NSO) Definition
 ## What Is a Non-Qualified Stock Option (NSO)?
 
-A non-qualified stock option (NSO) is a type of [employee stock option](https://www.investopedia.com/terms/e/eso.asp) wherein you pay ordinary income tax on the difference between the grant price and the price at which you exercise the option.1
+A non-qualified stock option (NSO) is a type of [[[Define Employee Stock Option (ESO)|employee stock option]]](https://www.investopedia.com/terms/e/eso.asp) wherein you pay ordinary income tax on the difference between the grant price and the price at which you exercise the option.1
 
 ### Key Takeaways
 

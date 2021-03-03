@@ -54,7 +54,7 @@ Fidelity Management & Research Company was founded in 1946 by Edward C. Johnson 
 
 ### Pacific Investment Management Company, LLC
 
-Global asset management firm Pacific Investment Management Company LLC (PIMCO) was co-founded in 1971, in Newport Beach, California, by bond king Bill Gross. Since its inception, PIMCO has grown its assets under management (AUM) to $2.02 trillion as of September 2020, the most recently available information.4 The firm houses over 775 investment professionals, each averaging 14 years of investment experience. With over 100 funds under its banner, PIMCO is widely regarded as a leader in the fixed income sector.
+Global asset management firm Pacific Investment Management Company LLC (PIMCO) was co-founded in 1971, in Newport Beach, California, by bond king [[Bill Gross]]. Since its inception, PIMCO has grown its assets under management (AUM) to $2.02 trillion as of September 2020, the most recently available information.4 The firm houses over 775 investment professionals, each averaging 14 years of investment experience. With over 100 funds under its banner, PIMCO is widely regarded as a leader in the fixed income sector.
 
 ### Invesco Ltd.
 

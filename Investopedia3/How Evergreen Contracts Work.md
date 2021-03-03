@@ -32,7 +32,7 @@ One of the details the parties sign off on in a contract is the term, or the len
 
 Most evergreen contracts come with a 60 to 90 day renewal period before it renews.
 
-Evergreen clauses can be used in different kinds of contracts, including employee stock option schemes, dividend reinvestment plans ([DRIPs](https://www.investopedia.com/terms/d/dividendreinvestmentplan.asp)), rental lease agreements, guaranteed investment certificate (GIC), healthcare plans, insurance coverage policies, magazines subscriptions, and [revolving loans](https://www.investopedia.com/terms/g/gic.asp).
+Evergreen clauses can be used in different kinds of contracts, including [[Define Employee Stock Option (ESO)|employee stock option]] schemes, dividend reinvestment plans ([DRIPs](https://www.investopedia.com/terms/d/dividendreinvestmentplan.asp)), rental lease agreements, guaranteed investment certificate (GIC), healthcare plans, insurance coverage policies, magazines subscriptions, and [revolving loans](https://www.investopedia.com/terms/g/gic.asp).
 
 ## How to Cancel an Evergreen Contract
 
@@ -48,7 +48,7 @@ For example, an [investor](https://www.investopedia.com/terms/i/investor.asp) wi
 
 Many different contracts contain evergreen clauses. These examples are by no means an exhaustive list of evergreen contracts.
 
-Some employee stock option plans provide an evergreen option where additional shares are automatically included in the plan annually. These plans are used to attract and retain quality employees who are incentivized to grow the company. Evergreen options are renewed every year and remain active unless the board of directors decides to terminate them.
+Some [[Define Employee Stock Option (ESO)|employee stock option]] plans provide an evergreen option where additional shares are automatically included in the plan annually. These plans are used to attract and retain quality employees who are incentivized to grow the company. Evergreen options are renewed every year and remain active unless the board of directors decides to terminate them.
 
 An evergreen rental lease term is structured to renew automatically at the end of the term. It is then rolled over to another term with a similar period or activated on a month-to-month basis. For example, a tenant who signs an evergreen lease with their landlord must live in the property for a year, after which the contract becomes an indefinite month-to-month live-in arrangement. During the monthly auto-renewal period, both parties can break the agreement. 
 

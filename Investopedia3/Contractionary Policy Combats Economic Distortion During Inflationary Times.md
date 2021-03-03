@@ -16,7 +16,7 @@ author: Andrew Bloomenthal
 Contractionary Policy Combats Economic Distortion During Inflationary Times
 ## What Is a Contractionary Policy?
 
-Contractionary policy is a monetary measure referring either to a reduction in government spending—particularly deficit spending—or a reduction in the rate of monetary expansion by a central bank. It is a type of macroeconomic tool designed to combat rising inflation or other economic distortions created by central banks or government interventions. Contractionary policy is the polar opposite of [expansionary policy](https://www.investopedia.com/terms/e/expansionary_policy.asp).
+Contractionary policy is a monetary measure referring either to a reduction in government spending—particularly [[Deficit Spending]]—or a reduction in the rate of monetary expansion by a central bank. It is a type of macroeconomic tool designed to combat rising inflation or other economic distortions created by central banks or government interventions. Contractionary policy is the polar opposite of [expansionary policy](https://www.investopedia.com/terms/e/expansionary_policy.asp).
 
 #### What Is Contractionary Policy?
 
