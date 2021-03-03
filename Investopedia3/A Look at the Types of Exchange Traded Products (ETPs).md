@@ -58,7 +58,7 @@ Pros
     
 -   ETPs are usually a low-cost alternative to mutual funds and actively-managed funds.
     
--   Many ETPs, particularly ETFs are gaining in popularity providing additional liquidity.
+-   Many ETPs, particularly ETFs are gaining in popularity providing additional [[Investopedia3/Liquidity]].
     
 
 Cons
@@ -67,7 +67,7 @@ Cons
     
 -   Some ETPs behave like debt instruments such as ETNs.
     
--   ETPs are popular products but have varying trading volumes which can affect liquidity.
+-   ETPs are popular products but have varying trading volumes which can affect [[Investopedia3/Liquidity]].
     
 
 ## Growth of Exchange-Traded Products

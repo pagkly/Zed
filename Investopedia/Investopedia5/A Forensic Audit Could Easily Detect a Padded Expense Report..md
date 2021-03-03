@@ -82,7 +82,7 @@ Asset misappropriation is the most prevalent form of fraud. Examples include: mi
 
 ### Financial Statement Fraud
 
-A company can get into this type of fraud to try to show that its financial performance is better than it is. The goal of presenting fraudulent numbers may be to improve liquidity, ensure that [C-level](https://www.investopedia.com/terms/c/c-suite.asp) executives continue to receive bonuses, or cope with the pressure to perform.
+A company can get into this type of fraud to try to show that its financial performance is better than it is. The goal of presenting fraudulent numbers may be to improve [[Investopedia3/Liquidity]], ensure that [C-level](https://www.investopedia.com/terms/c/c-suite.asp) executives continue to receive bonuses, or cope with the pressure to perform.
 
 ## Example of a Forensic Audit Case
 
