@@ -1,7 +1,7 @@
 ---
 alias: [Private Equity]
 created: 2021-03-02T22:52:18 (UTC +11:00)
-tags: [Private [[Equity]] Definition, Private Equity Definition]
+tags: [Private Equity Definition, Private Equity Definition]
 source: https://www.investopedia.com/terms/p/privateequity.asp
 author: James Chen
 ---

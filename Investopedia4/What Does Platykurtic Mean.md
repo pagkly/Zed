@@ -44,7 +44,7 @@ For this reason, more cautious investors might avoid investing in leptokurtic ma
 
 ## Real World Example of a Platykurtic Distribution
 
-In 2011, Morningstar published a [[research paper](http://morningstardirect.morningstar.com/clientcomm/iss/Tsai_Real_World_Not_Normal.pdf) that featured information on the excess kurtosis levels of different types of assets, as observed between Feb. 1994 and June 2011. The list included a wide range of investments, from U.S. and international equities to [real estate]](https://www.investopedia.com/terms/r/realestate.asp), [[commodities]](https://www.investopedia.com/terms/c/commodity.asp), cash, and [[bonds]](https://www.investopedia.com/terms/b/bond.asp).
+In 2011, Morningstar published a [[research paper](http://morningstardirect.morningstar.com/clientcomm/iss/Tsai_Real_World_Not_Normal.pdf) that featured information on the excess kurtosis levels of different types of assets, as observed between Feb. 1994 and June 2011. The list included a wide range of investments, from U.S. and international equities to [[real estate]]](https://www.investopedia.com/terms/r/realestate.asp), [[commodities]](https://www.investopedia.com/terms/c/commodity.asp), cash, and [[bonds]](https://www.investopedia.com/terms/b/bond.asp).
 
 The levels of excess [[Kurtosis|kurtosis]] were similarly varied. On the low end of the spectrum were cash and international bonds, which had excess kurtosis of -1.43 and 0.58, respectively. On the other end of the spectrum were U.S. high-[[Yield|yield]] bonds and [[hedge-fund arbitrage strategies]](https://www.investopedia.com/articles/investing/111313/multiple-strategies-[[Hedge|hedge]]-funds.asp), [[Offering|offering]] excess kurtosis of 9.33 and 22.59.
 

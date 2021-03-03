@@ -32,7 +32,7 @@ Individuals who have earned the CRPC designation report a 9% increase in earning
 
 ## Chartered [[Retirement Planning]] Counselor Program Details
 
-As of 2020, the cost of the CRPC training course is $1,300, though individuals who are currently employed in the financial services industry may be eligible for a discount. Training is on an open enrollment basis, meaning individuals may enroll and start at any time.3 Live classes are offered but are not compulsory. Candidates must pass the program's final examination within one year of enrollment and take the exam within six months of enrolling. If unsuccessful, additional test attempts [[Will|will]] cost $100 each. For more information, see the College for Financial Planning's [[CRPC informational page](http://www.cffpinfo.com/crpc#course-details). To enroll, follow [this link]](https://order.cffp.edu/program/enroll/591435054).
+As of 2020, the cost of the CRPC training course is $1,300, though individuals who are currently employed in the financial services industry may be eligible for a discount. Training is on an open enrollment basis, meaning individuals may enroll and start at any time.3 Live classes are offered but are not compulsory. Candidates must pass the program's final examination within one year of enrollment and take the exam within six months of enrolling. If unsuccessful, additional test attempts [[Will|will]] cost $100 each. For more information, see the College for Financial Planning's [[CRPC informational page](http://www.cffpinfo.com/crpc#course-details). To enroll, follow [[this link]]](https://order.cffp.edu/program/enroll/591435054).
 
 CRPC program course topics include:
 

@@ -3,7 +3,7 @@ alias: [Downside Risk]
 created: 2021-03-02T19:26:48 (UTC +11:00)
 tags: [Downside Risk Definition, A Downside Risk Estimate]
 source: https://www.investopedia.com/terms/d/downsiderisk.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Downside [[Risk]] Definition

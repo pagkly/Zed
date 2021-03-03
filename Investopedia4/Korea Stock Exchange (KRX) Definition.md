@@ -38,7 +38,7 @@ Today, investors can trade various instruments on the exchange including [[Stock
 
 ## How Does the Korea [[Stock]] Exchange Work?
 
-In 2019, [[the KRX listed 2194 companies](http://global.krx.co.kr/main/main.jsp) with a combined [market capitalization (market cap)]](https://www.investopedia.com/terms/m/marketcapitalization.asp) of $1.9 trillion. Normal trading sessions look the same as those of other major [[Stock|stock]] markets around the world. Trading opens at 9:00 a.m. and closes at 3:30 p.m. The market is open every day of the week except Saturday, Sunday and holidays (of which there are 13 in 2020). As with the [[S&P 500]](https://www.investopedia.com/terms/s/sp500.asp) in the United States, an index, the [[Korea Composite Stock Price Index (KOSPI)]](https://www.investopedia.com/terms/k/kospi.asp) tracks the health of the exchange.
+In 2019, [[the KRX listed 2194 companies](http://global.krx.co.kr/main/main.jsp) with a combined [[market capitalization (market cap)]]](https://www.investopedia.com/terms/m/marketcapitalization.asp) of $1.9 trillion. Normal trading sessions look the same as those of other major [[Stock|stock]] markets around the world. Trading opens at 9:00 a.m. and closes at 3:30 p.m. The market is open every day of the week except Saturday, Sunday and holidays (of which there are 13 in 2020). As with the [[S&P 500]](https://www.investopedia.com/terms/s/sp500.asp) in the United States, an index, the [[Korea Composite Stock Price Index (KOSPI)]](https://www.investopedia.com/terms/k/kospi.asp) tracks the health of the exchange.
 
 ## The Korea Composite [[Stock]] Price Index (KOSPI)
 

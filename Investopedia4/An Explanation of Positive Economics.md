@@ -52,7 +52,7 @@ In 2015, Seattle passed a local ordinance to increase the minimum wage for worke
 
 ### The California Study
 
-A study by researchers from the [[University of California-Berkeley](http://irle.berkeley.edu/files/2018/09/The-New-Wave-of-Local-Minimum-Wage-Policies.pdf) focused specifically on restaurant employees, while another study by researchers from the [University of Washington]](https://evans.uw.edu/sites/[[Default|default]]/files/NBER%20Working%20Paper.pdf) examined [[Unemployment|unemployment]] numbers.
+A study by researchers from the [[University of California-Berkeley](http://irle.berkeley.edu/files/2018/09/The-New-Wave-of-Local-Minimum-Wage-Policies.pdf) focused specifically on restaurant employees, while another study by researchers from the [[University of Washington]]](https://evans.uw.edu/sites/[[Default|default]]/files/NBER%20Working%20Paper.pdf) examined [[Unemployment|unemployment]] numbers.
 
 The California researchers found that for every 10% increase in Seattle's minimum wage, employees of fast food restaurants saw a 2.3% boost in their earnings. This specific data is an example of positive [[Economics|economics]], but the researchers' conclusion that the higher minimum wage was a success is not positive economics because the focus of the study was not broad enough or exhaustive enough to make such a finding.
 

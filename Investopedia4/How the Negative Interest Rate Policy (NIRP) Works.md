@@ -42,9 +42,9 @@ Theoretically, targeting interest rates below zero [[Will|will]] reduce the cost
 
 An example of a [[Negative Interest Rate|negative interest rate]] policy would be to set the [[key rate]](https://www.investopedia.com/terms/k/key-rate.asp) at -0.2 percent, such that bank depositors would have to pay two-tenths of a percent on their [[deposits]](https://www.investopedia.com/terms/d/deposit.asp) instead of receiving any sort of positive interest.
 
--   The Swiss government ran a [[de facto negative interest rate regime](http://snbchf.com/snb/reflections-on-negative-interest-rates-in-switzerland/) in the early 1970s to counter its [currency appreciation]](https://www.investopedia.com/terms/c/currency-appreciation.asp) due to investors fleeing inflation in other parts of the world.
+-   The Swiss government ran a [[de facto negative interest rate regime](http://snbchf.com/snb/reflections-on-negative-interest-rates-in-switzerland/) in the early 1970s to counter its [[currency appreciation]]](https://www.investopedia.com/terms/c/currency-appreciation.asp) due to investors fleeing inflation in other parts of the world.
 -   In 2009 and 2010, Sweden and, in 2012, Denmark used negative interest rates to stem [[hot money flows]](https://www.investopedia.com/terms/h/hotmoney.asp) into their economies.
--   In 2014, the [[European Central Bank (ECB)]](https://www.investopedia.com/terms/e/europeancentralbank.asp) [[instituted a negative interest rate](http://www.ecb.europa.eu/home/html/faqinterestrates.en.html) that only applied to bank deposits intended to prevent the Eurozone from falling into a [deflationary spiral]](https://www.investopedia.com/terms/d/deflationary-spiral.asp).
+-   In 2014, the [[European Central Bank (ECB)]](https://www.investopedia.com/terms/e/europeancentralbank.asp) [[instituted a negative interest rate](http://www.ecb.europa.eu/home/html/faqinterestrates.en.html) that only applied to bank deposits intended to prevent the Eurozone from falling into a [[deflationary spiral]]](https://www.investopedia.com/terms/d/deflationary-spiral.asp).
 
 Though fears that bank customers and banks would move all their money [[holdings]](https://www.investopedia.com/terms/h/[[Holdings|holdings]].asp) into cash (or M1) did not materialize, there is some evidence to suggest that negative interest rates in Europe did cut down interbank loans.
 

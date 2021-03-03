@@ -1,7 +1,7 @@
 ---
 alias: [Positive Economics]
 created: 2021-03-02T22:44:56 (UTC +11:00)
-tags: [Positive [[Economics]] Definition, An Explanation of Positive Economics]
+tags: [Positive Economics Definition, An Explanation of Positive Economics]
 source: https://www.investopedia.com/terms/p/positiveeconomics.asp
 author: Christina Majaski
 ---

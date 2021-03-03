@@ -1,7 +1,7 @@
 ---
 alias: [Negative Interest Rate Policy, NIRP]
 created: 2021-03-02T21:36:54 (UTC +11:00)
-tags: [Negative Interest Rate Policy (NIRP) Definition, How the [[Negative Interest Rate]] Policy (NIRP) Works]
+tags: [Negative Interest Rate Policy (NIRP) Definition, How the Negative Interest Rate Policy (NIRP) Works]
 source: https://www.investopedia.com/terms/n/negative-interest-rate-policy-nirp.asp
 author: Adam Hayes
 ---

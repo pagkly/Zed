@@ -1,7 +1,7 @@
 ---
 alias: [Platykurtic Defined]
 created: 2021-03-02T22:44:55 (UTC +11:00)
-tags: [Platykurtic Defined, [[What Does Platykurtic Mean]]?]
+tags: [Platykurtic Defined, What Does Platykurtic Mean?]
 source: https://www.investopedia.com/terms/p/platykurtic.asp
 author: Jason Fernando
 ---
