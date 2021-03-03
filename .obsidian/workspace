@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/20210303.md",
+            "file": "Investopedia3/Chartered Retirement Planning Counselor (CRPC) Definition.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/20210303.md",
+                "file": "Investopedia3/Chartered Retirement Planning Counselor (CRPC) Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/20210303.md"
+                "file": "Investopedia3/Chartered Retirement Planning Counselor (CRPC) Definition.md"
               }
             }
           },
@@ -138,6 +138,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia3/Chartered Retirement Planning Counselor (CRPC) Definition.md",
     "Day Planners/20210303.md",
     "Investopedia2/A Bill of Lading Can Protect Against Asset Theft.md",
     "Investopedia2/A Closer Look at Grace Periods.md",
@@ -146,7 +147,6 @@
     "Dict/underlie 1.md",
     "Dict/inherent.md",
     "Dict/endowment.md",
-    "Investopedia2/Default Rate Definition.md",
-    "Investopedia2/Default.md"
+    "Investopedia2/Default Rate Definition.md"
   ]
 }
