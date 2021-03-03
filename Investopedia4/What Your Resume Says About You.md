@@ -13,7 +13,7 @@ author: Andrew Bloomenthal
 
 ---
 
-What Your Resume Says About You
+[[What Your Resume Says About You]]
 ## Resume: An Overview
 
 A resume is a formal document that a job applicant creates to itemize his or her qualifications for a position. A resume is usually accompanied by a customized [[cover letter]](https://www.investopedia.com/terms/c/cover-letter.asp) in which the applicant expresses an interest in a specific job or company and draws attention to the most relevant specifics on the resume.
@@ -36,7 +36,7 @@ Successful resumes highlight specific accomplishments applicants have achieved i
 
 The most determined applicants rewrite their resumes to suit the occasion, concentrating on skills and experience that fit the job for which they're applying.
 
-There are many formats for resumes, with many variations for particular professions such as [[investment banking]](https://www.investopedia.com/articles/financialcareers/10/investment-banking-resume.asp) and [[the fashion trade]](https://www.investopedia.com/articles/personal-finance/030215/smart-resumes-fashion-industry.asp).
+There are many formats for resumes, with many variations for particular professions such as [[investment banking]](https://www.investopedia.com/articles/financialcareers/10/investment-banking-resume.asp) and [[the fashion trade]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/030215/smart-resumes-fashion-industry.asp).
 
 Whatever the format, most resumes include a brief summary of skills and experience, followed by a bullet list of previous jobs in reverse chronological order and a list of degrees earned. A final section might be added to highlight specific skills, such as fluency in a foreign language, knowledge of computer languages, professionally useful hobbies, professional affiliations, and any honors achieved.
 
@@ -60,4 +60,4 @@ Although the two-page maximum still stands, many applicants use the web to the m
 
 The heading on the resume should include not only your name, email address, and mobile phone number but your address on LinkedIn or another professional community and the address of your website or blog if you have one.
 
-Be aware that any hiring manager will, as a matter of course, enter your name in the Google search field. Do a search on your own and see if you can optimize your own results or at least decently bury any youthful faux pas.
+Be aware that any hiring manager [[Will|will]], as a matter of course, enter your name in the Google search field. Do a search on your own and see if you can optimize your own results or at least decently bury any youthful faux pas.

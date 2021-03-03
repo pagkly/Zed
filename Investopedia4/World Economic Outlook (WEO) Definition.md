@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/w/world-economic-outlook.asp
 author: Clay Halton
 ---
 
-# World Economic Outlook (WEO) Definition
+# [[World Economic Outlook (WEO) Definition]]
 
 > ## Excerpt
 > The World Economic Outlook (WEO) is a report by the International Monetary Fund that analyzes key parts of the IMF's surveillance of economic developments.
 
 ---
 
-World Economic Outlook (WEO) Definition
+[[World Economic Outlook (WEO) Definition]]
 ## What Is World Economic Outlook (WEO)?
 
 The World Economic Outlook (WEO) is a report by the International Monetary Fund that analyzes key parts of the IMF's surveillance of economic developments and policies in its member countries. It also projects developments in the global financial markets and economic systems.
@@ -39,14 +39,14 @@ The WEO suggested U.S. tax policy changes would stimulate global activity, inclu
 
 The WEO also reported that global recovery has strengthened, with some 120 economies, accounting for three quarters of world [[GDP]](https://www.investopedia.com/terms/g/gdp.asp), seeing a pickup in growth in 2017, the broadest synchronized global growth upsurge since 2010. Growth in the third quarter of 2017 was higher than projected for [[advanced economies]](https://www.investopedia.com/terms/a/advanced-economies.asp), including Germany, Japan, Korea, and the United States. Furthermore, key emerging market and developing economies, including Brazil, China, and South Africa, also posted third-quarter growth stronger than their prior forecasts.
 
-By April 2019, the situation had reversed. Global economic growth slowed during the second half of 2018. For 2019, growth was expected to be down by three basis points, from 3.6 percent in 2018 to 3.3 percent in 2019. But it will pick up pace again in 2020.
+By April 2019, the situation had reversed. Global economic growth slowed during the second half of 2018. For 2019, growth was expected to be down by three basis points, from 3.6 percent in 2018 to 3.3 percent in 2019. But it [[Will|will]] pick up pace again in 2020.
 
 According to the agency, the main causes for a global deceleration were trade tensions between the United States and China during the second half of 2018, tightening of financial policies across several countries, and policy uncertainty across economies. Industrial production declined noticeably, especially in China, during the second half of 2018 due to declining business confidence.
 
 ### Positive Economic Predictions
 
-The IMF is sanguine about growth during the second half of 2019 as central banks in developed economies, such as the United States and UK, shift to a more accommodative stance and a trade agreement begins to take shape between the United States and China. The loosening of trade deadlocks and economic policies in developed economies during the second half of 2019 will spur growth in emerging markets.
+The IMF is sanguine about growth during the second half of 2019 as central banks in developed economies, such as the United States and UK, shift to a more accommodative stance and a trade agreement begins to take shape between the United States and China. The loosening of trade deadlocks and economic policies in developed economies during the second half of 2019 [[Will|will]] spur growth in emerging markets.
 
-The IMF predicts growth in emerging markets will increase from 4.4 percent in 2019 to 4.8 percent in 2020. The economies of Argentina and Turkey will play a pivotal role in that growth and derailments in any or both countries will affect the final figure.
+The IMF predicts growth in emerging markets [[Will|will]] increase from 4.4 percent in 2019 to 4.8 percent in 2020. The economies of Argentina and Turkey will play a pivotal role in that growth and derailments in any or both countries will affect the final figure.
 
-Key risks to the forecasts include the flaring up of trade tensions between countries, risks regarding the UK's exit from the Eurozone area, and decelerating growth in Europe and China. The agency termed the current state of global economy as a "delicate moment" and highlighted the role of policy certainty in ensuring that growth remains on track and the risks remain minimal.
+Key risks to the forecasts include the flaring up of trade tensions between countries, risks regarding the UK's exit from the [[Eurozone]] area, and decelerating growth in Europe and China. The agency termed the current state of global economy as a "delicate moment" and highlighted the role of policy certainty in ensuring that growth remains on track and the risks remain minimal.

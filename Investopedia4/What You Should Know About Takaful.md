@@ -13,7 +13,7 @@ author: Julia Kagan
 
 ---
 
-What You Should Know About Takaful
+[[What You Should Know About Takaful]]
 ## What Is Takaful?
 
 Takaful is a type of Islamic insurance wherein members contribute money into a pool system to guarantee each other against loss or damage. Takaful-branded insurance is based on [[sharia]](https://www.investopedia.com/terms/s/shariah.asp) or Islamic religious law, which explains how individuals are responsible to cooperate and protect one another. Takaful policies cover health, life, and general insurance needs.
@@ -28,7 +28,7 @@ Takaful insurance companies were introduced as an alternative to those in the co
 
 ## Understanding Takaful
 
-All parties or policyholders in a takaful arrangement agree to guarantee each other and make contributions to a pool or mutual fund instead of paying premiums. The pool of collected contributions creates the takaful fund. Each participant's contribution is based on the type of coverage they require and their personal circumstances. A takaful contract specifies the nature of the risk and the length of the coverage, similar to that of a conventional insurance policy.
+All parties or policyholders in a takaful arrangement agree to guarantee each other and make contributions to a pool or mutual fund instead of paying premiums. The pool of collected contributions creates the takaful fund. Each participant's contribution is based on the type of coverage they require and their personal circumstances. A takaful contract specifies the nature of the [[Risk|risk]] and the length of the coverage, similar to that of a conventional insurance policy.
 
 The takaful fund is managed and administered on behalf of the participants by a takaful operator, who charges an agreed-upon fee to cover costs. Much like a conventional insurance company, costs include sales and marketing, underwriting, and claims management.
 
@@ -37,7 +37,7 @@ Any claims made by participants are paid out of the takaful fund and any remaini
 An Islamic insurance company operating a takaful fund must operate under the following principles:
 
 -   It must operate according to Islamic cooperative principles.
--   A reinsurance commission may only be received from or paid out to Islamic insurance and reinsurance companies.
+-   A reinsurance [[Commission|commission]] may only be received from or paid out to Islamic insurance and reinsurance companies.
 -   The insurance company must maintain two separate funds: a participant and policyholder fund, and a shareholder fund.
 
 ## Special Considerations

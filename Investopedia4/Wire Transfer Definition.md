@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/w/wiretransfer.asp
 author: Julia Kagan
 ---
 
-# Wire Transfer Definition
+# [[Wire Transfer Definition]]
 
 > ## Excerpt
 > A wire transfer is an electronic transfer of funds across a network administered by hundreds of banks around the world.
 
 ---
 
-Wire Transfer Definition
+[[Wire Transfer Definition]]
 ## What Is a Wire Transfer?
 
 A wire transfer is an [[electronic transfer]](https://www.investopedia.com/terms/e/electronic-transfer-account.asp) of funds via a network that is administered by hundreds of banks and transfer service agencies around the world. The transfer can also be made in cash at a cash office.
@@ -23,13 +23,13 @@ A wire transfer is an [[electronic transfer]](https://www.investopedia.com/terms
 -   A wire transfer is a transfer of funds done electronically across a network of banks or transfer agencies around the world.
 -   Senders pay for the transaction at the remitting bank and provide the recipient's name, bank account number, and the amount transferred.
 -   Most wire transfers can take as long as two business days to process.
--   International wire payments are monitored by the Office of Foreign Assets Control to ensure the money isn't being wired to terrorist groups or for money laundering purposes.
+-   International wire payments are monitored by the Office of Foreign Assets Control to ensure the money isn't being wired to terrorist groups or for [[Money Laundering|money laundering]] purposes.
 
 ## Understanding Wire Transfers
 
 Wire transfers allow for the individualized transmission of funds from single individuals or entities to others while still maintaining the efficiencies associated with the fast and secure movement of money. By using a wire transfer, people in different geographic locations can safely transfer money to locales and financial institutions around the globe.
 
-A wire transfer is most often used to transfer funds from one bank or financial institution to another. No physical money is transferred between banks or financial institutions when conducting a wire transfer. Instead, information is passed between banking institutions about the recipient, the bank receiving [[account number]](https://www.investopedia.com/articles/personal-finance/063015/routing-number-vs-account-number-how-they-differ.asp), and the amount transferred.
+A wire transfer is most often used to transfer funds from one bank or financial institution to another. No physical money is transferred between banks or financial institutions when conducting a wire transfer. Instead, information is passed between banking institutions about the recipient, the bank receiving [[account number]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/063015/routing-number-vs-account-number-how-they-differ.asp), and the amount transferred.
 
 The sender of a wire transfer first pays for the transaction upfront at his bank. The sending bank sends a message to the recipient's bank with payment instructions through a secure system, such as Fedwire or SWIFT. The recipient's bank receives all the necessary information from the initiating bank and deposits its own reserve funds into the correct account. The two banking institutions then settle the payment on the back end (after the money has already been deposited).
 
@@ -45,7 +45,7 @@ Wire transfers cost money to initiate, regardless of whether they are domestic o
 
 Wire transfers are generally safe and secure, provided that you know the person who's receiving it. If you are using a legitimate wire transfer service, each person involved in a wire transfer transaction should be required to prove their identity so that anonymous transfers are impossible.
 
-[International wire transfers](https://www.investopedia.com/articles/personal-finance/050515/how-swift-system-works.asp) that originate in the United States are monitored by the Office of Foreign Assets Control, an agency of the U.S. Treasury. This agency makes sure the money being sent overseas is not being used to fund terrorist activities or for money laundering purposes. In addition, they are also tasked with preventing money from going to countries that are the subject of sanctions by the U.S. government. If the Office of Foreign Assets Control suspects that any of these scenarios are true, the sending bank has the authority to freeze the funds and stop the wire transfer from going through.
+[International wire transfers](https://www.investopedia.com/articles/personal-[[Finance|finance]]/050515/how-swift-system-works.asp) that originate in the United States are monitored by the Office of Foreign Assets Control, an agency of the U.S. Treasury. This agency makes sure the money being sent overseas is not being used to fund terrorist activities or for [[Money Laundering|money laundering]] purposes. In addition, they are also tasked with preventing money from going to countries that are the subject of sanctions by the U.S. government. If the Office of Foreign Assets Control suspects that any of these scenarios are true, the sending bank has the authority to freeze the funds and stop the wire transfer from going through.
 
 These are some scenarios that might cause a wire transfer to be flagged, alerting officials to possible wrongdoing by either the recipient or the sender:
 
@@ -69,4 +69,4 @@ Wire transfers allow for the individualized transmission of funds from single in
 
 ### How Safe Are Wire Transfers?
 
-Wire transfers are generally safe and secure, provided that you know the person who's receiving it. A legitimate wire transfer service will vet the identity of each entity involved in a wire transfer transaction so that anonymous transfers are impossible. International wire transfers that originate in the United States are monitored by the Office of Foreign Assets Control, an agency of the U.S. Treasury. This agency makes sure the money being sent overseas is not being used to fund terrorist activities or for money laundering purposes. In addition, they are also tasked with preventing money from going to countries that are the subject of sanctions by the U.S. government.
+Wire transfers are generally safe and secure, provided that you know the person who's receiving it. A legitimate wire transfer service [[Will|will]] vet the identity of each entity involved in a wire transfer transaction so that anonymous transfers are impossible. International wire transfers that originate in the United States are monitored by the Office of Foreign Assets Control, an agency of the U.S. Treasury. This agency makes sure the money being sent overseas is not being used to fund terrorist activities or for [[Money Laundering|money laundering]] purposes. In addition, they are also tasked with preventing money from going to countries that are the subject of sanctions by the U.S. government.

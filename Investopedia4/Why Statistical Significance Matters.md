@@ -3,7 +3,7 @@ alias: [Statistical Significance]
 created: 2021-03-02T23:43:20 (UTC +11:00)
 tags: [Statistical Significance Definition, Why Statistical Significance Matters]
 source: https://www.investopedia.com/terms/s/statistically_significant.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Statistical Significance Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-Why Statistical Significance Matters
+[[Why Statistical Significance Matters]]
 ## What Is Statistical Significance?
 
 Statistical significance is a determination by an analyst that the results in the data are not explainable by chance alone. Statistical [hypothesis testing](https://www.investopedia.com/terms/h/hypothesistesting.asp) is the method by which the analyst makes this determination. This test provides a [[p-value]](https://www.investopedia.com/terms/p/p-value.asp), which is the probability of observing results as extreme as those in the data, assuming the results are truly due to chance alone. A p-value of 5% or lower is often considered to be statistically significant.
@@ -44,4 +44,4 @@ The study's p-value was 28% (>5%), indicating that a difference as large as the�
 
 Statistical significance is also used to test new medical products, including drugs, devices, and vaccines. Publicly available reports of statistical significance also inform investors on how successful the company is at releasing new products.
 
-For example, Novo Nordisk, a pharmaceutical leader in diabetes medication, reported that there was a statistically significant reduction in type 1 diabetes when it tested its new insulin. The test consisted of 26 weeks of randomized therapy among diabetes patients, and the data gave a p-value that was less than 5%. This signifies to investors and regulatory agencies that the data show a statistically significant reduction in type 1 diabetes.1 Stock prices of pharmaceutical companies are often affected strongly by announcements of the statistical significance of their new products.
+For example, Novo Nordisk, a pharmaceutical leader in diabetes medication, reported that there was a statistically significant reduction in type 1 diabetes when it tested its new insulin. The test consisted of 26 weeks of randomized therapy among diabetes patients, and the data gave a p-value that was less than 5%. This signifies to investors and regulatory agencies that the data show a statistically significant reduction in type 1 diabetes.1 [[Stock]] prices of pharmaceutical companies are often affected strongly by announcements of the statistical significance of their new products.

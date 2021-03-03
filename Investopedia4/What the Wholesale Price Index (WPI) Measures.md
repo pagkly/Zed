@@ -13,7 +13,7 @@ author: Troy Segal
 
 ---
 
-What the Wholesale Price Index (WPI) Measures
+[[What the Wholesale Price Index (WPI) Measures]]
 ## What Is a Wholesale Price Index (WPI)?
 
 A wholesale price index (WPI) is an index that measures and tracks the changes in the price of goods in the stages before the retail level. This refers to goods that are sold in bulk and traded between entities or businesses (instead of between consumers). Usually expressed as a ratio or percentage, the WPI shows the included goods' [[average price]](https://www.investopedia.com/terms/a/averageprice.asp) change; it is often seen as one indicator of a country's level of inflation.

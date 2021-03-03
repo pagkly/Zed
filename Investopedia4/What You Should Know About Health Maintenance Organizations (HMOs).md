@@ -13,12 +13,12 @@ author: Adam Hayes
 
 ---
 
-What You Should Know About Health Maintenance Organizations (HMOs)
+[[What You Should Know About Health Maintenance Organizations (HMOs)]]
 ## What Is a Health Maintenance Organization?
 
 An individual who needs to secure [[health insurance]](https://www.investopedia.com/terms/h/healthinsurance.asp) may find a variety of health insurance providers with unique features. One type of insurance provider that is popular in the [[health insurance marketplace]](https://www.investopedia.com/terms/h/health-insurance-marketplace.asp) is a health maintenance organization (HMO), an insurance structure that provides coverage through a network of physicians.
 
-Health maintenance organizations (HMOs) provide health insurance coverage for a monthly or annual [[fee]](https://www.investopedia.com/terms/f/fee.asp). An HMO limits member coverage to medical care provided through a network of doctors and other health care providers who are under contract with the HMO.1 These contracts allow for [[premiums]](https://www.investopedia.com/terms/p/premium.asp) to be lower than for traditional health insurance—since the health providers have the advantage of having patients directed to them. They also add additional restrictions to the HMO's members.2
+Health maintenance organizations (HMOs) provide health insurance coverage for a monthly or annual [[fee]](https://www.investopedia.com/terms/f/fee.asp). An HMO limits member coverage to medical care provided through a network of doctors and other health care providers who are under contract with the HMO.1 These contracts allow for [[premiums]](https://www.investopedia.com/terms/p/[[Premium|premium]].asp) to be lower than for traditional health insurance—since the health providers have the advantage of having patients directed to them. They also add additional restrictions to the HMO's members.2
 
 When deciding whether to choose an HMO insurance plan, you should take into consideration the cost of premiums, out-of-pocket costs, any requirements you may have for specialized medical care, and whether it's important to you to have your own [[primary care provider]](https://www.investopedia.com/insurance/what-are-direct-primary-care-doctors-and-how-do-you-find-one/).
 
@@ -32,13 +32,13 @@ When deciding whether to choose an HMO insurance plan, you should take into cons
 
 ## How an HMO Works
 
-An HMO is an [[organized public or private entity]](https://www.investopedia.com/articles/markets/030916/worlds-top-10-health-care-companies-unh-mdt.asp) that provides basic and supplemental health services to its subscribers. The organization secures its network of health providers by entering into contracts with primary care physicians, clinical facilities, and specialists. The medical entities that enter into contracts with the HMO are paid an agreed-upon fee to offer a range of services to the HMO’s subscribers. The agreed payment allows an HMO to offer lower premiums than other types of health insurance plans while retaining a high quality of care from its network.
+An HMO is an [[organized public or private entity]](https://www.investopedia.com/articles/markets/030916/worlds-top-10-health-care-companies-unh-mdt.asp) that provides basic and supplemental health services to its subscribers. The organization secures its network of health providers by entering into contracts with primary care physicians, clinical facilities, and specialists. The medical entities that enter into contracts with the HMO are paid an agreed-upon fee to [[Offer|offer]] a range of services to the HMO’s subscribers. The agreed payment allows an HMO to offer lower premiums than other types of health insurance plans while retaining a high quality of care from its network.
 
-The HMO as it exists today was established under the Health Maintenance Organization Act of 1973. Passed by former President Richard Nixon, the Act clarified the definition of HMOs as "a public or private entity organized to provide basic and supplemental health services to its members."3 The law further requires that plans provide insured individuals with basic health care in exchange for regular, fixed premiums that are established "under a community rating."3
+The HMO as it exists today was established under the Health Maintenance Organization Act of 1973. Passed by former President Richard Nixon, the Act clarified the definition of HMOs as "a public or private entity organized to provide basic and supplemental health services to its members."3 The law further requires that plans provide insured individuals with basic health care in exchange for regular, fixed premiums that are established "under a community [[Rating|rating]]."3
 
 ### Rules for HMO Subscribers
 
-HMO subscribers pay a monthly or annual premium to access medical services in the organization’s network of providers, but they are limited to receiving their care and services from doctors within the HMO network. However, some out-of-network services, including emergency care and dialysis, can be covered under the HMO.2
+HMO subscribers pay a monthly or annual [[Premium|premium]] to access medical services in the organization’s network of providers, but they are limited to receiving their care and services from doctors within the HMO network. However, some out-of-network services, including emergency care and dialysis, can be covered under the HMO.2
 
 Those who are insured under an HMO may have to live or work in the plan's network area in order to be eligible for coverage.1 In cases where a subscriber receives urgent care while out of the HMO network region, the HMO may cover the expenses. But HMO subscribers who receive non-emergency, out-of-network care have to pay for it [[out-of-pocket]](https://www.investopedia.com/terms/o/outofpocket.asp).4
 
@@ -62,29 +62,29 @@ Both programs allow for specialist services. However, the designated primary car
 
 A [[point-of-service (POS)]](https://www.investopedia.com/terms/p/pointofservice-plan-pos.asp) plan is like an HMO in that it requires a policyholder to choose an in-network primary care doctor and get referrals from that doctor if they want the plan to cover a specialist’s services.4 A point-of-service plan is also like a PPO in that it still provides coverage for out-of-network services, but the policyholder has to pay more for those services than if they used in-network providers.
 
-However, a POS plan will pay more toward an out-of-network service if the policyholder gets a referral from their primary care physician than if they don't secure a referral. The premiums for a POS plan fall in between the lower premiums offered by an HMO and the higher premiums of a PPO.7
+However, a POS plan [[Will|will]] pay more toward an out-of-network service if the policyholder gets a referral from their primary care physician than if they don't secure a referral. The premiums for a POS plan fall in between the lower premiums offered by an HMO and the higher premiums of a PPO.7
 
 POS plans require the policyholder to make co-pays, but in-network co-pays are often just $10 to $25 per appointment. POS plans also do not have [[deductibles]](https://www.investopedia.com/terms/d/deductible.asp) for in-network services, which is a significant advantage over PPOs.
 
-Also, POS plans offer nationwide coverage, which benefits patients who travel frequently. A disadvantage is that out-of-network deductibles tend to be high for POS plans, so patients who use out-of-network services will pay the full cost of care out of pocket until they reach the plan’s deductible. However, a patient who never uses a POS plan’s out-of-network services would probably be better off with an HMO because of its lower premiums.
+Also, POS plans [[Offer|offer]] nationwide coverage, which benefits patients who travel frequently. A disadvantage is that out-of-network deductibles tend to be high for POS plans, so patients who use out-of-network services [[Will|will]] pay the full cost of care out of pocket until they reach the plan’s deductible. However, a patient who never uses a POS plan’s out-of-network services would probably be better off with an HMO because of its lower premiums.
 
 If you don't travel frequently, you'll be better off with an HMO rather than a point-of-service plan because of the lower costs.
 
 ## Advantages and Disadvantages of HMOs
 
-It's important to weigh the advantages and disadvantages of HMOs before you choose a plan, just as you would with any other option. We've listed some of the most common pros and cons of the program below.
+It's important to weigh the advantages and disadvantages of HMOs before you choose a plan, just as you would with any other option. We've [[Listed|listed]] some of the most common pros and cons of the program below.
 
 ### Advantages
 
-The first, and most obvious, advantage of participating in an HMO is the low cost. You'll pay fixed premiums on a monthly or annual basis that are lower than traditional forms of health insurance. These plans tend to come with low or no deductibles and your co-pays are generally lower than other plans. Your out-of-pocket costs will also be lower for your prescription.8 Billing also tends to be less complicated for those with an HMO.9
+The first, and most obvious, advantage of participating in an HMO is the low cost. You'll pay fixed premiums on a monthly or annual basis that are lower than traditional forms of health insurance. These plans tend to come with low or no deductibles and your co-pays are generally lower than other plans. Your out-of-pocket costs [[Will|will]] also be lower for your prescription.8 Billing also tends to be less complicated for those with an HMO.9
 
-There's also a very good likelihood that you'll have to deal with the insurer itself. That's because you have a primary care doctor you must choose from who is responsible to manage your treatment and care. This professional will also advocate for services on your behalf.8 This includes making referrals for specialty services for you.
+There's also a very good likelihood that you'll have to deal with the insurer itself. That's because you have a primary care doctor you must choose from who is responsible to manage your treatment and care. This professional [[Will|will]] also advocate for services on your behalf.8 This includes making referrals for specialty services for you.
 
 The quality of care is generally higher with an HMO. The reason is that patients are encouraged to get annual physicals and to seek out treatment early.9
 
 ### Disadvantages
 
-If you're paying for an HMO, you're restricted on how you can use the plan. You'll have to designate a doctor, who will be responsible for your health care needs, including your primary care and referrals. This doctor, though, must be part of the network.7 This means you are responsible for any costs incurred if you see someone out of the network, even if there's no contracted doctor in your area.9
+If you're paying for an HMO, you're restricted on how you can use the plan. You'll have to designate a doctor, who [[Will|will]] be responsible for your health care needs, including your primary care and referrals. This doctor, though, must be part of the network.7 This means you are responsible for any costs incurred if you see someone out of the network, even if there's no contracted doctor in your area.9
 
 You'll need referrals for any specialists if you want your HMO to pay for any visits. So if you need to visit a rheumatologist or a dermatologist, your primary doctor must make a referral before you can see it in order for the plan to pay for your visit. If not, you're responsible for the entire cost.10
 
@@ -94,7 +94,7 @@ Pros
 
 -   Lower out-of-pocket costs, including lower premiums, low or no deductibles, and low co-pays.
     
--   Your primary care physician will direct your treatment and advocate on your behalf.
+-   Your primary care physician [[Will|will]] direct your treatment and advocate on your behalf.
     
 -   Higher quality of care.
     

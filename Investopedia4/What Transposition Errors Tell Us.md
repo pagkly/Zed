@@ -13,7 +13,7 @@ author: Andrew Bloomenthal
 
 ---
 
-What Transposition Errors Tell Us
+[[What Transposition Errors Tell Us]]
 ## What Is a Transposition Error?
 
 A transposition error describes an event where a bookkeeper accidentally reverses two adjacent digits, when recording transactional data. Although this error may seem small in scale, it often results in substantial financial incongruities that can have a great impact in other areas. Transpositional errors, which tend to occur in accounting firms, [[brokerages]](https://www.investopedia.com/terms/b/brokerage-company.asp), and other financial services providers, fall under the broader category of transcription errors.
@@ -22,8 +22,8 @@ A transposition error describes an event where a bookkeeper accidentally reverse
 
 -   A transposition error is a data entry snafu that occurs when two digits are accidentally reversed.
 -   These mistakes are caused by human error.
--   Though seemingly small in scope, transposition errors can result in significant financial consequences.
--   If a business’ accounting records show a discrepancy, the difference between the correct amount and the incorrectly-entered amount will be evenly divisible by 9.
+-   Though seemingly small in [[Scope|scope]], transposition errors can result in significant financial consequences.
+-   If a business’ accounting records show a discrepancy, the difference between the correct amount and the incorrectly-entered amount [[Will|will]] be evenly divisible by 9.
 
 ## Understanding Transpositional Errors
 
@@ -33,10 +33,10 @@ Transposition errors are generally the result of human error. For example, in ac
 
 If a company fails to catch and correct transposition errors, the incorrect value of assets may be perpetuated to outside agencies and individuals, such as corporate shareholders and the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp). This could cause a chain effect of inaccuracies. For example, a business may be saddled with an increased [[tax liability]](https://www.investopedia.com/terms/t/taxliability.asp) if the transposition error is large enough to slingshot that company into a higher tax bracket. Of course, this largely depends on the degree of error in question. If a bookkeeper mistakenly writes $24.74 instead of $24.47, the resulting $0.27 discrepancy would hardly be consequential. On the other hand, if $1,823,000 were accidentally recorded as $1,283,000, the resulting $540,000 error is sure to have a profound financial ripple effect.
 
-Transposition errors made in the trading world are sometimes called "fat-finger trades." In one famous example, a Japanese trader accidentally ordered 1.9 billion shares in Toyota. Luckily, that order never went through.
+Transposition errors made in the trading world are sometimes called "fat-finger trades." In one famous example, a Japanese trader accidentally ordered 1.9 billion [[Shares|shares]] in Toyota. Luckily, that order never went through.
 
 ### Identifying Transposition Errors
 
-Interestingly, transposition errors may be revealed by a rather peculiar mathematical phenomenon. Pointedly: the difference between the incorrectly-recorded amount and the correct amount will always be evenly divisible by 9. For example, if a bookkeeper errantly writes 72 instead of 27, this would result in an error of 45, which may be evenly divided by 9, to give us 5. Likewise, if a bookkeeper mistakenly records 63 instead of 36, the difference between those two figures (27) may be evenly divided by 9 to give us 3. Bank tellers can use this rule to detect errors.
+Interestingly, transposition errors may be revealed by a rather peculiar mathematical phenomenon. Pointedly: the difference between the incorrectly-recorded amount and the correct amount [[Will|will]] always be evenly divisible by 9. For example, if a bookkeeper errantly writes 72 instead of 27, this would result in an error of 45, which may be evenly divided by 9, to give us 5. Likewise, if a bookkeeper mistakenly records 63 instead of 36, the difference between those two figures (27) may be evenly divided by 9 to give us 3. Bank tellers can use this rule to detect errors.
 
 Transposition errors also describe scenarios where bookkeepers enter spreadsheet data into the wrong cells.

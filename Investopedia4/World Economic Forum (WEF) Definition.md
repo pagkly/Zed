@@ -6,23 +6,23 @@ source: https://www.investopedia.com/terms/w/world-economic-forum.asp
 author: Julia Kagan
 ---
 
-# World Economic Forum (WEF) Definition
+# [[World Economic Forum (WEF) Definition]]
 
 > ## Excerpt
 > The World Economic Forum (WEF) holds a yearly conference in Davos, Switzerland for leaders in business and politics to discuss world issues.
 
 ---
 
-World Economic Forum (WEF) Definition
+[[World Economic Forum (WEF) Definition]]
 ## What Is the World Economic Forum?
 
-The World Economic Forum (WEF) is an international organization headquartered in Geneva, Switzerland that brings together its membership on a yearly basis to discuss major issues concerning the world political economy. These include but are not limited to issues of politics, economics, social, and environmental concerns.
+The World Economic Forum (WEF) is an international organization headquartered in Geneva, Switzerland that brings together its membership on a yearly basis to discuss major issues concerning the world political economy. These include but are not limited to issues of politics, [[Economics|economics]], social, and environmental concerns.
 
 ### Key Takeaways
 
 -   The World Economic Forum is a Geneva-based international organization that discusses issues concerning the global political economy.
 -   The organization is funded through its own membership, which includes industry leaders, politicians, thinkers, and academics, as well as celebrities and interested individuals.
--   Each year the World Economic Forum hold's its annual meeting in Davos, Switzerland, drawing important world leaders and thinkers.
+-   Each year the World Economic Forum [[Hold|hold]]'s its annual meeting in Davos, Switzerland, drawing important world leaders and thinkers.
 
 ## Understanding the World Economic Forum
 
@@ -50,6 +50,6 @@ The Davos World Economic Forum brings together business leaders, investors, poli
 
 Each year's Forum has a theme, and the theme of the most recent forum held in January 2018 was “Creating a Shared Future in a Fractured World.” The fractures referred to [Brexit](https://www.investopedia.com/terms/b/brexit.asp), the Trump presidency, the rise of automation and [artificial intelligence](https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp) (AI), and the re-emergence of China. These subjects were highly visible on the conference agenda. The 2018 Davos World Economic Forum had record attendance and was the 47th Forum since its inception.
 
-Advancing technology, particularly AI, and the impact that automation will have on jobs was a prominent item of discussion. The discussions at Davos concluded that although some jobs will undoubtedly disappear over time, there will still be many jobs for humans in the future; the work will just be quite different.
+Advancing technology, particularly AI, and the impact that automation [[Will|will]] have on jobs was a prominent item of discussion. The discussions at Davos concluded that although some jobs will undoubtedly disappear over time, there will still be many jobs for humans in the future; the work will just be quite different.
 
-In an optimistic forecast, one technology company that attended Davos estimated that approximately 20 million jobs will be created in the next decade as AI and automation are integrated with human skills in future technology advancements. Digital transformation of organizations was also encouraged to meet the growing digital environment. Despite the need for firms to embrace new digital technologies, the WEF found that only 7% of firms have done so, according to research by Forrester.
+In an optimistic forecast, one technology company that attended Davos estimated that approximately 20 million jobs [[Will|will]] be created in the next decade as AI and automation are integrated with human skills in future technology advancements. Digital transformation of organizations was also encouraged to meet the growing digital environment. Despite the need for firms to embrace new digital technologies, the WEF found that only 7% of firms have done so, according to research by Forrester.

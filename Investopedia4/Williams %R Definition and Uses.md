@@ -6,27 +6,27 @@ source: https://www.investopedia.com/terms/w/williamsr.asp
 author: Cory Mitchell
 ---
 
-# Williams %R Definition and Uses
+# [[Williams %R Definition and Uses]]
 
 > ## Excerpt
-> Williams %R is a momentum indicator in technical analysis that measures overbought and oversold levels. It is similar to the stochastic oscillator in how it generates trade signals.
+> Williams %R is a [[Momentum|momentum]] indicator in [[Technical Analysis|technical analysis]] that measures [[Overbought|overbought]] and oversold levels. It is similar to the [[Stochastic Oscillator|stochastic oscillator]] in how it generates trade signals.
 
 ---
 
-Williams %R Definition and Uses
+[[Williams %R Definition and Uses]]
 ## What is Williams %R?
 
-Williams %R, also known as the Williams Percent Range, is a type of momentum indicator that moves between 0 and -100 and measures [overbought](https://www.investopedia.com/terms/o/overbought.asp) and [oversold](https://www.investopedia.com/terms/o/oversold.asp) levels. The Williams %R may be used to find entry and exit points in the market. The indicator is very similar to the [[Stochastic oscillator]](https://www.investopedia.com/video/play/stochastic-oscillator/) and is used in the same way. It was developed by Larry Williams and it compares a stock’s closing price to the [[high-low range]](https://www.investopedia.com/terms/h/high-low-method.asp) over a specific period, typically 14 days or periods.1
+Williams %R, also known as the Williams Percent Range, is a type of [[Momentum|momentum]] indicator that moves between 0 and -100 and measures [overbought](https://www.investopedia.com/terms/o/[[Overbought|overbought]].asp) and [oversold](https://www.investopedia.com/terms/o/oversold.asp) levels. The Williams %R may be used to find entry and exit points in the market. The indicator is very similar to the [[Stochastic oscillator]](https://www.investopedia.com/video/play/stochastic-oscillator/) and is used in the same way. It was developed by Larry Williams and it compares a [[Stock|stock]]’s closing price to the [[high-low range]](https://www.investopedia.com/terms/h/high-low-method.asp) over a specific period, typically 14 days or periods.1
 
 TradingView.
 
 ### Key Takeaways
 
 -   Williams %R moves between zero and -100.
--   A reading above -20 is overbought.
+-   A reading above -20 is [[Overbought|overbought]].
 -   A reading below -80 is oversold.
--   An overbought or oversold reading doesn't mean the price will reverse. Overbought simply means the price is near the highs of its recent range, and oversold means the price is in the lower end of its recent range.
--   Can be used to generate trade signals when the price and the indicator move out of overbought or oversold territory.
+-   An [[Overbought|overbought]] or oversold reading doesn't mean the price [[Will|will]] reverse. Overbought simply means the price is near the highs of its recent range, and oversold means the price is in the lower end of its recent range.
+-   Can be used to generate trade signals when the price and the indicator move out of [[Overbought|overbought]] or oversold territory.
 
 ## The Formula for the Williams %R Is:
 
@@ -45,22 +45,22 @@ The Williams %R is calculated based on price, typically over the last 14 periods
 
 The indicator is telling a trader where the current price is relative to the highest high over the last 14 periods (or whatever number of lookback periods is chosen).
 
-When the indicator is between -20 and zero the price is overbought, or near the high of its recent price range. When the indicator is between -80 and -100 the price is oversold, or far from the high of its recent range.
+When the indicator is between -20 and zero the price is [[Overbought|overbought]], or near the high of its recent price range. When the indicator is between -80 and -100 the price is oversold, or far from the high of its recent range.
 
 During an [[uptrend]](https://www.investopedia.com/terms/u/uptrend.asp), traders can watch for the indicator to move below -80. When the price starts moving up, _and_ the indicator moves back above -80, it could signal that the uptrend in price is starting again.
 
 The same concept could be used to find [[short]](https://www.investopedia.com/terms/s/shortselling.asp) trades in a downtrend. When the indicator is above -20, watch for the price to start falling along with the Williams %R moving back below -20 to signal a potential continuation of the downtrend.
 
-Traders can also watch for [[momentum]](https://www.investopedia.com/terms/m/momentum.asp) failures. During a strong uptrend, the price will often reach -20 or above. If the indicator falls, and then can't get back above -20 before falling again, that signals that the upward price momentum is in trouble and a bigger price decline could follow.
+Traders can also watch for [[momentum]](https://www.investopedia.com/terms/m/[[Momentum|momentum]].asp) failures. During a strong uptrend, the price [[Will|will]] often reach -20 or above. If the indicator falls, and then can't get back above -20 before falling again, that signals that the upward price momentum is in trouble and a bigger price decline could follow.
 
 The same concept applies to a downtrend. Readings of -80 or lower are often reached. When the indicator can no longer reach those low levels before moving higher it could indicate the price is going to head higher.
 
-## The Difference Between Williams %R and the Fast Stochastic Oscillator
+## The Difference Between Williams %R and the Fast [[Stochastic Oscillator]]
 
-The Williams %R represents a market’s closing level versus the highest high for the lookback period. Conversely, the [[Fast Stochastic Oscillator]](https://www.investopedia.com/terms/s/stochasticoscillator.asp), which moves between 0 and 100, illustrates a market’s close in relation to the lowest low. The Williams %R corrects for this by multiplying by -100. The Williams %R and the Fast Stochastic Oscillator end up being almost the exact same indicator. The only difference between the two is how the indicators are scaled. 
+The Williams %R represents a market’s closing level versus the highest high for the lookback period. Conversely, the [[Fast Stochastic Oscillator]](https://www.investopedia.com/terms/s/stochasticoscillator.asp), which moves between 0 and 100, illustrates a market’s close in relation to the lowest low. The Williams %R corrects for this by multiplying by -100. The Williams %R and the Fast [[Stochastic Oscillator]] end up being almost the exact same indicator. The only difference between the two is how the indicators are scaled. 
 
 ## Limitations of Using the Williams %R
 
-Overbought and oversold readings on the indicator don't mean a reversal will occur. Overbought readings actually help confirm an uptrend, since a strong uptrend should regularly see prices that are pushing to or past prior highs (what the indicator is calculating).
+[[Overbought]] and oversold readings on the indicator don't mean a [[Reversal|reversal]] [[Will|will]] occur. Overbought readings actually help confirm an uptrend, since a strong uptrend should regularly see prices that are pushing to or past prior highs (what the indicator is calculating).
 
 The indicator can also be too responsive, meaning it gives many [[false signals]](https://www.investopedia.com/terms/f/false-signal.asp). For example, the indicator may be in oversold territory and starts to move higher, but the price fails to do so. This is because the indicator is only looking at the last 14 periods. As periods go by, the current price relative to the highs and lows in the lookback period changes, even if the price hasn't really moved.

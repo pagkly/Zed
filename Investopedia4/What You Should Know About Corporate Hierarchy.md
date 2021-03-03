@@ -3,7 +3,7 @@ alias: [Corporate Hierarchy]
 created: 2021-03-02T19:00:23 (UTC +11:00)
 tags: [Corporate Hierarchy Definition, What You Should Know About Corporate Hierarchy]
 source: https://www.investopedia.com/terms/c/corporate-hierarchy.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Corporate Hierarchy Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-What You Should Know About Corporate Hierarchy
+[[What You Should Know About Corporate Hierarchy]]
 ## What Is Corporate Hierarchy?
 
 The term corporate hierarchy refers to the arrangement and organization of individuals within a corporation according to power, status, and job function. In general, a hierarchy is any system or organization in which people or groups are ranked one above the other according to status or authority. While most corporations and businesses have hierarchies, they can also be part of any organization, including governments and any organized religion.
@@ -48,4 +48,4 @@ The configuration of a corporate hierarchy typically evolves as an organization 
 
 There are companies that claim to have a nontraditional corporate hierarchy, typically as a means to share responsibility across all employees and leaders. This may also influence elements of corporate culture, such as the layout of the company’s office.
 
-In many organizations, the higher one’s standing is in the hierarchy, the greater the effect on the size, location, and aesthetics of the workspace. Premium office space, for instance, is often reserved for executives. Access to perks such as chambers reserved for executive use or, if it is within the company’s means, use of private jets and car service may also be an amenity reserved for members of upper leadership.
+In many organizations, the higher one’s standing is in the hierarchy, the greater the effect on the size, location, and aesthetics of the workspace. [[Premium]] office space, for instance, is often reserved for executives. Access to perks such as chambers reserved for executive use or, if it is within the company’s means, use of private jets and car service may also be an amenity reserved for members of upper leadership.

@@ -1,9 +1,9 @@
 ---
 alias: [Fortune 100 Overview]
 created: 2021-03-02T20:05:34 (UTC +11:00)
-tags: [Fortune 100: Overview, What's the Fortune 100?]
+tags: [Fortune 100: Overview, [[What's the Fortune 100]]?]
 source: https://www.investopedia.com/terms/f/fortune-100.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Fortune 100: Overview
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-What's the Fortune 100?
+[[What's the Fortune 100]]?
 ## What Is the Fortune 100?
 
 The Fortune 100 is a list of the top 100 companies in the United States. It is a subset of the Fortune 500, a list of the 500 largest U.S. public and privately held companies published by Fortune magazine. Fortune creates the list by ranking public and private companies that report annual revenue figures to a government agency. The ranking is based on total revenues for the company's corresponding [[fiscal year]](https://www.investopedia.com/terms/f/fiscalyear.asp).
@@ -44,13 +44,13 @@ Fortune includes in its list all public and private companies that file financia
 
 ### Requirements for the Fortune 100
 
-At first, the magazine's editors were stricter on which [[business sectors]](https://www.investopedia.com/terms/s/sector-breakdown.asp) were included. From 1955 to 1994, the Fortune 100 list only included businesses in the manufacturing, mining, and energy sectors. This left out many of the top-earning companies across the country. However, Fortune did publish individual sector lists for the top 50 companies in the industries of banks, utilities, insurance, retailers, and transportation.
+At first, the magazine's editors were stricter on which [[business sectors]](https://www.investopedia.com/terms/s/sector-breakdown.asp) were included. From 1955 to 1994, the Fortune 100 list only included businesses in the [[Manufacturing|manufacturing]], [[Mining|mining]], and energy sectors. This left out many of the top-earning companies across the country. However, Fortune did publish individual sector lists for the top 50 companies in the industries of banks, utilities, insurance, retailers, and transportation.
 
 In 1994, Fortune expanded its list of companies to include service companies, opening the door for many newcomers to join. This change added many new companies to the Fortune 100 list and also dramatically increased the amount of annual revenue required to make the prestigious list. A company had to generate $10.9 billion in revenue to make the 1995 Fortune 100 list, compared to $5.3 billion in 1994.
 
 Walmart, which joined the list after 1994, was #1 in 2018 with $500.34 billion in revenue. It has been a frequent top 10 company since its inclusion.
 
-The Fortune 100 list does not include foreign companies, though many of the listed companies have significant international operations.
+The Fortune 100 list does not include foreign companies, though many of the [[Listed|listed]] companies have significant international operations.
 
 ## 2019 Fortune 100 Top 10
 

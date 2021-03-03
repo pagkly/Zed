@@ -3,7 +3,7 @@ alias: [Parity]
 created: 2021-03-02T22:38:07 (UTC +11:00)
 tags: [Parity Definition, When Parity Matters]
 source: https://www.investopedia.com/terms/p/parity.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Parity Definition
@@ -13,26 +13,26 @@ author: Will Kenton
 
 ---
 
-When Parity Matters
+[[When Parity Matters]]
 ## What Is Parity?
 
-Parity refers to the condition where two (or more) things are equal to each other. It can thus refer to two securities having equal value, such as a [[convertible bond]](https://www.investopedia.com/terms/c/convertiblebond.asp) and the value of the stock if the bondholder chooses to convert into common stock. The term "[par value](https://www.investopedia.com/terms/p/parvalue.asp)" for a bond is similar to parity in that it suggests the bond is selling for its initial face value. The term "parity" is often applied in the financial markets when dealing with stocks, bonds, and currency exchange rates.
+Parity refers to the condition where two (or more) things are equal to each other. It can thus refer to two securities having equal value, such as a [[convertible bond]](https://www.investopedia.com/terms/c/convertiblebond.asp) and the value of the [[Stock|stock]] if the bondholder chooses to convert into [[Common Stock|common stock]]. The term "[par value](https://www.investopedia.com/terms/p/parvalue.asp)" for a bond is similar to parity in that it suggests the bond is selling for its initial face value. The term "parity" is often applied in the financial markets when dealing with [[Stocks|stocks]], bonds, and currency exchange rates.
 
 ### Key Takeaways
 
 -   Parity refers to the condition where two (or more) things are equal to each other.
--   Parity can refer to two securities having equal value, such as a convertible bond and the value of the stock if the bondholder chooses to convert into common stock.
+-   Parity can refer to two securities having equal value, such as a convertible bond and the value of the [[Stock|stock]] if the bondholder chooses to convert into [[Common Stock|common stock]].
 -   Parity can also be found in the foreign exchange markets whereby currencies that are at parity have an exchange rate relationship of one to one.
 
 ## Understanding Parity
 
-In a financial market where there's an exchange of a security or investment taking place, parity occurs when all brokers bidding for the same security have equal standing due to identical bids. When parity occurs, the market must determine which bidding broker will obtain the security by alternative means. The winning bid is thus typically awarded by random draw.
+In a financial market where there's an exchange of a [[Security|security]] or investment taking place, parity occurs when all brokers bidding for the same security have equal standing due to identical bids. When parity occurs, the market must determine which bidding broker [[Will|will]] obtain the security by alternative means. The winning bid is thus typically awarded by random draw.
 
-### Parity with Stocks and Bonds
+### Parity with [[Stocks]] and Bonds
 
-Many investors have to make decisions about the value of two different investments. A convertible bond issued by a company, for example, allows an investor to own a bond and earn a rate of interest. However, the bond comes with the option to convert the bond into a fixed number of shares of common stock.
+Many investors have to make decisions about the value of two different investments. A convertible bond issued by a company, for example, allows an investor to own a bond and earn a rate of interest. However, the bond comes with the option to convert the bond into a fixed number of [[Shares|shares]] of [[Common Stock|common stock]].
 
-Assume that an investor can own a $1,000 corporate bond with a market price of $1,200 or convert the bond into 100 shares of common stock. If the stock’s market price is $12, the market value of the 100 shares of stock is also $1,200. As a result, the bond and the stock are at parity.
+Assume that an investor can own a $1,000 corporate bond with a market price of $1,200 or convert the bond into 100 [[Shares|shares]] of [[Common Stock|common stock]]. If the [[Stock|stock]]’s market price is $12, the market value of the 100 shares of stock is also $1,200. As a result, the bond and the stock are at parity.
 
 ### Parity in the Forex Markets
 
@@ -46,8 +46,8 @@ For example, let's say an iPhone costs $600 in the U.S. In Great Britain, the ex
 
 Of course, parity isn't always achievable in the real world since the price of the British iPhone could differ due to other factors unique to Europe, such as the cost of distribution, packaging, or local regulations.
 
-Risk parity attempts to reduce risk and increase investment returns.
+[[Risk]] parity attempts to reduce risk and increase investment returns.
 
 ## Special Considerations
 
-[Risk parity](https://www.investopedia.com/terms/r/risk-parity.asp) is an asset management process that evaluates risk based on asset classes rather than the allocation of capital. Tradition asset allocation strategy divides assets between stocks, bonds, and cash. The goal is to provide diversification and reduce risk by using these types of investments. Risk parity, on the other hand, allocates dollars based on four components: equities, credit, interest rates, and commodities.
+[Risk parity](https://www.investopedia.com/terms/r/[[Risk|risk]]-parity.asp) is an asset management process that evaluates risk based on asset classes rather than the allocation of capital. Tradition asset allocation strategy divides assets between [[Stocks|stocks]], bonds, and cash. The goal is to provide [[Diversification|diversification]] and reduce risk by using these types of investments. Risk parity, on the other hand, allocates dollars based on four components: equities, credit, interest rates, and commodities.

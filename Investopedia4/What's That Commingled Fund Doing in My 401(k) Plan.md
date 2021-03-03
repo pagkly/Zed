@@ -1,7 +1,7 @@
 ---
 alias: [Commingled Fund]
 created: 2021-03-02T18:53:38 (UTC +11:00)
-tags: [Commingled Fund Definition, What's That Commingled Fund Doing in My 401(k) Plan?]
+tags: [Commingled Fund Definition, [[What's That Commingled Fund Doing in My 401(k) Plan]]?]
 source: https://www.investopedia.com/terms/c/commingledfund.asp
 author: James Chen
 ---
@@ -9,27 +9,27 @@ author: James Chen
 # Commingled Fund Definition
 
 > ## Excerpt
-> Commingled funds mix assets from several accounts, which affords them lower costs and other economies-of-scale benefits. Unlike mutual funds, they are not regulated by the Securities and Exchange Commission and are not available to retail investors.
+> Commingled funds mix assets from several accounts, which affords them lower costs and other economies-of-scale benefits. Unlike mutual funds, they are not regulated by the Securities and Exchange [[Commission]] and are not available to retail investors.
 
 ---
 
-What's That Commingled Fund Doing in My 401(k) Plan?
+[[What's That Commingled Fund Doing in My 401(k) Plan]]?
 ## What Is a Commingled Fund?
 
-A commingled fund is a portfolio consisting of assets from several accounts that are blended together. Commingled funds exist to reduce the costs of managing the constituent accounts separately.
+A commingled fund is a [[Portfolio|portfolio]] consisting of assets from several accounts that are blended together. Commingled funds exist to reduce the costs of managing the constituent accounts separately.
 
-Commingled funds are a type of, and are sometimes referred to as, [[pooled funds]](https://www.investopedia.com/terms/p/pooledfunds.asp). Although the term can be used generically as in, "a mutual fund uses a [[commingled]](https://www.investopedia.com/terms/c/commingling.asp)\-fund structure," it also refers to a specific type of investment vehicle. As it applies to specific investment vehicles, it is one that is not publicly listed or available to individual retail investors. Instead, it usually features in retirement plans, pension funds, insurance policies, and other institutional accounts.
+Commingled funds are a type of, and are sometimes referred to as, [[pooled funds]](https://www.investopedia.com/terms/p/pooledfunds.asp). Although the term can be used generically as in, "a mutual fund uses a [[commingled]](https://www.investopedia.com/terms/c/commingling.asp)\-fund structure," it also refers to a specific type of investment vehicle. As it applies to specific investment vehicles, it is one that is not publicly [[Listed|listed]] or available to individual retail investors. Instead, it usually features in retirement plans, pension funds, insurance policies, and other institutional accounts.
 
 ### Key Takeaways
 
--   A commingled fund is comprised of assets from multiple accounts blended together so that it operates as a single portfolio.
+-   A commingled fund is comprised of assets from multiple accounts blended together so that it operates as a single [[Portfolio|portfolio]].
 -   Like mutual funds, commingled funds are professionally managed and invest in a variety of securities.
 -   Commingled funds are not regulated by the SEC.
 -   Commingled funds don't trade publicly and are not available for individual purchase; instead, they feature in retirement plans, insurance policies, and other institutional accounts.
 
 ## Understanding a Commingled Fund
 
-In many ways, commingled funds are similar to mutual funds. Both are professionally managed by one or more fund managers. Both types of funds invest in basic financial instruments such as stocks, bonds, or a combination of both. Also, like mutual funds, commingled fund investments benefit from economies of scale, which allow for lower trading costs per dollar of investment, and [[diversification]](https://www.investopedia.com/terms/d/diversification.asp), which lowers portfolio risk.
+In many ways, commingled funds are similar to mutual funds. Both are professionally managed by one or more fund managers. Both types of funds invest in basic financial instruments such as [[Stocks|stocks]], bonds, or a combination of both. Also, like mutual funds, commingled fund investments benefit from [[Economies of Scale|economies of scale]], which allow for lower trading costs per dollar of investment, and [[diversification]](https://www.investopedia.com/terms/d/[[Diversification|diversification]].asp), which lowers [[Portfolio|portfolio]] [[Risk|risk]].
 
 ## Oversight of Commingled Funds
 
@@ -39,17 +39,17 @@ While mutual funds have a [[prospectus]](https://www.investopedia.com/terms/p/pr
 
 ## Pros and Cons of Commingled Funds
 
-The lower degree of regulation results in lower legal expenses and operating costs for a commingled fund. The lower the costs, the less drag on a fund's returns. If a commingled fund and a comparable mutual fund post the exact same gross performance, the commingled fund's net return would likely be better because its expenses were lower than the mutual fund's.
+The lower degree of regulation results in lower legal expenses and operating costs for a commingled fund. The lower the costs, the less drag on a fund's returns. If a commingled fund and a comparable mutual fund post the exact same gross performance, the commingled fund's net [[Return|return]] would likely be better because its expenses were lower than the mutual fund's.
 
 Pros
 
 -   Professionally managed
     
--   Diversified portfolio
+-   Diversified [[Portfolio|portfolio]]
     
 -   Lower fees and expenses
     
--   Economies of scale
+-   [[Economies of Scale|Economies of scale]]
     
 
 Cons
@@ -67,6 +67,6 @@ A disadvantage of commingled funds is that they do not have ticker symbols and a
 
 ## Real-World Example of a Commingled Fund
 
-Like a mutual fund, the Fidelity Contrafund Commingled Pool has a portfolio manager and publicly discloses pertinent information via quarterly reports. An equity fund, it focuses on large-cap growth stocks, with major weightings in information technology, communication services, financial companies, and health care. As of March 31, 2019, it has US$22.6 billion in assets.
+Like a mutual fund, the Fidelity Contrafund Commingled Pool has a [[Portfolio Manager|portfolio manager]] and publicly discloses pertinent information via quarterly reports. An [[Equity Fund|equity fund]], it focuses on large-cap growth [[Stocks|stocks]], with major weightings in information technology, communication services, financial companies, and health care. As of March 31, 2019, it has US$22.6 billion in assets.
 
-The Contrafund Commingled Pool has a 0.43% expense ratio, lower than the average expense ratio of mutual funds—including its mutual fund counterpart, the [[Fidelity Contrafund]](https://www.investopedia.com/articles/investing/031316/fcntx-overview-fidelity-contrafund.asp) (FCNTX), with its .82% expense ratio. Since its inception in 2014, the fund has had an annualized return of 11.96%. A hypothetical $10,000 invested in the fund would be worth $18,000 versus $17,161 for the same investment in the S&P 500 index.
+The Contrafund Commingled Pool has a 0.43% expense ratio, lower than the average expense ratio of mutual funds—including its mutual fund counterpart, the [[Fidelity Contrafund]](https://www.investopedia.com/articles/investing/031316/fcntx-overview-fidelity-contrafund.asp) (FCNTX), with its .82% expense ratio. Since its inception in 2014, the fund has had an annualized [[Return|return]] of 11.96%. A hypothetical $10,000 invested in the fund would be worth $18,000 versus $17,161 for the same investment in the [[S&P 500 Index|S&P 500 index]].

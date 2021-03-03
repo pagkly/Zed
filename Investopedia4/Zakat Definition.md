@@ -2,18 +2,18 @@
 alias: [Zakat]
 created: 2021-03-03T01:10:29 (UTC +11:00)
 tags: [Zakat Definition, Zakat Definition]
-source: https://www.investopedia.com/terms/z/zakat.asp
+source: https://www.investopedia.com/terms/[[Z|z]]/zakat.asp
 author: Daniel Liberto
 ---
 
-# Zakat Definition
+# [[Zakat Definition]]
 
 > ## Excerpt
 > Zakat is a religious obligation, ordering all Muslims who meet the necessary criteria to donate a certain proportion of wealth each year to charity.
 
 ---
 
-Zakat Definition
+[[Zakat Definition]]
 ## What Is Zakat?
 
 Zakat is an [[Islamic finance]](https://www.investopedia.com/terms/i/islamicbanking.asp) term referring to the obligation that an individual has to donate a certain proportion of [[wealth]](https://www.investopedia.com/terms/w/wealth.asp) each year to charitable causes.
@@ -31,13 +31,13 @@ Zakat is a mandatory process for Muslims and is regarded as a form of worship. G
 
 Zakat is one of the Five Pillars of Islam, the others being declaration of faith, prayer, fasting during Ramadan, and the Hajj pilgrimage. It is a compulsory procedure for Muslims earning above a certain threshold and should not be confused with Sadaqah, the act of voluntarily giving charitable gifts out of kindness or generosity.
 
-Religious texts offer comprehensive descriptions of the minimum amount of zakat that should be distributed to those less fortunate. It generally varies, depending on whether wealth came from farm produce, cattle, [business activities](https://www.investopedia.com/terms/b/business-activities.asp), paper currency, or [precious metals](https://www.investopedia.com/terms/p/preciousmetal.asp), such as gold and silver.
+Religious texts [[Offer|offer]] comprehensive descriptions of the minimum amount of zakat that should be distributed to those less fortunate. It generally varies, depending on whether wealth came from farm produce, cattle, [business activities](https://www.investopedia.com/terms/b/business-activities.asp), paper currency, or [precious metals](https://www.investopedia.com/terms/p/preciousmetal.asp), such as gold and silver.
 
 Zakat is based on [[income]](https://www.investopedia.com/terms/i/income.asp) and the value of possessions. The common minimum amount for those who qualify is 2.5%, or 1/40 of a Muslim's total [[savings]](https://www.investopedia.com/terms/s/savings.asp) and wealth. 
 
 Each year, between $200 billion and $1 trillion are spent in mandatory alms and voluntary charity across the Muslim world, according to Islamic financial analysts.
 
-Zakat is often paid out at the end of the year once calculations on any leftover wealth are made. Recipients are the poor and needy, struggling Muslim converts, slaves, people in debt, soldiers fighting to protect the Muslim community, and those stranded during their travels. The collectors of zakat are also compensated for the work they do.
+Zakat is often paid out at the end of the year once calculations on any leftover wealth are made. Recipients are the poor and needy, struggling Muslim converts, slaves, people in [[Debt|debt]], soldiers fighting to protect the Muslim community, and those stranded during their travels. The collectors of zakat are also compensated for the work they do.
 
 ## Zakat vs. Nisab
 
@@ -49,8 +49,8 @@ As one of the Five Pillars of Islam, zakat is a religious obligation for all Mus
 
 Zakat is considered to be a mandatory type of [[tax]](https://www.investopedia.com/terms/t/taxes.asp), although not all Muslims abide. In many countries with large Muslim populations, individuals can choose whether or not to pay zakat.
 
-That is not the case for countries such as Libya, Malaysia, Pakistan, Saudi Arabia, Sudan, and Yemen. Those who fail to pay zakat in places where it is compulsory are treated like [[tax evaders]](https://www.investopedia.com/terms/t/taxevasion.asp) and warned that they will face God’s punishment on Judgment Day.
+That is not the case for countries such as Libya, Malaysia, Pakistan, Saudi Arabia, Sudan, and Yemen. Those who fail to pay zakat in places where it is compulsory are treated like [[tax evaders]](https://www.investopedia.com/terms/t/taxevasion.asp) and warned that they [[Will|will]] face God’s punishment on Judgment Day.
 
 ## Criticism of Zakat
 
-There has been considerable controversy and criticism surrounding zakat. Islamic scholars and development workers argue that it has failed to lift people out of [[poverty]](https://www.investopedia.com/terms/p/poverty.asp), prompting them to suggest that the funds are being wasted and mismanaged.
+There has been considerable controversy and criticism surrounding zakat. Islamic scholars and development workers argue that it has failed to lift people out of [[poverty]](https://www.investopedia.com/terms/p/[[Poverty|poverty]].asp), prompting them to suggest that the funds are being wasted and mismanaged.

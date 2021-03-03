@@ -6,27 +6,27 @@ source: https://www.investopedia.com/terms/w/writedown.asp
 author: Alicia Tuovila
 ---
 
-# Write-Down Definition
+# [[Write-Down Definition]]
 
 > ## Excerpt
 > A write-down is the reduction in the book value of an asset when its fair market value has fallen below the book value, and thus becomes an impaired asset.
 
 ---
 
-Write-Down Definition
+[[Write-Down Definition]]
 ## What Is a Write-Down?
 
 A write-down is an accounting term for the reduction in the book value of an asset when its [[fair market value]](https://www.investopedia.com/terms/f/fairmarketvalue.asp) (FMV) has fallen below the carrying book value, and thus becomes an [[impaired asset]](https://www.investopedia.com/terms/i/impairedasset.asp). The amount to be written down is the difference between the book value of the asset and the amount of cash that the business can obtain by disposing of it in the most optimal manner.
 
-A write-down is the opposite of a [[write-up]](https://www.investopedia.com/terms/w/writeup.asp), and it will become a [[write-off]](https://www.investopedia.com/terms/w/write-off.asp) if the entire value of the [[asset]](https://www.investopedia.com/terms/a/asset.asp) becomes worthless and is eliminated from the account altogether.
+A write-down is the opposite of a [[write-up]](https://www.investopedia.com/terms/w/writeup.asp), and it [[Will|will]] become a [[write-off]](https://www.investopedia.com/terms/w/[[Write-Off|write-off]].asp) if the entire value of the [[asset]](https://www.investopedia.com/terms/a/asset.asp) becomes worthless and is eliminated from the account altogether.
 
 ### Key Takeaways
 
--   A write down is necessary if the fair market value (FMV) of an asset is less than the carrying value currently on the books.
--   The income statement will include an impairment loss, reducing net income.
+-   A write down is necessary if the [[Fair Market Value (FMV)|fair market value (FMV)]] of an asset is less than the carrying value currently on the books.
+-   The income statement [[Will|will]] include an impairment loss, reducing net income.
 -   On the balance sheet, the value of the asset is reduced by the difference between the book value and the amount of cash the business could obtain by disposing of it in the most optimal manner.
 -   An impairment can not be deducted on taxes until the asset is sold or disposed.
--   If an asset is being "held for sale," the write down will also need to include the expected costs of the sale.
+-   If an asset is being "held for sale," the write down [[Will|will]] also need to include the expected costs of the sale.
 
 ## Understanding Write-Downs
 
@@ -34,28 +34,28 @@ Write-downs can have a huge impact on a company’s [[net income]](https://www.i
 
 Accounts that are most likely to be written down are a company's [[goodwill]](https://www.investopedia.com/terms/g/goodwill.asp), [[accounts receivable]](https://www.investopedia.com/terms/a/accountsreceivable.asp), [[inventory]](https://www.investopedia.com/terms/i/inventory.asp), and long-term assets like [[property, plant, and equipment]](https://www.investopedia.com/terms/p/ppe.asp) (PP&E). PP&E may become [[impaired]](https://www.investopedia.com/terms/i/impairment.asp) because it has become obsolete, damaged beyond repair, or property prices have fallen below the [[historical cost]](https://www.investopedia.com/terms/h/historical-cost.asp). In the service sector, a business may write down the value of its stores if they no longer serve their purpose and need to be revamped.
 
-Write-downs are common in businesses that produce or sell goods, which require a stock of inventory that can become damaged or obsolete. For example, technology and automobile inventories can lose value rapidly, if they go unsold or new updated models replace them. In some cases, a full [[inventory write-off]](https://www.investopedia.com/terms/i/inventory-write-off.asp) may be necessary.
+Write-downs are common in businesses that produce or sell goods, which require a [[Stock|stock]] of inventory that can become damaged or obsolete. For example, technology and automobile inventories can lose value rapidly, if they go unsold or new updated models replace them. In some cases, a full [[inventory write-off]](https://www.investopedia.com/terms/i/inventory-[[Write-Off|write-off]].asp) may be necessary.
 
-[Generally accepted accounting principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP) in the U.S. has specific standards regarding the fair value measurement of intangible assets. It requires that goodwill be written down immediately at any time if its value declines. For example, in November 2012, Hewlett-Packard announced a massive $8.8 billion impairment charge to write down a botched acquisition of U.K.-based Autonomy Corporation PLC—which represented a huge loss in [[shareholder value]](https://www.investopedia.com/terms/s/shareholder-value.asp) since the company was worth only a fraction of its earlier estimated value.1
+[Generally accepted accounting principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP) in the U.S. has specific standards regarding the [[Fair Value|fair value]] measurement of intangible assets. It requires that goodwill be written down immediately at any time if its value declines. For example, in November 2012, Hewlett-Packard announced a massive $8.8 billion impairment charge to write down a botched acquisition of U.K.-based Autonomy Corporation PLC—which represented a huge loss in [[shareholder value]](https://www.investopedia.com/terms/s/shareholder-value.asp) since the company was worth only a fraction of its earlier estimated value.1
 
 ### Effect of Write-Downs on Financial Statements and Ratios
 
-A write-down impacts both the [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp) and the [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp). A loss is reported on the income statement. If the write-down is related to inventory, it may be recorded as a [[cost of goods sold]](https://www.investopedia.com/terms/c/cogs.asp) (COGS). Otherwise, it is listed as a separate impairment loss line item on the income statement so lenders and investors can assess the impact of devalued assets.
+A write-down impacts both the [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp) and the [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp). A loss is reported on the income statement. If the write-down is related to inventory, it may be recorded as a [[cost of goods sold]](https://www.investopedia.com/terms/c/cogs.asp) (COGS). Otherwise, it is [[Listed|listed]] as a separate impairment loss line item on the income statement so lenders and investors can assess the impact of devalued assets.
 
-The asset's carrying value on the balance sheet is written down to fair value. [[Shareholders' equity]](https://www.investopedia.com/terms/s/shareholdersequity.asp) on the balance sheet is reduced as a result of the impairment loss on the income statement. An impairment may also create a [[deferred tax asset]](https://www.investopedia.com/terms/d/deferredtaxasset.asp) or reduce a deferred tax liability because the write-down is not tax deductible until the affected assets are physically sold or disposed.
+The asset's carrying value on the balance sheet is written down to [[Fair Value|fair value]]. [[Shareholders' equity]](https://www.investopedia.com/terms/s/shareholdersequity.asp) on the balance sheet is reduced as a result of the impairment loss on the income statement. An impairment may also create a [[deferred tax asset]](https://www.investopedia.com/terms/d/deferredtaxasset.asp) or reduce a deferred [[Tax Liability|tax liability]] because the write-down is not tax deductible until the affected assets are physically sold or disposed.
 
-In terms of financial statement ratios, a write down to a fixed asset will cause the current and future [[fixed-asset turnover]](https://www.investopedia.com/terms/f/fixed-asset-turnover.asp) to improve, as net sales will now be divided by a smaller fixed asset base. Because shareholders' equity falls, [[debt-to-equity]](https://www.investopedia.com/terms/d/debtequityratio.asp) rises. [[Debt-to-assets]](https://www.investopedia.com/terms/t/totaldebttototalassets.asp) will be higher as well, with the lower asset base. Future net income potential rises because the lower asset value reduces future [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) expenses.
+In terms of financial statement ratios, a write down to a fixed asset [[Will|will]] cause the current and future [[fixed-asset turnover]](https://www.investopedia.com/terms/f/fixed-asset-turnover.asp) to improve, as [[Net Sales|net sales]] will now be divided by a smaller fixed asset base. Because shareholders' [[Equity|equity]] falls, [[debt-to-equity]](https://www.investopedia.com/terms/d/debtequityratio.asp) rises. [[Debt-to-assets]](https://www.investopedia.com/terms/t/totaldebttototalassets.asp) will be higher as well, with the lower asset base. Future net income potential rises because the lower asset value reduces future [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) expenses.
 
 ## Special Considerations
 
 ### Assets Held for Sale
 
-Assets are said to be impaired when their net [[carrying value]](https://www.investopedia.com/terms/c/carryingvalue.asp) is greater than the future un-discounted cash flow that these assets can provide or be sold for. Under GAAP, impaired assets must be recognized once it is evident this book value cannot be recovered. Once impaired, the asset can be written down if it remains in use, or classified as an asset "held for sale" which will be disposed of or abandoned.2
+Assets are said to be impaired when their net [[carrying value]](https://www.investopedia.com/terms/c/carryingvalue.asp) is greater than the future un-discounted [[Cash Flow|cash flow]] that these assets can provide or be sold for. Under GAAP, impaired assets must be recognized once it is evident this book value cannot be recovered. Once impaired, the asset can be written down if it remains in use, or classified as an asset "held for sale" which [[Will|will]] be disposed of or abandoned.2
 
-The disposition decision differs from a typical [[write-down]](https://www.investopedia.com/ask/answers/070715/what-difference-between-writeoff-and-writedown.asp) because once a company classifies impaired assets as "held for sale" or abandonment, they are no longer expected to contribute to ongoing operations. The book value would need to be written down to the fair market value less any costs to sell the item. For more on impairment recognition and measurement, read [[How do businesses determine if an asset may be impaired]](https://www.investopedia.com/ask/answers/042415/how-do-businesses-determine-if-asset-may-be-impaired.asp)?
+The [[Disposition|disposition]] decision differs from a typical [[write-down]](https://www.investopedia.com/ask/answers/070715/what-difference-between-writeoff-and-writedown.asp) because once a company classifies impaired assets as "held for sale" or abandonment, they are no longer expected to contribute to ongoing operations. The book value would need to be written down to the fair market value less any costs to sell the item. For more on impairment recognition and measurement, read [[How do businesses determine if an asset may be impaired]](https://www.investopedia.com/ask/answers/042415/how-do-businesses-determine-if-asset-may-be-impaired.asp)?
 
 ### Big Bath Accounting
 
 Companies often write down assets in quarters or years in which earnings are already disappointing, to get all the bad news out at once – which is known as “taking a bath." A [[big bath]](https://www.investopedia.com/terms/b/bigbath.asp) is a way of manipulating a company's income statement to make poor results look even worse, to make future results look better.
 
-For example, banks often write down or write off loans when the economy goes into recession and they face rising [[delinquency]](https://www.investopedia.com/terms/d/delinquent.asp) and [[default]](https://www.investopedia.com/terms/d/default2.asp) rates on loans. By writing off the loans in advance of any losses—and creating a loan loss reserve—they can report enhanced earnings if the [[loan loss provisions]](https://www.investopedia.com/terms/l/loanlossprovision.asp) turn out to be overly pessimistic when the economy recovers.
+For example, banks often write down or write off loans when the economy goes into recession and they face rising [[delinquency]](https://www.investopedia.com/terms/d/delinquent.asp) and [[default]](https://www.investopedia.com/terms/d/default2.asp) rates on loans. By writing off the loans in advance of any losses—and creating a [[Loan|loan]] [[Loss Reserve|loss reserve]]—they can report enhanced earnings if the [[loan loss provisions]](https://www.investopedia.com/terms/l/loanlossprovision.asp) turn out to be overly pessimistic when the economy recovers.

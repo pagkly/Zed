@@ -3,7 +3,7 @@ alias: [Guanxi]
 created: 2021-03-02T20:32:32 (UTC +11:00)
 tags: [Guanxi Definition, Why Guanxi Matters]
 source: https://www.investopedia.com/terms/g/guanxi.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Guanxi Definition
@@ -13,10 +13,10 @@ author: Will Kenton
 
 ---
 
-Why Guanxi Matters
+[[Why Guanxi Matters]]
 ## What Is Guanxi?
 
-_Guanxi_ (pronounced _gwon-she_) is a Chinese term meaning "networks" or "connections" that open doors for new business and facilitate deals. A person who has a lot of guanxi will be in a better position to generate business than someone who lacks it.
+_Guanxi_ (pronounced _gwon-she_) is a Chinese term meaning "networks" or "connections" that open doors for new business and facilitate deals. A person who has a lot of guanxi [[Will|will]] be in a better position to generate business than someone who lacks it.
 
 Generally an acknowledged fact, it is particularly true in China that the wheels of business are lubricated with guanxi.
 
@@ -24,11 +24,11 @@ Generally an acknowledged fact, it is particularly true in China that the wheels
 
 Guanxi is perhaps best understood by the old axiom, "it's not _what_ you know, but _who_ you know that's important." Guanxi in the West comes in many forms—alumni networks, fraternity or sorority houses, past and present places of employment, clubs, churches, families, and friends.
 
-In social sciences, guanxi is similar to some concepts understood in network theory, such as the idea of information or connection brokerage by well-positioned individuals in a social network, or their [[social capital]](https://www.investopedia.com/terms/s/socialcapital.asp).
+In [[Social Sciences|social sciences]], guanxi is similar to some concepts understood in network theory, such as the idea of information or connection brokerage by well-positioned individuals in a social network, or their [[social capital]](https://www.investopedia.com/terms/s/socialcapital.asp).
 
-The odds of gaining access to a business opportunity and then winning that opportunity are higher when you work your connections. If you are bidding for a contract in competition with others and you know someone on the other side of the deal, naturally you will try to utilize this contact to your advantage.
+The odds of gaining access to a business opportunity and then winning that opportunity are higher when you work your connections. If you are bidding for a contract in competition with others and you know someone on the other side of the deal, naturally you [[Will|will]] try to utilize this contact to your advantage.
 
-If you are a Wall Street executive with guanxi in Washington, you will certainly make a few phone calls to make sure lawmakers remain neutered and regulators stay off your back. If you are a CEO who wants to make an [[acquisition]](https://www.investopedia.com/terms/a/acquisition.asp), you will tap your guanxi at the golf club to find a quicker route to your objective.
+If you are a Wall Street executive with guanxi in Washington, you [[Will|will]] certainly make a few phone calls to make sure lawmakers remain neutered and regulators stay off your back. If you are a CEO who wants to make an [[acquisition]](https://www.investopedia.com/terms/a/acquisition.asp), you will tap your guanxi at the golf club to find a quicker route to your objective.
 
 ### Key Takeaways
 

@@ -13,7 +13,7 @@ author: James Chen
 
 ---
 
-Why Mission Statements Matter
+[[Why Mission Statements Matter]]
 ## What Is a Mission Statement?
 
 A mission statement is used by a company to explain, in simple and concise terms, its purpose(s) for being. The statement is generally short, either a single sentence or a short paragraph.
@@ -77,4 +77,4 @@ These personal mission statements often incorporate the financial, professional,
 
 ## Mission Statements vs. Vision Statements
 
-A company’s mission statement differs from its vision statement. While the mission statement remains unchanged for the most part and represents who the company is or aspires to be for the entirety of its existence, the vision statement can change. This statement outlines what the company needs to do to remain the way it has presented itself to be. In effect, a company’s mission is its identity, and the vision is its journey to accomplishing its mission.
+A company’s mission statement differs from its vision statement. While the mission statement remains [[Unchanged|unchanged]] for the most part and represents who the company is or aspires to be for the entirety of its existence, the vision statement can change. This statement outlines what the company needs to do to remain the way it has presented itself to be. In effect, a company’s mission is its identity, and the vision is its journey to accomplishing its mission.

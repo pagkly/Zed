@@ -9,20 +9,20 @@ author: Adam Hayes
 # Gross-Up Definition
 
 > ## Excerpt
-> A gross-up is a payment that is increased by the amount that the recipient will owe in income taxes.
+> A gross-up is a payment that is increased by the amount that the recipient [[Will|will]] owe in income taxes.
 
 ---
 
-What You Should Know About Gross-Up Payments
+[[What You Should Know About Gross-Up Payments]]
 ## What Is a Gross-Up?
 
-A gross-up is an additional amount of money added to a payment to cover the income taxes the recipient will owe on the payment.
+A gross-up is an additional amount of money added to a payment to cover the income taxes the recipient [[Will|will]] owe on the payment.
 
-The gross-up is most often seen in executive compensation plans. For example, a company may agree to pay an executive's relocation expenses plus a gross-up to offset the expected income taxes that will be owed on the salary payment.
+The gross-up is most often seen in executive compensation plans. For example, a company may agree to pay an executive's relocation expenses plus a gross-up to offset the expected income taxes that [[Will|will]] be owed on the salary payment.
 
 ## How a Gross-Up Works
 
-Grossing up a paycheck is essentially computing a paycheck but in reverse. Usually, employees are initially paid a gross paycheck amount from which deductions are thus withheld (such as taxes, retirement contributions, and social security) and the employees are paid the remainder as net pay. In a gross-up situation, the desired net pay is arranged in advance and the gross is sufficiently increased to ensure that the desired net pay is handed to the employee.
+Grossing up a paycheck is essentially computing a paycheck but in reverse. Usually, employees are initially paid a gross paycheck amount from which deductions are thus withheld (such as taxes, retirement contributions, and [[Social Security|social security]]) and the employees are paid the remainder as net pay. In a gross-up situation, the desired net pay is arranged in advance and the gross is sufficiently increased to ensure that the desired net pay is handed to the employee.
 
 As a practice, grossing up is most often done for one-time payments, such as reimbursements for relocation expenses or end of year bonuses. Depending on a company's calculation method, an employee may still have an additional [[tax liability]](https://www.investopedia.com/terms/t/taxliability.asp).
 
@@ -30,13 +30,13 @@ In truth, grossing up is mostly a matter of semantics. It merely restates an emp
 
 ### Key Takeaways
 
--   A gross-up is an additional amount of money added to a payment to cover the income taxes the recipient will owe on the payment.
+-   A gross-up is an additional amount of money added to a payment to cover the income taxes the recipient [[Will|will]] owe on the payment.
 -   Grossing up is most often done for one-time payments, such as reimbursements for relocation expenses or bonuses.
 -   Grossing up can also be used to game executive compensation. Several companies have made headlines for employing gross-up tactics with egregious and controversial results.
 
 ## Example of Grossing-Up
 
-As an example, consider a company offering an employee who has an income tax rate of 20% a net salary of $100,000 annually. The formula for grossing up is as follows:
+As an example, consider a company [[Offering|offering]] an employee who has an income tax rate of 20% a net salary of $100,000 annually. The formula for grossing up is as follows:
 
 -   **Gross pay** = net pay / (1 - tax rate)
 
@@ -44,8 +44,8 @@ The employer must gross-up the salary paid to the employee to $125,000 in order 
 
 ## The Gross-Up Controversy
 
-With executive pay coming under increased scrutiny in light of the 2008 financial crisis, grossing up has grown as an increasingly popular way to pay executives. Companies can efficiently increase executive pay by 30% or more, without it being apparent in their financial statements since those statements show only what employees net.
+With executive pay coming under increased scrutiny in light of the 2008 [[Financial Crisis|financial crisis]], grossing up has grown as an increasingly popular way to pay executives. Companies can efficiently increase executive pay by 30% or more, without it being apparent in their financial statements since those statements show only what employees net.
 
 Nonetheless, several companies have made headlines for employing gross-up tactics with egregious and controversial results. In 2005, consulting firm Towers Perrin conducted a study revealing that 77% of companies, when changing management, grossed up [[severance packages]](https://www.investopedia.com/terms/s/severence-package.asp) for outgoing executives. One such company was Gillette, purchased by Procter & Gamble in 2005. Gillette's departing [chief executive officer](https://www.investopedia.com/terms/c/ceo.asp) (CEO), James Kilts, received $13 million in gross-up payments in his severance package.
 
-In addition, with the rise of the gig economy, work from home (WFH), and entrepreneurship, grossing up is hard to determine since the total income of the individual is unknown as it includes multiple streams of income in addition to the full-time jobs.
+In addition, with the rise of the [[Gig Economy|gig economy]], work from home (WFH), and entrepreneurship, grossing up is hard to determine since the total income of the individual is unknown as it includes multiple streams of income in addition to the full-time jobs.

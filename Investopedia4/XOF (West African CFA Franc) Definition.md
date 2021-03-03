@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/w/west-african-cfa-franc-xof.asp
 author: James Chen
 ---
 
-# XOF (West African CFA Franc) Definition
+# [[XOF (West African CFA Franc) Definition]]
 
 > ## Excerpt
 > The West African CFA Franc (XOF) is the currency of eight independent states in West Africa.
 
 ---
 
-XOF (West African CFA Franc) Definition
+[[XOF (West African CFA Franc) Definition]]
 ## What Is the XOF (West African CFA Franc)?
 
 The West African CFA franc (XOF) is the shared currency of eight independent states in West Africa. The XOF uses both coins and [[banknotes]](https://www.investopedia.com/terms/b/banknote.asp), with the franc subdivided into 100 centimes. The Central Bank of West African States, located in Dakar, Senegal, regulates the currency. The members that use the West African CFA France consist of the West African Economic and Monetary Union and include Benin, Burkina Faso, Ivory Coast, Guinea-Bissau, Mali, Niger, Senegal, and Togo. Together, these countries have a [[spending power]](https://www.investopedia.com/terms/b/buyingpower.asp) that exceeds over 78 billion dollars.
@@ -22,9 +22,9 @@ CFA stands for _Communatué financière d'Afrique_ or African Financial Communit
 
 ## Understanding the West African CFA Franc
 
-The CFA franc is one of two regional African currencies backed by the French treasury with pegging to the euro. 'CFA franc' can refer to either the Central African CFA franc, abbreviated [XAF](https://www.investopedia.com/terms/c/central-african-cfa-franc-xaf.asp) in currency markets, or the West African CFA franc, abbreviated XOF in currency markets. Although they are separate currencies, the two are effectively interchangeable as they hold the same monetary value against other currencies. In theory, however, the French government or the monetary unions using the currencies could decide to change the value of one or the other.
+The CFA franc is one of two regional African currencies backed by the French treasury with pegging to the euro. 'CFA franc' can refer to either the Central African CFA franc, abbreviated [XAF](https://www.investopedia.com/terms/c/central-african-cfa-franc-xaf.asp) in currency markets, or the West African CFA franc, abbreviated XOF in currency markets. Although they are separate currencies, the two are effectively interchangeable as they [[Hold|hold]] the same monetary value against other currencies. In theory, however, the French government or the monetary unions using the currencies could decide to change the value of one or the other.
 
-Because the members are joined together by their use of the CFA franc, they have created what is known as the CFA franc zone. The CFA franc zone is made up of the two independent unions of the West African Economic and Monetary Union and the Central Africa Economic and Monetary Community. The dual union helped cement the value and usability of the CFA franc, first by setting its equivalent to the French franc, which later became the euro. By aligning the values, the colonies were able to gain security and stability with the franc. In return, however, the French treasure required large deposits of their [[external reserves]](https://www.investopedia.com/terms/f/foreign-exchange-reserves.asp) into their accounts, first at 65-percent and then later, lowered down to 50-percent.
+Because the members are joined together by their use of the CFA franc, they have created what is known as the CFA franc zone. The CFA franc zone is made up of the two independent unions of the West African Economic and Monetary Union and the Central Africa Economic and Monetary Community. The dual union helped cement the value and usability of the CFA franc, first by setting its equivalent to the French franc, which later became the euro. By aligning the values, the colonies were able to [[Gain|gain]] [[Security|security]] and stability with the franc. In [[Return|return]], however, the French treasure required large deposits of their [[external reserves]](https://www.investopedia.com/terms/f/foreign-exchange-reserves.asp) into their accounts, first at 65-percent and then later, lowered down to 50-percent.
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ Along with the Central African CFA franc (XAF), the West African CFA franc (XOF)
 
 Several countries belonging to the West African Economic and Monetary Union (UEMOA) were French colonies using the French West African franc, including the Ivory Coast, Dahomey, French Sudan, Mauritania, Niger, Senegal, Togo and Upper Volta. As those colonies gained independence, they continued to use the CFA France for their currency. 
 
-Mali, also known as French Sudan, was the only independent colony to create a national currency in 1961. However, by 1984, Mali returned to use the CFA franc, with an exchange of 1 CFA France to 2 Malian francs. The CFA pegs to the euro.
+Mali, also known as French Sudan, was the only independent colony to create a [[National Currency|national currency]] in 1961. However, by 1984, Mali returned to use the CFA franc, with an exchange of 1 CFA France to 2 Malian francs. The CFA pegs to the euro.
 
 Creation of the CFA franc was in 1945, following the end of the Second World War. Previously, French colonies had their currencies pegged to the French franc. However, changes made by the signing of the [Bretton Woods Agreement](https://www.investopedia.com/terms/b/brettonwoodsagreement.asp), ratified in 1945, pegged the French franc to the dollar, which devalued the [French Franc](https://www.investopedia.com/terms/f/franc-f.asp). France created the new currency to avoid devaluing the money in its colonies.
 

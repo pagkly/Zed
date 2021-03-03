@@ -13,7 +13,7 @@ author: Jake Frankenfield
 
 ---
 
-What You Should Know About RegTech
+[[What You Should Know About RegTech]]
 ## What Is RegTech?
 
 Regtech is the management of regulatory processes within the financial industry through technology. The main functions of regtech include regulatory monitoring, reporting, and compliance.
@@ -26,21 +26,21 @@ Financial institutions and regulators both use Regtech to deal with complicated 
 
 Regtech is a community of tech companies that solve challenges arising from a technology-driven economy through automation. The rise in digital products has increased data breaches, cyber hacks, [[money laundering]](https://www.investopedia.com/terms/m/moneylaundering.asp), and other fraudulent activities.
 
-With the use of big data and machine-learning technology, regtech reduces the risk to a company’s compliance department by offering data on money laundering activities conducted online—activities that a traditional compliance team may not be privy to due to the increase of underground marketplaces online.
+With the use of big data and machine-learning technology, regtech reduces the [[Risk|risk]] to a company’s compliance department by [[Offering|offering]] data on [[Money Laundering|money laundering]] activities conducted online—activities that a traditional compliance team may not be privy to due to the increase of underground marketplaces online.
 
-Regtech tools seek to monitor transactions that take place online in real-time to identify issues or irregularities in the digital payment sphere. Any outlier is relayed to the financial institution to analyze and determine if fraudulent activity is taking place. Institutions that identify potential threats to financial security early on are able to minimize the risks and costs associated with lost funds and data breaches.
+Regtech tools seek to monitor transactions that take place online in real-time to identify issues or irregularities in the digital payment sphere. Any outlier is relayed to the financial institution to analyze and determine if fraudulent activity is taking place. Institutions that identify potential threats to financial [[Security|security]] early on are able to minimize the risks and costs associated with lost funds and data breaches.
 
 Regtech companies collaborate with financial institutions and regulatory bodies, using cloud computing and big data to share information. Cloud computing is a low-cost technology wherein users can share data quickly and securely with other entities.
 
-A bank that receives huge amounts of data may find it too complex, expensive, and time-consuming to comb through. A regtech firm can combine complex information from a bank with data from previous regulatory failures to predict potential risk areas that the bank should focus on. By creating the analytics tools needed for these banks to successfully comply with the regulatory body, the regtech firm saves the bank time and money. The bank also has an effective tool to comply with rules set out by financial authorities.
+A bank that receives huge amounts of data may find it too complex, expensive, and time-consuming to comb through. A regtech firm can combine complex information from a bank with data from previous regulatory failures to predict potential [[Risk|risk]] areas that the bank should focus on. By creating the analytics tools needed for these banks to successfully comply with the regulatory body, the regtech firm saves the bank time and money. The bank also has an effective tool to comply with rules set out by financial authorities.
 
 ### History of RegTech
 
-Following the 2008 financial crisis ushered in an increase in financial sector regulation. There was also a rise in the disruptive use of technology within the financial sector. Technology breakthroughs led to an increase in the number of [[fintech]](https://www.investopedia.com/terms/f/fintech.asp) companies that create technology-driven products to enhance the customer experience and engagement with financial institutions.
+Following the 2008 [[Financial Crisis|financial crisis]] ushered in an increase in financial sector regulation. There was also a rise in the disruptive use of technology within the financial sector. Technology breakthroughs led to an increase in the number of [[fintech]](https://www.investopedia.com/terms/f/fintech.asp) companies that create technology-driven products to enhance the customer experience and engagement with financial institutions.
 
 The reliance on consumer data to produce digital products has led to concerns among regulatory bodies calling for more laws on data privacy usage and distribution. The coupling of more regulatory measures and laws with a sector more reliant on technology brought about the need for regulatory technology.
 
-As of mid-2018, deregulation in the United States—as seen in the unwinding of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank) rules—has led to a slowdown in regtech company financing deals, though the compliance burden should still fuel the drive toward greater automation.
+As of mid-2018, [[Deregulation|deregulation]] in the United States—as seen in the unwinding of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank) rules—has led to a slowdown in regtech company financing deals, though the compliance burden should still fuel the drive toward greater automation.
 
 ### Key Takeaways
 
@@ -64,7 +64,7 @@ A regtech business can’t just collaborate with any financial institution or re
 
 Some example of notable regtech companies and the tools they have created include:
 
--   **IdentityMind Global:** Provides anti-fraud and risk management services for digital transactions by tracking payment entities.
+-   **IdentityMind Global:** Provides anti-fraud and [[Risk|risk]] management services for digital transactions by tracking payment entities.
 -   **Trunomi:** Securely manages the consent to use customer personal data.
 -   **Suade:** Helps banks submit required regulatory reports without disruption to their architecture.
 -   **Silverfinch:** Connects asset managers and insurers through a fund data utility to meet [[Solvency II]](https://www.investopedia.com/terms/s/solvency-capital-requirement.asp) requirements.

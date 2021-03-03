@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/w/wisconsin-school-of-business.asp
 author: Jason Fernando
 ---
 
-# Wisconsin School of Business Definition
+# [[Wisconsin School of Business Definition]]
 
 > ## Excerpt
 > Wisconsin School of Business is the business school of the University of Wisconsin at Madison.
 
 ---
 
-Wisconsin School of Business Definition
+[[Wisconsin School of Business Definition]]
 ## What Is Wisconsin School of Business?
 
 Wisconsin School of Business is the business school of the University of Wisconsin at Madison. Founded in 1900, the school offers both undergraduate and graduate programs.1
@@ -31,7 +31,7 @@ The Wisconsin School of Business is known for its emphasis on applied learning, 
 
 Unlike schools that rely on naming gifts from wealthy donors, the Wisconsin School of Business has taken a different path. In 2007, a group of 13 alumni donated $85 million to their alma mater in exchange for a promise that the school could not be renamed for 20 years.5 As such, the school remains the Wisconsin School of Business, whereas many other business schools are named after their wealthy donors.
 
-In the Fall of 2020, the Wisconsin School of Business enrolled 3,300 undergrads. Top majors included finance and [[investment banking]](https://www.investopedia.com/terms/i/investment-banking.asp); [[marketing]](https://www.investopedia.com/terms/m/marketing.asp); real estate and urban land economics; and management and [[human resources]](https://www.investopedia.com/terms/h/humanresources.asp).6 There were 96 students enrolled in the full-time MBA 2022 graduating class. Eighty percent of MBA candidates scored between 610 and 700 on the [[GMAT]](https://www.investopedia.com/terms/g/graduate-management-admission-test-mba.asp).3
+In the Fall of 2020, the Wisconsin School of Business enrolled 3,300 undergrads. Top majors included [[Finance|finance]] and [[investment banking]](https://www.investopedia.com/terms/i/investment-banking.asp); [[marketing]](https://www.investopedia.com/terms/m/marketing.asp); real [[Estate|estate]] and urban land [[Economics|economics]]; and management and [[human resources]](https://www.investopedia.com/terms/h/humanresources.asp).6 There were 96 students enrolled in the full-time MBA 2022 graduating class. Eighty percent of MBA candidates scored between 610 and 700 on the [[GMAT]](https://www.investopedia.com/terms/g/graduate-management-admission-test-mba.asp).3
 
 In 2019, _U.S. News & World Report_ ranked the school's undergraduate business program as No. 7 among public schools and No. 15 overall.7 The school also is a top producer of [[chief executive officers]](https://www.investopedia.com/terms/c/ceo.asp) at [[Fortune 500]](https://www.investopedia.com/terms/f/fortune500.asp) companies.8
 

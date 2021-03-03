@@ -13,7 +13,7 @@ author: Marshall Hargrave
 
 ---
 
-Why You Should Read a 10-K's Management Discussion and Analysis (MD&A)
+[[Why You Should Read a 10-K's Management Discussion and Analysis (MD&A)]]
 ## What Is Management Discussion and Analysis - MD&A?
 
 Management discussion and analysis (MD&A) is a section of a public company's [[annual report]](https://www.investopedia.com/terms/a/annualreport.asp) or quarterly filing. The MD&A addresses the company’s performance. In this section, the company’s management and executives, also known as the [[C-suite]](https://www.investopedia.com/terms/c/c-suite.asp), present an analysis of the company’s performance with qualitative and quantitative measures.
@@ -28,9 +28,9 @@ Management discussion and analysis (MD&A) is a section of a public company's [[a
 
 ## Understanding the Management Discussion and Analysis (MD&A)
 
-In the management discussion and analysis (MD&A) section of the annual report, management provides commentary on [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp), systems and controls, compliance with laws and regulations, and actions it has planned or has taken to address any challenges the company is facing. Management also discusses the upcoming year by outlining future goals and approaches to new projects. The MD&A is an important source of information for analysts and investors who want to review the company’s financial fundamentals and management performance.
+In the management discussion and analysis (MD&A) section of the annual report, management provides commentary on [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp), systems and controls, compliance with laws and regulations, and actions it has planned or has taken to address any challenges the company is facing. Management also discusses the upcoming year by outlining future goals and approaches to new projects. The MD&A is an important source of information for analysts and investors who want to review the company’s financial [[Fundamentals|fundamentals]] and management performance.
 
-The MD&A is just one of many sections required by the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) and the [[Financial Accounting Standards Board]](https://www.investopedia.com/terms/f/fasb.asp) (FASB) to be included in a public company’s annual report to shareholders. A company that issues stock or bonds to the public at large must register its offerings with the SEC, which oversees public companies’ compliance with U.S. securities laws and ensures investors are given adequate information about companies they invest in. The SEC mandates 14 items to be included in the 10-K report. The MD&A section is Item #7.
+The MD&A is just one of many sections required by the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) and the [[Financial Accounting Standards Board]](https://www.investopedia.com/terms/f/fasb.asp) (FASB) to be included in a public company’s annual report to shareholders. A company that issues [[Stock|stock]] or bonds to the public at large must register its offerings with the SEC, which oversees public companies’ compliance with U.S. securities laws and ensures investors are given adequate information about companies they invest in. The SEC mandates 14 items to be included in the 10-K report. The MD&A section is Item #7.
 
 The FASB is a nonprofit, private regulatory organization, which the SEC has designated as the body responsible for promulgating accounting standards for public companies in the United States. FASB outlines its requirements for the MD&A section of filings.
 
@@ -40,8 +40,8 @@ Securities law dictates that companies must hire an independent auditor to verif
 
 The MD&A section is not audited and includes the opinions of management.
 
-That said, the MD&A section must meet certain standards. According to FASB, “MD&A should provide a balanced presentation that includes both positive and negative information about the topics discussed.” Even if management is giving its opinion on the state of its business, competition, and [[risks]](https://www.investopedia.com/terms/r/risk.asp), these statements must be based on fact, and there must be an attempt to paint a balanced picture of the company’s future prospects.
+That said, the MD&A section must meet certain standards. According to FASB, “MD&A should provide a balanced presentation that includes both positive and negative information about the topics discussed.” Even if management is giving its opinion on the state of its business, competition, and [[risks]](https://www.investopedia.com/terms/r/[[Risk|risk]].asp), these statements must be based on fact, and there must be an attempt to paint a balanced picture of the company’s future prospects.
 
 ## Example of Management Discussion and Analysis (MD&A)
 
-Consider Apple, which included a nine-page MD&A section in its [[fiscal 2019 annual report]](https://s2.q4cdn.com/470004039/files/doc_financials/2019/ar/_10-K-2019-%28As-Filed%29.pdf), also known as a [10-K filing](https://www.investopedia.com/terms/1/10-k.asp). In this section, management highlighted product sales, segment performance, margins, and accounting pronouncements, among other things. Apple’s management also discussed specific risks to its business, such as interest rates and foreign currency risk.
+Consider Apple, which included a nine-page MD&A section in its [[fiscal 2019 annual report]](https://s2.q4cdn.com/470004039/files/doc_financials/2019/ar/_10-K-2019-%28As-Filed%29.pdf), also known as a [10-K filing](https://www.investopedia.com/terms/1/10-k.asp). In this section, management highlighted product sales, segment performance, margins, and accounting pronouncements, among other things. Apple’s management also discussed specific risks to its business, such as interest rates and foreign currency [[Risk|risk]].

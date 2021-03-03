@@ -1,20 +1,20 @@
 ---
 alias: [White Collar]
 created: 2021-03-03T00:54:55 (UTC +11:00)
-tags: [White Collar Definition, White Collar]
+tags: [White [[Collar Definition]], White Collar]
 source: https://www.investopedia.com/terms/w/whitecollar.asp
 author: Adam Hayes
 ---
 
-# White Collar Definition
+# White [[Collar Definition]]
 
 > ## Excerpt
-> The term "white collar" refers the working class that commonly works in offices and earns high average salaries.
+> The term "[[White Collar|white collar]]" refers the [[Working Class|working class]] that commonly works in offices and earns high average salaries.
 
 ---
 
-White Collar
-## What Is White Collar?
+[[White Collar]]
+## What Is [[White Collar]]?
 
 A white-collar worker belongs to a class of employees known for earning higher average salaries doing highly skilled work, but not by performing manual labor at their jobs. White-collar workers historically have been the "shirt and tie" set, defined by office jobs and management, and not "getting their hands dirty."
 
@@ -24,13 +24,13 @@ This class of worker stands in contrast to [[blue-collar]](https://www.investope
 
 -   White-collar workers are suit-and-tie workers who work at a desk and, stereotypically, eschew physical labor.
 -   White-collar jobs typically are higher paid, higher-skilled jobs that require more education and training than low-skilled or manual work.
--   White-collar workers and jobs are often portrayed in contrast to blue-collar work, insinuating a stratification of the working class.
+-   White-collar workers and jobs are often portrayed in contrast to blue-collar work, insinuating a stratification of the [[Working Class|working class]].
 
-## Understanding White Collar
+## Understanding [[White Collar]]
 
-White-collar workers are suit-and-tie workers who work at a desk and, stereotypically, eschew physical labor. They tend to make more money than blue-collar workers. White-collar work used to mean a high level of education and the assumption of securing a cushy job with perks. That distinction today is blurred by the fact that white-collar employment has become the dominant working class in the U.S. and other advanced nations.
+White-collar workers are suit-and-tie workers who work at a desk and, stereotypically, eschew physical labor. They tend to make more money than blue-collar workers. White-collar work used to mean a high level of education and the assumption of securing a cushy job with perks. That distinction today is blurred by the fact that white-collar employment has become the dominant [[Working Class|working class]] in the U.S. and other advanced nations.
 
-American writer Upton Sinclair is partially responsible for the modern understanding of the term "white collar," having used the phrase in conjunction with [[administrative work]](https://www.investopedia.com/terms/a/administrative-accounting.asp). The differences in connotation between white collar and blue collar have much more to say about the way we perceive the service industry in comparison to manufacturing and agriculture.
+American writer Upton Sinclair is partially responsible for the modern understanding of the term "[[White Collar|white collar]]," having used the phrase in conjunction with [[administrative work]](https://www.investopedia.com/terms/a/administrative-accounting.asp). The differences in connotation between white collar and blue collar have much more to say about the way we perceive the service industry in comparison to [[Manufacturing|manufacturing]] and agriculture.
 
 Typical white-collar jobs include company management, [[lawyers]](https://www.investopedia.com/terms/a/attorneyinfact.asp), accountants, financial and insurance jobs, consultants, and computer programmers—among many others.
 
@@ -38,14 +38,14 @@ Many jobs that require a shirt and tie are actually low-paying and high stress, 
 
 There are white-collar workers' unions, though, historically, union membership had been a distinction of blue-collar workers.
 
-## Expectations of White Collar Jobs
+## Expectations of [[White Collar]] Jobs
 
-White-collar positions are often expected to offer opportunities to advance to more significant roles as managers or executives. A white-collar role is likewise expected to generate higher paying salaries with the potential to continue to rapidly scale up their income with further advancement.
+White-collar positions are often expected to [[Offer|offer]] opportunities to advance to more significant roles as managers or executives. A white-collar role is likewise expected to generate higher paying salaries with the potential to continue to rapidly scale up their income with further advancement.
 
 These jobs typically are based in an office; however, some industries make still require a presence in the field. This is especially true for professionals who regularly meet with clients and customers, or travel to conferences and meetings.
 
-Attorneys, accountants, architects, bankers, real estate agents, business consultants, and brokers are often described as white-collar positions. Though the actual work performed typically is not menial, white-collar roles can require the professional to commit to extensive hours during the workweek, as well as on weekends.
+Attorneys, accountants, architects, bankers, real [[Estate|estate]] agents, business consultants, and brokers are often described as white-collar positions. Though the actual work performed typically is not menial, white-collar roles can require the professional to commit to extensive hours during the workweek, as well as on weekends.
 
 White-collar professionals may be expected to be on call even during vacation times and outside of normal business hours. At senior levels, they may be part of a firm's [[upper management]](https://www.investopedia.com/terms/u/upper-management.asp) and hierarchy.
 
-White-collar workers are often expected to develop specialized skills over time, making them increasingly valuable intellectual assets for the growth of the company. For example, an accountant may have to keep abreast of all regulatory changes that could affect how their clients or company reports income. An attorney will need to keep themselves apprised of recent rulings and changes in case law that affect their area of expertise. Real estate agents will need to keep track of fluctuations in real estate prices and the underlying influences that drive such trends.
+White-collar workers are often expected to develop specialized skills over time, making them increasingly valuable intellectual assets for the growth of the company. For example, an accountant may have to keep abreast of all regulatory changes that could affect how their clients or company reports income. An attorney [[Will|will]] need to keep themselves apprised of recent rulings and changes in case law that affect their area of expertise. Real [[Estate|estate]] agents will need to keep track of fluctuations in real estate prices and the [[Underlying|underlying]] influences that drive such trends.

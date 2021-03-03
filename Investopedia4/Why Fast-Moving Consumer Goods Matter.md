@@ -3,7 +3,7 @@ alias: [Fast-Moving Consumer Goods, FMCG]
 created: 2021-03-02T19:52:36 (UTC +11:00)
 tags: [Fast-Moving Consumer Goods (FMCG) Definition, Why Fast-Moving Consumer Goods Matter]
 source: https://www.investopedia.com/terms/f/fastmoving-consumer-goods-fmcg.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Fast-Moving Consumer Goods (FMCG) Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-Why Fast-Moving Consumer Goods Matter
+[[Why Fast-Moving Consumer Goods Matter]]
 ## What Are Fast-Moving Consumer Goods (FMCG)?
 
 Fast-moving [consumer goods](https://www.investopedia.com/terms/c/consumer-goods.asp) are products that sell quickly at relatively low cost. These goods are also called [[consumer packaged goods]](https://www.investopedia.com/terms/c/cpg.asp).
@@ -54,15 +54,15 @@ That's why packaging is a very important factor in the production process. The 
 
 FCMGs are sold in large quantities, so they are considered a reliable source of revenue. This high volume of sales also offsets the low [[profit margins]](https://www.investopedia.com/terms/p/profitmargin.asp) on individual sales as well.
 
-As investments, FMCG stocks generally promise low-growth but are safe bets with predictable [[margins]](https://www.investopedia.com/terms/m/margin.asp), stable returns, and regular dividends.
+As investments, FMCG [[Stocks|stocks]] generally promise low-growth but are safe bets with predictable [[margins]](https://www.investopedia.com/terms/m/margin.asp), stable returns, and regular dividends.
 
 ## Special Considerations
 
-### Fast-Moving Consumer Goods and E-Commerce
+### Fast-Moving Consumer Goods and E-[[Commerce]]
 
 Shoppers across the globe increasingly purchase things they need online because it offers certain conveniences—from delivering orders right to the door to broad selection and low prices—that brick-and-mortar stores can't.
 
-The most popular e-commerce categories, not surprisingly, are non-consumable goods—durables and entertainment-related products. The online market for buying groceries and other consumable products is growing, as companies redefine the efficiency of delivery logistics which shorten delivery times. While non-consumable categories may continue to lead consumable products in sheer volume, gains in logistics efficiency have increased the use of e-commerce channels for acquiring FMCGs.
+The most popular e-[[Commerce|commerce]] categories, not surprisingly, are non-consumable goods—durables and entertainment-related products. The online market for buying groceries and other consumable products is growing, as companies redefine the efficiency of delivery logistics which shorten delivery times. While non-consumable categories may continue to lead consumable products in sheer volume, gains in logistics efficiency have increased the use of e-commerce channels for acquiring FMCGs.
 
 ### Key Takeaways
 
@@ -70,4 +70,4 @@ The most popular e-commerce categories, not surprisingly, are non-consumable goo
 -   FMCGs have low profit margins, but they account for more than half of all consumer spending.
 -   Examples of FMDBs include milk, gum, fruit and vegetables, toilet paper, soda, beer, and over-the-counter drugs like aspirin.
 
-When shopping for non-consumable goods where consumers typically have something in mind, there is mostly a one-to-one correlation between online searching and shopping. Consumable products have lower online browse/buy intention than non-consumable ones, but they do boast just as strong browse-to-buy correlations, which may be a factor in their increasing online sales.
+When shopping for non-consumable goods where consumers typically have something in mind, there is mostly a one-to-one [[Correlation|correlation]] between online searching and shopping. Consumable products have lower online browse/buy intention than non-consumable ones, but they do boast just as strong browse-to-buy correlations, which may be a factor in their increasing online sales.

@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/w/wisdom-crowds.asp
 author: Clay Halton
 ---
 
-# Wisdom of Crowds Definition
+# [[Wisdom of Crowds Definition]]
 
 > ## Excerpt
 > Wisdom of crowds is the idea that large groups of people are collectively smarter than individual experts when it comes to problem-solving.
 
 ---
 
-Wisdom of Crowds Definition
+[[Wisdom of Crowds Definition]]
 ## What Is Wisdom of Crowds?
 
 Wisdom of crowds is the idea that [[large groups of people]](https://www.investopedia.com/articles/trading/04/011404.asp) are collectively smarter than individual experts when it comes to problem-solving, decision making, innovating and predicting.
@@ -31,7 +31,7 @@ The wisdom of crowds concept was popularized by James Surowiecki in his 2004 boo
 
 The idea of the wisdom of crowds can be traced back to Aristotle’s theory of collective judgment as presented in his work _Politics_. He used a potluck dinner as an example, explaining that a group of individuals may come together to create a more satisfying feast for a group as a whole than what one individual might provide.
 
-Crowds aren’t always wise. In fact, some can be the opposite. Take, for instance, frenzied investors who participate in a stock market [[bubble]](https://www.investopedia.com/terms/b/bubble.asp) like the one that occurred in the 1990s with [[dotcom]](https://www.investopedia.com/terms/d/dotcom.asp) companies. The group, or crowd, involved in this bubble invested based on speculation that internet startups would become profitable at some point in the future. Many of these companies’ stock prices soared, despite the fact that they had yet to generate any revenue. Unfortunately, a good portion of the companies went under as panic ensued in the markets following mass sell orders on the stocks of some of the major tech companies.
+Crowds aren’t always wise. In fact, some can be the opposite. Take, for instance, frenzied investors who participate in a [[Stock|stock]] market [[bubble]](https://www.investopedia.com/terms/b/bubble.asp) like the one that occurred in the 1990s with [[dotcom]](https://www.investopedia.com/terms/d/dotcom.asp) companies. The group, or crowd, involved in this bubble invested based on [[Speculation|speculation]] that internet startups would become profitable at some point in the future. Many of these companies’ stock prices soared, despite the fact that they had yet to generate any revenue. Unfortunately, a good portion of the companies went under as panic ensued in the markets following mass sell orders on the [[Stocks|stocks]] of some of the major tech companies.
 
 But, according to Surowiecki, wise crowds have several key characteristics:
 
@@ -40,11 +40,11 @@ But, according to Surowiecki, wise crowds have several key characteristics:
 3.  anyone taking part in the crowd should be able to make their own opinion based on their individual knowledge.
 4.  the crowd should be able to aggregate individual opinions into one collective decision.
 
-A [2018 study](https://phys.org/news/2018-01-crowds-crowd-outperform-wisdom.html) updated the wisdom of crowds theory by suggesting that crowds within an existing group are wiser than the group itself. The researchers called their results an improvement over the existing wisdom of crowds theory. They recorded responses to their questions privately, from individuals, and collectively, by having small groups that were subdivisions of larger ones discuss the same question before providing an answer. The researchers found that responses from the small groups, in which the question was discussed before an answer was agreed upon, were more accurate as compared to individual responses.
+A [2018 study](https://phys.org/news/2018-01-crowds-crowd-[[Outperform|outperform]]-wisdom.html) updated the wisdom of crowds theory by suggesting that crowds within an existing group are wiser than the group itself. The researchers called their results an improvement over the existing wisdom of crowds theory. They recorded responses to their questions privately, from individuals, and collectively, by having small groups that were subdivisions of larger ones discuss the same question before providing an answer. The researchers found that responses from the small groups, in which the question was discussed before an answer was agreed upon, were more accurate as compared to individual responses.
 
 ## Wisdom of Crowds in Financial Markets
 
-The [[wisdom of crowds]](https://www.investopedia.com/news/can-wisdom-crowds-replace-analysts-and-experts-during-ico/) can also help explain what makes markets, which are a type of crowd, efficient at times and inefficient at others. If market participants are not diverse and if they lack incentives, then markets will be inefficient and an item’s price will be out of step with its value.
+The [[wisdom of crowds]](https://www.investopedia.com/news/can-wisdom-crowds-replace-analysts-and-experts-during-ico/) can also help explain what makes markets, which are a type of crowd, efficient at times and inefficient at others. If market participants are not diverse and if they lack incentives, then markets [[Will|will]] be inefficient and an item’s price will be out of step with its value.
 
 In a 2015 Bloomberg View article, [[wealth manager]](https://www.investopedia.com/terms/w/wealthmanagement.asp) and columnist Barry Ritholtz argued that prediction markets (for example, [[futures markets]](https://www.investopedia.com/terms/f/futuresmarket.asp)), unlike markets for goods and services, lack the wisdom of crowds because they do not have a large or diverse pool of participants. He points out that [[prediction markets]](https://www.investopedia.com/terms/p/prediction-market.asp) failed spectacularly in trying to guess the outcomes of events such as the Greek referendum, the Michael Jackson trial, and the 2004 Iowa primary. The individuals trying to predict the outcomes of these events were simply guessing based on public polling data and did not have any special individual or collective knowledge.
 

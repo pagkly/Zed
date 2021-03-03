@@ -2,18 +2,18 @@
 alias: [Yuppie]
 created: 2021-03-03T01:10:28 (UTC +11:00)
 tags: [Yuppie Definition, Yuppie Definition]
-source: https://www.investopedia.com/terms/y/yuppie.asp
+source: https://www.investopedia.com/terms/[[Y|y]]/yuppie.asp
 author: Clay Halton
 ---
 
-# Yuppie Definition
+# [[Yuppie Definition]]
 
 > ## Excerpt
-> Yuppie is a slang term denoting the market segment of young urban professionals, often characterized by youth, affluence, and business success.
+> Yuppie is a slang term denoting the [[Market Segment|market segment]] of young urban professionals, often characterized by youth, affluence, and business success.
 
 ---
 
-Yuppie Definition
+[[Yuppie Definition]]
 ## What Is a Yuppie?
 
 Yuppie is a slang term denoting the [[market segment]](https://www.investopedia.com/terms/m/market-segment.asp) of young urban professionals. A yuppie is often characterized by youth, affluence, and business success. They are often preppy in appearance and like to show off their success by their style and possessions.
@@ -28,7 +28,7 @@ Yuppie is a slang term denoting the [[market segment]](https://www.investopedia.
 
 Coined in the 1980s, the term yuppie was used as a derogatory title for young business people who were considered arrogant, undeservedly wealthy, and obnoxious.1 Yuppies were often associated with wearing high fashion clothing, driving BMWs, and gloating about their successes. The term has become less of a stereotype and now promotes the image of an affluent professional.
 
-Yuppies tend to be educated with high-paying jobs, and they live in or near large cities. Some typical industries associated with yuppies include finance, tech, academia, and many areas in the arts, especially those associated with liberal thinking and style.
+Yuppies tend to be educated with high-paying jobs, and they live in or near large cities. Some typical industries associated with yuppies include [[Finance|finance]], tech, academia, and many areas in the arts, especially those associated with liberal thinking and style.
 
 ## History of the Term Yuppie
 
@@ -38,11 +38,11 @@ Linguistically, the term was an evolution, starting from the word "hippie," whic
 
 At nearly the same time, a parody of an American stereotype of the "country-club/prep school culture" called "The Preppy Handbook" made the New York Times bestseller list. "Yuppie" was the mash-up of all of these moments in the young adults in America, each a reflection of their time.
 
-In the May 1980 article, entitled "From Yippie to Yuppie," Rottenberg describes the gentrification of Chicago's downtown by upwardly mobile young professionals rebelling against suburbia. "The Yuppies seek neither comfort nor security, but stimulation, and they can find that only in the densest sections of the city," he wrote.
+In the May 1980 article, entitled "From Yippie to Yuppie," Rottenberg describes the [[Gentrification|gentrification]] of Chicago's downtown by upwardly mobile young professionals rebelling against suburbia. "The Yuppies seek neither comfort nor [[Security|security]], but stimulation, and they can find that only in the densest sections of the city," he wrote.
 
 Yippies, in contrast to yuppies, were affiliates of the Youth International Party, a counterculture group that emerged in the late 1960s. The term continued to grow throughout the 1980s as it was used in more newspaper and magazine articles.
 
-After the [1987 stock market crash](https://www.investopedia.com/terms/s/stock-market-crash-1987.asp), the term yuppie became less political and gained more of the social implications it has today. Although its usage declined in the 1990s, it has since come back into the United States lexicon. It has been used and cited in articles, songs, movies, and other pop culture media. To name a few, the term has appeared in the novel and film _Fight Club_, the movie _American Psycho_, the satirical blog "Stuff White People Like" and the Tom Petty song "Yer So Bad."
+After the [1987 [[Stock|stock]] market crash](https://www.investopedia.com/terms/s/stock-market-crash-1987.asp), the term yuppie became less political and gained more of the social implications it has today. Although its usage declined in the 1990s, it has since come back into the United States lexicon. It has been used and cited in articles, songs, movies, and other pop culture media. To name a few, the term has appeared in the novel and film _Fight Club_, the movie _American Psycho_, the satirical blog "Stuff White People Like" and the Tom Petty song "Yer So Bad."
 
 The term yuppie isn't confined only to the United States—other countries, such as China, Russia, and Mexico, have their variations of yuppies that generally also carry the hallmark connotation of young, higher-class professionals. The term tends to spread and thrive in prospering economies.
 

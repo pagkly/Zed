@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/x/xcd-eastern-caribbean-dollar.asp
 author: James Chen
 ---
 
-# XCD (Eastern Caribbean Dollar) Definition
+# [[XCD (Eastern Caribbean Dollar) Definition]]
 
 > ## Excerpt
 > XCD is the currency abbreviation or the currency symbol for the Eastern Caribbean dollar.
 
 ---
 
-XCD (Eastern Caribbean Dollar) Definition
+[[XCD (Eastern Caribbean Dollar) Definition]]
 ## What Is the XCD (Eastern Caribbean Dollar)?
 
 XCD is the symbol for the Eastern Caribbean dollar, which is the official [[currency]](https://www.investopedia.com/terms/c/currency.asp) shared by eight Caribbean island countries: Anguilla, Antigua and Barbuda, Dominica, Grenada, Montserrat, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines.
@@ -34,7 +34,7 @@ At its establishment, the Eastern Caribbean dollar replaced the British West Ind
 
 In 1976, the currency authority then re-[pegged](https://www.investopedia.com/terms/c/currency-peg.asp) the Eastern Caribbean dollar to the U.S. dollar at a rate of 2.7 XCD to 1 USD.3 The Eastern Caribbean Bank, established in 1983, subsequently took over the issuance of the currency, leaving the U.S. dollar peg in place.4
 
-The Eastern Caribbean Bank’s mandate covers regulation of [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) throughout its member states, as well as the promotion of economic and monetary stability through support of economic development and maintenance of a sound financial structure. The bank sees its dollar peg as a primary means to maintain price stability throughout the region and keep [[inflation]](https://www.investopedia.com/terms/i/inflation.asp) in check.
+The Eastern Caribbean Bank’s mandate covers regulation of [[liquidity]](https://www.investopedia.com/terms/l/[[Liquidity|liquidity]].asp) throughout its member states, as well as the promotion of economic and monetary stability through support of economic development and maintenance of a sound [[Financial Structure|financial structure]]. The bank sees its dollar peg as a primary means to maintain price stability throughout the region and keep [[inflation]](https://www.investopedia.com/terms/i/inflation.asp) in check.
 
 ## Other Caribbean Currencies
 

@@ -1,7 +1,7 @@
 ---
 alias: [Herbert A. Simon]
 created: 2021-03-02T20:41:17 (UTC +11:00)
-tags: [Herbert A. Simon Definition, Who Was Herbert A. Simon?]
+tags: [Herbert A. Simon Definition, [[Who Was Herbert A. Simon]]?]
 source: https://www.investopedia.com/terms/h/herbert-a-simon.asp
 author: Jake Frankenfield
 ---
@@ -9,18 +9,18 @@ author: Jake Frankenfield
 # Herbert A. Simon Definition
 
 > ## Excerpt
-> Herbert A. Simon was an American economist and political scientist who won the Nobel Memorial Prize in Economic Sciences in 1978 for his contributions to modern business economics and administrative research. He is widely associated with the theory of bounded rationality.
+> Herbert A. Simon was an American economist and political scientist who won the Nobel Memorial Prize in Economic Sciences in 1978 for his contributions to modern business [[Economics|economics]] and administrative research. He is widely associated with the theory of bounded rationality.
 
 ---
 
-Who Was Herbert A. Simon?
-## Who Was Herbert A. Simon?
+[[Who Was Herbert A. Simon]]?
+## [[Who Was Herbert A. Simon]]?
 
-Herbert A. Simon (1916–2001) is an American economist and political scientist who won the Nobel Memorial Prize in Economic Sciences in 1978 for his contributions to modern business economics and administrative research. He is widely associated with the theory of bounded rationality, which states that individuals do not make perfectly rational decisions because of the difficulty in obtaining and processing all the information needed to do so.
+Herbert A. Simon (1916–2001) is an American economist and political scientist who won the Nobel Memorial Prize in Economic Sciences in 1978 for his contributions to modern business [[Economics|economics]] and administrative research. He is widely associated with the theory of bounded rationality, which states that individuals do not make perfectly rational decisions because of the difficulty in obtaining and processing all the information needed to do so.
 
 Simon earned his Ph.D. from the University of Chicago in 1943. After graduating, he worked in research and held teaching posts at a handful of universities before joining the Carnegie Mellon University faculty in 1949. He taught there for more than 50 years, as a professor of administration, psychology and computer science. He also had a hand in the establishment of several of Carnegie Mellon's departments and schools, including the Graduate School of Industrial Administration, which is now known as the Tepper School of Business.
 
-In addition to the Nobel Memorial Prize in Economics, Simon received the A.M. Turing Award in 1975 for his work in computer science, including his contributions to the area of artificial intelligence. He also won the U.S. National Medal of Science in 1986.
+In addition to the Nobel Memorial Prize in [[Economics]], Simon received the A.M. Turing Award in 1975 for his work in computer science, including his contributions to the area of artificial intelligence. He also won the U.S. National Medal of Science in 1986.
 
 Simon authored 27 books during his lifetime, including "Administrative Behavior" (1947), "The Sciences of the Artificial" (1968), and "Models of Bounded Rationality" (1982).
 
@@ -28,7 +28,7 @@ Simon authored 27 books during his lifetime, including "Administrative Behavior"
 
 -   _Herbert A. Simon is widely associated with the theory of bounded rationality._
 -   _His theories challenged classical economic thinking on rational behavior._
--   _He won the Nobel Memorial Prize in Economics for his contributions to modern business economics and administrative research._
+-   _He won the Nobel Memorial Prize in [[Economics]] for his contributions to modern business economics and administrative research._
 
 ## Herbert A. Simon and Bounded Rationality
 
@@ -36,7 +36,7 @@ Herbert A. Simon and his theories on economic decision-making challenged classic
 
 According to Simon, because humans could not possibly obtain or process all the information needed to make fully rational decisions, they instead seek to use the information they do have to produce a satisfactory result, or one that is "good enough." He described humans as being bounded by their own "cognitive limits." This is commonly known as the theory of bounded rationality.
 
-When the Royal Swedish Academy of Sciences awarded Simon the Nobel Memorial Prize in Economics for his work in this area, [[it noted]](https://www.nobelprize.org/prizes/economic-sciences/1978/press-release/) that much of modern business economics and administrative research are based on his ideas. Simon replaced the concept of the all-knowing, profit-maximizing entrepreneur with the idea of cooperating decision-makers within a company who face informational, personal and social limitations.
+When the Royal Swedish Academy of Sciences awarded Simon the Nobel Memorial Prize in [[Economics]] for his work in this area, [[it noted]](https://www.nobelprize.org/prizes/economic-sciences/1978/press-release/) that much of modern business economics and administrative research are based on his ideas. Simon replaced the concept of the all-knowing, profit-maximizing entrepreneur with the idea of cooperating decision-makers within a company who face informational, personal and social limitations.
 
 Given this, decision-makers must settle for finding satisfactory solutions to the problem or problems in front of them, while being mindful of how other decision-makers in the company are solving their own problems.
 

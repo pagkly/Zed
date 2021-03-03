@@ -1,7 +1,7 @@
 ---
 alias: [Michael Bloomberg]
 created: 2021-03-02T22:03:18 (UTC +11:00)
-tags: [Michael Bloomberg Definition, Who Is Michael Bloomberg?]
+tags: [Michael Bloomberg Definition, [[Who Is Michael Bloomberg]]?]
 source: https://www.investopedia.com/terms/m/michael-bloomberg.asp
 author: Carol M. Kopp
 ---
@@ -13,10 +13,10 @@ author: Carol M. Kopp
 
 ---
 
-Who Is Michael Bloomberg?
-## Who Is Michael Bloomberg?
+[[Who Is Michael Bloomberg]]?
+## [[Who Is Michael Bloomberg]]?
 
-Michael Bloomberg is a billionaire businessman, publisher, and philanthropist, and a former three-term mayor of New York City. The founder and owner of Bloomberg LP, he is one of the [[wealthiest people in the world]](https://www.investopedia.com/articles/investing/012715/5-richest-people-world.asp), with an estimated net worth of $48 billion as of March 2020, according to [_Forbes_](https://www.investopedia.com/terms/f/forbes.asp).1 On Nov. 24, 2019, Bloomberg entered the 2020 race for president of the United States as a Democrat.2
+Michael Bloomberg is a billionaire businessman, publisher, and philanthropist, and a former three-term mayor of New York City. The founder and owner of Bloomberg LP, he is one of the [[wealthiest people in the world]](https://www.investopedia.com/articles/investing/012715/5-richest-people-world.asp), with an estimated [[Net Worth|net worth]] of $48 billion as of March 2020, according to [_Forbes_](https://www.investopedia.com/terms/f/forbes.asp).1 On Nov. 24, 2019, Bloomberg entered the 2020 race for president of the United States as a Democrat.2
 
 Bloomberg is the founder and owner of [[Bloomberg LP]](https://www.investopedia.com/terms/b/bloomberg.asp), the financial data and media company. He currently owns 88% of the company.3
 
@@ -28,9 +28,9 @@ Bloomberg was born on Feb. 14, 1942, in Boston, and grew up in nearby Medford, 
 
 ## Michael Bloomberg's Business Career
 
-Bloomberg began his career in financial services in 1966 at the now-defunct Wall Street investment bank [[Salomon Brothers]](https://www.investopedia.com/terms/s/salomon-brothers.asp), where his first job was counting bonds and stock certificates in the bank’s vault. He moved up to bond trading, becoming a partner in 1972 and a general partner in 1976.4
+Bloomberg began his career in financial services in 1966 at the now-defunct Wall Street investment bank [[Salomon Brothers]](https://www.investopedia.com/terms/s/salomon-brothers.asp), where his first job was counting bonds and [[Stock|stock]] certificates in the bank’s vault. He moved up to bond trading, becoming a partner in 1972 and a general partner in 1976.4
 
-In 1979, Salomon Brothers moved him from his position of head of equity trading and sales to run Information Systems. This was apparently a demotion, but it put Bloomberg in charge of the department that implemented computer technology. When the company was acquired by the commodity trading firm Phibro in 1981, Bloomberg received a $10 million severance package.5
+In 1979, Salomon Brothers moved him from his position of head of [[Equity|equity]] trading and sales to run Information Systems. This was apparently a demotion, but it put Bloomberg in charge of the department that implemented computer technology. When the company was acquired by the commodity trading firm Phibro in 1981, Bloomberg received a $10 million severance package.5
 
 Bloomberg used the windfall to found a company called Innovative Market Solutions that used the latest information systems technology to provide traders with data on U.S. Treasury bond prices. Merrill Lynch became a major client and investor in 1982. This company grew into what is today Bloomberg LP, a financial data and media company headquartered in New York City with offices in 100 cities around the world.4 5
 
@@ -54,13 +54,13 @@ Bloomberg moved to the independent party while still serving as mayor of New Yor
 
 In the 2016 election, Bloomberg endorsed Democratic Party candidate Hillary Clinton over Republican candidate Donald Trump.8 He denounced Republicans in Congress as "absolutely feckless" for failing to exercise oversight of President Trump.
 
-In 2018, Bloomberg donated $80 million to Congressional candidates, with all but a fraction of that total going to Democratic or liberal candidates.9 His goal in making those donations was to help Democrats gain a majority in the House of Representatives. "I've never thought that the public is well-served when one party is entirely out of power, and I think the past year and a half has been evidence of that," Bloomberg stated.10
+In 2018, Bloomberg donated $80 million to Congressional candidates, with all but a fraction of that total going to Democratic or liberal candidates.9 His goal in making those donations was to help Democrats [[Gain|gain]] a majority in the House of Representatives. "I've never thought that the public is well-served when one party is entirely out of power, and I think the past year and a half has been evidence of that," Bloomberg stated.10
 
 Bloomberg has been an active proponent of gun control. He was one of 15 American mayors who founded an advocacy group, Everytown for Gun Safety, in 2006 to press for reform of gun laws.11 He has also made substantial donations to environmental organizations, and as mayor of New York pressed for [[clean energy]](https://www.investopedia.com/articles/investing/053015/pros-and-cons-solar-energy.asp) policies.
 
 ## Presidential Candidate
 
-On Nov. 24, 2019, Michael Bloomberg entered the 2020 race for the U.S. presidency as a Democrat.2 He self-funded his campaign and reported to the Federal Election Commission he had spent over $1 billion.12
+On Nov. 24, 2019, Michael Bloomberg entered the 2020 race for the U.S. presidency as a Democrat.2 He self-funded his campaign and reported to the Federal Election [[Commission]] he had spent over $1 billion.12
 
 In his campaign statement, Bloomberg aimed at President Trump as his motivation for running. He wrote, "I’m running for president to defeat Donald Trump and rebuild America. We cannot afford four more years of President Trump’s reckless and unethical actions. He represents an existential threat to our country and our values. If he wins another term in office, we may never recover from the damage."13
 

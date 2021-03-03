@@ -2,7 +2,7 @@
 alias: [Zero Capital Gains Rate]
 created: 2021-03-03T01:10:29 (UTC +11:00)
 tags: [Zero Capital Gains Rate, Zero Capital Gains Rate Definition]
-source: https://www.investopedia.com/terms/z/zero_capital_gains.asp
+source: https://www.investopedia.com/terms/[[Z|z]]/zero_capital_gains.asp
 author: Adam Hayes
 ---
 
@@ -13,7 +13,7 @@ author: Adam Hayes
 
 ---
 
-Zero Capital Gains Rate Definition
+[[Zero Capital Gains Rate Definition]]
 ## What Is a Zero Capital Gains Rate?
 
 A zero capital gains rate implies a tax rate of 0% on capital gains. This 0% rate may be charged to individuals who sell property within a so-called "[enterprise zone](https://www.investopedia.com/terms/e/enterprise-zone.asp)." Such a zone is a geographic area that has been granted special tax breaks, regulatory exemptions, or other public assistance in order to encourage private economic development and job creation. They are used most often to promote the [revitalization](https://www.investopedia.com/articles/investing/022717/x-gentrifying-neighborhoods-los-angeles.asp) of a city neighborhood.
@@ -22,7 +22,7 @@ The zero [[capital gains]](https://www.investopedia.com/terms/c/capitalgain.asp)
 
 ### Key Takeaways
 
--   A zero capital gains rate incurs no taxation on the sales of assets or property that would otherwise have a capital gain.
+-   A zero capital gains rate incurs no [[Taxation|taxation]] on the sales of assets or property that would otherwise have a capital [[Gain|gain]].
 -   A 0% rate on the sale of property is most often associated with enterprise zones, which are special areas granted special status by a government in order to encourage development and economic growth.
 -   In order to keep a zero capital gains rate, property owners must meet certain qualifications and requirements, which may vary among different enterprise zones.
 
@@ -32,9 +32,9 @@ In 2004, the U.S. Congress passed, and the president approved, the Working Famil
 
 The logic behind this act is to give an incentive to individuals to invest in this area. The rate is not exclusive to any one region, state, or municipality. Legislators looking to create jobs and draw investment into a community frequently enact a zero capital gains tax rate, or institute other tax-related incentives in that area.
 
-A 2012 tax bill made the 0% capital gains rate permanent for most filers, provided that are either single with a taxable income under $37,950, or couples with taxable income under $75,900.3 Even still, some of these filers face modest tax rates of 25% to 30%, if they earn additional income that’s taxed at ordinary rates, consequently pushing their long-term gains or qualified [[dividend]](https://www.investopedia.com/terms/d/dividend.asp) income from the 0% bracket into the 15% bracket for investment income.
+A 2012 tax bill made the 0% capital gains rate permanent for most filers, provided that are either single with a [[Taxable Income|taxable income]] under $37,950, or couples with taxable income under $75,900.3 Even still, some of these filers face modest tax rates of 25% to 30%, if they earn additional income that’s taxed at ordinary rates, consequently pushing their long-term gains or qualified [[dividend]](https://www.investopedia.com/terms/d/dividend.asp) income from the 0% bracket into the 15% bracket for investment income.
 
-On the other hand, itemized deductions may reduce ordinary income, placing individuals beneath the 15% bracket and thus increasing the capital gains or dividends that are taxed at 0%. This helps explain why taxpayers can have high adjusted gross incomes but still face 0% taxes on their long-term capital gains.
+On the other hand, itemized deductions may reduce [[Ordinary Income|ordinary income]], placing individuals beneath the 15% bracket and thus increasing the capital gains or dividends that are taxed at 0%. This helps explain why taxpayers can have high adjusted gross incomes but still face 0% taxes on their long-term capital gains.
 
 ## Example: The D.C. Enterprise Zone
 
@@ -42,6 +42,6 @@ Under this program, each enterprise zone has its own particular set of rules, w
 
 -   The property must have been substantially improved during that time period of ownership.
 -   The property must be been for a minimum of five years from the date of acquisition
--   At least 80% of the total gross income resulting from the property ownership must be derived from business actively conducted within the D.C. Enterprise Zone.
+-   At least 80% of the total [[Gross Income|gross income]] resulting from the property ownership must be derived from business actively conducted within the D.C. Enterprise Zone.
 -   If the property in question is for commercial rental purposes, at least 50% of the rental income must come from businesses located within the D.C. enterprise zone.
--   The original use of the property must commence with the taxpayer; this requirement is deemed to be met if substantial improvements have been made to the property.
+-   The original use of the property must commence with the [[Taxpayer|taxpayer]]; this requirement is deemed to be met if substantial improvements have been made to the property.

@@ -13,22 +13,22 @@ author: Carol M. Kopp
 
 ---
 
-Why Middle Offices Matter
+[[Why Middle Offices Matter]]
 ## What Is the Middle Office?
 
-The middle office is the department in a financial services company, investment bank, or [hedge fund](https://www.investopedia.com/terms/h/hedgefund.asp) that sits in between the front and back office. It typically manages risk and calculates profits and losses. It is generally in charge of information technology (IT) as well.
+The middle office is the department in a financial services company, investment bank, or [hedge fund](https://www.investopedia.com/terms/h/hedgefund.asp) that sits in between the front and back office. It typically manages [[Risk|risk]] and calculates profits and losses. It is generally in charge of information technology (IT) as well.
 
 ### Key Takeaways
 
 -   The middle office tracks and processes all of the deals made by the front office before being reconciled by the back office.
--   The department is generally responsible for risk management and for a firm's information technology.
+-   The department is generally responsible for [[Risk|risk]] management and for a firm's information technology.
 -   The middle office grew out of the increasing complexity of modern financial transactions.
 
 ## How a Middle Office Works
 
-A financial services company is logically broken up into three parts: The [[front office]](https://www.investopedia.com/terms/f/frontoffice.asp) includes sales personnel and corporate finance, the middle office manages risk and IT resources, and the [[back office]](https://www.investopedia.com/terms/b/backoffice.asp) provides administrative, support, and payment services. The middle office draws on the resources of both the front and the back offices.
+A financial services company is logically broken up into three parts: The [[front office]](https://www.investopedia.com/terms/f/frontoffice.asp) includes sales personnel and corporate [[Finance|finance]], the middle office manages [[Risk|risk]] and IT resources, and the [[back office]](https://www.investopedia.com/terms/b/backoffice.asp) provides administrative, support, and payment services. The middle office draws on the resources of both the front and the back offices.
 
-Middle office and back office jobs generally do not directly produce revenue but are essential to managing risk and ensuring that transactions are correctly executed. They are considered an essential part of the company's infrastructure.
+Middle office and back office jobs generally do not directly produce revenue but are essential to managing [[Risk|risk]] and ensuring that transactions are correctly executed. They are considered an essential part of the company's infrastructure.
 
 In the early days of foreign exchange and [[investment banking]](https://www.investopedia.com/terms/i/investment-banking.asp), responsibilities were generally split between the front office and the back office. Front office personnel included the salespeople, traders, and deal makers. Most had college degrees and many had MBAs. Back office personnel performed the clerical work and were only required to have high school diplomas.
 
@@ -44,4 +44,4 @@ Information technology functions of the office run the gamut from ensuring that 
 
 ## Other Considerations
 
-For some years, financial services companies have been moving back-office functions overseas in order to cut costs. Since the financial crisis of 2008, some middle office functions also have moved off-shore. The countries getting those jobs generally have a strong population of highly-educated workers and strong English language skills but a substantially lower pay scale. Popular target countries include Ireland and India.
+For some years, financial services companies have been moving back-office functions overseas in order to cut costs. Since the [[Financial Crisis|financial crisis]] of 2008, some middle office functions also have moved off-shore. The countries getting those jobs generally have a strong population of highly-educated workers and strong English language skills but a substantially lower pay scale. Popular target countries include Ireland and India.

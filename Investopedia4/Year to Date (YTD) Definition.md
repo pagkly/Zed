@@ -2,18 +2,18 @@
 alias: [Year to Date, YTD]
 created: 2021-03-03T01:06:05 (UTC +11:00)
 tags: [Year to Date (YTD) Definition, Year to Date (YTD) Definition]
-source: https://www.investopedia.com/terms/y/ytd.asp
+source: https://www.investopedia.com/terms/[[Y|y]]/ytd.asp
 author: Alicia Tuovila
 ---
 
-# Year to Date (YTD) Definition
+# [[Year to Date (YTD) Definition]]
 
 > ## Excerpt
 > Year to date (YTD) refers to the period of time beginning the first day of the current calendar year or fiscal year up to the current date.
 
 ---
 
-Year to Date (YTD) Definition
+[[Year to Date (YTD) Definition]]
 ## What Is Year to Date (YTD)?
 
 Year to date (YTD) refers to the period of time beginning the first day of the current [[calendar year]](https://www.investopedia.com/terms/c/calendaryear.asp) or [[fiscal year]](https://www.investopedia.com/terms/f/fiscalyear.asp) up to the current date. YTD information is useful for analyzing business trends over time or comparing performance data to competitors or peers in the same industry. The acronym often modifies concepts such as investment returns, [[earnings]](https://www.investopedia.com/terms/e/earnings.asp) and net pay.
@@ -38,9 +38,9 @@ For example, if a company's fiscal year begins on July 1, a three month YTD fina
 
 ### Year-to-Date Returns
 
-YTD return refers to the amount of [[profit]](https://www.investopedia.com/terms/p/profit.asp) made by an investment since the first day of the current year. Investors and analysts use YTD return information to assess the performance of investments and portfolios.
+YTD [[Return|return]] refers to the amount of [[profit]](https://www.investopedia.com/terms/p/profit.asp) made by an investment since the first day of the current year. Investors and analysts use YTD return information to assess the performance of investments and portfolios.
 
-To calculate an YTD [[return on investment]](https://www.investopedia.com/terms/r/returnoninvestment.asp), subtract its value on the first day of the current year from its current value. Then, divide the difference by the value on the first day, and multiply the product by 100 to convert it to a percentage. For example, if a portfolio was worth $100,000 on Jan 1, and it is worth $150,000 today, its YTD return is 50%.
+To calculate an YTD [[return on investment]](https://www.investopedia.com/terms/r/returnoninvestment.asp), subtract its value on the first day of the current year from its current value. Then, divide the difference by the value on the first day, and multiply the product by 100 to convert it to a percentage. For example, if a [[Portfolio|portfolio]] was worth $100,000 on Jan 1, and it is worth $150,000 today, its YTD [[Return|return]] is 50%.
 
 ### Year-to-Date Earnings
 

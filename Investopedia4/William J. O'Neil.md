@@ -6,23 +6,23 @@ source: https://www.investopedia.com/terms/w/william-j-oneil.asp
 author: James Chen
 ---
 
-# William J. O'Neil
+# [[William J. O'Neil]]
 
 > ## Excerpt
 > William J. O’Neil is a noted investor, stockbroker and author. He is known for being one of the first investors to incorporate computers into his research and investment decision-making process.
 
 ---
 
-William J. O'Neil
-## Who is William J. O'Neil
+[[William J. O'Neil]]
+## Who is [[William J. O'Neil]]
 
 William J. O’Neil is a noted investor, [[stockbroker]](https://www.investopedia.com/terms/s/stockbroker.asp) and author. He is known for being one of the first investors to incorporate computers into his research and investment decision-making process. O’Neil also founded the influential investment publication _Investor’s Business Daily_. O’Neal has published the highly acclaimed books _How to Make Money in Stocks_ and _24 Essential Lessons for Investment Success_.
 
-## More on William J. O'Neil
+## More on [[William J. O'Neil]]
 
 O'Neil was born March 25, 1933, in Oklahoma City and raised in Texas. In 1951, he graduated from Woodrow Wilson High School in Dallas. He studied business at Southern Methodist University, and received a bachelor's degree in 1955. He later served in the U.S. Air Force. He was accepted into Harvard Business School in 1960 but had begun his career as a stockbroker two years earlier.
 
-In 1958, O'Neil started his career as a stockbroker at Hayden, Stone & Co., where he developed an investment strategy that made early use of computers. While at Harvard Business School, O'Neil invented the CAN SLIM strategy, a formula for determining which stocks were likely to grow, and became the top-performing broker at Hayden Stone. He bought a seat on the New York Stock Exchange when he was only 30 years old, becoming at that time the youngest person ever to hold a seat on the exchange. In 1963, he founded William O'Neil + Co. Inc., a firm that developed the first computerized daily securities database and sold its research to institutional investors, tracking more than 70,000 companies worldwide.
+In 1958, O'Neil started his career as a stockbroker at Hayden, Stone & Co., where he developed an investment strategy that made early use of computers. While at Harvard Business School, O'Neil invented the CAN SLIM strategy, a formula for determining which [[Stocks|stocks]] were likely to grow, and became the top-performing broker at Hayden Stone. He bought a seat on the New York [[Stock]] Exchange when he was only 30 years old, becoming at that time the youngest person ever to [[Hold|hold]] a seat on the exchange. In 1963, he founded William O'Neil + Co. Inc., a firm that developed the first computerized daily securities database and sold its research to institutional investors, tracking more than 70,000 companies worldwide.
 
 ## Founder of _Investor’s Business Daily_
 

@@ -3,7 +3,7 @@ alias: [Greenwashing]
 created: 2021-03-02T20:27:48 (UTC +11:00)
 tags: [Greenwashing Definition, What You Should Know About Greenwashing]
 source: https://www.investopedia.com/terms/g/greenwashing.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Greenwashing Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-What You Should Know About Greenwashing
+[[What You Should Know About Greenwashing]]
 ## What Is Greenwashing?
 
 Greenwashing is the process of conveying a false impression or providing misleading information about how a company's products are more environmentally sound. Greenwashing is considered an unsubstantiated claim to deceive consumers into believing that a company's products are environmentally friendly.
@@ -42,9 +42,9 @@ Companies have engaged in greenwashing via press releases and commercials toutin
 
 Of course, not all companies are involved in greenwashing. Some products are genuinely green. These products usually come in packaging that spells out the real differences in their contents from competitors' versions.
 
-The marketers of truly [[green products]](https://www.investopedia.com/articles/stocks/07/green-industries.asp) are only too happy to be specific about the beneficial attributes of their products. The website for Allbirds, for example, explains that its sneakers are made from merino wool, with laces made from recycled plastic bottles, and insoles that contain castor bean oil. Even the boxes used in shipping are made from recycled cardboard.
+The marketers of truly [[green products]](https://www.investopedia.com/articles/[[Stocks|stocks]]/07/green-industries.asp) are only too happy to be specific about the beneficial attributes of their products. The website for Allbirds, for example, explains that its sneakers are made from merino wool, with laces made from recycled plastic bottles, and insoles that contain castor bean oil. Even the boxes used in shipping are made from recycled cardboard.
 
-The U.S. Federal Trade Commission (FTC) helps to protect consumers by enforcing laws designed to ensure a competitive, fair marketplace. The FTC offers guidelines on how to differentiate real green from greenwashed:
+The U.S. Federal Trade [[Commission]] (FTC) helps to protect consumers by enforcing laws designed to ensure a competitive, fair marketplace. The FTC offers guidelines on how to differentiate real green from greenwashed:
 
 -   Packaging and advertising should explain the product's green claims in plain language and readable type in close proximity to the claim.
 -   An environmental marketing claim should specify whether it refers to the product, the packaging, or just a portion of the product or package.
@@ -53,7 +53,7 @@ The U.S. Federal Trade Commission (FTC) helps to protect consumers by enforcing 
 
 ## Examples of Greenwashing
 
-The U.S. Federal Trade Commission (FTC) offers several illustrations of greenwashing on its website, which details its [[voluntary guidelines]](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/green-guides) for deceptive green marketing claims. Below is a list containing examples of unsubstantiated claims that would be considered greenwashing.
+The U.S. Federal Trade [[Commission]] (FTC) offers several illustrations of greenwashing on its website, which details its [[voluntary guidelines]](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/green-guides) for deceptive green marketing claims. Below is a list containing examples of unsubstantiated claims that would be considered greenwashing.
 
 -   A plastic package containing a new shower curtain is labeled “recyclable.” It is not clear whether the package or the shower curtain is recyclable. In either case, the label is deceptive if any part of the package or its contents, other than minor components, cannot be recycled.
 -   An area rug is labeled “50% more recycled content than before.” The manufacturer increased the recycled content from 2% to 3%. Although technically true, the message conveys the false impression that the rug contains a significant amount of recycled fiber.

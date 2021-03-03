@@ -13,23 +13,23 @@ author: Adam Hayes
 
 ---
 
-What Work-in-Progress Really Means
+[[What Work-in-Progress Really Means]]
 ## What Is a Work-in-Progress (WIP)?
 
-The term work-in-progress (WIP) is a production and supply-chain management term describing partially finished goods awaiting completion. WIP refers to the raw materials, labor, and overhead costs incurred for products that are at various stages of the production process. WIP is a component of the inventory asset account on the balance sheet. These costs are subsequently transferred to the finished goods account and eventually to the cost of sales.
+The term work-in-progress (WIP) is a production and [[Supply|supply]]-chain management term describing partially finished goods awaiting completion. WIP refers to the raw materials, labor, and overhead costs incurred for products that are at various stages of the production process. WIP is a component of the inventory asset account on the balance sheet. These costs are subsequently transferred to the finished goods account and eventually to the cost of sales.
 
 WIPs are one of the components on a company's balance sheet. The WIP figure reflects only the value of those products in some intermediate production stages. This excludes the value of raw materials not yet incorporated into an item for sale. The WIP figure also excludes the value of finished products being held as inventory in anticipation of future sales.
 
 ### Key Takeaways
 
--   A work-in-progress (WIP) is the cost of unfinished goods in the manufacturing process including labor, raw materials, and overhead.
+-   A work-in-progress (WIP) is the cost of unfinished goods in the [[Manufacturing|manufacturing]] process including labor, raw materials, and overhead.
 -   WIPs are considered to be a current asset on the balance sheet.
 -   Minimizing WIP inventory before reporting it is both standard and necessary since it is difficult to estimate the percentage of completion for an inventory asset.
 -   A WIP is different from a finished good which refers to a product that is ready to be sold to the consumer.
 
 ## Understanding Works-in-Progress (WIP)
 
-WIP is a concept used to describe the flow of manufacturing costs from one area of production to the next, and the balance in WIP represents all production costs incurred for partially completed goods. Production costs include raw materials, labor used in making goods, and allocated [[overhead]](https://www.investopedia.com/terms/o/overhead.asp).
+WIP is a concept used to describe the flow of [[Manufacturing|manufacturing]] costs from one area of production to the next, and the balance in WIP represents all production costs incurred for partially completed goods. Production costs include raw materials, labor used in making goods, and allocated [[overhead]](https://www.investopedia.com/terms/o/overhead.asp).
 
 When the combs are manufactured, plastic is moved into production as a raw material; then, labor costs are incurred to operate molding equipment. Since the combs are only partially completed, all costs are posted to WIP. When the combs are completed, the costs are moved from WIP to finished goods, with both accounts being part of the inventory account. Costs are moved from "inventory" to "[cost of goods sold (COGS)](https://www.investopedia.com/terms/c/cogs.asp)" when the combs are eventually sold.
 
@@ -45,9 +45,9 @@ Accountants use several methods to determine the number of partially completed u
 
 For accounting purposes, process costing differs from job costing, which is a method used when each customer's job is different. Job costing tracks the costs (e.g., cost of materials, labor, and overhead) and profits for a specific job, and it allows accountants to trace expenses for each job for tax purposes and for analysis (scrutinizing costs to see how they can be reduced). 
 
-For example, XYZ Roofing Company provides its residential clients' [[bids]](https://www.investopedia.com/terms/b/bid.asp) for roof repair or replacement; each roof is a different size and will require specific roofing equipment and a varying number of labor hours. Each bid lists the labor, material, and overhead costs for the work.
+For example, XYZ Roofing Company provides its residential clients' [[bids]](https://www.investopedia.com/terms/b/bid.asp) for roof repair or replacement; each roof is a different size and [[Will|will]] require specific roofing equipment and a varying number of labor hours. Each bid lists the labor, material, and overhead costs for the work.
 
-On the other hand, a process costing system tracks accumulates and assigns costs associated with the manufacturing of homogeneous products. Consider a company that manufactures plastic combs. The plastic is put into a mold in the molding department and is then painted before being packaged. As the combs move from one department (molding to painting to packaging) to another, more costs are added to production.
+On the other hand, a process costing system tracks accumulates and assigns costs associated with the [[Manufacturing|manufacturing]] of homogeneous products. Consider a company that manufactures plastic combs. The plastic is put into a mold in the molding department and is then painted before being packaged. As the combs move from one department (molding to painting to packaging) to another, more costs are added to production.
 
 Raw material costs appear on the balance sheet as a current asset, though sometimes a single line item is used that also includes WIP and finished goods inventory.
 
@@ -55,7 +55,7 @@ Raw material costs appear on the balance sheet as a current asset, though someti
 
 Work-in-process represents partially completed goods. These goods are also referred to as goods-in-process. For some, work-in-process refers to products that move from raw materials to finished product in a short period. An example of a work-in-process may include manufactured goods.
 
-Work-in-progress, as mentioned above, is sometimes used to refer to [assets](https://www.investopedia.com/terms/a/asset.asp) that require a considerable amount of time to complete, such as consulting or construction projects. This differentiation may not necessarily be the norm, so either term can be used to refer to unfinished products in most situations. This inventory is found on a manufacturing company's balance sheet. This account of inventory, like the work-in-progress, may include direct labor, material, and manufacturing overhead.
+Work-in-progress, as mentioned above, is sometimes used to refer to [assets](https://www.investopedia.com/terms/a/asset.asp) that require a considerable amount of time to complete, such as consulting or construction projects. This differentiation may not necessarily be the norm, so either term can be used to refer to unfinished products in most situations. This inventory is found on a [[Manufacturing|manufacturing]] company's balance sheet. This account of inventory, like the work-in-progress, may include direct labor, material, and manufacturing overhead.
 
 ## Works-in-Progress vs. Finished Goods
 

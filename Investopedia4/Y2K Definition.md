@@ -2,18 +2,18 @@
 alias: [Y2K]
 created: 2021-03-03T01:06:05 (UTC +11:00)
 tags: [Y2K Definition, Y2K Definition]
-source: https://www.investopedia.com/terms/y/y2k.asp
+source: https://www.investopedia.com/terms/[[Y|y]]/y2k.asp
 author: Clay Halton
 ---
 
-# Y2K Definition
+# [[Y2K Definition]]
 
 > ## Excerpt
 > Y2K refers to a computer bug identified in some software systems that would glitch in the transition from the year 1999 to 2000 at the turn of the millennium.
 
 ---
 
-Y2K Definition
+[[Y2K Definition]]
 ## What Is Y2K?
 
 Y2K is the shorthand term for "the year 2000." Y2K was commonly used to refer to a widespread computer programming shortcut that was expected to cause extensive havoc as the year changed from 1999 to 2000 at the turn of the Millenium.
@@ -36,7 +36,7 @@ While there were a few minor issues once January 1, 2000, arrived, there were no
 
 At the time, which was the early days of the internet, the Y2K scare—or the Millennium bug as it was also called—had many plausible reasons for concern. For instance, for much of financial history, financial institutions have not generally been considered cutting edge technology-wise.
 
-Knowing most big banks ran on dated computers and technologies, it wasn't irrational for depositors to worry the Y2K issue would seize the banking system up, thereby preventing people from withdrawing money or engaging in important transactions. Extended to a global scale, these worries of an epidemic-like panic had international markets holding their breath heading into the turn of the century.
+Knowing most big banks ran on dated computers and technologies, it wasn't irrational for depositors to worry the Y2K issue would seize the banking system up, thereby preventing people from withdrawing money or engaging in important transactions. Extended to a global scale, these worries of an epidemic-like panic had [[International Markets|international markets]] holding their breath heading into the turn of the century.
 
 The research firm Gartner estimated that the global costs to fix the bug were expected to be between $300 billion to $600 billion. Individual companies also offered their estimates of the bug's economic impact on their top-line figures. For example, General Motors stated that it would cost $565 million to fix problems arising from the bug. Citicorp estimated that it would cost $600 million, while MCI stated that it would take $400 million.1
 

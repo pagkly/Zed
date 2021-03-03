@@ -2,21 +2,21 @@
 alias: [Zero Balance Card]
 created: 2021-03-03T01:10:29 (UTC +11:00)
 tags: [Zero Balance Card Definition, Zero Balance Card Definition]
-source: https://www.investopedia.com/terms/z/zero-balance-card.asp
+source: https://www.investopedia.com/terms/[[Z|z]]/zero-balance-card.asp
 author: Jason Fernando
 ---
 
-# Zero Balance Card Definition
+# [[Zero Balance Card Definition]]
 
 > ## Excerpt
 > A zero balance card is credit card on which a consumer does not owe any money because they have paid any balances owed in full without adding new charges.
 
 ---
 
-Zero Balance Card Definition
+[[Zero Balance Card Definition]]
 ## What Is a Zero Balance Card?
 
-The term “zero balance card” refers to a [[credit card]](https://www.investopedia.com/terms/c/creditcard.asp) with no outstanding balance of debt. Credit card users can maintain zero balance cards either by paying off their full balances at the end of each billing cycle, or by simply not using their cards. In either case, maintaining zero balance cards can benefit credit card users by helping to improve their [[credit score]](https://www.investopedia.com/terms/c/credit_score.asp).
+The term “zero balance card” refers to a [[credit card]](https://www.investopedia.com/terms/c/creditcard.asp) with no outstanding balance of [[Debt|debt]]. Credit card users can maintain zero balance cards either by paying off their full balances at the end of each billing cycle, or by simply not using their cards. In either case, maintaining zero balance cards can benefit credit card users by helping to improve their [[credit score]](https://www.investopedia.com/terms/c/credit_score.asp).
 
 ### Key Takeaways
 
@@ -26,11 +26,11 @@ The term “zero balance card” refers to a [[credit card]](https://www.investo
 
 ## Understanding Zero Balance Cards
 
-Many credit card users rely on their credit cards to finance everyday transactions such as groceries, gasoline, or various discretionary purchases. According to an [[article published by CNBC]](https://www.cnbc.com/2019/03/19/70-percent-of-people-with-credit-card-debt-cant-pay-it-off-this-year.html) in March of 2019, roughly 53% of borrowers pay off their full outstanding balances each month.
+Many credit card users rely on their credit cards to [[Finance|finance]] everyday transactions such as groceries, gasoline, or various discretionary purchases. According to an [[article published by CNBC]](https://www.cnbc.com/2019/03/19/70-percent-of-people-with-credit-card-[[Debt|debt]]-cant-pay-it-off-this-year.html) in March of 2019, roughly 53% of borrowers pay off their full outstanding balances each month.
 
 This method of using credit cards can be very beneficial to the user, since it allows them to enjoy benefits such as [[cash-back incentives]](https://www.investopedia.com/terms/c/cash-back.asp) and [[rewards programs]](https://www.investopedia.com/articles/pf/12/rewards-credit-cards.asp) without actually incurring any [[interest]](https://www.investopedia.com/terms/i/interest.asp) on the debts. Since credit card companies typically calculate their customers’ outstanding debts at the end of each month, these customers’ credit cards would show an outstanding balance of zero—making them zero balance cards.
 
-But what about the roughly 47% of customers who do not pay off their credit card balances each month?1 These credit card users will show a steady balance of outstanding debt from one month to the next, the size of which will be recorded on their [[credit report]](https://www.investopedia.com/terms/c/creditreport.asp). If the outstanding balance becomes too large relative to their credit limit, then this may have a negative effect on the borrower’s credit score. On the other hand, maintaining a relatively low balance of debt relative to their credit limit can help improve a borrower’s credit score.
+But what about the roughly 47% of customers who do not pay off their credit card balances each month?1 These credit card users [[Will|will]] show a steady balance of outstanding [[Debt|debt]] from one month to the next, the size of which will be recorded on their [[credit report]](https://www.investopedia.com/terms/c/creditreport.asp). If the outstanding balance becomes too large relative to their credit limit, then this may have a negative effect on the borrower’s [[Credit Score|credit score]]. On the other hand, maintaining a relatively low balance of debt relative to their credit limit can help improve a borrower’s credit score.
 
 If you're having trouble maintaining an outstanding balance of zero on your current card due to a high interest rate, you might be worth considering a [[balance transfer to a better one card]](https://www.investopedia.com/best-balance-transfer-credit-cards-4801444).
 

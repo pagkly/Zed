@@ -13,49 +13,49 @@ author: Adam Hayes
 
 ---
 
-What You Need to Know About Standard & Poor's (S&P)
+[[What You Need to Know About Standard & Poor's (S&P)]]
 ## What Is Standard & Poor's (S&P)?
 
-Standard & Poor's (S&P) is a leading index provider and data source of [[independent credit ratings]](https://www.investopedia.com/articles/bonds/09/history-credit-rating-agencies.asp). It is also the provider of the popular S&P 500 Index. S&P was founded in 1860, offering financial market intelligence. S&P Global divisions include S&P Global Ratings, S&P Global Market Intelligence, S&P Dow Jones Indices, and S&P Global Platts.
+Standard & Poor's (S&P) is a leading index provider and data source of [[independent credit ratings]](https://www.investopedia.com/articles/bonds/09/history-credit-[[Rating|rating]]-agencies.asp). It is also the provider of the popular [[S&P 500 Index]]. S&P was founded in 1860, [[Offering|offering]] financial market intelligence. S&P Global divisions include S&P Global Ratings, S&P Global Market Intelligence, S&P Dow Jones Indices, and S&P Global Platts.
 
 #### Standard And Poor's 500 Index
 
 ## Understanding Standard & Poor's
 
-Standard & Poor’s, which has offices in 26 countries, is well known around the world for its wide variety of investable and benchmark indices, and a large number of [[credit ratings]](https://www.investopedia.com/terms/c/creditrating.asp) it issues. The company started as the Standard Statistics Co. In 1923, it released its first stock market indicator, which contained 233 companies. It would come to be known as Standard & Poor's thanks to a 1941 merger with Poor's Publishing.
+Standard & Poor’s, which has offices in 26 countries, is well known around the world for its wide variety of investable and benchmark indices, and a large number of [[credit ratings]](https://www.investopedia.com/terms/c/creditrating.asp) it issues. The company started as the Standard Statistics Co. In 1923, it released its first [[Stock|stock]] market indicator, which contained 233 companies. It would come to be known as Standard & Poor's thanks to a 1941 merger with Poor's Publishing.
 
-The merger also boosted the stock index to 416 companies before hitting the magic number 500 in 1957. In 2012, Standard & Poor’s combined its index operations with Dow Jones Indices to create a leader in the industry.
+The merger also boosted the [[Stock|stock]] index to 416 companies before hitting the magic number 500 in 1957. In 2012, Standard & Poor’s combined its index operations with Dow Jones Indices to create a leader in the industry.
 
 The McGraw-Hill Cos. purchased S&P in 1966, and in 2016, McGraw Hill Financial rebranded itself as S&P Global. The company has more than 1,400 credit analysts, and more than 1.2 million credit ratings have been issued on governments, corporations, the financial sector, and securities.
 
-S&P is a major credit risk researcher. It covers multiple industries, benchmarks, asset classes, and geographies. It issues credit ratings on public and private company debt, as well as governments. These include both short-term and long-term credit ratings. These range in scale from AAA to D. It also offers ratings on [[short-term debt]](https://www.investopedia.com/ask/answers/06/currentportionlongtermdebt.asp) and provides outlook ratings that range from six months to two years.
+S&P is a major credit [[Risk|risk]] researcher. It covers multiple industries, benchmarks, asset classes, and geographies. It issues credit ratings on public and private company [[Debt|debt]], as well as governments. These include both short-term and long-term credit ratings. These range in scale from AAA to D. It also offers ratings on [[short-term debt]](https://www.investopedia.com/ask/answers/06/currentportionlongtermdebt.asp) and provides outlook ratings that range from six months to two years.
 
 ### Key Takeaways
 
 -   Standard & Poor's (S&P) is a leading index provider and data source of independent credit ratings.
--   It is the provider of the popular S&P 500 Index as well as several other global market indices.
+-   It is the provider of the popular [[S&P 500 Index]] as well as several other global market indices.
 -   The McGraw-Hill Cos. purchased S&P in 1966, and in 2016, McGraw Hill Financial rebranded itself as S&P Global.
 
 ## Standard & Poor's Indexes
 
-The S&P 500 Index launched in March 1957. It was the first index to be published daily, and it is a common benchmark for determining the overall health of the U.S. stock market. The S&P 500 Index contains 500 of the largest stocks that trade on the [[New York Stock Exchange]](https://www.investopedia.com/articles/basics/03/103103.asp) and Nasdaq, making it a tool to gauge the overall health of large American companies. The S&P 500 is probably the single most popular equity index in the world and is used as a performance benchmark for a variety of mutual funds and ETFs.
+The [[S&P 500 Index]] launched in March 1957. It was the first index to be published daily, and it is a common benchmark for determining the overall health of the U.S. [[Stock|stock]] market. The S&P 500 Index contains 500 of the largest [[Stocks|stocks]] that trade on the [[New York Stock Exchange]](https://www.investopedia.com/articles/basics/03/103103.asp) and [[Nasdaq]], making it a tool to gauge the overall health of large American companies. The S&P 500 is probably the single most popular [[Equity|equity]] index in the world and is used as a performance benchmark for a variety of mutual funds and ETFs.
 
 Other popular indexes offered by S&P Global cover different sectors of the market and different market capitalizations. Large offerings from S&P Dow Jones Indices include the S&P SmallCap 600, the S&P MidCap 400, the S&P Composite 1500 and the S&P 900. Each represents a look at market health based on its subsector.
 
 S&P's major competitors for credit ratings include Moody's and Fitch, and for financial indices, Bloomberg Business Services.
 
-## S&P 500 Index Futures
+## [[S&P 500 Index]] [[Futures]]
 
-The first S&P 500 futures contracts were introduced by the CME in 1982. The CME added the E-mini option in 1997. The SP contract is the base market contract for S&P 500 futures trading. It is priced by multiplying the S&P 500’s value by $250. For example, if the S&P 500 is at a level of 2,500, then the market value of a futures contract is 2,500 x $250 or $625,000.
+The first S&P 500 [[Futures|futures]] contracts were introduced by the CME in 1982. The CME added the E-mini option in 1997. The SP contract is the base market contract for S&P 500 futures trading. It is priced by multiplying the S&P 500’s value by $250. For example, if the S&P 500 is at a level of 2,500, then the market value of a futures contract is 2,500 x $250 or $625,000.
 
-E-mini futures were created to allow for [[smaller investments]](https://www.investopedia.com/articles/personal-finance/123115/best-ways-invest-500-5000.asp) by a wider range of investors. The S&P 500 E-Mini Futures are one-fifth of the value of the big contract. If the S&P 500 level is 2,500 then the market value of a futures contract is 2,500 x $50 or $125,000. The "E" in E-mini stands for electronic. Many traders favor the S&P 500 E-Mini ES over the SP not only for its smaller investment size but also for its liquidity. Like its name, the E-Mini ES trades electronically which can be more efficient than the open outcry pit trading for the SP.
+E-mini [[Futures|futures]] were created to allow for [[smaller investments]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/123115/best-ways-invest-500-5000.asp) by a wider range of investors. The S&P 500 E-Mini Futures are one-fifth of the value of the big contract. If the S&P 500 level is 2,500 then the market value of a futures contract is 2,500 x $50 or $125,000. The "E" in E-mini stands for electronic. Many traders favor the S&P 500 E-Mini ES over the SP not only for its smaller investment size but also for its [[Liquidity|liquidity]]. Like its name, the E-Mini ES trades electronically which can be more efficient than the open outcry pit trading for the SP.
 
-As with all futures, investors are only required to front a fraction of the contract value to take a position. This represents the margin on the futures contract. These margins are not the same as margins for stock trading. Futures margins show "skin in the game" that must be offset or settled.
+As with all [[Futures|futures]], investors are only required to front a fraction of the contract value to take a position. This represents the margin on the futures contract. These margins are not the same as margins for [[Stock|stock]] trading. Futures margins show "[[Skin In The Game|skin in the game]]" that must be offset or settled.
 
 ### 10%
 
-The percentage of stocks from the original S&P 500 Index in 1957 that remain in the index today.
+The percentage of [[Stocks|stocks]] from the original [[S&P 500 Index]] in 1957 that remain in the index today.
 
-## Standard & Poor's Underlying Rating (SPURs)
+## Standard & Poor's [[Underlying]] [[Rating]] (SPURs)
 
-Standard & Poor's Underlying Ratings (SPURs) provide an opinion on a municipality's credit quality separate from guarantor or insurer credit enhancements. Municipal or other public sector bonds typically include credit enhancement which is used to obtain better terms by providing increased assurance that the borrower will honor its obligation through additional insurance or a third-party guarantee. Standard & Poor's issues a SPURs rating only at the request of the issuer/obligor and maintains surveillance of an issue with a published SPUR.
+Standard & Poor's [[Underlying]] Ratings (SPURs) provide an opinion on a municipality's credit quality separate from guarantor or insurer credit enhancements. Municipal or other public sector bonds typically include credit enhancement which is used to obtain better terms by providing increased assurance that the borrower [[Will|will]] honor its obligation through additional insurance or a third-party guarantee. Standard & Poor's issues a SPURs [[Rating|rating]] only at the request of the issuer/obligor and maintains surveillance of an issue with a published SPUR.

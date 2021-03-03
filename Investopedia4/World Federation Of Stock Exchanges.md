@@ -1,30 +1,30 @@
 ---
-alias: [World Federation Of Stock Exchanges]
+alias: [World Federation Of [[Stock]] Exchanges]
 created: 2021-03-03T01:03:36 (UTC +11:00)
-tags: [World Federation Of Stock Exchanges, World Federation Of Stock Exchanges]
+tags: [World Federation Of [[Stock]] Exchanges, World Federation Of Stock Exchanges]
 source: https://www.investopedia.com/terms/w/world_federation_of_exchanges.asp
 author: Chris B Murphy
 ---
 
-# World Federation Of Stock Exchanges
+# [[World Federation Of Stock Exchanges]]
 
 > ## Excerpt
-> The World Federation of Stock Exchanges is an international standards organization based in London.
+> The [[World Federation Of Stock Exchanges|World Federation of Stock Exchanges]] is an international standards organization based in London.
 
 ---
 
-World Federation Of Stock Exchanges
-## What Is the World Federation of Stock Exchanges (WFE)?
+[[World Federation Of Stock Exchanges]]
+## What Is the [[World Federation Of Stock Exchanges|World Federation of Stock Exchanges]] (WFE)?
 
-The World Federation of Stock Exchanges, more commonly known as the World Federation of Exchanges, is an international trade group that supports the interests of regulated [[securities]](https://www.investopedia.com/terms/s/seact1934.asp) [[exchanges]](https://www.investopedia.com/terms/e/exchange.asp) around the world and promotes widespread access to financial markets and the safety and soundness of the global financial system.
+The [[World Federation Of Stock Exchanges|World Federation of Stock Exchanges]], more commonly known as the World Federation of Exchanges, is an international trade group that supports the interests of regulated [[securities]](https://www.investopedia.com/terms/s/seact1934.asp) [[exchanges]](https://www.investopedia.com/terms/e/exchange.asp) around the world and promotes widespread access to financial markets and the safety and soundness of the global financial system.
 
 ### Key Takeaways
 
 -   The World Federation of Exchanges, located in London, represents more than 250 different exchanges and clearinghouses.
 -   The WEF also plays a role in facilitating the spread of ideas and best practices throughout the financial services industry.
--   WFE exchanges are home to 53,000 listed companies, and as of 2019, WFE members had a total annual trading volume of $88 trillion.
+-   WFE exchanges are home to 53,000 [[Listed|listed]] companies, and as of 2019, WFE members had a total annual trading volume of $88 trillion.
 
-## Understanding the World Federation of Stock Exchanges (WFE)
+## Understanding the [[World Federation Of Stock Exchanges|World Federation of Stock Exchanges]] (WFE)
 
 The World Federation of Exchanges (WFE) is located in London, the United Kingdom. The WFE is an industry group and private company that was established in 1961, and today represents more than 250 different exchanges and [[clearinghouses]](https://www.investopedia.com/terms/c/clearinghouse.asp).
 
@@ -34,7 +34,7 @@ The WFE's members are represented in the following regions of the world:
 -   Europe, Middle East, and Africa (EMEA): 45% 
 -   Americas: 20% 
 
-WFE exchanges are home to nearly 53,000 listed companies, while the annual trading volume that passes through WFE members equals $88 trillion as of 2019.1
+WFE exchanges are home to nearly 53,000 [[Listed|listed]] companies, while the annual trading volume that passes through WFE members equals $88 trillion as of 2019.1
 
 Member exchanges include the following:
 
@@ -44,19 +44,19 @@ Member exchanges include the following:
 -   Bolsa Mexicana de Valores
 -   CME Group
 -   Cboe Global Markets
--   China Financial Futures Exchange
+-   China Financial [[Futures]] Exchange
 -   China Securities Depository and Clearing Corporation Ltd.
 -   Deutsche Börse AG
--   Hochiminh Stock Exchange
+-   Hochiminh [[Stock]] Exchange
 -   Hong Kong Exchanges and Clearing
 -   Korea Exchange
--   London Stock Exchange Group
+-   London [[Stock]] Exchange Group
 -   Multi Commodity Exchange of India Ltd.
--   Nasdaq
--   National Stock Exchange of India Limited
--   Shanghai Futures Exchange
--   Shanghai Stock Exchange
--   Shenzhen Stock Exchange
+-   [[Nasdaq]]
+-   National [[Stock]] Exchange of India Limited
+-   Shanghai [[Futures]] Exchange
+-   Shanghai [[Stock]] Exchange
+-   Shenzhen [[Stock]] Exchange
 -   Singapore Exchange
 
 ## Goals of the World Federation of Exchanges
@@ -71,6 +71,6 @@ The World Federation of Exchanges provides a number of different services for fi
 
 The WEF also plays a role in facilitating the spread of ideas and best practices throughout the financial services industry. It often convenes forums, debates, and conferences where industry participants can discuss important issues in financial market structure, like cross-border regulation or [[high-frequency trading]](https://www.investopedia.com/ask/answers/09/high-frequency-trading.asp), which is a high-powered, computerized system of trading.
 
-The WFE also publishes numerous statistics, many of which are contained in its Annual Statistics Guide. Market participants can find in the guide such valuable information as the total [[market capitalization]](https://www.investopedia.com/terms/m/marketcapitalization.asp) of companies listed on various stock exchanges, the total value of bonds issued across the globe, or the total notional value of [[derivatives]](https://www.investopedia.com/terms/d/derivative.asp) being traded in specific markets.
+The WFE also publishes numerous statistics, many of which are contained in its Annual Statistics Guide. Market participants can find in the guide such valuable information as the total [[market capitalization]](https://www.investopedia.com/terms/m/marketcapitalization.asp) of companies [[Listed|listed]] on various [[Stock|stock]] exchanges, the total value of bonds issued across the globe, or the total notional value of [[derivatives]](https://www.investopedia.com/terms/d/[[Derivative|derivative]].asp) being traded in specific markets.
 
-Derivatives typically derive their value from the underlying asset or security such as a stock. It also maintains a database on [[initial public offerings (IPOs)]](https://www.investopedia.com/terms/i/ipo.asp)—which a new [[equity]](https://www.investopedia.com/terms/e/equity.asp) issuance—made on member exchanges. The WEF is governed by a board of directors, which meets three times per year to oversee the management of the organization.
+Derivatives typically derive their value from the [[Underlying|underlying]] asset or [[Security|security]] such as a [[Stock|stock]]. It also maintains a database on [[initial public offerings (IPOs)]](https://www.investopedia.com/terms/i/ipo.asp)—which a new [[equity]](https://www.investopedia.com/terms/e/[[Equity|equity]].asp) issuance—made on member exchanges. The WEF is governed by a board of directors, which meets three times per year to oversee the management of the organization.

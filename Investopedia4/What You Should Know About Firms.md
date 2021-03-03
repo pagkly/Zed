@@ -3,26 +3,26 @@ alias: [Firm]
 created: 2021-03-02T19:56:47 (UTC +11:00)
 tags: [Firm Definition, What You Should Know About Firms]
 source: https://www.investopedia.com/terms/f/firm.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Firm Definition
 
 > ## Excerpt
-> A firm is a business organization—such as a corporation, limited liability company, or partnership—that sells goods or services to make a profit.
+> A firm is a business organization—such as a corporation, limited [[Liability|liability]] company, or partnership—that sells goods or services to make a profit.
 
 ---
 
-What You Should Know About Firms
+[[What You Should Know About Firms]]
 ## What Is a Firm?
 
-A firm is a for-profit business organization—such as a corporation, limited liability company (LLC), or partnership—that provides professional services. Most firms have just one location. However, a business firm consists of one or more physical establishments, in which all fall under the same ownership and use the same [[employer identification number (EIN)]](https://www.investopedia.com/terms/e/employer-identification-number.asp).
+A firm is a for-profit business organization—such as a corporation, limited [[Liability|liability]] company (LLC), or partnership—that provides professional services. Most firms have just one location. However, a business firm consists of one or more physical establishments, in which all fall under the same ownership and use the same [[employer identification number (EIN)]](https://www.investopedia.com/terms/e/employer-identification-number.asp).
 
-When used in a title, "firm" is typically associated with businesses that provide professional law and accounting services, but the term may be used for a wide variety of businesses, including finance, consulting, marketing, and graphic design firms, among others.
+When used in a title, "firm" is typically associated with businesses that provide professional law and accounting services, but the term may be used for a wide variety of businesses, including [[Finance|finance]], consulting, marketing, and graphic design firms, among others.
 
 ## Understanding Firms
 
-In microeconomics, the [[theory of the firm]](https://www.investopedia.com/terms/t/theory-firm.asp) attempts to explain why firms exist, why they operate and produce as they do, and how they are structured. The theory of the firm asserts that firms exist to maximize profits; however, this theory changes as the economic marketplace changes. More modern theories would distinguish between firms that work toward long-term [[sustainability]](https://www.investopedia.com/terms/s/sustainability.asp) and those that aim to produce high levels of profit in a short time.
+In microeconomics, the [[theory of the firm]](https://www.investopedia.com/terms/t/theory-firm.asp) attempts to explain why firms exist, why they operate and produce as they do, and how they are structured. The theory of the firm asserts that firms exist to maximize profits; however, this theory changes as the economic marketplace changes. More modern theories would distinguish between firms that work toward long-term [[sustainability]](https://www.investopedia.com/terms/s/[[Sustainability|sustainability]].asp) and those that aim to produce high levels of profit in a short time.
 
 ### Key Takeaways
 
@@ -42,4 +42,4 @@ A firm's business activities are typically conducted under the firm's name, but 
 -   A **sole proprietorship or sole trader** is owned by one person, who is liable for all costs and obligations, and owns all assets. Although not common under the firm umbrella, there exists some sole proprietorship businesses that operate as firms.
 -   A **partnership** is a business owned by two or more people; there is no limit to the number of partners that can have a stake in ownership. A partnership's owners each are liable for all business obligations, and together they own everything that belongs to the business.
 -   In a **corporation,** the businesses' financials are separate from the owners' financials. Owners of a corporation are not liable for any costs, lawsuits, or other obligations of the business. A corporation may be owned by individuals or by a government. Though business entities, corporations can function similarly to individuals. For example, they may take out loans, enter into contract agreements, and pay taxes. A firm that is owned by multiple people is often called a company.
--   A **financial cooperative** is similar to a corporation in that its owners have limited liability, with the difference that its investors have a say in the company's operations.1
+-   A **financial cooperative** is similar to a corporation in that its owners have limited [[Liability|liability]], with the difference that its investors have a say in the company's operations.1
