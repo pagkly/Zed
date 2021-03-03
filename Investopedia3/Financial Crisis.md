@@ -49,7 +49,7 @@ As the most recent and most damaging financial crisis event, the Global Financia
 
 The crisis was the result of a sequence of events, each with its own trigger and culminating in the near collapse of the banking system. It has been argued that the seeds of the crisis were sown as far back as the 1970s with the Community Development Act, which required banks to loosen their credit requirements for lower-income consumers, creating a market for [[subprime mortgages]](https://www.investopedia.com/terms/s/subprime_mortgage.asp).
 
-A financial crisis can take many forms, including a banking/credit panic or a stock market crash, but differs from a recession, which is often the result of such a crisis.
+A financial crisis can take many forms, including a banking/credit panic or a [[Investopedia3/Stock Market Crash Definition|stock market crash]], but differs from a recession, which is often the result of such a crisis.
 
 The amount of subprime mortgage debt, which was guaranteed by [[Freddie Mac]](https://www.investopedia.com/terms/f/freddiemac.asp) and [[Fannie Mae]](https://www.investopedia.com/mortgage/fannie-mae-loans/), continued to expand into the early 2000s, when the Federal Reserve Board began to cut interest rates drastically to avoid a recession. The combination of loose credit requirements and cheap money spurred a housing boom, which drove speculation, pushing up housing prices and creating a real estate bubble.
 

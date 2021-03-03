@@ -378,7 +378,7 @@ An American depositary receipt (ADR) is a U.S. bank-issued certificate represent
     
     ![[International Markets/shutterstock_112522391-5bfc2b9846e0fb0051bde2d3.jpg]]
     
-    What Caused Black Monday: The Stock Market Crash of 1987?
+    What Caused Black Monday: The [[Investopedia3/Stock Market Crash Definition|Stock Market Crash]] of 1987?
     
     
     
