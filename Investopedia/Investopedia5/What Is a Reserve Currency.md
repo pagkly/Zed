@@ -39,7 +39,7 @@ As a result, it made sense that the U.S dollar would become the global currency
 
 In the beginning, the world benefited from a strong and stable dollar, and the United States prospered from the favorable exchange rate on its currency. The foreign governments did not fully realize that although gold reserves backed their currency reserves, the United States could continue to print dollars that were backed by its debt held as [U.S. Treasuries](https://www.investopedia.com/articles/investing/073113/introduction-treasury-securities.asp). As the United States printed more money to finance its spending, the gold backing behind the dollars diminished. The increase monetary supply of dollars went beyond the backing of gold reserves, which reduced the value of the currency reserves held by foreign countries.
 
-## The Gold-to-Dollar Decoupling
+## The Gold-to-Dollar [[Investopedia3/Decoupling]]
 
 As the United States continued to flood the markets with paper dollars to finance its escalating war in Vietnam and the [Great Society](https://www.investopedia.com/terms/g/great-society.asp) programs, the world grew cautious and began to convert dollar reserves into gold. The run on gold was so extensive that President Nixon was compelled to step in and decouple the dollar from the gold standard, which gave way to the floating exchange rates that are in use today. Soon after, the value of gold tripled, and the dollar began its decades-long decline.
 
