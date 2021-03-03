@@ -6,14 +6,14 @@ source: https://plumsolutions.com.au/quizzes/financial-modelling-best-practice-r
 author: 
 ---
 
-# Financial Modelling Best Practice Review | Plum Solutions
+# [[Financial Modelling Best Practice Review]] | Plum Solutions
 
 > ## Excerpt
 > If you have passed this quiz, you can go to the next module. If you did not pass the quiz, you can retake it. But take care, as you can only take each quiz a total of three times!
 
 ---
 
-Financial Modelling Best Practice Review
+[[Financial Modelling Best Practice Review]]
 **If you have passed** this quiz, you can go to the next module. **If you did not pass** the quiz, you can retake it. But take care, as you can only take each quiz a total of three times!
 
 Good Luck!

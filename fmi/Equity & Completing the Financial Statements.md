@@ -6,14 +6,14 @@ source: https://plumsolutions.com.au/lessons/equity-completing-the-financial-sta
 author: 
 ---
 
-# Equity & Completing the Financial Statements | Plum Solutions
+# [[Equity & Completing the Financial Statements]] | Plum Solutions
 
 > ## Excerpt
 > If you have any questions or problems throughout the course, you can get help in the following ways:
 
 ---
 
-Equity & Completing the Financial Statements
+[[Equity & Completing the Financial Statements]]
 If you have any questions or problems throughout the course, you can get help in the following ways:
 
 -   Email us directly at info@plumsolutions.com.au

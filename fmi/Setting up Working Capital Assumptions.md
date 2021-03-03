@@ -6,15 +6,15 @@ source: https://plumsolutions.com.au/topic/setting-up-working-capital-assumption
 author: 
 ---
 
-# Setting up Working Capital Assumptions | Plum Solutions
+# [[Setting up Working Capital Assumptions]] | Plum Solutions
 
 > ## Excerpt
 > Topic Progress:
 
 ---
 
-Setting up Working Capital Assumptions
-**Topic Progress:**[](https://plumsolutions.com.au/topic/building-the-tax-schedule/ "Building the Tax Schedule")[](https://plumsolutions.com.au/topic/setting-up-working-capital-assumptions/ "Setting up Working Capital Assumptions")[](https://plumsolutions.com.au/topic/calculating-working-capital/ "Calculating Working Capital")
+[[Setting up Working Capital Assumptions]]
+**Topic Progress:**[](https://plumsolutions.com.au/topic/building-the-tax-schedule/ "Building the Tax Schedule")[](https://plumsolutions.com.au/topic/setting-up-working-capital-assumptions/ "[[Setting up Working Capital Assumptions]]")[](https://plumsolutions.com.au/topic/calculating-working-capital/ "Calculating Working Capital")
 
 <iframe src="https://player.vimeo.com/video/431133564" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
 

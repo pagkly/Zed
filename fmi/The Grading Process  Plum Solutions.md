@@ -14,7 +14,7 @@ author:
 ---
 
 The Grading Process | Plum Solutions
-**Topic Progress:**[](https://plumsolutions.com.au/topic/learning-materials/ "Learning Materials")[](https://plumsolutions.com.au/topic/what-to-expect-on-exam-day/ "What to expect on Exam day")[](https://plumsolutions.com.au/topic/the-grading-process/ "The Grading Process")
+**Topic Progress:**[](https://plumsolutions.com.au/topic/learning-materials/ "Learning Materials")[](https://plumsolutions.com.au/topic/what-to-expect-on-exam-day/ "[[What to expect on Exam day]]")[](https://plumsolutions.com.au/topic/the-grading-process/ "The Grading Process")
 
 <iframe src="https://player.vimeo.com/video/411373446" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
 

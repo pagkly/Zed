@@ -6,15 +6,15 @@ source: https://plumsolutions.com.au/topic/whats-new-in-excel-2016-4/
 author: 
 ---
 
-# What's New in Excel 2016 | Plum Solutions
+# [[What's New in Excel 2016]] | Plum Solutions
 
 > ## Excerpt
 > Topic Progress:
 
 ---
 
-What's New in Excel 2016
-**Topic Progress:**[](https://plumsolutions.com.au/topic/whats-new-in-excel-2016-4/ "What's New in Excel 2016")[](https://plumsolutions.com.au/topic/linking-for-best-practice-2/ "Linking for Best Practice")[](https://plumsolutions.com.au/topic/absolute-and-relative-cell-referencing-2/ "Absolute and Relative Cell Referencing")[](https://plumsolutions.com.au/topic/calculating-project-costs-2/ "Calculating Project Costs")[](https://plumsolutions.com.au/topic/logical-nested-functions-part-1-2/ "Logical Nested Functions Part 1")[](https://plumsolutions.com.au/topic/logical-nested-functions-part-2-2/ "Logical Nested Functions Part 2")[](https://plumsolutions.com.au/topic/mixed-referencing-and-named-ranges-2/ "Mixed Referencing and Named Ranges")
+[[What's New in Excel 2016]]
+**Topic Progress:**[](https://plumsolutions.com.au/topic/whats-new-in-excel-2016-4/ "[[What's New in Excel 2016]]")[](https://plumsolutions.com.au/topic/linking-for-best-practice-2/ "Linking for Best Practice")[](https://plumsolutions.com.au/topic/absolute-and-relative-cell-referencing-2/ "[[Absolute and Relative Cell Referencing]]")[](https://plumsolutions.com.au/topic/calculating-project-costs-2/ "Calculating Project Costs")[](https://plumsolutions.com.au/topic/logical-nested-functions-part-1-2/ "[[Logical Nested Functions Part 1]]")[](https://plumsolutions.com.au/topic/logical-nested-functions-part-2-2/ "[[Logical Nested Functions Part 2]]")[](https://plumsolutions.com.au/topic/mixed-referencing-and-named-ranges-2/ "[[Mixed Referencing and Named Ranges]]")
 
 <iframe src="https://player.vimeo.com/video/154285006" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
 

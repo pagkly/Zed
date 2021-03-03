@@ -6,19 +6,19 @@ source: https://plumsolutions.com.au/topic/logical-nested-functions-part-2-2/
 author: 
 ---
 
-# Logical Nested Functions Part 2 | Plum Solutions
+# [[Logical Nested Functions Part 2]] | Plum Solutions
 
 > ## Excerpt
 > Topic Progress:
 
 ---
 
-Logical Nested Functions Part 2
-**Topic Progress:**[](https://plumsolutions.com.au/topic/whats-new-in-excel-2016-4/ "What's New in Excel 2016")[](https://plumsolutions.com.au/topic/linking-for-best-practice-2/ "Linking for Best Practice")[](https://plumsolutions.com.au/topic/absolute-and-relative-cell-referencing-2/ "Absolute and Relative Cell Referencing")[](https://plumsolutions.com.au/topic/calculating-project-costs-2/ "Calculating Project Costs")[](https://plumsolutions.com.au/topic/logical-nested-functions-part-1-2/ "Logical Nested Functions Part 1")[](https://plumsolutions.com.au/topic/logical-nested-functions-part-2-2/ "Logical Nested Functions Part 2")[](https://plumsolutions.com.au/topic/mixed-referencing-and-named-ranges-2/ "Mixed Referencing and Named Ranges")
+[[Logical Nested Functions Part 2]]
+**Topic Progress:**[](https://plumsolutions.com.au/topic/whats-new-in-excel-2016-4/ "[[What's New in Excel 2016]]")[](https://plumsolutions.com.au/topic/linking-for-best-practice-2/ "Linking for Best Practice")[](https://plumsolutions.com.au/topic/absolute-and-relative-cell-referencing-2/ "[[Absolute and Relative Cell Referencing]]")[](https://plumsolutions.com.au/topic/calculating-project-costs-2/ "Calculating Project Costs")[](https://plumsolutions.com.au/topic/logical-nested-functions-part-1-2/ "[[Logical Nested Functions Part 1]]")[](https://plumsolutions.com.au/topic/logical-nested-functions-part-2-2/ "[[Logical Nested Functions Part 2]]")[](https://plumsolutions.com.au/topic/mixed-referencing-and-named-ranges-2/ "[[Mixed Referencing and Named Ranges]]")
 
 <iframe src="https://player.vimeo.com/video/133640105" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
 
-In this video: Continuing on from Logical Nested Functions Part 1, we perform more practical exercises which apply the IF, AND and OR statements to real-life examples:
+In this video: Continuing on from [[Logical Nested Functions Part 1]], we perform more practical exercises which apply the IF, AND and OR statements to real-life examples:
 
 1.  Nesting IF statements to calculate volume pricing breaks
 2.  Using an OR statement to identify account codes in a pre-defined range
@@ -28,7 +28,7 @@ _Video length: 10 min 30 sec_
 
 ### Templates
 
-Download the Excel templates for this video from the previous lesson; Logical Nested Functions Part 1. Follow along with the video demonstration, and save your model.  Note that the models in this module are not required uploads for this course, however, you are welcome to submit them if you’d like us to check you’re on the right track.
+Download the Excel templates for this video from the previous lesson; [[Logical Nested Functions Part 1]]. Follow along with the video demonstration, and save your model.  Note that the models in this module are not required uploads for this course, however, you are welcome to submit them if you’d like us to check you’re on the right track.
 
 ### Transcript
 

@@ -6,14 +6,14 @@ source: https://plumsolutions.com.au/lessons/the-revenue-schedule-and-cogs-fmi/
 author: 
 ---
 
-# The Revenue Schedule and COGS | Plum Solutions
+# [[The Revenue Schedule and COGS]] | Plum Solutions
 
 > ## Excerpt
 > If you have any questions or problems throughout the course, you can get help in the following ways:
 
 ---
 
-The Revenue Schedule and COGS
+[[The Revenue Schedule and COGS]]
 If you have any questions or problems throughout the course, you can get help in the following ways:
 
 -   Email us directly at info@plumsolutions.com.au

@@ -6,14 +6,14 @@ source: https://plumsolutions.com.au/lessons/income-tax-expense-and-working-capi
 author: 
 ---
 
-# Income Tax and Working Capital | Plum Solutions
+# [[Income Tax and Working Capital]] | Plum Solutions
 
 > ## Excerpt
 > If you have any questions or problems throughout the course, you can get help in the following ways:
 
 ---
 
-Income Tax and Working Capital
+[[Income Tax and Working Capital]]
 If you have any questions or problems throughout the course, you can get help in the following ways:
 
 -   Email us directly at info@plumsolutions.com.au

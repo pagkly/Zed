@@ -14,7 +14,7 @@ author:
 ---
 
 Building the Equity Schedule | Plum Solutions
-**Topic Progress:**[](https://plumsolutions.com.au/topic/equity-schedule-case-study/ "Equity Schedule Case Study")[](https://plumsolutions.com.au/topic/building-the-equity-schedule/ "Building the Equity Schedule")[](https://plumsolutions.com.au/topic/piecing-together-the-final-components-of-the-financial-statements/ "Piecing together the final components of the financial statements")[](https://plumsolutions.com.au/topic/what-to-do-when-the-balance-sheet-doesnt-balance/ "What to do when the balance sheet doesn't balance")[](https://plumsolutions.com.au/topic/error-checks/ "Error Checks")
+**Topic Progress:**[](https://plumsolutions.com.au/topic/equity-schedule-case-study/ "Equity Schedule Case Study")[](https://plumsolutions.com.au/topic/building-the-equity-schedule/ "Building the Equity Schedule")[](https://plumsolutions.com.au/topic/piecing-together-the-final-components-of-the-financial-statements/ "[[Piecing together the final components of the financial statements]]")[](https://plumsolutions.com.au/topic/what-to-do-when-the-balance-sheet-doesnt-balance/ "[[What to do when the balance sheet doesn't balance]]")[](https://plumsolutions.com.au/topic/error-checks/ "Error Checks")
 
 <iframe src="https://player.vimeo.com/video/440208995" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
 

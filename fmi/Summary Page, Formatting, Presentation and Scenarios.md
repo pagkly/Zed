@@ -6,14 +6,14 @@ source: https://plumsolutions.com.au/lessons/summary-page-formatting-presentatio
 author: 
 ---
 
-# Summary Page, Formatting, Presentation and Scenarios | Plum Solutions
+# [[Summary Page, Formatting, Presentation and Scenarios]] | Plum Solutions
 
 > ## Excerpt
 > If you have any questions or problems throughout the course, you can get help in the following ways:
 
 ---
 
-Summary Page, Formatting, Presentation and Scenarios
+[[Summary Page, Formatting, Presentation and Scenarios]]
 If you have any questions or problems throughout the course, you can get help in the following ways:
 
 -   Email us directly at info@plumsolutions.com.au

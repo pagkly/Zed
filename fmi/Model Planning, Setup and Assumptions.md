@@ -6,14 +6,14 @@ source: https://plumsolutions.com.au/lessons/model-planning-setup-and-assumption
 author: 
 ---
 
-# Model Planning, Setup and Assumptions | Plum Solutions
+# [[Model Planning, Setup and Assumptions]] | Plum Solutions
 
 > ## Excerpt
 > If you have any questions or problems throughout the course, you can get help in the following ways:
 
 ---
 
-Model Planning, Setup and Assumptions
+[[Model Planning, Setup and Assumptions]]
 If you have any questions or problems throughout the course, you can get help in the following ways:
 
 -   Email us directly at info@plumsolutions.com.au

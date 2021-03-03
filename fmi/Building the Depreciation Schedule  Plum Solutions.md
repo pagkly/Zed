@@ -26,7 +26,7 @@ _This module forms part of the_ _[](https://www.plumsolutions.com.au/online-cour
 
 There is a lot of accounting theory in this module, much of it you may know already, but if you don’t, it’s important to understand exactly how the purchase of capital items affect the financial statements.
 
-There are two extra practical warmup exercises in this module in addition to building the schedule for the exam. The  “Modelling for End of Useful Life” one is more complex than is required in the exam, but it’s good practice with building the formulas. The other one “Modelling for a Capital Purchase”, in my opinion, is more difficult, because we need to consider how the purchase of a capital item affects the different financial statements, and you do need to know how to do this when building the model for the exam.
+There are two extra practical warmup exercises in this module in addition to building the schedule for the exam. The  “Modelling for End of Useful Life” one is more complex than is required in the exam, but it’s good practice with building the formulas. The other one “[[Modelling for a Capital Purchase]]”, in my opinion, is more difficult, because we need to consider how the purchase of a capital item affects the different financial statements, and you do need to know how to do this when building the model for the exam.
 
 In the last video we will continue working through the sample exam case study “Henderson Manufacturing”. As with most of the practical exercises in this course, we recommend that you read through the exam instructions and have a go at completing the blank model on your own before watching the video and looking at the completed version.
 

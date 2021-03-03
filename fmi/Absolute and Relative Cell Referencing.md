@@ -6,19 +6,19 @@ source: https://plumsolutions.com.au/topic/absolute-and-relative-cell-referencin
 author: 
 ---
 
-# Absolute and Relative Cell Referencing | Plum Solutions
+# [[Absolute and Relative Cell Referencing]] | Plum Solutions
 
 > ## Excerpt
 > Topic Progress:
 
 ---
 
-Absolute and Relative Cell Referencing
-**Topic Progress:**[](https://plumsolutions.com.au/topic/whats-new-in-excel-2016-4/ "What's New in Excel 2016")[](https://plumsolutions.com.au/topic/linking-for-best-practice-2/ "Linking for Best Practice")[](https://plumsolutions.com.au/topic/absolute-and-relative-cell-referencing-2/ "Absolute and Relative Cell Referencing")[](https://plumsolutions.com.au/topic/calculating-project-costs-2/ "Calculating Project Costs")[](https://plumsolutions.com.au/topic/logical-nested-functions-part-1-2/ "Logical Nested Functions Part 1")[](https://plumsolutions.com.au/topic/logical-nested-functions-part-2-2/ "Logical Nested Functions Part 2")[](https://plumsolutions.com.au/topic/mixed-referencing-and-named-ranges-2/ "Mixed Referencing and Named Ranges")
+[[Absolute and Relative Cell Referencing]]
+**Topic Progress:**[](https://plumsolutions.com.au/topic/whats-new-in-excel-2016-4/ "[[What's New in Excel 2016]]")[](https://plumsolutions.com.au/topic/linking-for-best-practice-2/ "Linking for Best Practice")[](https://plumsolutions.com.au/topic/absolute-and-relative-cell-referencing-2/ "[[Absolute and Relative Cell Referencing]]")[](https://plumsolutions.com.au/topic/calculating-project-costs-2/ "Calculating Project Costs")[](https://plumsolutions.com.au/topic/logical-nested-functions-part-1-2/ "[[Logical Nested Functions Part 1]]")[](https://plumsolutions.com.au/topic/logical-nested-functions-part-2-2/ "[[Logical Nested Functions Part 2]]")[](https://plumsolutions.com.au/topic/mixed-referencing-and-named-ranges-2/ "[[Mixed Referencing and Named Ranges]]")
 
 <iframe src="https://player.vimeo.com/video/133640101" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
 
-In this video, we are given an introduction to absolute and relative cell referencing; (i.e. =$A$1 vs =A1), a basic yet critical skill for financial modelling best practice.
+In this video, we are given an introduction to [[Absolute and Relative Cell Referencing|absolute and relative cell referencing]]; (i.e. =$A$1 vs =A1), a basic yet critical skill for financial modelling best practice.
 
 _Video length: 3 min 40 sec_
 

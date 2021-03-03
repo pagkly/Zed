@@ -6,15 +6,15 @@ source: https://plumsolutions.com.au/topic/setting-up-the-revenue-schedule/
 author: 
 ---
 
-# Setting up the Revenue Schedule | Plum Solutions
+# [[Setting up the Revenue Schedule]] | Plum Solutions
 
 > ## Excerpt
 > Topic Progress:
 
 ---
 
-Setting up the Revenue Schedule
-**Topic Progress:**[](https://plumsolutions.com.au/topic/setting-up-the-revenue-schedule/ "Setting up the Revenue Schedule")[](https://plumsolutions.com.au/topic/completing-the-revenue-schedule/ "Completing the Revenue Schedule")[](https://plumsolutions.com.au/topic/cost-of-goods-sold-cogs/ "Cost of Goods Sold (COGS)")
+[[Setting up the Revenue Schedule]]
+**Topic Progress:**[](https://plumsolutions.com.au/topic/setting-up-the-revenue-schedule/ "[[Setting up the Revenue Schedule]]")[](https://plumsolutions.com.au/topic/completing-the-revenue-schedule/ "Completing the Revenue Schedule")[](https://plumsolutions.com.au/topic/cost-of-goods-sold-cogs/ "[[Cost of Goods Sold (COGS)]]")
 
 <iframe src="https://player.vimeo.com/video/424462883" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
 

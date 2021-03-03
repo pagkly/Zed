@@ -14,7 +14,7 @@ author:
 ---
 
 Adding the Revolver | Plum Solutions
-**Topic Progress:**[](https://plumsolutions.com.au/topic/debt-definitions/ "Debt Definitions")[](https://plumsolutions.com.au/topic/dealing-with-circularity-in-debt-calculations/ "Dealing with Circularity in Debt Calculations")[](https://plumsolutions.com.au/topic/modelling-a-revolver-line-of-credit/ "Modelling a Revolver Line of Credit")[](https://plumsolutions.com.au/topic/components-of-the-debt-schedule/ "Components of the Debt Schedule")[](https://plumsolutions.com.au/topic/adding-the-revolver/ "Adding the Revolver")[](https://plumsolutions.com.au/topic/completing-the-debt-schedule/ "Completing the Debt Schedule")
+**Topic Progress:**[](https://plumsolutions.com.au/topic/debt-definitions/ "Debt Definitions")[](https://plumsolutions.com.au/topic/dealing-with-circularity-in-debt-calculations/ "[[Dealing with Circularity in Debt Calculations]]")[](https://plumsolutions.com.au/topic/modelling-a-revolver-line-of-credit/ "[[Modelling a Revolver Line of Credit]]")[](https://plumsolutions.com.au/topic/components-of-the-debt-schedule/ "[[Components of the Debt Schedule]]")[](https://plumsolutions.com.au/topic/adding-the-revolver/ "Adding the Revolver")[](https://plumsolutions.com.au/topic/completing-the-debt-schedule/ "Completing the Debt Schedule")
 
 <iframe src="https://player.vimeo.com/video/436630648" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
 

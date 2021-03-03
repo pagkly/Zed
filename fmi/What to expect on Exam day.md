@@ -6,15 +6,15 @@ source: https://plumsolutions.com.au/topic/what-to-expect-on-exam-day/
 author: 
 ---
 
-# What to expect on Exam day | Plum Solutions
+# [[What to expect on Exam day]] | Plum Solutions
 
 > ## Excerpt
 > Topic Progress:
 
 ---
 
-What to expect on Exam day
-**Topic Progress:**[](https://plumsolutions.com.au/topic/learning-materials/ "Learning Materials")[](https://plumsolutions.com.au/topic/what-to-expect-on-exam-day/ "What to expect on Exam day")[](https://plumsolutions.com.au/topic/the-grading-process/ "The Grading Process")
+[[What to expect on Exam day]]
+**Topic Progress:**[](https://plumsolutions.com.au/topic/learning-materials/ "Learning Materials")[](https://plumsolutions.com.au/topic/what-to-expect-on-exam-day/ "[[What to expect on Exam day]]")[](https://plumsolutions.com.au/topic/the-grading-process/ "The Grading Process")
 
 <iframe src="https://player.vimeo.com/video/410962503" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
 

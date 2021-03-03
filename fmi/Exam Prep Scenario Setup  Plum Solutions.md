@@ -14,7 +14,7 @@ author:
 ---
 
 Exam Prep Scenario Setup | Plum Solutions
-**Topic Progress:**[](https://plumsolutions.com.au/topic/scenarios-sensitivities-and-what-if-analysis/ "Scenarios, Sensitivities and What-if Analysis")[](https://plumsolutions.com.au/topic/exam-prep-scenario-setup/ "Exam Prep Scenario Setup")
+**Topic Progress:**[](https://plumsolutions.com.au/topic/scenarios-sensitivities-and-what-if-analysis/ "[[Scenarios, Sensitivities and What-if Analysis]]")[](https://plumsolutions.com.au/topic/exam-prep-scenario-setup/ "Exam Prep Scenario Setup")
 
 <iframe src="https://player.vimeo.com/video/441527404" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
 

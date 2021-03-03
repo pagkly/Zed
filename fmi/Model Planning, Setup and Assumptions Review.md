@@ -1,19 +1,19 @@
 ---
 alias: [Model Planning, Setup and Assumptions Review]
 created: 2021-03-03T08:06:30 (UTC -05:00)
-tags: [Model Planning, Setup and Assumptions Review | Plum Solutions, Model Planning, Setup and Assumptions Review]
+tags: [Model Planning, Setup and Assumptions Review | Plum Solutions, [[Model Planning, Setup and Assumptions]] Review]
 source: https://plumsolutions.com.au/quizzes/model-planning-setup-and-assumptions-review/
 author: 
 ---
 
-# Model Planning, Setup and Assumptions Review | Plum Solutions
+# [[Model Planning, Setup and Assumptions Review]] | Plum Solutions
 
 > ## Excerpt
 > My Tweets
 
 ---
 
-Model Planning, Setup and Assumptions Review
+[[Model Planning, Setup and Assumptions Review]]
 #### Quick Links
 
 -   [Online Training](https://plumsolutions.com.au/elearning/)

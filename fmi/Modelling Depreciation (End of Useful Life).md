@@ -6,15 +6,15 @@ source: https://plumsolutions.com.au/topic/modelling-depreciation-end-of-useful-
 author: 
 ---
 
-# Modelling Depreciation (End of Useful Life) | Plum Solutions
+# [[Modelling Depreciation (End of Useful Life)]] | Plum Solutions
 
 > ## Excerpt
 > Topic Progress:
 
 ---
 
-Modelling Depreciation (End of Useful Life)
-**Topic Progress:**[](https://plumsolutions.com.au/topic/depreciation-in-financial-modelling/ "Depreciation in Financial Modelling")[](https://plumsolutions.com.au/topic/modelling-for-a-capital-purchase/ "Modelling for a Capital Purchase")[](https://plumsolutions.com.au/topic/modelling-depreciation-end-of-useful-life/ "Modelling Depreciation (End of Useful Life)")[](https://plumsolutions.com.au/topic/depreciation-schedule-waterfall/ "Depreciation Schedule Waterfall")
+[[Modelling Depreciation (End of Useful Life)]]
+**Topic Progress:**[](https://plumsolutions.com.au/topic/depreciation-in-financial-modelling/ "Depreciation in Financial Modelling")[](https://plumsolutions.com.au/topic/modelling-for-a-capital-purchase/ "[[Modelling for a Capital Purchase]]")[](https://plumsolutions.com.au/topic/modelling-depreciation-end-of-useful-life/ "[[Modelling Depreciation (End of Useful Life)]]")[](https://plumsolutions.com.au/topic/depreciation-schedule-waterfall/ "Depreciation Schedule Waterfall")
 
 <iframe src="https://player.vimeo.com/video/428063034" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
 

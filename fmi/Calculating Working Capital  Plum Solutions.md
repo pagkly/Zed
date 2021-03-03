@@ -14,7 +14,7 @@ author:
 ---
 
 Calculating Working Capital | Plum Solutions
-**Topic Progress:**[](https://plumsolutions.com.au/topic/building-the-tax-schedule/ "Building the Tax Schedule")[](https://plumsolutions.com.au/topic/setting-up-working-capital-assumptions/ "Setting up Working Capital Assumptions")[](https://plumsolutions.com.au/topic/calculating-working-capital/ "Calculating Working Capital")
+**Topic Progress:**[](https://plumsolutions.com.au/topic/building-the-tax-schedule/ "Building the Tax Schedule")[](https://plumsolutions.com.au/topic/setting-up-working-capital-assumptions/ "[[Setting up Working Capital Assumptions]]")[](https://plumsolutions.com.au/topic/calculating-working-capital/ "Calculating Working Capital")
 
 <iframe src="https://player.vimeo.com/video/431133892" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" name="fitvid0"></iframe>
 

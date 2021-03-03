@@ -14,7 +14,7 @@ author:
 ---
 
 Learning Materials | Plum Solutions
-**Topic Progress:**[](https://plumsolutions.com.au/topic/learning-materials/ "Learning Materials")[](https://plumsolutions.com.au/topic/what-to-expect-on-exam-day/ "What to expect on Exam day")[](https://plumsolutions.com.au/topic/the-grading-process/ "The Grading Process")
+**Topic Progress:**[](https://plumsolutions.com.au/topic/learning-materials/ "Learning Materials")[](https://plumsolutions.com.au/topic/what-to-expect-on-exam-day/ "[[What to expect on Exam day]]")[](https://plumsolutions.com.au/topic/the-grading-process/ "The Grading Process")
 
 <iframe src="https://www.youtube.com/embed/ArmYstESS2M?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-AU&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" name="fitvid0"></iframe>
 
