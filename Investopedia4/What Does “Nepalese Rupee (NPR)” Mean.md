@@ -1,7 +1,7 @@
 ---
 alias: [Nepalese Rupee (NPR) Defined]
 created: 2021-03-02T21:36:55 (UTC +11:00)
-tags: [Nepalese Rupee (NPR) Defined, What Does “Nepalese Rupee (NPR)” Mean?]
+tags: [Nepalese Rupee (NPR) Defined, [[What Does “Nepalese Rupee (NPR)” Mean]]?]
 source: https://www.investopedia.com/terms/n/npr.asp
 author: Jason Fernando
 ---
@@ -9,20 +9,20 @@ author: Jason Fernando
 # Nepalese Rupee (NPR) Defined
 
 > ## Excerpt
-> The Nepalese rupee (NPR) is the national currency of Nepal. It is commonly referred to using the symbols Rs and Rp.
+> The Nepalese rupee (NPR) is the [[National Currency|national currency]] of Nepal. It is commonly referred to using the symbols Rs and Rp.
 
 ---
 
-What Does “Nepalese Rupee (NPR)” Mean?
+[[What Does “Nepalese Rupee (NPR)” Mean]]?
 ## What Is the Nepalese Rupee (NPR)?
 
-The Nepalese rupee (NPR) is the national currency of Nepal. It is administered by the central bank of Nepal, the "Nepal Rastra Bank."
+The Nepalese rupee (NPR) is the [[National Currency|national currency]] of Nepal. It is administered by the central bank of Nepal, the "Nepal Rastra Bank."
 
 The most common symbol used when referencing the NPR is Rs, although Rp is also sometimes used.
 
 ### Key Takeaways
 
--   The NPR is the national currency of Nepal.
+-   The NPR is the [[National Currency|national currency]] of Nepal.
 -   Its exchange rate is pegged to the [[Indian Rupee (INR)]](https://www.investopedia.com/terms/i/inr.asp).
 -   Nepal has experienced increased economic growth in recent years, along with declining rates of inflation.
 
@@ -32,9 +32,9 @@ The NPR was introduced in 1932, replacing the previous currency, the Nepalese mo
 
 The NPR is divided into units known as "paisa," and is circulated in both coin and [[banknote]](https://www.investopedia.com/terms/b/banknote.asp) forms. One rupee is comprised of 100 paisa. Today, the NPR's coins are denominated in units of 1, 2, 5, 10, 25, and 50 paisa. The banknotes are denominated in units of 5, 10, 20, 50, 100, 500, and 1,000 paisa. The most recent series of banknotes, released in 2012, feature images of Mount Everest along with other local symbols of natural and cultural significance.
 
-Transacting in the NPR can be difficult for foreigners, because there are three primary exchange rates operating in Nepal: an official central bank rate, a legal private bank rate, and an illegal [[black market]](https://www.investopedia.com/terms/b/blackmarket.asp) rate. Of these, the most favorable exchange rates are generally found in the black market. For this reason, much local commerce takes place at the black-market exchange rates.
+Transacting in the NPR can be difficult for foreigners, because there are three primary exchange rates operating in Nepal: an official central bank rate, a legal private bank rate, and an illegal [[black market]](https://www.investopedia.com/terms/b/blackmarket.asp) rate. Of these, the most favorable exchange rates are generally found in the black market. For this reason, much local [[Commerce|commerce]] takes place at the black-market exchange rates.
 
-Most tourists, however, will use the private banks and will therefore obtain a less favorable rate. The same is true for formal exchange-rate businesses and the foreign-exchange services offered at the Kathmandu airport. These authorized agents will transact at the private banking rates.
+Most tourists, however, [[Will|will]] use the private banks and will therefore obtain a less favorable rate. The same is true for formal exchange-rate businesses and the foreign-exchange services offered at the Kathmandu airport. These authorized agents will transact at the private banking rates.
 
 Because of the legal ambiguities involved, travelers are advised to obtain and keep receipts for all their currency exchange transactions, in order to be able to prove that only legal agents were used. Similarly, travelers should ensure they have adequate small-denomination bills and coins available, as small vendors may be reluctant to provide change.
 

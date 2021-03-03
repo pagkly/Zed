@@ -1,7 +1,7 @@
 ---
 alias: [Graduate Record Examination, GRE]
 created: 2021-03-02T20:25:18 (UTC +11:00)
-tags: [Graduate Record Examination (GRE) Definition, What Does the Graduate Record Examination (GRE) Measure?]
+tags: [Graduate Record Examination (GRE) Definition, [[What Does the Graduate Record Examination (GRE) Measure]]?]
 source: https://www.investopedia.com/terms/g/gre.asp
 author: Julia Kagan
 ---
@@ -13,7 +13,7 @@ author: Julia Kagan
 
 ---
 
-What Does the Graduate Record Examination (GRE) Measure?
+[[What Does the Graduate Record Examination (GRE) Measure]]?
 ## What Is the Graduate Record Examination (GRE)?
 
 The graduate record examination (GRE) is a standardized exam used to measure one's aptitude for abstract thinking in the areas of analytical writing, mathematics, and vocabulary. The GRE is commonly used by many graduate schools in the U.S. and Canada to determine an applicant's eligibility for the program.
@@ -64,7 +64,7 @@ Note that GRE Subject Test areas of focus are not always static; tests have been
 
 ### Business School Admissions
 
-Although most business schools prefer that applicants attempt the [[GMAT]](https://www.investopedia.com/terms/g/graduate-management-admission-test-mba.asp) before applying for an [[MBA]](https://www.investopedia.com/terms/m/mba.asp) program, many business schools will also accept GRE scores as an equivalent. The exam consists of several sections including those related to writing, verbal, quantitative, and experimental.
+Although most business schools prefer that applicants attempt the [[GMAT]](https://www.investopedia.com/terms/g/graduate-management-admission-test-mba.asp) before applying for an [[MBA]](https://www.investopedia.com/terms/m/mba.asp) program, many business schools [[Will|will]] also accept GRE scores as an equivalent. The exam consists of several sections including those related to writing, verbal, quantitative, and experimental.
 
 The GRE does measure a test taker's skills in vocabulary, as opposed to the GMAT, which focuses more on mathematical ability. Many business schools, including the top business schools in the US, accept the GRE as an entrance exam for their MBA programs.
 
@@ -172,6 +172,6 @@ The cost of the exam in the U.S. is $205. It’s higher in certain countries, su
 
 ## Signing Up and Preparing for the GRE
 
-Sign up to take the GRE is done on the [[ETS website]](https://www.ets.org/gre/revised_general/about/fees). Taking the computer test requires a free ETS account, then the test taker can sign up for a test date and center—although they must register at least two calendar days prior to the planned test date. Payment for the test can be made via credit or debit card, [[e-check]](https://www.investopedia.com/terms/e/electroniccheck.asp), paper check, or [[PayPal]](https://www.investopedia.com/terms/p/paypal.asp).
+Sign up to take the GRE is done on the [[ETS website]](https://www.ets.org/gre/revised_general/about/fees). Taking the computer test requires a free ETS account, then the test taker can sign up for a test date and center—although they must register at least two calendar days prior to the planned test date. Payment for the test can be made via credit or debit card, [[e-check]](https://www.investopedia.com/terms/e/electroniccheck.asp), paper check, or [[PayPal]](https://www.investopedia.com/terms/p/[[PayPal|paypal]].asp).
 
 In terms of preparing for the GRE, the ETS site offers a range of resources—most of them free. ETS offers free practice tests, math skills review with definitions and examples, and instructional videos. ETS also offers paid materials, which includes a number of additional practice tests. As well, there are section-specific questions, such as verbal reasoning, that can be purchased. There are also online writing practice features available through the service, which allows you to write two essays and get scores and feedback.

@@ -1,7 +1,7 @@
 ---
 alias: [Depth of Market, DOM]
 created: 2021-03-02T19:18:11 (UTC +11:00)
-tags: [Depth of Market (DOM) Definition, What Does Depth of Market (DOM) Indicate?]
+tags: [Depth of Market (DOM) Definition, [[What Does Depth of Market (DOM) Indicate]]?]
 source: https://www.investopedia.com/terms/d/depth-of-market.asp
 author: Alexandra Twin
 ---
@@ -9,49 +9,49 @@ author: Alexandra Twin
 # Depth of Market (DOM) Definition
 
 > ## Excerpt
-> Depth of market (DOM) is a measure of the number of open buy and sell orders for a security or currency at various prices.
+> Depth of market (DOM) is a measure of the number of open buy and sell orders for a [[Security|security]] or currency at various prices.
 
 ---
 
-What Does Depth of Market (DOM) Indicate?
+[[What Does Depth of Market (DOM) Indicate]]?
 ## What Is Depth of Market (DOM)?
 
-Depth of market (DOM) is a measure of the supply and demand for [[liquid]](https://www.investopedia.com/terms/l/liquidity.asp), tradeable assets. It is based on the number of open buy and sell orders for a given asset such as a stock or [[futures contract]](https://www.investopedia.com/terms/f/futurescontract.asp). The greater the quantity of those orders, the deeper or more liquid, the market is considered to be.
+Depth of market (DOM) is a measure of the [[Supply|supply]] and demand for [[liquid]](https://www.investopedia.com/terms/l/[[Liquidity|liquidity]].asp), tradeable assets. It is based on the number of open buy and sell orders for a given asset such as a [[Stock|stock]] or [[futures contract]](https://www.investopedia.com/terms/f/futurescontract.asp). The greater the quantity of those orders, the deeper or more liquid, the market is considered to be.
 
-Depth of market data is also known as the [[order book]](https://www.investopedia.com/terms/o/order-book.asp) since it consists of a list of pending orders for a security or currency. The data in the book is used to determine which transactions can be processed. DOM data is available from most online brokers for free or for a small fee.
+Depth of market data is also known as the [[order book]](https://www.investopedia.com/terms/o/order-book.asp) since it consists of a list of pending orders for a [[Security|security]] or currency. The data in the book is used to determine which transactions can be processed. DOM data is available from most online brokers for free or for a small fee.
 
 ## Understanding DOM
 
-By measuring real-time supply and demand, market depth is used by traders to assess the likely direction of an asset's price. It is also used to gauge the number of shares of the asset that can be bought without causing its price to appreciate.
+By measuring real-time [[Supply|supply]] and demand, market depth is used by traders to assess the likely direction of an asset's price. It is also used to gauge the number of [[Shares|shares]] of the asset that can be bought without causing its price to appreciate.
 
-If a stock is extremely liquid, it has a large number of both buyers and sellers. A buyer can purchase a large block of shares without causing a substantial stock price movement.
+If a [[Stock|stock]] is extremely liquid, it has a large number of both buyers and sellers. A buyer can purchase a large block of [[Shares|shares]] without causing a substantial stock price movement.
 
-However, if a stock is not particularly liquid, it doesn't trade as constantly. Purchasing a block of shares may have a noticeable impact on the stock's price.
+However, if a [[Stock|stock]] is not particularly liquid, it doesn't trade as constantly. Purchasing a block of [[Shares|shares]] may have a noticeable impact on the stock's price.
 
-Depth of market is typically displayed as an electronic list of outstanding buy and sell orders, organized by price level and updated in real-time to reflect current activity. A matching engine pairs up compatible trades for completion.
+Depth of market is typically displayed as an electronic list of outstanding buy and sell orders, organized by [[Price Level|price level]] and updated in real-time to reflect current activity. A matching engine pairs up compatible trades for completion.
 
-Most online brokers offer some form of DOM display. This allows users to see a full list of buy and sell orders pending execution, along with the size of the trade, rather than just the best options available.
+Most online brokers [[Offer|offer]] some form of DOM display. This allows users to see a full list of buy and sell orders pending execution, along with the size of the trade, rather than just the best options available.
 
 ### Key Takeaways
 
--   Depth of market (DOM) is an indicator of the current interest in a stock or other asset.
--   It can be read as a signal of the likely direction of a stock's price.
+-   Depth of market (DOM) is an indicator of the current interest in a [[Stock|stock]] or other asset.
+-   It can be read as a signal of the likely direction of a [[Stock|stock]]'s price.
 -   It is used to judge the optimal time to buy or sell an asset.
 
 ### How to Use DOM Data
 
-Depth of market data helps traders see where the price of a security may be heading in the near future as orders are filled, updated, or canceled. A trader might use market depth data to understand the [[bid-ask spread]](https://www.investopedia.com/terms/b/bid-askspread.asp) for a stock, along with its current [[volume]](https://www.investopedia.com/terms/v/volume.asp).
+Depth of market data helps traders see where the price of a [[Security|security]] may be heading in the near future as orders are filled, updated, or canceled. A trader might use market depth data to understand the [[bid-ask spread]](https://www.investopedia.com/terms/b/bid-askspread.asp) for a [[Stock|stock]], along with its current [[volume]](https://www.investopedia.com/terms/v/volume.asp).
 
-Stocks with a strong depth of market tend to be popular large-cap companies like Apple ([AAPL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl)). They usually have strong volumes and are quite liquid, allowing traders to place large orders without significantly affecting their market prices.
+[[Stocks]] with a strong depth of market tend to be popular large-cap companies like Apple ([AAPL](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=aapl)). They usually have strong volumes and are quite liquid, allowing traders to place large orders without significantly affecting their market prices.
 
-Securities with poor depth of market tend to be more obscure companies with smaller market capitalizations. The prices of their stocks are likely to move if a single trader places a large buy or sell order.
+Securities with poor depth of market tend to be more obscure companies with smaller market capitalizations. The prices of their [[Stocks|stocks]] are likely to move if a single trader places a large buy or sell order.
 
-The most popular stocks tend to have a greater depth of market than the stocks of lesser-known companies.
+The most popular [[Stocks|stocks]] tend to have a greater depth of market than the stocks of lesser-known companies.
 
-Being able to view the depth of market information for a particular security in real-time allows traders to profit from short-term price volatility. For example, when a company launches its initial public offering (IPO), traders can watch its DOM in real-time, waiting for the opportunity to buy or sell shares when the price reaches the right level of demand.
+Being able to view the depth of market information for a particular [[Security|security]] in real-time allows traders to profit from short-term price [[Volatility|volatility]]. For example, when a company launches its initial public [[Offering|offering]] (IPO), traders can watch its DOM in real-time, waiting for the opportunity to buy or sell [[Shares|shares]] when the price reaches the right level of demand.
 
 ## Example of DOM
 
-Say a trader is tracking the DOM of Stock A. The shares might currently be trading at $1.00. But there are 250 offers at $1.05, 250 at $1.08, 125 at $1.10, and 100 at $1.12. Meanwhile, there are 50 offers at $0.98, 40 offers at $0.95, and 10 each at $0.93 and $0.92.
+Say a trader is tracking the DOM of [[Stock]] A. The [[Shares|shares]] might currently be trading at $1.00. But there are 250 offers at $1.05, 250 at $1.08, 125 at $1.10, and 100 at $1.12. Meanwhile, there are 50 offers at $0.98, 40 offers at $0.95, and 10 each at $0.93 and $0.92.
 
-Seeing this trend, the trader might determine that Stock A is going higher. Armed with that knowledge, the trader can decide whether this is the right time to jump in and buy or sell the stock.
+Seeing this trend, the trader might determine that [[Stock]] A is going higher. Armed with that knowledge, the trader can decide whether this is the right time to jump in and buy or sell the stock.

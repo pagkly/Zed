@@ -1,7 +1,7 @@
 ---
 alias: [Withholding]
 created: 2021-03-03T01:01:20 (UTC +11:00)
-tags: [Withholding Definition, What Does Withholding Mean?]
+tags: [Withholding Definition, [[What Does Withholding Mean]]?]
 source: https://www.investopedia.com/terms/w/withholding.asp
 author: Julia Kagan
 ---
@@ -13,7 +13,7 @@ author: Julia Kagan
 
 ---
 
-What Does Withholding Mean?
+[[What Does Withholding Mean]]?
 ## What Is Withholding?
 
 Withholding is the portion of an employee's wages that is not included in his or her paycheck but is instead remitted directly to the federal, state, or local tax authorities. Withholding reduces the amount of tax employees must pay when they submit their annual [[tax returns]](https://www.investopedia.com/terms/t/taxreturn.asp). The employee's income, marital status, number of [[dependents]](https://www.investopedia.com/terms/d/dependent.asp), and number of jobs all determine the amount withheld.1
@@ -42,7 +42,7 @@ Form W-4 provides the employee with information on how much the employer withhel
 
 ### Other Concerns
 
-If the tax withheld is inaccurate, the taxpayer may find himself paying more in income taxes or less than mandated. If at the end of the tax year, it is found that the employee paid more, the IRS will refund the excess to the employee as a [[tax refund]](https://www.investopedia.com/terms/t/tax-refund.asp). Workers who end up not paying enough tax on income earned may be subject to penalties and interest.5
+If the tax withheld is inaccurate, the [[Taxpayer|taxpayer]] may find himself paying more in income taxes or less than mandated. If at the end of the tax year, it is found that the employee paid more, the IRS [[Will|will]] refund the excess to the employee as a [[tax refund]](https://www.investopedia.com/terms/t/tax-refund.asp). Workers who end up not paying enough tax on income earned may be subject to penalties and interest.5
 
 Self-employed workers aren't subject to withholding but must make quarterly estimated tax payments instead. Taxpayers may also have to make estimated tax payments if they receive income in the form of dividends, [[capital gains]](https://www.investopedia.com/terms/c/capitalgain.asp), interest, or [[royalties]](https://www.investopedia.com/terms/r/royalty.asp).6
 
@@ -52,6 +52,6 @@ The information provided on Form W-4 is important in determining how much to wit
 
 Withholding is also carried out in retirement accounts. An individual who contributes to a retirement account has the option of either contributing after-tax dollars or before-tax dollars to the account. If taxes were not paid on the money that was contributed to the account, the individual would have taxes withheld when he withdraws funds from the account.7
 
-For example, a [[Traditional IRA]](https://www.investopedia.com/terms/t/traditionalira.asp) account holder does not need to pay capital gains tax on any growth within the account. However, any amount withdrawn after retirement will have a portion withheld as income tax.8 Withdrawals made from a [401k plan](https://www.investopedia.com/terms/1/401kplan.asp) will have taxes withheld on the original contribution and the earnings portion.9
+For example, a [[Traditional IRA]](https://www.investopedia.com/terms/t/traditionalira.asp) account holder does not need to pay capital gains tax on any growth within the account. However, any amount withdrawn after retirement [[Will|will]] have a portion withheld as income tax.8 Withdrawals made from a [401k plan](https://www.investopedia.com/terms/1/401kplan.asp) will have taxes withheld on the original contribution and the earnings portion.9
 
-Taxpayers may also choose to have federal income tax withheld from their [[Social Security benefits]](https://www.investopedia.com/terms/s/social-security-benefits.asp). [[Form W-4V]](https://www.irs.gov/pub/irs-pdf/fw4v.pdf) must be filled out by the individual and submitted to the [[Social Security]](https://www.investopedia.com/retirement/social-security-changes/) Administrator (SSA) to authorize the withholding of a percentage of the benefits for income tax.10
+Taxpayers may also choose to have federal income tax withheld from their [[Social Security benefits]](https://www.investopedia.com/terms/s/social-[[Security|security]]-benefits.asp). [[Form W-4V]](https://www.irs.gov/pub/irs-pdf/fw4v.pdf) must be filled out by the individual and submitted to the [[Social Security]](https://www.investopedia.com/retirement/social-security-changes/) Administrator (SSA) to authorize the withholding of a percentage of the benefits for income tax.10

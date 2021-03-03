@@ -1,7 +1,7 @@
 ---
 alias: [Certificate of Origin, CO]
 created: 2021-03-02T18:49:09 (UTC +11:00)
-tags: [Certificate of Origin (CO) Definition, What Is a Certificate of Origin (CO)?]
+tags: [Certificate of Origin (CO) Definition, [[What Is a Certificate of Origin (CO)]]?]
 source: https://www.investopedia.com/terms/c/certificate-of-origin.asp
 author: Adam Barone
 ---
@@ -13,8 +13,8 @@ author: Adam Barone
 
 ---
 
-What Is a Certificate of Origin (CO)?
-## What Is a Certificate of Origin (CO)?
+[[What Is a Certificate of Origin (CO)]]?
+## [[What Is a Certificate of Origin (CO)]]?
 
 A certificate of origin (CO) is a document declaring in which country a [[commodity]](https://www.investopedia.com/terms/c/commodity.asp) or good was manufactured. The certificate of origin contains information regarding the product, its destination, and the country of export. For example, a good may be marked "Made in the USA" or "Made in China".
 
@@ -24,27 +24,27 @@ Required by many treaty agreements for cross-border trade, the CO is an importan
 
 -   A certificate of origin (CO) records the country of origin that am imported good has come from.
 -   The CO is often mandated by importing countries and included in trade agreements, as it is used to levy the appropriate import tax, if any apply.
--   A CO can exist either in paper or digital format, and must be approved by the requisite chamber of commerce or customs authority.
+-   A CO can exist either in paper or digital format, and must be approved by the requisite chamber of [[Commerce|commerce]] or customs authority.
 
 ## Understanding Certificates of Origin
 
-Customs officials expect the CO to be a separate document from the commercial invoice or packing list. Customs in these countries also expect it to be signed by the exporter, the signature notarized, and the document subsequently signed and stamped by a [[chamber of commerce]](https://www.investopedia.com/terms/c/chamber-of-commerce.asp). In some cases, the destination customs authority may request proof of review from a specific chamber of commerce. Chambers of commerce usually only certify that which is verifiable. However, if the chamber is presented with a declaration attesting to commercial details, the accuracy of which it cannot check, it must confine itself to stamping the document attesting to the position and the identity of the signatory.
+Customs officials expect the CO to be a separate document from the commercial invoice or packing list. Customs in these countries also expect it to be signed by the exporter, the signature notarized, and the document subsequently signed and stamped by a [[chamber of commerce]](https://www.investopedia.com/terms/c/chamber-of-[[Commerce|commerce]].asp). In some cases, the destination customs authority may request proof of review from a specific chamber of commerce. Chambers of commerce usually only certify that which is verifiable. However, if the chamber is presented with a declaration attesting to commercial details, the accuracy of which it cannot check, it must confine itself to stamping the document attesting to the position and the identity of the signatory.
 
-The proof of review usually amounts to the chamber’s official embossing stamp and a signature of an authorized chamber representative. Some countries are accepting electronically issued certificates of origin that have been electronically signed by a chamber of commerce.
+The proof of review usually amounts to the chamber’s official embossing stamp and a signature of an authorized chamber representative. Some countries are accepting electronically issued certificates of origin that have been electronically signed by a chamber of [[Commerce|commerce]].
 
 A certificate of origin may also be required by the buyer in the documentary requirements stated within a letter of credit. The letter of credit may specify additional certifications or language within that must be noted in order for the certificate of origin to comply with the stated requirements
 
-With an electronic certificate of origin (eCO), you can submit the required documentation online and get an electronic certificate stamped by a chamber of commerce in less than a day or get an expedited paper certificate overnight.
+With an electronic certificate of origin (eCO), you can submit the required documentation online and get an electronic certificate stamped by a chamber of [[Commerce|commerce]] in less than a day or get an expedited paper certificate overnight.
 
 ## Two Types of CO
 
-There is no standardized certificate of origin (CO) form for global trade, but a CO, normally prepared by the exporter of goods, has at least the basic details about the product being shipped, a tariff code, the exporter and importer, and the country of origin. The exporter, with knowledge of the specific requirements of border control at the importing country, will document these details, get the CO notarized by a chamber of commerce, and submit the form with the shipment. Detail requirements depend on the type of goods being exported and where they are going.
+There is no standardized certificate of origin (CO) form for global trade, but a CO, normally prepared by the exporter of goods, has at least the basic details about the product being shipped, a [[Tariff|tariff]] code, the exporter and importer, and the country of origin. The exporter, with knowledge of the specific requirements of border control at the importing country, [[Will|will]] document these details, get the CO notarized by a chamber of [[Commerce|commerce]], and submit the form with the shipment. Detail requirements depend on the type of goods being exported and where they are going.
 
-The two types of COs are non-preferential and preferential. Non-preferential COs, also known as "ordinary COs," indicates that the goods do not qualify for reduced tariffs or tariff-free treatment under trade arrangements between countries, while preferential COs declare that they do. In the U.S. the Generalized System of Preferences (GSP), enacted by Congress in 1974 to promote economic development of poor nations, eliminates duties on thousands of products imported from over one hundred countries accorded preferential status. Countries like Bolivia, Cambodia, Haiti, Namibia, and Pakistan are presently on the list, as are numerous other third-world or developing countries. The European Union and countries around the world have their own versions of a GSP, mainly geared to fostering economic growth through trade with friendly nations.
+The two types of COs are non-preferential and preferential. Non-preferential COs, also known as "ordinary COs," indicates that the goods do not qualify for reduced tariffs or [[Tariff|tariff]]-free treatment under trade arrangements between countries, while preferential COs declare that they do. In the U.S. the Generalized System of Preferences (GSP), enacted by Congress in 1974 to promote economic development of poor nations, eliminates duties on thousands of products imported from over one hundred countries accorded preferential status. Countries like Bolivia, Cambodia, Haiti, Namibia, and Pakistan are presently on the list, as are numerous other third-world or developing countries. The European Union and countries around the world have their own versions of a GSP, mainly geared to fostering economic growth through trade with friendly nations.
 
 ## Certificates of Origin and Trade Agreements
 
-Free trade agreements made by the U.S. with other countries may necessitate a specific form be issued by the exporter as proof of origin so products can qualify for preferential duty rates. Samples of those forms can be found at the [U.S. Customs and Border Protection website](https://www.cbp.gov/trade/priority-issues/trade-agreements/free-trade-agreements), [export.gov](http://2016.export.gov/fta/), or the customs or chamber of commerce websites of the destination country.
+Free trade agreements made by the U.S. with other countries may necessitate a specific form be issued by the exporter as proof of origin so products can qualify for preferential duty rates. Samples of those forms can be found at the [U.S. Customs and Border Protection website](https://www.cbp.gov/trade/priority-issues/trade-agreements/free-trade-agreements), [export.gov](http://2016.export.gov/fta/), or the customs or chamber of [[Commerce|commerce]] websites of the destination country.
 
 In addition, the shipping solutions website allows you to download sample certificates of origin for [Australia](https://www.shippingsolutions.com/us-australia-certificate-of-origin), [CAFTA-DR](https://www.shippingsolutions.com/us-cafta-dr-certificate-of-origin), [Chile](https://www.shippingsolutions.com/us-chile-certificate-of-origin), [Colombia](https://www.shippingsolutions.com/us-colombia-certificate-of-origin), [Korea](https://www.shippingsolutions.com/us-korea-certificate-of-origin), and [NAFTA](https://www.shippingsolutions.com/nafta-certificate-of-origin-english).
 
@@ -53,7 +53,7 @@ In addition, the shipping solutions website allows you to download sample certif
 1.  Complete and notarize an appropriate affidavit.
 2.  Provide either a manufacture invoice or commercial invoice that shows where your goods are manufactured.
 3.  Fill out the certificate of origin document.
-4.  Submit notarized affidavit, certificate of origin document, and corresponding invoices to your chamber of commerce.
+4.  Submit notarized affidavit, certificate of origin document, and corresponding invoices to your chamber of [[Commerce|commerce]].
 5.  Indicate which documents you would like to be stamped.
 
 There is usually a fee for stamping certificates of origin—however, if you’re a member, that fee may be reduced. This is an incentive for becoming a member.

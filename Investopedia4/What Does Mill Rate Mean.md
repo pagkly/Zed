@@ -1,7 +1,7 @@
 ---
 alias: [Mill Rate]
 created: 2021-03-02T22:05:23 (UTC +11:00)
-tags: [Mill Rate Definition, What Does Mill Rate Mean?]
+tags: [Mill Rate Definition, [[What Does Mill Rate Mean]]?]
 source: https://www.investopedia.com/terms/m/millrate.asp
 author: Julia Kagan
 ---
@@ -13,7 +13,7 @@ author: Julia Kagan
 
 ---
 
-What Does Mill Rate Mean?
+[[What Does Mill Rate Mean]]?
 ## What Is the Mill Rate?
 
 The mill rate is the amount of tax payable per dollar of the assessed value of a property. The mill rate is based on "mills." It is a figure that represents the amount per $1,000 of the [[assessed value]](https://www.investopedia.com/terms/a/assessedvalue.asp) of the property, which is used to calculate the amount of property tax.
@@ -44,14 +44,14 @@ For example, once a budget is passed by your local government, known [[revenues]
 
 **Property tax levied on property = (mill rate x taxable property value) ÷ 1,000**
 
-For example, if the mill rate is 7 and a taxpayer's personal residence has a taxable value of $150,000, then, using the calculation formula, the homeowner's property tax bill for his residence is $1,050. So that means that for every $1,000 of assessed value, $7 is owed in property taxes. 
+For example, if the mill rate is 7 and a [[Taxpayer|taxpayer]]'s personal residence has a taxable value of $150,000, then, using the calculation formula, the homeowner's property tax bill for his residence is $1,050. So that means that for every $1,000 of assessed value, $7 is owed in property taxes. 
 
 ## How Property Taxes Are Determined
 
 Property taxes are critical to funding the operations of municipal and other local government entities. Not all states levy income taxes, but all states do levy property taxes. Property owners are commonly assessed property taxes by more than one government entity, such as a municipality and a county.
 
-Government entities set mill rates based on the total value of property within the entity's jurisdiction, to provide the necessary tax revenue to cover projected expenses in their annual [[budgets]](https://www.investopedia.com/terms/b/budget.asp), including things such as [[infrastructure]](https://www.investopedia.com/terms/i/infrastructure.asp), police and emergency services, and public schools. For this reason, and also because of fluctuating real estate values, a tax assessor typically updates the taxable value of the property annually. Mill rates frequently vary for different types of property, such as residential, commercial, or industrial properties.
+Government entities set mill rates based on the total value of property within the entity's jurisdiction, to provide the necessary tax revenue to cover projected expenses in their annual [[budgets]](https://www.investopedia.com/terms/b/budget.asp), including things such as [[infrastructure]](https://www.investopedia.com/terms/i/infrastructure.asp), police and emergency services, and public schools. For this reason, and also because of fluctuating real [[Estate|estate]] values, a tax assessor typically updates the taxable value of the property annually. Mill rates frequently vary for different types of property, such as residential, commercial, or industrial properties.
 
-Property tax is an [[ad valorem tax]](https://www.investopedia.com/terms/a/advaloremtax.asp), which means it is based on value. The assessed tax value of the property is calculated using local real estate data and is usually a percentage of a property's [[fair market value]](https://www.investopedia.com/terms/f/fairmarketvalue.asp), determined by multiplying the property's market value or appraisal value by an assessment ratio established by the local taxing authority. However, it is possible for the assessed tax value to be either higher or lower than a property's actual market value. If a property owner believes that his property has been assessed at an unreasonably high value, he can request a [[reassessment]](https://www.investopedia.com/terms/r/reassessment.asp).
+Property tax is an [[ad valorem tax]](https://www.investopedia.com/terms/a/advaloremtax.asp), which means it is based on value. The assessed tax value of the property is calculated using local real [[Estate|estate]] data and is usually a percentage of a property's [[fair market value]](https://www.investopedia.com/terms/f/fairmarketvalue.asp), determined by multiplying the property's market value or appraisal value by an assessment ratio established by the local taxing authority. However, it is possible for the assessed tax value to be either higher or lower than a property's actual market value. If a property owner believes that his property has been assessed at an unreasonably high value, he can request a [[reassessment]](https://www.investopedia.com/terms/r/reassessment.asp).
 
 Some states have a [[homestead provision]](https://www.investopedia.com/terms/h/homestead-exemption.asp) that exempts a specified dollar amount of a property's market value from assessment for property taxes.2 For example, in a state with a $50,000 homestead provision, only $150,000 of a $200,000 home would be subject to property taxes.

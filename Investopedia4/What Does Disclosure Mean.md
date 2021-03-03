@@ -1,7 +1,7 @@
 ---
 alias: [Disclosure]
 created: 2021-03-02T19:20:35 (UTC +11:00)
-tags: [Disclosure Definition, What Does Disclosure Mean?]
+tags: [Disclosure Definition, [[What Does Disclosure Mean]]?]
 source: https://www.investopedia.com/terms/d/disclosure.asp
 author: Troy Segal
 ---
@@ -13,26 +13,26 @@ author: Troy Segal
 
 ---
 
-What Does Disclosure Mean?
+[[What Does Disclosure Mean]]?
 ## What Is Disclosure?
 
 In the financial world, disclosure refers to the timely release of all information about a company that may influence an investor's decision. It reveals both positive and negative news, data, and operational details that impact its business.
 
 Similar to disclosure in the law, the concept is that all parties should have equal access to the same set of facts in the interest of fairness.
 
-The Securities and Exchange Commission (SEC) develops and enforces disclosure requirements for all firms incorporated in the U.S. Companies that are listed on the major U.S. stock exchanges must follow the SEC's regulations.
+The [[Securities and Exchange Commission (SEC)]] develops and enforces disclosure requirements for all firms incorporated in the U.S. Companies that are [[Listed|listed]] on the major U.S. [[Stock|stock]] exchanges must follow the SEC's regulations.
 
 ### Key Takeaways
 
--   Federal regulations require the disclosure of all relevant financial information by publicly-listed companies.
+-   Federal regulations require the disclosure of all relevant financial information by publicly-[[Listed|listed]] companies.
 -   In addition to financial data, companies are required to reveal their analysis of their strengths, weaknesses, opportunities, and threats.
 -   Substantive changes to their financial outlooks must be released in a timely fashion.
 
 ## Understanding Disclosure
 
-Federal government-mandated disclosure came into being in the U.S. with the passage of the [[Securities Act of 1933]](https://www.investopedia.com/terms/s/securitiesact1933.asp) and the Securities Exchange Act of 1934. Both laws were responses to the stock market crash of 1929 and the Great Depression that followed.
+Federal government-mandated disclosure came into being in the U.S. with the passage of the [[Securities Act of 1933]](https://www.investopedia.com/terms/s/securitiesact1933.asp) and the [[Securities Exchange Act of 1934]]. Both laws were responses to the [[Stock|stock]] market crash of 1929 and the Great Depression that followed.
 
-The public and politicians alike blamed a lack of transparency in corporate operations for intensifying if not outright causing the financial crisis.
+The public and politicians alike blamed a lack of transparency in corporate operations for intensifying if not outright causing the [[Financial Crisis|financial crisis]].
 
 ### Sarbanes-Oxley
 
@@ -42,7 +42,7 @@ As mandated by the SEC, disclosures include those related to a company's finan
 
 ### Insider Information
 
-The SEC requires specific disclosures because the selective release of information places individual shareholders at a disadvantage. For example, [[insiders]](https://www.investopedia.com/terms/i/insider.asp) can use material nonpublic information for personal gain at the expense of the general investing public. Clearly outlined disclosure requirements ensure companies adequately disseminate information so that all investors are on an even playing field.
+The SEC requires specific disclosures because the selective release of information places individual shareholders at a disadvantage. For example, [[insiders]](https://www.investopedia.com/terms/i/insider.asp) can use material nonpublic information for personal [[Gain|gain]] at the expense of the general investing public. Clearly outlined disclosure requirements ensure companies adequately disseminate information so that all investors are on an even playing field.
 
 Companies are not the only entities subject to strict disclosure regulations. Brokerage firms, investment managers, and analysts must also disclose any information that might influence and affect investors. To limit [[conflict-of-interest]](https://www.investopedia.com/terms/c/conflict-of-interest.asp) issues, analysts and money managers must disclose any equities they personally own.
 
@@ -52,7 +52,7 @@ The SEC requires all publicly-traded companies to prepare and issue two disclosu
 
 ### Feb. 17, 2020
 
-Apple warns that the coronavirus pandemic will affect its quarterly earnings.
+Apple warns that the coronavirus pandemic [[Will|will]] affect its quarterly earnings.
 
 Any company seeking to go public must disclose information as part of a two-part registration that includes a prospectus and a second document that contains other material information. That information includes the company's own [[strengths, weaknesses, opportunities, and threats]](https://www.investopedia.com/terms/s/swot.asp) (SWOT) analysis of the competitive environment it operates within.
 
@@ -64,6 +64,6 @@ On March 4, 2020, the global spread of the coronavirus led the SEC to advise all
 
 ### Early Warnings
 
-Many companies had already done just that. In mid-February, Apple warned that the pandemic was a threat to its revenue numbers, as it was jeopardizing its supply chain from China and slowing retail sales. The company invalidated its previous projections without immediately offering new estimates.
+Many companies had already done just that. In mid-February, Apple warned that the pandemic was a threat to its revenue numbers, as it was jeopardizing its [[Supply|supply]] chain from China and slowing retail sales. The company invalidated its previous projections without immediately [[Offering|offering]] new estimates.
 
-Airline and other travel-related companies also warned of the impact on their businesses, along with consumer goods manufacturers that depend on China for manufacturing or consumer sales, or both.
+Airline and other travel-related companies also warned of the impact on their businesses, along with consumer goods manufacturers that depend on China for [[Manufacturing|manufacturing]] or consumer sales, or both.

@@ -13,7 +13,7 @@ author: Julia Kagan
 
 ---
 
-What EBITDAR Tells Us
+[[What EBITDAR Tells Us]]
 ## What Is EBITDAR?
 
 Earnings before interest, taxes, depreciation, amortization, and restructuring or rent costs (EBITDAR) is a non-GAAP tool used to measure a company's financial performance. Although EBITDAR does not appear on a company's income statement, it can be calculated using information from the income statement. 

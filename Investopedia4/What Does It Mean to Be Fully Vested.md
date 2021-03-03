@@ -1,7 +1,7 @@
 ---
 alias: [Fully Vested]
 created: 2021-03-02T20:10:14 (UTC +11:00)
-tags: [Fully Vested Definition, What Does It Mean to Be Fully Vested?]
+tags: [Fully Vested Definition, [[What Does It Mean to Be Fully Vested]]?]
 source: https://www.investopedia.com/terms/f/fully-vested.asp
 author: Julia Kagan
 ---
@@ -9,21 +9,21 @@ author: Julia Kagan
 # Fully Vested Definition
 
 > ## Excerpt
-> Being fully vested means a person has rights to the full amount of a benefit, most commonly stock options, profit sharing or retirement benefits.
+> Being fully vested means a person has rights to the full amount of a benefit, most commonly [[Stock|stock]] options, profit sharing or retirement benefits.
 
 ---
 
-What Does It Mean to Be Fully Vested?
+[[What Does It Mean to Be Fully Vested]]?
 ## What Is Fully Vested?
 
-Being fully vested means a person has rights to the full amount of some benefit, most commonly employee benefits such as stock options, profit sharing, or retirement benefits. Benefits that must be fully [[vested benefits]](https://www.investopedia.com/terms/v/vested-benefit.asp) often accrue to employees each year, but they only become the employee's property according to a vesting schedule.
+Being fully vested means a person has rights to the full amount of some benefit, most commonly employee benefits such as [[Stock|stock]] options, profit sharing, or retirement benefits. Benefits that must be fully [[vested benefits]](https://www.investopedia.com/terms/v/vested-benefit.asp) often accrue to employees each year, but they only become the employee's property according to a vesting schedule.
 
 [Vesting](https://www.investopedia.com/terms/v/vesting.asp) may occur on a gradual schedule, such as 25 percent per year, or on a ["cliff" schedule](https://www.investopedia.com/ask/answers/09/what-is-cliff-vesting.asp) where 100 percent of benefits vest at a set time, such as four years after the award date. Fully vested may be compared with partially vested.
 
 ### Key Takeaways
 
 -   Fully vested occurs when funds contributed by another party become fully accessible by the recipient beneficiary.
--   Typically retirement benefit contributions that are matched by a company, or pension plan payments, will fully vest only after a certain number of years and other criteria has been met.
+-   Typically retirement benefit contributions that are matched by a company, or [[Pension Plan|pension plan]] payments, [[Will|will]] fully vest only after a certain number of years and other criteria has been met.
 -   Vesting schedules can either be graded (graduated) or occur suddenly after a certain threshold is met by an employee.
 
 ## Understanding Fully Vested

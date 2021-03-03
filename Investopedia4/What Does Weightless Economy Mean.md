@@ -1,7 +1,7 @@
 ---
 alias: [Weightless Economy]
 created: 2021-03-03T00:52:36 (UTC +11:00)
-tags: [Weightless Economy Definition, What Does Weightless Economy Mean?]
+tags: [Weightless Economy Definition, [[What Does Weightless Economy Mean]]?]
 source: https://www.investopedia.com/terms/w/weightless-economy.asp
 author: Jason Fernando
 ---
@@ -13,18 +13,18 @@ author: Jason Fernando
 
 ---
 
-What Does Weightless Economy Mean?
+[[What Does Weightless Economy Mean]]?
 ## What Is the Weightless Economy?
 
 The term weightless economy refers to the trade in [[intangible]](https://www.investopedia.com/terms/i/intangibleasset.asp) or abstract products and services such as consulting, software, and professional services. The weightless economy sells ideas, information, expertise, or services.
 
-Other terms, such as post-industrial economy or new economy, are also used to describe these intangible products.
+Other terms, such as post-industrial economy or [[New Economy|new economy]], are also used to describe these intangible products.
 
 ### Key Takeaways
 
 -   The weightless economy is made up of intangible products and services.
--   The growth of information technology has given the weightless economy a dominant role compared to traditional components of the economy such as manufacturing and distribution.
--   For entrepreneurs, the weightless economy has created opportunities for a fast ramp-up from an idea in its infancy to a profitable business.
+-   The growth of information technology has given the weightless economy a dominant role compared to traditional components of the economy such as [[Manufacturing|manufacturing]] and distribution.
+-   For [[Entrepreneurs|entrepreneurs]], the weightless economy has created opportunities for a fast ramp-up from an idea in its infancy to a profitable business.
 
 The concept of the weightless economy largely evolved at the turn of the 21st century with the rise of [[information technology]](https://www.investopedia.com/terms/t/technology_sector.asp) and the many products associated with it.
 
@@ -38,9 +38,9 @@ It is now possible to deliver products and services to large numbers of customer
 
 For example, a musician records a song only once. In the past, a record company needed to physically manufacture vinyl records or CDs reproducing the song, package them, move them from factories to warehouses, and finally deliver them to record stores where they could be purchased by customers. All of these stages involve costs in terms of both money and labor.
 
-Today, that same artist and record label can distribute their music online through streaming services such as Spotify and online marketplaces such as the iTunes Store. Although the time needed to produce a song is largely unchanged, its delivery is virtually effortless and instantaneous whether the song is sold to one customer or one million.
+Today, that same artist and record label can distribute their music online through streaming services such as Spotify and online marketplaces such as the iTunes Store. Although the time needed to produce a song is largely [[Unchanged|unchanged]], its delivery is virtually effortless and instantaneous whether the song is sold to one customer or one million.
 
-### The Economics of the Weightless Economy
+### The [[Economics]] of the Weightless Economy
 
 An economist looking at this example would say that the musician has a [[marginal cost of production]](https://www.investopedia.com/terms/m/marginalcostofproduction.asp) of nearly $0. Therefore, the [[marginal profit]](https://www.investopedia.com/terms/m/marginal-profit.asp) associated with selling each additional song is essentially 100%. Once you have already recorded the song and made it available for sale online, it costs you almost nothing to sell each additional unit.
 
@@ -50,13 +50,13 @@ When a product or service comes to dominate its market, the company that produce
 
 All of these products have substantial ongoing costs related to their management, marketing, and product enhancements. But their production costs are minimal.
 
-By comparison, traditional firms such as manufacturing plants and brick-and-mortar retailers face more obstacles to growth and profitability due to the higher costs and logistical hurdles they must overcome in order to make their sales.
+By comparison, traditional firms such as [[Manufacturing|manufacturing]] plants and brick-and-mortar retailers face more obstacles to growth and profitability due to the higher costs and logistical hurdles they must overcome in order to make their sales.
 
 ## Real-World Example of the Weightless Economy
 
 The weightless economy is characterized by information technology and is made possible by [[intellectual property rights]](https://www.investopedia.com/terms/i/intellectualproperty.asp). An artist cannot make money selling songs online if their rights to those songs are not protected by [[copyright laws]](https://www.investopedia.com/terms/c/copyright.asp).
 
-One of the consequences of the weightless economy is that it permits new [[entrepreneurs]](https://www.investopedia.com/terms/e/entrepreneur.asp) to offer products and services to a large potential customer base with relatively limited [[barriers to entry]](https://www.investopedia.com/terms/b/barrierstoentry.asp).
+One of the consequences of the weightless economy is that it permits new [[entrepreneurs]](https://www.investopedia.com/terms/e/entrepreneur.asp) to [[Offer|offer]] products and services to a large potential customer base with relatively limited [[barriers to entry]](https://www.investopedia.com/terms/b/barrierstoentry.asp).
 
 For example, if coding is part of your skillset, you can create a smartphone application and sell it through the Apple and Android app stores. Although there are certainly costs involved in doing so, those costs pale in comparison to the cost of establishing a factory, for example.
 

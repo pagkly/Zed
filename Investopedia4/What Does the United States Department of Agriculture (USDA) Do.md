@@ -1,7 +1,7 @@
 ---
 alias: [United States Department of Agriculture, USDA]
 created: 2021-03-03T00:23:30 (UTC +11:00)
-tags: [United States Department of Agriculture (USDA) Definition, What Does the United States Department of Agriculture (USDA) Do?]
+tags: [United States Department of Agriculture (USDA) Definition, [[What Does the United States Department of Agriculture (USDA) Do]]?]
 source: https://www.investopedia.com/terms/u/usda.asp
 author: James Chen
 ---
@@ -13,7 +13,7 @@ author: James Chen
 
 ---
 
-What Does the United States Department of Agriculture (USDA) Do?
+[[What Does the United States Department of Agriculture (USDA) Do]]?
 ## What Is the United States Department of Agriculture (USDA)?
 
 The United States Department of Agriculture (USDA) is the federal agency that proposes programs and implements policies and regulations related to American farming, forestry, ranching, food quality, and nutrition.
@@ -32,7 +32,7 @@ The head of the USDA is the Secretary of Agriculture. Second in charge is the De
 
 The USDA’s programs help provide the following services, among others: broadband access in rural areas; disaster assistance to farmers, ranchers, and rural residents; soil, water, and other natural resource conservation to landowners; wildfire prevention; and agricultural research and statistics. The USDA also is responsible for several [[social welfare]](https://www.investopedia.com/terms/s/social-welfare-system.asp) programs, including: school meal nutrition; nutrition education; organic food standards; food assistance for women, infants and children (WIC); and the food stamp program (Supplemental Nutrition Assistance Program, or SNAP).
 
-The USDA is vital in helping to keep America's farmers and ranchers in business and making sure that the nation's commercial supply of meat, poultry, and egg products is safe, wholesome and properly labeled. It also helps to support and ensure the health and care of animals and plants and the health of the land through sustainable management. In addition, the USDA works to improve the economy and quality of life in all of rural America.
+The USDA is vital in helping to keep America's farmers and ranchers in business and making sure that the nation's commercial [[Supply|supply]] of meat, poultry, and egg products is safe, wholesome and properly labeled. It also helps to support and ensure the health and care of animals and plants and the health of the land through sustainable management. In addition, the USDA works to improve the economy and quality of life in all of rural America.
 
 ## USDA in Rural Development
 

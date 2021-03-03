@@ -1,7 +1,7 @@
 ---
 alias: [Market Approach]
 created: 2021-03-02T21:56:59 (UTC +11:00)
-tags: [Market Approach Definition, What Does “Market Approach” Mean?]
+tags: [Market Approach Definition, [[What Does “Market Approach” Mean]]?]
 source: https://www.investopedia.com/terms/m/market-approach.asp
 author: Jason Fernando
 ---
@@ -13,12 +13,12 @@ author: Jason Fernando
 
 ---
 
-What Does “Market Approach” Mean?
+[[What Does “Market Approach” Mean]]?
 ## What Is the Market Approach?
 
 The market approach is a method of determining the value of an asset based on the selling price of similar assets. It is one of three popular valuation methods, along with the [[cost approach]](https://www.investopedia.com/terms/c/cost-approach.asp) and [[discounted cash-flow analysis]](https://www.investopedia.com/terms/d/dcf.asp) (DCF).
 
-Regardless of the type of asset being valued, the market approach studies recent sales of similar assets, making adjustments for the differences between them. For example, when [[appraising real estate]](https://www.investopedia.com/articles/realestate/12/real-estate-valuation.asp), adjustments might be made for factors such as the square footage of the unit, the age and location of the building, and its amenities.
+Regardless of the type of asset being valued, the market approach studies recent sales of similar assets, making adjustments for the differences between them. For example, when [[appraising real estate]](https://www.investopedia.com/articles/realestate/12/real-[[Estate|estate]]-valuation.asp), adjustments might be made for factors such as the square footage of the unit, the age and location of the building, and its amenities.
 
 Because the market approach relies on comparisons to similar assets, it is most useful when there is substantial data available regarding recent sales of comparable assets.
 
@@ -30,9 +30,9 @@ Because the market approach relies on comparisons to similar assets, it is most 
 
 ## How the Market Approach Works
 
-As its name suggests, the market approach seeks to answer the question, “what is the [[fair market value]](https://www.investopedia.com/terms/f/fairmarketvalue.asp) of this asset?” To answer this question, the valuator needs to survey recent transactions involving similar assets. Because these assets are unlikely to be identical to the one being valued, various adjustments will need to be made.
+As its name suggests, the market approach seeks to answer the question, “what is the [[fair market value]](https://www.investopedia.com/terms/f/fairmarketvalue.asp) of this asset?” To answer this question, the valuator needs to survey recent transactions involving similar assets. Because these assets are unlikely to be identical to the one being valued, various adjustments [[Will|will]] need to be made.
 
-In some markets, such as residential real estate or publicly traded shares, there is often ample data available, making the market approach relatively easy to employ. In other markets, such as shares in private businesses or [[alternative investments]](https://www.investopedia.com/terms/a/alternative_investment.asp) such as fine art or wine, it can become quite difficult to find comparable transactions.
+In some markets, such as residential real [[Estate|estate]] or publicly traded [[Shares|shares]], there is often ample data available, making the market approach relatively easy to employ. In other markets, such as shares in private businesses or [[alternative investments]](https://www.investopedia.com/terms/a/alternative_investment.asp) such as fine art or wine, it can become quite difficult to find comparable transactions.
 
 In situations where limited data is available, the valuator may need to rely on alternative methods such as the cost approach or discounted cash-flow analysis (DCF).
 
@@ -42,7 +42,7 @@ The primary advantages of the market approach are that it is based on publicly a
 
 To illustrate, suppose you are in the market to purchase a new apartment. You find a listing for an apartment in your preferred neighborhood being offered for $200,000. The unit is a 1-bedroom, 1,000 square-foot apartment with 1 bathroom. It is in good structural condition but requires some minor renovations. Although it is in a desirable neighborhood, its view is obscured and it does not have an in-suite washing or drying machine. 
 
-Although you like the apartment, you feel that the asking price is too high. Since the apartment has been listed for over a month, you begin to suspect that if you make a fair offer, the seller might accept it even if it is below their asking price.
+Although you like the apartment, you feel that the asking price is too high. Since the apartment has been [[Listed|listed]] for over a month, you begin to suspect that if you make a fair [[Offer|offer]], the seller might accept it even if it is below their asking price.
 
 To that end, you set about determining the apartment’s fair market value by looking up examples of similar apartments in the same neighborhood that sold in the last year. You assemble your findings in a table, as follows:
 
@@ -162,6 +162,6 @@ Looking at these results, you begin to draw some general conclusions. To start w
 
 By contrast, the apartment you are seeking to purchase is priced at $200 per SF and has fewer of these features than even the cheapest priced apartment in your table. This seems to justify your intuition that the apartment is overpriced.
 
-Based on this information, you decide to make an offer for $150,000.
+Based on this information, you decide to make an [[Offer|offer]] for $150,000.
 
-The seller accepts your offer.
+The seller accepts your [[Offer|offer]].

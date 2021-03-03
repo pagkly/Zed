@@ -3,7 +3,7 @@ alias: [Market]
 created: 2021-03-02T21:56:59 (UTC +11:00)
 tags: [Market Definition, What Everyone Should Know About Markets]
 source: https://www.investopedia.com/terms/m/market.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Market Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-What Everyone Should Know About Markets
+[[What Everyone Should Know About Markets]]
 ## What Is a Market?
 
 A market is a place where two parties can gather to facilitate the exchange of goods and services. The parties involved are usually buyers and sellers. The market may be physical like a retail outlet, where people meet face-to-face, or virtual like an online market, where there is no direct physical contact between buyers and sellers.
@@ -38,31 +38,31 @@ A [[black market]](https://www.investopedia.com/terms/b/blackmarket.asp) refers
 
 Many black markets exist in countries with planned or command economies—wherein the government controls the production and distribution of goods and services—and in countries that are developing. When there is a shortage of certain goods and services in the economy, members of the black market step in and fill the void.
 
-[Black markets](https://www.investopedia.com/articles/economics/12/mechanics-black-market.asp) can also exist in developed economies as well. This is prevalent when prices control the sale of certain products or services, especially when demand is high. Ticket scalping is one example. When demand for concert tickets are high, scalpers will step in and sell them at inflated prices on the black market.
+[Black markets](https://www.investopedia.com/articles/[[Economics|economics]]/12/mechanics-black-market.asp) can also exist in developed economies as well. This is prevalent when prices control the sale of certain products or services, especially when demand is high. Ticket scalping is one example. When demand for concert tickets are high, scalpers [[Will|will]] step in and sell them at inflated prices on the black market.
 
 ### Auction Market
 
-An auction market brings many people together for the sale and purchase of specific lots of goods. The buyers or bidders try to top each other for the purchase price. The items up for sale end up going to the highest bidder.
+An auction market brings many people together for the sale and purchase of specific lots of goods. The buyers or bidders try to top each other for the [[Purchase Price|purchase price]]. The items up for sale end up going to the highest bidder.
 
 The most common auction markets involve livestock and homes, or websites like eBay where bidders may bid anonymously to win [[auctions]](https://www.investopedia.com/terms/a/auction.asp).
 
 ### Financial Market
 
-The blanket term _financial market_ refers to any place where securities, currencies, bonds, and other securities are traded between two parties. These markets are the basis of capitalist societies, and they provide capital formation and liquidity for businesses. They can be physical or virtual.
+The blanket term _financial market_ refers to any place where securities, currencies, bonds, and other securities are traded between two parties. These markets are the basis of capitalist societies, and they provide capital formation and [[Liquidity|liquidity]] for businesses. They can be physical or virtual.
 
-The financial market includes the stock market or exchanges such as the [[New York Stock Exchange]](https://www.investopedia.com/articles/basics/03/103103.asp), Nasdaq, the LSE, and the TMX Group. Other kinds of [[financial markets]](https://www.investopedia.com/ask/answers/06/marketstoinvest.asp) include the bond market and the foreign exchange market, where people trade currencies.
+The financial market includes the [[Stock|stock]] market or exchanges such as the [[New York Stock Exchange]](https://www.investopedia.com/articles/basics/03/103103.asp), [[Nasdaq]], the LSE, and the TMX Group. Other kinds of [[financial markets]](https://www.investopedia.com/ask/answers/06/marketstoinvest.asp) include the bond market and the foreign exchange market, where people trade currencies.
 
 ### Key Takeaways
 
 -   A market is a place where buyers and sellers can meet to facilitate the exchange or transaction of goods and services.
 -   Markets can be physical like a retail outlet, or virtual like an e-retailer. Other examples include the black market, auction markets, and financial markets.
--   Markets establish the prices of goods and services that are determined by supply and demand.
+-   Markets establish the prices of goods and services that are determined by [[Supply|supply]] and demand.
 
 ## How Markets Work
 
-Markets are arenas in which buyers and sellers can gather and interact. In general, only two parties are needed to make a trade, at minimum a third party is needed to introduce competition and bring balance to the market. As such, a market in a state of perfect competition, among other things, is necessarily characterized by a high number of active buyers and sellers.
+Markets are arenas in which buyers and sellers can gather and interact. In general, only two parties are needed to make a trade, at minimum a [[Third Party|third party]] is needed to introduce competition and bring balance to the market. As such, a market in a state of perfect competition, among other things, is necessarily characterized by a high number of active buyers and sellers.
 
-The market establishes the prices for goods and other services. These rates are determined by supply and demand. [[Supply]](https://www.investopedia.com/terms/s/supply.asp) is created by the sellers, while demand is generated by buyers. Markets try to find some balance in price when supply and demand are themselves in balance. But that balance can in itself be disrupted by factors other than price including incomes, expectations, technology, the cost of production, and the number of buyers and sellers in the market.
+The market establishes the prices for goods and other services. These rates are determined by [[Supply|supply]] and demand. [[Supply]](https://www.investopedia.com/terms/s/supply.asp) is created by the sellers, while demand is generated by buyers. Markets try to find some balance in price when supply and demand are themselves in balance. But that balance can in itself be disrupted by factors other than price including incomes, expectations, technology, the cost of production, and the number of buyers and sellers in the market.
 
 Markets may emerge organically or as a means of enabling ownership rights over goods, services, and information. When on a national or other more specific regional level, markets may often be categorized as “developed” markets or “developing” markets, depending on many factors, including income levels and the nation or region’s openness to foreign trade.
 
@@ -70,4 +70,4 @@ Markets may emerge organically or as a means of enabling ownership rights over g
 
 Other than black markets, most markets are subject to rules and regulations set by a regional or governing body that determines the market’s nature. This may be the case when the regulation is as wide-reaching and as widely recognized as an international trade agreement, or as local and temporary as a pop-up street market where vendors self-regulate through market forces.
 
-In the United States, the Securities and Exchange Commission (SEC) regulates the stock, bond, and currency markets. Although it may not have full control of the nation's exchanges, it does have provisions in place to prevent fraud while ensuring traders and investors have the right information to make the most informed decisions possible.
+In the United States, the [[Securities and Exchange Commission (SEC)]] regulates the [[Stock|stock]], bond, and currency markets. Although it may not have full control of the nation's exchanges, it does have provisions in place to prevent fraud while ensuring traders and investors have the right information to make the most informed decisions possible.

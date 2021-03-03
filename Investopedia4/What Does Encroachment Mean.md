@@ -1,7 +1,7 @@
 ---
 alias: [Encroachment]
 created: 2021-03-02T19:37:31 (UTC +11:00)
-tags: [Encroachment Definition, What Does Encroachment Mean?]
+tags: [Encroachment Definition, [[What Does Encroachment Mean]]?]
 source: https://www.investopedia.com/terms/e/encroachment.asp
 author: James Chen
 ---
@@ -13,20 +13,20 @@ author: James Chen
 
 ---
 
-What Does Encroachment Mean?
+[[What Does Encroachment Mean]]?
 ## What Is Encroachment?
 
 The term encroachment refers to a situation in [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) where a property owner violates the [[property rights]](https://www.investopedia.com/terms/p/property_rights.asp) of his neighbor by building on or extending a structure to the neighbor's land or property intentionally or otherwise. Encroachment is often a problem along disputed property lines where a person intentionally chooses to violate his neighbor's boundaries, or when a property owner is not aware of his boundaries.
 
 ## Understanding Encroachment
 
-Property and land surveys are an important part of [[homeownership]](https://www.investopedia.com/home-ownership-4689706). Not only do they help determine [[property value]](https://www.investopedia.com/articles/mortgages-real-estate/08/housing-appreciation.asp), but they also help establish property lines and boundaries. Professional surveyors are responsible for completing these surveys. Many homeowners get their first survey when they apply for a [[mortgage]](https://www.investopedia.com/terms/m/mortgage.asp) because lenders require them to ensure the loan matches the property's value. Property owners can get surveys completed at any time—especially when someone disputes or encroaches property lines.
+Property and land surveys are an important part of [[homeownership]](https://www.investopedia.com/home-ownership-4689706). Not only do they help determine [[property value]](https://www.investopedia.com/articles/mortgages-real-[[Estate|estate]]/08/housing-appreciation.asp), but they also help establish property lines and boundaries. Professional surveyors are responsible for completing these surveys. Many homeowners get their first survey when they apply for a [[mortgage]](https://www.investopedia.com/terms/m/mortgage.asp) because lenders require them to ensure the [[Loan|loan]] matches the property's value. Property owners can get surveys completed at any time—especially when someone disputes or encroaches property lines.
 
-Most mortgage lenders require a land survey as part of the approval process to ensure the loan matches the property value.
+Most mortgage lenders require a land survey as part of the approval process to ensure the [[Loan|loan]] matches the property value.
 
 Encroachment happens when someone traverses boundaries outlined in a survey, violating the [[property]](https://www.investopedia.com/terms/p/property.asp) rights of another property owner. Encroaching on someone else's property is akin to trespassing—that is, entering another person's grounds without their express permission. A homeowner encroaches on their neighbor's property if they build a new structure, add to an existing structure, or extend their fence beyond the lawful boundaries that separate both properties.
 
-Some property owners encroach on their neighbors by knowingly going beyond their property lines. Someone who builds a fence or makes an addition to their home despite knowing of the property lines does so intentionally. But in most cases, encroachment is unintentional—when a property owner is either unaware of or has wrong information about legal boundaries. For instance, a property owner may unintentionally encroach on a neighbor's property by allowing a hedge or a tree limb to grow beyond property limits.
+Some property owners encroach on their neighbors by knowingly going beyond their property lines. Someone who builds a fence or makes an addition to their home despite knowing of the property lines does so intentionally. But in most cases, encroachment is unintentional—when a property owner is either unaware of or has wrong information about legal boundaries. For instance, a property owner may unintentionally encroach on a neighbor's property by allowing a [[Hedge|hedge]] or a tree limb to grow beyond property limits.
 
 Structural encroachment occurs when a property owner builds or extends a structure onto the public domain such as sidewalks or roads. In most cases, sidewalks and residential streets are generally public property owned by the municipal government. This means that a property owner who builds a driveway or erects landscape components—trees, bushes, and flowers—that encroach on public property, may have the structures removed by the government. Furthermore, the property owner may not be compensated for any [[damages]](https://www.investopedia.com/terms/c/compensatory-damages.asp) that occur from tearing down his or her structures.
 
