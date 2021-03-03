@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/p/pump-priming.asp
 author: James Chen
 ---
 
-# Pump Priming Definition
+# [[Pump Priming Definition]]
 
 > ## Excerpt
 > Pump priming is the action taken to stimulate an economy, usually during a recessionary period, through government spending and interest rate and tax reductions.
 
 ---
 
-Pump Priming Definition
+[[Pump Priming Definition]]
 ## What is Pump Priming?
 
 Pump priming is the action taken to stimulate an economy, usually during a recessionary period, through government spending and interest rate and tax reductions. The term pump priming is derived from the operation of older pumps - a suction valve had to be primed with water so that the pump would function properly.
@@ -37,7 +37,7 @@ Pump priming relates to the [[Keynesian economic theory]](https://www.investoped
 
 The phrase "pump priming" originated from President Herbert Hoover's creation of the [[Reconstruction Finance Corporation]](https://www.investopedia.com/terms/r/rfc.asp) (RFC) in 1932, which was designed to make loans to banks and industry. This was taken one step further in 1933, when President Franklin Roosevelt felt that pump-priming would be the only way for the economy to recover from the [[Great Depression]](https://www.investopedia.com/terms/g/great_depression.asp). Through the RFC and other public works organizations, billions of dollars were spent priming the pump to encourage economic growth.
 
-The phrase was rarely used in economic policy discussions after World War II, even though programs developed and used since then, such as [[unemployment insurance]](https://www.investopedia.com/terms/u/unemployment-insurance.asp) and tax cuts, may be considered forms of automatic pump primers. However, during the [[financial crisis of 2007]](https://www.investopedia.com/terms/c/credit-crisis.asp), the term came back into use, as interest rate reduction and infrastructure spending were considered the best path to economic recovery, along with tax rebates issued as part of the Economic Stimulus Act of 2008.
+The phrase was rarely used in economic policy discussions after World War II, even though programs developed and used since then, such as [[unemployment insurance]](https://www.investopedia.com/terms/u/[[Unemployment|unemployment]]-insurance.asp) and tax cuts, may be considered forms of automatic pump primers. However, during the [[financial crisis of 2007]](https://www.investopedia.com/terms/c/credit-crisis.asp), the term came back into use, as interest rate reduction and infrastructure spending were considered the best path to economic recovery, along with tax rebates issued as part of the [[Economic Stimulus]] Act of 2008.
 
 ## Pump Priming in the Japanese Economy
 

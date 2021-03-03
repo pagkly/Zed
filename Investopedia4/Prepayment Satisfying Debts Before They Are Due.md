@@ -9,26 +9,26 @@ author: Carol M. Kopp
 # Prepayment Definition
 
 > ## Excerpt
-> Prepayment is the satisfaction of a debt before its official due date, such as paying a mortgage loan off early.
+> Prepayment is the satisfaction of a [[Debt|debt]] before its official due date, such as paying a mortgage [[Loan|loan]] off early.
 
 ---
 
 Prepayment: Satisfying Debts Before They Are Due
 ## What Is Prepayment?
 
-Prepayment is an accounting term for the settlement of a debt or [[installment loan]](https://www.investopedia.com/articles/personal-finance/072316/how-installment-loans-work.asp) in advance of its official due date. A prepayment may be the settlement of a bill, an operating expense, or a non-operating expense that closes an account before its due date. A prepayment may be made by an individual, a corporation, or any other type of organization.
+Prepayment is an accounting term for the settlement of a [[Debt|debt]] or [[installment loan]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/072316/how-installment-loans-work.asp) in advance of its official due date. A prepayment may be the settlement of a bill, an operating expense, or a [[Non-Operating Expense|non-operating expense]] that closes an account before its due date. A prepayment may be made by an individual, a corporation, or any other type of organization.
 
 ## Understanding Prepayment
 
-Many types of debts and obligations are settled in advance through prepayment. Corporations might prepay rent, wages, revolving lines of credit, or other short-term or long-term debt obligations.
+Many types of debts and obligations are settled in advance through prepayment. Corporations might prepay rent, wages, revolving lines of credit, or other short-term or long-term [[Debt|debt]] obligations.
 
-Consumers can prepay credit card charges before they actually receive a statement. Or they might pay a loan off early, by refinancing the debt through another lender or by paying the entire debt out of pocket.
+Consumers can prepay credit card charges before they actually receive a statement. Or they might pay a [[Loan|loan]] off early, by refinancing the [[Debt|debt]] through another [[Lender|lender]] or by paying the entire debt out of pocket.
 
-Some loans, such as mortgages, may include a penalty for prepayment. If a loan includes such a penalty, the borrowers must be made aware of and agree to the provision at the time they take out the loan.
+Some loans, such as mortgages, may include a penalty for prepayment. If a [[Loan|loan]] includes such a penalty, the borrowers must be made aware of and agree to the provision at the time they take out the loan.
 
-The penalty may only apply to paying off the entire balance, generally by refinancing the mortgage. A borrower can usually make intermittent extra payments of the [[principal]](https://www.investopedia.com/terms/p/principal.asp) without penalty.
+The penalty may only apply to paying off the entire balance, generally by refinancing the mortgage. A borrower can usually make intermittent extra payments of the [[principal]](https://www.investopedia.com/terms/p/[[Principal|principal]].asp) without penalty.
 
-A prepayment might be made for the entire balance of a liability or it could be a partial payment of a larger loan that is made in advance of the due date.
+A prepayment might be made for the entire balance of a [[Liability|liability]] or it could be a partial payment of a larger [[Loan|loan]] that is made in advance of the due date.
 
 ## Types of Prepayment
 
@@ -36,7 +36,7 @@ Prepayments are common in a variety of contexts. Individuals and large businesse
 
 ### Corporate Prepayments
 
-In the corporate environment, expenses are the most common prepayments. These expenditures are paid in full in one accounting period for goods or services that will be consumed in a future period. The prepayment is reclassified as a normal expense when the asset is actually used or consumed. A prepaid expense is first categorized as a current asset on the company's balance sheet.
+In the corporate environment, expenses are the most common prepayments. These expenditures are paid in full in one accounting period for goods or services that [[Will|will]] be consumed in a future period. The prepayment is reclassified as a normal expense when the asset is actually used or consumed. A prepaid expense is first categorized as a current asset on the company's balance sheet.
 
 For example, a company can list $6,000 as a current asset under the prepaid rent account on its [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp) if it rents office space for $1,000 a month and prepays six months' rent. The company would reduce the current asset by $1,000 in each subsequent month and would list the expense on its income statement as an operating cost of $1,000 as the total prepaid rent expenses are actually incurred.
 

@@ -3,24 +3,24 @@ alias: [Public Company Accounting Oversight Board, PCAOB]
 created: 2021-03-02T22:56:50 (UTC +11:00)
 tags: [Public Company Accounting Oversight Board (PCAOB) Definition, Public Company Accounting Oversight Board (PCAOB)]
 source: https://www.investopedia.com/terms/p/pcaob.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Public Company Accounting Oversight Board (PCAOB) Definition
+# [[Public Company Accounting Oversight Board (PCAOB)]] Definition
 
 > ## Excerpt
-> The Public Company Accounting Oversight Board (PCAOB) is a non-profit organization that regulates auditors of publicly traded companies.
+> The [[Public Company Accounting Oversight Board (PCAOB)]] is a non-profit organization that regulates auditors of publicly traded companies.
 
 ---
 
-Public Company Accounting Oversight Board (PCAOB)
-## What Is the Public Company Accounting Oversight Board (PCAOB)?
+[[Public Company Accounting Oversight Board (PCAOB)]]
+## What Is the [[Public Company Accounting Oversight Board (PCAOB)]]?
 
-The Public Company Accounting Oversight Board (PCAOB) is a non-profit organization that regulates auditors of publicly traded companies. The purpose of PCAOB is to minimize [[audit risk]](https://www.investopedia.com/terms/a/audit-risk.asp).
+The [[Public Company Accounting Oversight Board (PCAOB)]] is a non-profit organization that regulates auditors of publicly traded companies. The purpose of PCAOB is to minimize [[audit risk]](https://www.investopedia.com/terms/a/audit-[[Risk|risk]].asp).
 
 ### Key Takeaways:
 
--   The Public Company Accounting Oversight Board (PCAOB) is a non-profit organization that regulates audits of publicly traded companies to minimize audit risk.
+-   The [[Public Company Accounting Oversight Board (PCAOB)]] is a non-profit organization that regulates audits of publicly traded companies to minimize audit [[Risk|risk]].
 -   The PCAOB was established at the same time as the [[Sarbanes-Oxley Act of 2002]](https://www.investopedia.com/terms/s/sarbanesoxleyact.asp) to address the accounting scandals of the late 1990s.
 -   The board protects investors and other stakeholders of public companies by ensuring that auditors follow strict guidelines.
 
@@ -28,9 +28,9 @@ The Public Company Accounting Oversight Board (PCAOB) is a non-profit organizati
 
 ## (PCAOB)
 
-The Public Company Accounting Oversight Board (PCAOB) was established with the passage of the [[Sarbanes-Oxley Act of 2002]](https://www.investopedia.com/terms/s/sarbanesoxleyact.asp). The act was passed in response to various accounting scandals of the late 1990s. The board protects investors and other stakeholders of public companies by ensuring that the auditor of a company's financial statements has followed a set of strict guidelines. PCAOB is overseen by the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) and, since 2010, the PCAOB has overseen the audits of SEC-registered brokers and dealers.
+The [[Public Company Accounting Oversight Board (PCAOB)]] was established with the passage of the [[Sarbanes-Oxley Act of 2002]](https://www.investopedia.com/terms/s/sarbanesoxleyact.asp). The act was passed in response to various accounting scandals of the late 1990s. The board protects investors and other stakeholders of public companies by ensuring that the auditor of a company's financial statements has followed a set of strict guidelines. PCAOB is overseen by the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) and, since 2010, the PCAOB has overseen the audits of SEC-registered brokers and dealers.
 
-### Public Company Accounting Oversight Board (PCAOB) Advisory Groups
+### [[Public Company Accounting Oversight Board (PCAOB)]] Advisory Groups
 
 The PCAOB has two advisory groups: the Standing Advisory Group and the Investor Advisory Group. The role of these two groups is to provide advice and insight to the Board.
 

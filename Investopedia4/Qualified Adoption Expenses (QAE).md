@@ -6,19 +6,19 @@ source: https://www.investopedia.com/terms/q/qae.asp
 author: Julia Kagan
 ---
 
-# Qualified Adoption Expenses (QAE)
+# [[Qualified Adoption Expenses (QAE)]]
 
 > ## Excerpt
 > Qualified adoption expenses are the necessary costs paid to adopt a child younger than 18 years of age or any disabled person who requires care.
 
 ---
 
-Qualified Adoption Expenses (QAE)
+[[Qualified Adoption Expenses (QAE)]]
 ## What Are Qualified Adoption Expenses?
 
-Qualified adoption expenses are the necessary costs paid to adopt a child younger than 18 years of age or any disabled person who requires care. In the United States, qualified adoption expenses (QAE) are those expenses that the [[Internal Revenue Service (IRS)]](https://www.investopedia.com/terms/i/irs.asp) defines as reasonable and necessary, including adoption fees, court costs, attorney fees, travel costs, and other expenses directly related to the adoption. These fees can be used to claim an adoption credit or exclusion that reduces the adopting parents' taxable income.1
+Qualified adoption expenses are the necessary costs paid to adopt a child younger than 18 years of age or any disabled person who requires care. In the United States, [[Qualified Adoption Expenses (QAE)|qualified adoption expenses (QAE)]] are those expenses that the [[Internal Revenue Service (IRS)]](https://www.investopedia.com/terms/i/irs.asp) defines as reasonable and necessary, including adoption fees, court costs, attorney fees, travel costs, and other expenses directly related to the adoption. These fees can be used to claim an adoption credit or exclusion that reduces the adopting parents' [[Taxable Income|taxable income]].1
 
-## Understanding Qualified Adoption Expenses (QAE)
+## Understanding [[Qualified Adoption Expenses (QAE)]]
 
 The Internal Revenue Service allows you to offset your tax bill with a credit for your qualified adoption expenses, as long as you meet certain eligibility requirements. To report your qualified adoption expenses, you'll use IRS Form 8839.23
 
@@ -30,4 +30,4 @@ If you paid qualified adoption expenses to adopt a child who is a U.S. resident 
 
 For 2020, the maximum credit was $14,300 per child.5 In addition, the adoption tax credit is no longer refundable. 1 This means that in order to recognize the full benefit of the credit, your total tax must be at least equal to your credit. For example, if your total tax for the year is only $10,000 but you spend $14,000 in qualified adoption expenses, $10,000 is the most you can save in tax. However, if the entire credit is not used, any remaining amount can be carried forward for up to five years.1
 
-For tax year 2020, as long as your modified adjusted gross income was $214,520 or less, you qualified for the full credit. The credit phases out as your income increases and goes away completely when it exceeds $254,520.5
+For tax year 2020, as long as your modified adjusted [[Gross Income|gross income]] was $214,520 or less, you qualified for the full credit. The credit phases out as your income increases and goes away completely when it exceeds $254,520.5

@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/p/private-good.asp
 author: James Chen
 ---
 
-# Private Good Definition
+# [[Private Good Definition]]
 
 > ## Excerpt
 > A private good is one that benefits only the one consuming it, at the exclusion of all others.
 
 ---
 
-Private Good Definition
+[[Private Good Definition]]
 ## What is a Private Good?
 
 A private good is a product that must be purchased to be consumed, and consumption by one individual prevents another individual from consuming it. In other words, a good is considered to be a private good if there is competition between individuals to obtain the good and if consuming the good prevents someone else from consuming it.

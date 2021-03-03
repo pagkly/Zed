@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/p/private-sector.asp
 author: Investopedia Staff
 ---
 
-# Private Sector Definition
+# [[Private Sector Definition]]
 
 > ## Excerpt
 > The private sector is the part of the economy that is not state controlled and is run by individuals and companies for profit.
 
 ---
 
-Private Sector Definition
+[[Private Sector Definition]]
 ## What is the Private Sector?
 
 The private [[sector]](https://www.investopedia.com/terms/s/sector.asp) is the part of the economy that is run by individuals and companies for profit and is not state controlled. Therefore, it encompasses all for-profit businesses that are not owned or operated by the government. Companies and corporations that are government run are part of what is known as the public sector, while charities and other [[nonprofit organizations]](https://www.investopedia.com/terms/n/non-profitorganization.asp) are part of the voluntary sector.
@@ -45,12 +45,12 @@ Even though the state may control the private sector, the government does legall
 
 ## Private and Public Sector Differences
 
-The private sector employs workers through individual business owners, corporations or other non-government agencies. Jobs include those in manufacturing, [[financial services]](https://www.investopedia.com/ask/answers/030315/what-financial-services-sector.asp), professions, hospitality, or other non-government positions. Workers are paid with part of the company’s profits. Private sector workers tend to have more pay increases, more career choices, greater opportunities for promotions, less job security, and less comprehensive benefit plans than public sector workers. Working in a more competitive marketplace often means longer hours in a more demanding environment than working for the government.
+The private sector employs workers through individual business owners, corporations or other non-government agencies. Jobs include those in [[Manufacturing|manufacturing]], [[financial services]](https://www.investopedia.com/ask/answers/030315/what-financial-services-sector.asp), professions, hospitality, or other non-government positions. Workers are paid with part of the company’s profits. Private sector workers tend to have more pay increases, more career choices, greater opportunities for promotions, less job [[Security|security]], and less comprehensive benefit plans than public sector workers. Working in a more competitive marketplace often means longer hours in a more demanding environment than working for the government.
 
-The public sector employs workers through the federal, state or local government. Typical civil service jobs are in [[healthcare]](https://www.investopedia.com/terms/h/health_care_sector.asp), teaching, emergency services, armed forces, and various regulatory and administrative agencies. Workers are paid through a portion of the government’s tax dollars. Public sector workers tend to have more comprehensive benefit plans and more job security than private sector workers; once a probationary period concludes, many government positions become permanent appointments. Moving among public sector positions while retaining the same benefits, holiday entitlements, and sick pay is relatively easy while receiving pay increases and promotions is difficult. Working with a public agency provides a more stable work environment free of market pressures, unlike working in the private sector.
+The public sector employs workers through the federal, state or local government. Typical civil service jobs are in [[healthcare]](https://www.investopedia.com/terms/h/health_care_sector.asp), teaching, emergency services, armed forces, and various regulatory and administrative agencies. Workers are paid through a portion of the government’s tax dollars. Public sector workers tend to have more comprehensive benefit plans and more job [[Security|security]] than private sector workers; once a probationary period concludes, many government positions become permanent appointments. Moving among public sector positions while retaining the same benefits, holiday entitlements, and sick pay is relatively easy while receiving pay increases and promotions is difficult. Working with a public agency provides a more stable work environment free of market pressures, unlike working in the private sector.
 
 The [[Bureau of Labor Statistics]](https://www.investopedia.com/terms/b/bls.asp) tracks and reports both private and public employment for the United States.
 
 ## Private and Public Sector Partnerships
 
-The private and public sectors sometimes work together while promoting common interests. Private sector businesses leverage governmental assets and resources while developing, financing, owning and operating public facilities or services. For example, a [[private company]](https://www.investopedia.com/terms/p/privatecompany.asp) might pay a state a one-time fee to operate a specific length of freeway for a set time in exchange for [[revenue]](https://www.investopedia.com/terms/r/revenue.asp) from tolls.
+The private and public sectors sometimes work together while promoting common interests. Private sector businesses [[Leverage|leverage]] governmental assets and resources while developing, financing, owning and operating public facilities or services. For example, a [[private company]](https://www.investopedia.com/terms/p/privatecompany.asp) might pay a state a one-time fee to operate a specific length of freeway for a set time in exchange for [[revenue]](https://www.investopedia.com/terms/r/revenue.asp) from tolls.

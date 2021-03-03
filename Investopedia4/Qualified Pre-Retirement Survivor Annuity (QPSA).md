@@ -6,23 +6,23 @@ source: https://www.investopedia.com/terms/q/qualified-pre-retirement-survivor-a
 author: Julia Kagan
 ---
 
-# Qualified Pre-Retirement Survivor Annuity (QPSA) Definition
+# [[Qualified Pre-Retirement Survivor Annuity (QPSA)]] Definition
 
 > ## Excerpt
-> A qualified pre-retirement survivor annuity (QPSA) is a death benefit that is paid to the surviving spouse of a deceased employee.
+> A [[Qualified Pre-Retirement Survivor Annuity (QPSA)|qualified pre-retirement survivor annuity (QPSA)]] is a death benefit that is paid to the surviving spouse of a deceased employee.
 
 ---
 
-Qualified Pre-Retirement Survivor Annuity (QPSA)
+[[Qualified Pre-Retirement Survivor Annuity (QPSA)]]
 ## What Is a Qualified Pre-Retirement Survivor Annuity?
 
-A qualified pre-retirement survivor annuity (QPSA) is a death benefit that is paid to the surviving spouse of a deceased employee. If the employee dies before retirement, the qualified pre-retirement survivor annuity is paid to offer compensation to the surviving spouse for the loss of retirement benefits that would have otherwise been paid to the employee. As the name implies, QPSAs are paid only in the case of [[qualified plans]](https://www.investopedia.com/terms/q/qrp.asp).
+A [[Qualified Pre-Retirement Survivor Annuity (QPSA)|qualified pre-retirement survivor annuity (QPSA)]] is a death benefit that is paid to the surviving spouse of a deceased employee. If the employee dies before retirement, the qualified pre-retirement survivor annuity is paid to [[Offer|offer]] compensation to the surviving spouse for the loss of retirement benefits that would have otherwise been paid to the employee. As the name implies, QPSAs are paid only in the case of [[qualified plans]](https://www.investopedia.com/terms/q/qrp.asp).
 
 ### Key Takeaways
 
--   A qualified pre-retirement survivor annuity (QPSA) provides monetary distribution to a surviving spouse of a deceased employee. 
+-   A [[Qualified Pre-Retirement Survivor Annuity (QPSA)|qualified pre-retirement survivor annuity (QPSA)]] provides monetary distribution to a surviving spouse of a deceased employee. 
 -   The employee must be under a qualified plan in order for compensation to occur.
--   The Employee Retirement Income Security Act (ERISA) dictates how payments are to be calculated.
+-   The [[Employee Retirement Income Security Act (ERISA)]] dictates how payments are to be calculated.
 -   There are rules to follow for survivor benefit payments to non-spouse beneficiaries.
 -   A QPSA notice is required if a retirement plan offers a QPSA.
 
@@ -42,6 +42,6 @@ A QPSA provides a level of protection for a surviving spouse in the form of mont
 
 For QPSA payments to be made, the participant must have vested benefits and died before retirement. As well, if it’s a spouse that is to receive QPSA payments, they must be married for at least one year.
 
-Some types of qualified plans may be exempt from having to provide a QPSA to a surviving spouse. This happens with [[defined-contribution plans]](https://www.investopedia.com/terms/d/definedcontributionplan.asp), if the plans do not offer a life annuity option, or if the plans require the benefit be paid in full to the surviving spouse.
+Some types of qualified plans may be exempt from having to provide a QPSA to a surviving spouse. This happens with [[defined-contribution plans]](https://www.investopedia.com/terms/d/definedcontributionplan.asp), if the plans do not [[Offer|offer]] a [[Life Annuity|life annuity]] option, or if the plans require the benefit be paid in full to the surviving spouse.
 
 A QPSA notice must be sent to the participant if the plan offers a qualified pre-retirement survivor annuity. The notice must be sent when the participant is between the ages of 32 and 35, or within one year from when an employee becomes a plan participant if he or she is older than 35.
